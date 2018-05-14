@@ -1,0 +1,225 @@
+classif2,classif2_label,classif2_sort
+cur_type_lcu,Currency: Local currency,1
+cur_type_ppp2011,Currency: Constant 2011 PPP $,2
+cur_type_usd,Currency: U.S. dollars,3
+cla_ecocla_total,Economic class: Total,4
+cla_ecocla_usdlt2,"Economic class: Extremely poor (<US$1.90, PPP)",5
+cla_ecocla_usdge2lt3,"Economic class: Moderately poor (>=US$1.90 & <US$3.10, PPP)",6
+cla_ecocla_usdge3,"Economic class: >=US$3.10, PPP",7
+cla_ecocla_usdge3lt5,"Economic class: Near poor (>=US$3.10 & <US$5, PPP)",8
+cla_ecocla_usdge5,"Economic class: >=US$5, PPP",9
+edu_isced11_total,ISCED-11: Total,10
+edu_isced11_x,ISCED-11: No schooling,11
+edu_isced11_0,ISCED-11: Early childhood education,12
+edu_isced11_1,ISCED-11: Primary education,13
+edu_isced11_2,ISCED-11: Lower secondary education,14
+edu_isced11_3,ISCED-11: Upper secondary education,15
+edu_isced11_4,ISCED-11: Post-secondary non-tertiary education,16
+edu_isced11_5,ISCED-11: Short-cycle tertiary education,17
+edu_isced11_6,ISCED-11: Bachelor's or equivalent level,18
+edu_isced11_7,ISCED-11: Master's or equivalent level,19
+edu_isced11_8,ISCED-11: Doctoral or equivalent level,20
+edu_isced11_9,ISCED-11: Not elsewhere classified,21
+edu_isced97_total,ISCED-97: Total,22
+edu_isced97_x,ISCED-97: No schooling,23
+edu_isced97_0,ISCED-97: Pre-primary education,24
+edu_isced97_1,ISCED-97: Primary education or first stage of basic education,25
+edu_isced97_2,ISCED-97: Lower secondary or second stage of basic education,26
+edu_isced97_3,ISCED-97: Upper secondary education,27
+edu_isced97_4,ISCED-97: Post-secondary non-tertiary education,28
+edu_isced97_5,ISCED-97: First stage of tertiary education (not leading directly to an advanced research qualification),29
+edu_isced97_5a,ISCED-97: First stage of tertiary education - theoretically based,30
+edu_isced97_5b,ISCED-97: First stage of tertiary education - practically oriented,31
+edu_isced97_6,ISCED-97: Second stage of tertiary education (leading to an advanced research qualification),32
+edu_isced97_unk,ISCED-97: Level not stated,33
+edu_isced76_total,ISCED-76: Total,34
+edu_isced76_x,ISCED-76: No schooling,35
+edu_isced76_0,ISCED-76: Education preceding the first level,36
+edu_isced76_1,ISCED-76: First level,37
+edu_isced76_2,"ISCED-76: Second level, first stage",38
+edu_isced76_3,"ISCED-76: Second level, second stage",39
+edu_isced76_5,"ISCED-76: Third level, first stage, leading to an award not equivalent to a first university degree",40
+edu_isced76_6,"ISCED-76: Third level, first stage, leading to a first university degree or equivalent qualification",41
+edu_isced76_7,"ISCED-76: Third level, second stage",42
+edu_isced76_9,ISCED-76: Education not definable by level,43
+edu_isced76_unk,ISCED-76: Level not stated,44
+edu_aggregate_total,Aggregate levels: Total,45
+edu_aggregate_ltb,Aggregate levels: Less than basic,46
+edu_aggregate_bas,Aggregate levels: Basic,47
+edu_aggregate_int,Aggregate levels: Intermediate,48
+edu_aggregate_adv,Aggregate levels: Advanced,49
+edu_aggregate_x,Aggregate levels: Level not stated,50
+edu_ythcat_total,Levels of education: Total,51
+edu_ythcat_x,Levels of education: No schooling,52
+edu_ythcat_n0,Levels of education: Pre-primary education,53
+edu_ythcat_n1,Levels of education: Primary education,54
+edu_ythcat_n2-3,Levels of education: Secondary education,55
+edu_ythcat_n4-6,Levels of education: Post-secondary education,56
+edu_ythcat_unk,Levels of education: Level not stated,57
+geo_cov_nat,Area type: National,58
+geo_cov_rur,Area type: Rural,59
+geo_cov_urb,Area type: Urban,60
+geo_cov_x,Area type: Not elsewhere classified,61
+stu_status_total,Student status: Total,62
+stu_status_stu,Student status: Student,63
+stu_status_nstd,Student status: Non-student,64
+lms_status_total,Status: Total,65
+lms_status_eap,Status: Labour force,66
+lms_status_emp,Status: Employed,67
+lms_status_une,Status: Unemployed,68
+lms_status_eip,Status: Outside the labour force,69
+lms_status_x,Status: Unknown,70
+ste_icse93_total,ICSE-93: Total,71
+ste_icse93_1,ICSE-93: Employees,72
+ste_icse93_2,ICSE-93: Employers,73
+ste_icse93_3,ICSE-93: Own-account workers,74
+ste_icse93_4,ICSE-93: Members of producers' cooperatives,75
+ste_icse93_5,ICSE-93: Contributing family workers,76
+ste_icse93_6,ICSE-93: Workers not classifiable by status,77
+eco_isic4_total,ISIC-Rev.4: Total,78
+eco_isic4_a,ISIC-Rev.4: Agriculture; forestry and fishing,79
+eco_isic4_b,ISIC-Rev.4: Mining and quarrying,80
+eco_isic4_c,ISIC-Rev.4: Manufacturing,81
+eco_isic4_d,"ISIC-Rev.4: Electricity; gas, steam and air conditioning supply",82
+eco_isic4_e,"ISIC-Rev.4: Water supply; sewerage, waste management and remediation activities",83
+eco_isic4_f,ISIC-Rev.4: Construction,84
+eco_isic4_g,ISIC-Rev.4: Wholesale and retail trade; repair of motor vehicles and motorcycles,85
+eco_isic4_h,ISIC-Rev.4: Transportation and storage,86
+eco_isic4_i,ISIC-Rev.4: Accommodation and food service activities,87
+eco_isic4_j,ISIC-Rev.4: Information and communication,88
+eco_isic4_k,ISIC-Rev.4: Financial and insurance activities,89
+eco_isic4_l,ISIC-Rev.4: Real estate activities,90
+eco_isic4_m,"ISIC-Rev.4: Professional, scientific and technical activities",91
+eco_isic4_n,ISIC-Rev.4: Administrative and support service activities,92
+eco_isic4_o,ISIC-Rev.4: Public administration and defence; compulsory social security,93
+eco_isic4_p,ISIC-Rev.4: Education,94
+eco_isic4_q,ISIC-Rev.4: Human health and social work activities,95
+eco_isic4_r,"ISIC-Rev.4: Arts, entertainment and recreation",96
+eco_isic4_s,ISIC-Rev.4: Other service activities,97
+eco_isic4_t,ISIC-Rev.4: Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,98
+eco_isic4_u,ISIC-Rev.4: Activities of extraterritorial organizations and bodies,99
+eco_isic4_x,ISIC-Rev.4: Not elsewhere classified,100
+eco_isic3_total,ISIC-Rev.3: Total,101
+eco_isic3_a,"ISIC-Rev.3: Agriculture, hunting and forestry",102
+eco_isic3_b,ISIC-Rev.3: Fishing,103
+eco_isic3_c,ISIC-Rev.3: Mining and quarrying,104
+eco_isic3_d,ISIC-Rev.3: Manufacturing,105
+eco_isic3_e,"ISIC-Rev.3: Electricity, gas and water supply",106
+eco_isic3_f,ISIC-Rev.3: Construction,107
+eco_isic3_g,"ISIC-Rev.3: Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",108
+eco_isic3_h,ISIC-Rev.3: Hotels and restaurants,109
+eco_isic3_i,"ISIC-Rev.3: Transport, storage and communications",110
+eco_isic3_j,ISIC-Rev.3: Financial intermediation,111
+eco_isic3_k,"ISIC-Rev.3: Real estate, renting and business activities",112
+eco_isic3_l,ISIC-Rev.3: Public administration and defence; compulsory social security,113
+eco_isic3_m,ISIC-Rev.3: Education,114
+eco_isic3_n,ISIC-Rev.3: Health and social work,115
+eco_isic3_o,"ISIC-Rev.3: Other community, social and personal service activities",116
+eco_isic3_p,ISIC-Rev.3: Activities of private households as employers and undifferentiated production activities of private households,117
+eco_isic3_q,ISIC-Rev.3: Extraterritorial organizations and bodies,118
+eco_isic3_x,ISIC-Rev.3: Not elsewhere classified,119
+eco_isic2_total,ISIC-Rev.2: Total,120
+eco_isic2_1,"ISIC-Rev.2: Agriculture, Hunting, Forestry and Fishing",121
+eco_isic2_2,ISIC-Rev.2: Mining and Quarrying,122
+eco_isic2_3,ISIC-Rev.2: Manufacturing,123
+eco_isic2_4,"ISIC-Rev.2: Electricity, Gas and Water",124
+eco_isic2_5,ISIC-Rev.2: Construction,125
+eco_isic2_6,ISIC-Rev.2: Wholesale and Retail Trade and Restaurants and Hotels,126
+eco_isic2_7,"ISIC-Rev.2: Transport, Storage and Communication",127
+eco_isic2_8,"ISIC-Rev.2: Financing, Insurance, Real Estate and Business Services",128
+eco_isic2_9,"ISIC-Rev.2: Community, Social and Personal Services",129
+eco_isic2_0,ISIC-Rev.2: Activities not Adequately Defined,130
+eco_aggregate_total,Activity: Total,131
+eco_aggregate_agr,Activity: Agriculture,132
+eco_aggregate_man,Activity: Manufacturing,133
+eco_aggregate_con,Activity: Construction,134
+eco_aggregate_mel,"Activity: Mining and quarrying; Electricity, gas and water supply",135
+eco_aggregate_mkt,"Activity: Trade, Transportation, Accommodation and Food, and Business and Administrative Services",136
+eco_aggregate_pub,"Activity: Public Administration, Community, Social and other Services and Activities",137
+eco_aggregate_x,Activity: Not classified,138
+ocu_isco08_total,ISCO-08: Total,139
+ocu_isco08_1,ISCO-08: Managers,140
+ocu_isco08_2,ISCO-08: Professionals,141
+ocu_isco08_3,ISCO-08: Technicians and associate professionals,142
+ocu_isco08_4,ISCO-08: Clerical support workers,143
+ocu_isco08_5,ISCO-08: Service and sales workers,144
+ocu_isco08_6,"ISCO-08: Skilled agricultural, forestry and fishery workers",145
+ocu_isco08_7,ISCO-08: Craft and related trades workers,146
+ocu_isco08_8,"ISCO-08: Plant and machine operators, and assemblers",147
+ocu_isco08_9,ISCO-08: Elementary occupations,148
+ocu_isco08_0,ISCO-08: Armed forces occupations,149
+ocu_isco08_x,ISCO-08: Not elsewhere classified,150
+ocu_isco88_total,ISCO-88: Total,151
+ocu_isco88_1,"ISCO-88: Legislators, senior officials and managers",152
+ocu_isco88_2,ISCO-88: Professionals,153
+ocu_isco88_3,ISCO-88: Technicians and associate professionals,154
+ocu_isco88_4,ISCO-88: Clerks,155
+ocu_isco88_5,ISCO-88: Service workers and shop and market sales workers,156
+ocu_isco88_6,ISCO-88: Skilled agricultural and fishery workers,157
+ocu_isco88_7,ISCO-88: Craft and related trades workers,158
+ocu_isco88_8,ISCO-88: Plant and machine operators and assemblers,159
+ocu_isco88_9,ISCO-88: Elementary occupations,160
+ocu_isco88_0,ISCO-88: Armed forces,161
+ocu_isco88_x,ISCO-88: Not elsewhere classified,162
+ocu_isco68_total,ISCO-68: Total,163
+ocu_isco68_0-1,"ISCO-68: Professional, technical and related workers",164
+ocu_isco68_2,ISCO-68: Administrative and managerial workers,165
+ocu_isco68_3,ISCO-68: Clerical and related workers,166
+ocu_isco68_4,ISCO-68: Sales workers,167
+ocu_isco68_5,ISCO-68: Service workers,168
+ocu_isco68_6,"ISCO-68: Agriculture, animal husbandry and forestry workers, fishermen and hunters",169
+ocu_isco68_7-9,"ISCO-68: Production and related workers, transport equipment operators and labourers",170
+ocu_isco68_x,ISCO-68: Not elsewhere classified,171
+ocu_isco68_af,ISCO-68: Armed Forces,172
+ocu_skill_total,Skill level: Total,173
+ocu_skill_l3-4,Skill level: Skill levels 3 and 4 (high),174
+ocu_skill_l2,Skill level: Skill level 2 (medium),175
+ocu_skill_l1,Skill level: Skill level 1 (low),176
+ocu_skill_x,Skill level: Not elsewhere classified,177
+how_bands_total,Hour bands: Total,178
+how_bands_h01-14,Hour bands: 1-14,179
+how_bands_h15-24,Hour bands: 15-24,180
+how_bands_h25-34,Hour bands: 25-34,181
+how_bands_h35-39,Hour bands: 35-39,182
+how_bands_h40-48,Hour bands: 40-48,183
+how_bands_h49-59,Hour bands: 49-59,184
+how_bands_hge60,Hour bands: 60+,185
+how_bands_x,Hour bands: Not elsewhere classified,186
+cat_une_total,Type: Total,187
+cat_une_pre,Type: Unemployed previously employed,188
+cat_une_fjs,Type: Unemployed seeking their first job,189
+cat_une_unk,Type: Not elsewhere classified,190
+dur_details_total,Detailed duration: Total,191
+dur_details_mlt1,Detailed duration: Less than 1 month,192
+dur_details_mge1lt3,Detailed duration: 1 month to less than 3 months,193
+dur_details_mlt3,Detailed duration: Less than 3 months,194
+dur_details_mge3lt6,Detailed duration: 3 months to less than 6 months,195
+dur_details_mge6lt12,Detailed duration: 6 months to less than 12 months,196
+dur_details_mge12lt24,Detailed duration: 12 months to less than 24 months,197
+dur_details_mge24,Detailed duration: 24 months or more,198
+dur_details_x,Detailed duration: Not elsewhere classified,199
+dur_aggregate_total,Aggregate duration: Total,200
+dur_aggregate_mlt6,Aggregate duration: Less than 6 months,201
+dur_aggregate_mge6lt12,Aggregate duration: 6 months to less than 12 months,202
+dur_aggregate_mlt12,Aggregate duration: Less than 12 months,203
+dur_aggregate_mge12,Aggregate duration: 12 months or more,204
+dur_aggregate_x,Aggregate duration: Not elsewhere classified,205
+job_contract_total,Contract type: Total,206
+job_contract_perm,Contract type: Permanent,207
+job_contract_temp,Contract type: Temporary,208
+job_contract_x,Contract type: Unknown,209
+job_time_total,Working time arrangement: Total,210
+job_time_part,Working time arrangement: Part-time,211
+job_time_full,Working time arrangement: Full-time,212
+job_time_x,Working time arrangement: Unknown,213
+mig_status_total,Status: Total,214
+mig_status_migrant,Status: Migrants,215
+mig_status_nonmig,Status: Non migrants,216
+mig_status_migranteu,Status: EU Migrants,217
+mig_status_migrantnoteu,Status: Migrants excluding EU,218
+mig_status_x,Status: Unknown,219
+ifl_comp_emp,Component: Total employment,220
+ifl_comp_infemp,Component: Informal emloyment,221
+ifl_comp_frmemp,Component: Formal employment,222
+ifl_comp_ofs,Component: Employment outside the formal sector,223
+ifl_comp_frmsector,Component: Employment in the formal sector,224
