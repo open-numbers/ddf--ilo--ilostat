@@ -5,12 +5,12 @@
         "id": "en"
     },
     "author": "Gapminder",
+    "created": "2018-05-15T07:31:50.232114+00:00",
     "description": "ILO database of labour statistics in DDF format",
     "license": "CC-BY-4.0",
     "title": "ddf--ilo--ilostat",
     "translations": [],
     "version": "0.0.1",
-    "created": "2018-05-15T03:51:42.026045+00:00",
     "resources": [
         {
             "path": "ddf--concepts--continuous.csv",
@@ -18,16 +18,10 @@
             "schema": {
                 "fields": [
                     {
-                        "name": "indicator"
+                        "name": "concept"
                     },
                     {
-                        "name": "indicator_label"
-                    },
-                    {
-                        "name": "freq"
-                    },
-                    {
-                        "name": "freq_label"
+                        "name": "concept_label"
                     },
                     {
                         "name": "data_start"
@@ -58,8 +52,8 @@
             }
         },
         {
-            "path": "ddf--concepts.csv",
-            "name": "ddf--concepts",
+            "path": "ddf--concepts--discrete.csv",
+            "name": "ddf--concepts--discrete",
             "schema": {
                 "fields": [
                     {
@@ -9646,7 +9640,8 @@
                 ],
                 "value": "concept_label",
                 "resources": [
-                    "ddf--concepts"
+                    "ddf--concepts--continuous",
+                    "ddf--concepts--discrete"
                 ]
             },
             {
@@ -9655,7 +9650,7 @@
                 ],
                 "value": "concept_type",
                 "resources": [
-                    "ddf--concepts"
+                    "ddf--concepts--discrete"
                 ]
             },
             {
@@ -9672,42 +9667,6 @@
                     "concept"
                 ],
                 "value": "data_start",
-                "resources": [
-                    "ddf--concepts--continuous"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "freq",
-                "resources": [
-                    "ddf--concepts--continuous"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "freq_label",
-                "resources": [
-                    "ddf--concepts--continuous"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "indicator",
-                "resources": [
-                    "ddf--concepts--continuous"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "indicator_label",
                 "resources": [
                     "ddf--concepts--continuous"
                 ]
