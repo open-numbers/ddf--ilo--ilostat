@@ -1,770 +1,769 @@
 classif1,classif1_label,classif1_sort
-cur_type_lcu,Currency: Local currency,1
-cur_type_ppp2011,Currency: Constant 2011 PPP $,2
-cur_type_usd,Currency: U.S. dollars,3
-dsb_status_total,Disability status: Total,4
-dsb_status_dis,Disability status: Persons with disability,5
-dsb_status_nodis,Disability status: Persons without disability,6
-noc_value,Total: Value,7
-age_cldversion_y5t17,Age: 5 to 17,8
-age_cldversion_y5t14,Age: 5 to 14,9
-age_cldversion_y15t17,Age: 15 to 17,10
-age_cldversion_y10t14,Age: 10 to 14,11
-age_cldversion_y10t17,Age: 10 to 17,12
-age_5yrbands_total,5-year age bands: Total,13
-age_5yrbands_y00-04,5-year age bands: 0-4,14
-age_5yrbands_y05-09,5-year age bands: 5-9,15
-age_5yrbands_y10-14,5-year age bands: 10-14,16
-age_5yrbands_y15-19,5-year age bands: 15-19,17
-age_5yrbands_y20-24,5-year age bands: 20-24,18
-age_5yrbands_y25-29,5-year age bands: 25-29,19
-age_5yrbands_y30-34,5-year age bands: 30-34,20
-age_5yrbands_y35-39,5-year age bands: 35-39,21
-age_5yrbands_y40-44,5-year age bands: 40-44,22
-age_5yrbands_y45-49,5-year age bands: 45-49,23
-age_5yrbands_y50-54,5-year age bands: 50-54,24
-age_5yrbands_y55-59,5-year age bands: 55-59,25
-age_5yrbands_y60-64,5-year age bands: 60-64,26
-age_5yrbands_yge65,5-year age bands: 65+,27
-age_10yrbands_total,10-year age bands: Total,28
-age_10yrbands_ylt15,10-year age bands: <15,29
-age_10yrbands_y15-24,10-year age bands: 15-24,30
-age_10yrbands_y25-34,10-year age bands: 25-34,31
-age_10yrbands_y35-44,10-year age bands: 35-44,32
-age_10yrbands_y45-54,10-year age bands: 45-54,33
-age_10yrbands_y55-64,10-year age bands: 55-64,34
-age_10yrbands_yge65,10-year age bands: 65+,35
-age_aggregate_total,Aggregate age bands: Total,36
-age_aggregate_ylt15,Aggregate age bands: <15,37
-age_aggregate_y15-24,Aggregate age bands: 15-24,38
-age_aggregate_y25-54,Aggregate age bands: 25-54,39
-age_aggregate_y55-64,Aggregate age bands: 55-64,40
-age_aggregate_yge65,Aggregate age bands: 65+,41
-age_ythbands_y15-29,Youth age bands: Total (15-29),42
-age_ythbands_y15-24,Youth age bands: 15-24,43
-age_ythbands_y15-17,Youth age bands: 15-17,44
-age_ythbands_y15-19,Youth age bands: 15-19,45
-age_ythbands_y20-24,Youth age bands: 20-24,46
-age_ythbands_y25-29,Youth age bands: 25-29,47
-age_ythadult_yge15,Age: 15+,48
-age_ythadult_y15-64,Age: 15-64,49
-age_ythadult_y15-24,Age: 15-24,50
-age_ythadult_yge25,Age: 25+,51
-age_socversion_ylt15,Age: <15,52
-age_socversion_yge15,Age: 15+,53
-age_socversion_yge65,Age: 65+,54
-edu_aggregate_total,Aggregate levels: Total,55
-edu_aggregate_bas,Aggregate levels: Basic,56
-edu_aggregate_int,Aggregate levels: Intermediate,57
-edu_aggregate_adv,Aggregate levels: Advanced,58
-edu_aggregate_x,Aggregate levels: Level not stated,59
-geo_cov_nat,Area type: National,60
-geo_cov_rur,Area type: Rural,61
-geo_cov_urb,Area type: Urban,62
-ste_icse93_total,ICSE-93: Total,63
-ste_icse93_1,ICSE-93: Employees,64
-ste_icse93_2,ICSE-93: Employers,65
-ste_icse93_3,ICSE-93: Own-account workers,66
-ste_icse93_4,ICSE-93: Members of producers' cooperatives,67
-ste_icse93_5,ICSE-93: Contributing family workers,68
-ste_icse93_6,ICSE-93: Workers not classifiable by status,69
-ste_aggregate_total,Aggregate status: Total,70
-ste_aggregate_ees,Aggregate status: Employees,71
-ste_aggregate_slf,Aggregate status: Self-employed,72
-ste_aggregate_x,Aggregate status: Workers not classifiable by status,73
-ins_sector_total,Institutional Sector: Total,74
-ins_sector_pub,Institutional Sector: Public,75
-ins_sector_pri,Institutional Sector: Private,76
-eco_isic4_total,ISIC-Rev.4: Total,77
-eco_isic4_a,ISIC-Rev.4: Agriculture; forestry and fishing,78
-eco_isic4_a_01,"ISIC-Rev.4: Crop and animal production, hunting and related service activities.",79
-eco_isic4_a_03,ISIC-Rev.4: Fishing and aquaculture,80
-eco_isic4_b,ISIC-Rev.4: Mining and quarrying,81
-eco_isic4_b-u,ISIC-Rev.4: ...,82
-eco_isic4_c,ISIC-Rev.4: Manufacturing,83
-eco_isic4_c_10,ISIC-Rev.4: Manufacture of food products,84
-eco_isic4_c_11,ISIC-Rev.4: Manufacture of beverages,85
-eco_isic4_c_13,ISIC-Rev.4: Manufacture of textiles,86
-eco_isic4_c_14,ISIC-Rev.4: Manufacture of wearing apparel,87
-eco_isic4_c_21,ISIC-Rev.4: Manufacture of basic pharmaceutical products and pharmaceutical preparations.,88
-eco_isic4_c_31,ISIC-Rev.4: Manufacture of furniture,89
-eco_isic4_d,"ISIC-Rev.4: Electricity; gas, steam and air conditioning supply",90
-eco_isic4_e,"ISIC-Rev.4: Water supply; sewerage, waste management and remediation activities",91
-eco_isic4_e_36,"ISIC-Rev.4: Water collection, treatment and supply",92
-eco_isic4_f,ISIC-Rev.4: Construction,93
-eco_isic4_f_41,ISIC-Rev.4: Construction of buildings,94
-eco_isic4_g,ISIC-Rev.4: Wholesale and retail trade; repair of motor vehicles and motorcycles,95
-eco_isic4_g_46,"ISIC-Rev.4: Wholesale trade, except of motor vehicles and motorcycles.",96
-eco_isic4_g_47,"ISIC-Rev.4: Retail trade, except of motor vehicles and motorcycles",97
-eco_isic4_h,ISIC-Rev.4: Transportation and storage,98
-eco_isic4_h_49,ISIC-Rev.4: Land transport and transport via pipelines,99
-eco_isic4_i,ISIC-Rev.4: Accommodation and food service activities,100
-eco_isic4_i_55,ISIC-Rev.4: Accommodation,101
-eco_isic4_i_56,ISIC-Rev.4: Food and beverage service activities,102
-eco_isic4_j,ISIC-Rev.4: Information and communication,103
-eco_isic4_j_61,ISIC-Rev.4: Telecommunications,104
-eco_isic4_k,ISIC-Rev.4: Financial and insurance activities,105
-eco_isic4_k_64,"ISIC-Rev.4: Financial service activities, except insurance and pension funding.",106
-eco_isic4_k_65,"ISIC-Rev.4: Insurance, reinsurance and pension funding, except compulsory social security.",107
-eco_isic4_l,ISIC-Rev.4: Real estate activities,108
-eco_isic4_m,"ISIC-Rev.4: Professional, scientific and technical activities",109
-eco_isic4_n,ISIC-Rev.4: Administrative and support service activities,110
-eco_isic4_n_78,ISIC-Rev.4: Employment activities,111
-eco_isic4_o,ISIC-Rev.4: Public administration and defence; compulsory social security,112
-eco_isic4_p,ISIC-Rev.4: Education,113
-eco_isic4_q,ISIC-Rev.4: Human health and social work activities,114
-eco_isic4_q_86,ISIC-Rev.4: Human health activities,115
-eco_isic4_r,"ISIC-Rev.4: Arts, entertainment and recreation",116
-eco_isic4_s,ISIC-Rev.4: Other service activities,117
-eco_isic4_t,ISIC-Rev.4: Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,118
-eco_isic4_u,ISIC-Rev.4: Activities of extraterritorial organizations and bodies,119
-eco_isic4_x,ISIC-Rev.4: Not elsewhere classified,120
-eco_isic3_total,ISIC-Rev.3: Total,121
-eco_isic3_a,"ISIC-Rev.3: Agriculture, hunting and forestry",122
-eco_isic3_b,ISIC-Rev.3: Fishing,123
-eco_isic3_c,ISIC-Rev.3: Mining and quarrying,124
-eco_isic3_d,ISIC-Rev.3: Manufacturing,125
-eco_isic3_e,"ISIC-Rev.3: Electricity, gas and water supply",126
-eco_isic3_f,ISIC-Rev.3: Construction,127
-eco_isic3_g,"ISIC-Rev.3: Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",128
-eco_isic3_h,ISIC-Rev.3: Hotels and restaurants,129
-eco_isic3_i,"ISIC-Rev.3: Transport, storage and communications",130
-eco_isic3_j,ISIC-Rev.3: Financial intermediation,131
-eco_isic3_k,"ISIC-Rev.3: Real estate, renting and business activities",132
-eco_isic3_l,ISIC-Rev.3: Public administration and defence; compulsory social security,133
-eco_isic3_m,ISIC-Rev.3: Education,134
-eco_isic3_n,ISIC-Rev.3: Health and social work,135
-eco_isic3_o,"ISIC-Rev.3: Other community, social and personal service activities",136
-eco_isic3_p,ISIC-Rev.3: Activities of private households as employers and undifferentiated production activities of private households,137
-eco_isic3_q,ISIC-Rev.3: Extraterritorial organizations and bodies,138
-eco_isic3_x,ISIC-Rev.3: Not elsewhere classified,139
-eco_eqisic4isic3_01_01,"ISIC-Rev.3: Agriculture, hunting and related service activities",140
-eco_eqisic4isic3_03_05,"ISIC-Rev.3: Fishing, operation of fish hatcheries and fish farms; Service activities incidental to fishing",141
-eco_eqisic4isic3_10_151-154,"ISIC-Rev.3: Production, processing and preservation of meat, fish, fruit, vegetables, oils and fats; Manufacture of dairy products; Manufacture of grain mill products, starches and starch products, and prepared animal feeds; Manufacture of other food products",142
-eco_eqisic4isic3_11_155,ISIC-Rev.3: Manufacture of beverages,143
-eco_eqisic4isic3_13_17,ISIC-Rev.3: Manufacture of textiles,144
-eco_eqisic4isic3_14_18,ISIC-Rev.3: Manufacture of wearing apparel; Dressing and dyeing,145
-eco_eqisic4isic3_21_242,ISIC-Rev.3: Manufacture of other chemical products,146
-eco_eqisic4isic3_31_36,ISIC-Rev.3: Manufacture of furniture,147
-eco_eqisic4isic3_36_41,"ISIC-Rev.3: Collection, purification and distribution of water",148
-eco_eqisic4isic3_41_452,ISIC-Rev.3: Building of complete constructions or parts thereof; civil engineering,149
-eco_eqisic4isic3_46_51,"ISIC-Rev.3: Wholesale trade, except of motor vehicles and motorcycles.",150
-eco_eqisic4isic3_47_52,"ISIC-Rev.3: Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",151
-eco_eqisic4isic3_49_60,ISIC-Rev.3: Land transport and transport via pipelines,152
-eco_eqisic4isic3_55_551,ISIC-Rev.3: Hotels; camping sites and other provision of short-stay accommodation,153
-eco_eqisic4isic3_56_552,"ISIC-Rev.3: Restaurants, bars and canteens",154
-eco_eqisic4isic3_61_642,ISIC-Rev.3: Telecommunications,155
-eco_eqisic4isic3_64_65-67,"ISIC-Rev.3: Financial intermediation, except insurance and pension funding; Activities auxiliary to financial intermediation",156
-eco_eqisic4isic3_65_66,"ISIC-Rev.3: Insurance, reinsurance and pension funding, except compulsory social security",157
-eco_eqisic4isic3_78_749,ISIC-Rev.3: Business activities n.e.c.,158
-eco_eqisic4isic3_86_851,ISIC-Rev.3: Human health activities,159
-eco_isic2_total,ISIC-Rev.2: Total,160
-eco_isic2_1,"ISIC-Rev.2: Agriculture, Hunting, Forestry and Fishing",161
-eco_isic2_2,ISIC-Rev.2: Mining and Quarrying,162
-eco_isic2_2-9,ISIC-Rev.2: ...,163
-eco_isic2_3,ISIC-Rev.2: Manufacturing,164
-eco_isic2_4,"ISIC-Rev.2: Electricity, Gas and Water",165
-eco_isic2_5,ISIC-Rev.2: Construction,166
-eco_isic2_6,ISIC-Rev.2: Wholesale and Retail Trade and Restaurants and Hotels,167
-eco_isic2_7,"ISIC-Rev.2: Transport, Storage and Communication",168
-eco_isic2_8,"ISIC-Rev.2: Financing, Insurance, Real Estate and Business Services",169
-eco_isic2_9,"ISIC-Rev.2: Community, Social and Personal Services",170
-eco_isic2_0,ISIC-Rev.2: Activities not Adequately Defined,171
-eco_details_total,Activity: Total,172
-eco_details_a,Activity: Agriculture; forestry and fishing ~ISIC rev.4 A,173
-eco_details_b,Activity: Mining and quarrying ~ISIC rev.4 B,174
-eco_details_c,Activity: Manufacturing ~ISIC rev.4 C,175
-eco_details_de,Activity: Utilities ~ISIC rev.4 D; E,176
-eco_details_f,Activity: Construction ~ISIC rev.4 F,177
-eco_details_g,Activity: Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,178
-eco_details_hj,Activity: Transport; storage and communication ~ISIC rev.4 H; J,179
-eco_details_i,Activity: Accommodation and food service activities ~ISIC rev.4 I,180
-eco_details_k,Activity: Financial and insurance activities ~ISIC rev.4 K,181
-eco_details_lmn,Activity: Real estate; business and administrative activities  ~ISIC rev.4 L; M; N,182
-eco_details_o,Activity: Public administration and defence; compulsory social security ~ISIC rev.4 O,183
-eco_details_p,Activity: Education ~ISIC rev.4 P,184
-eco_details_q,Activity: Human health and social work activities ~ISIC rev.4 Q,185
-eco_details_rstu,Activity: Other services ~ISIC rev.4 R; S; T; U,186
-eco_aggregate_total,Activity: Total,187
-eco_aggregate_agr,Activity: Agriculture,188
-eco_aggregate_min,Activity: Mining and quarrying,189
-eco_aggregate_man,Activity: Manufacturing,190
-eco_aggregate_manel,"Activity: Manufacturing; Electricity, gas and water supply",191
-eco_aggregate_con,Activity: Construction,192
-eco_aggregate_mel,"Activity: Mining and quarrying; Electricity, gas and water supply",193
-eco_aggregate_mkt,"Activity: Trade, Transportation, Accommodation and Food, and Business and Administrative Services",194
-eco_aggregate_pub,"Activity: Public Administration, Community, Social and other Services and Activities",195
-eco_aggregate_x,Activity: Not classified,196
-eco_sector_total,Broad sector: Total,197
-eco_sector_agr,Broad sector: Agriculture,198
-eco_sector_nag,Broad sector: Non-Agriculture,199
-eco_sector_ind,Broad sector: Industry,200
-eco_sector_ser,Broad sector: Services,201
-eco_sector_x,Broad sector: Not classified,202
-eco_totnag_total,Activity: Total,203
-eco_totnag_nag,Activity: Non-agriculture,204
-ocu_isco08_total,ISCO-08: Total,205
-ocu_isco08_1,ISCO-08: Managers,206
-ocu_isco08_1_11,"ISCO-08: Chief executives, senior officials and legislators",207
-ocu_isco08_1_12,ISCO-08: Administrative and commercial managers,208
-ocu_isco08_1_14,"ISCO-08: Hospitality, retail and other services managers",209
-ocu_isco08_2,ISCO-08: Professionals,210
-ocu_isco08_2_22,ISCO-08: Health professionals,211
-ocu_isco08_2_23,ISCO-08: Teaching professionals,212
-ocu_isco08_2_25,ISCO-08: Information and communications technology professionals,213
-ocu_isco08_3,ISCO-08: Technicians and associate professionals,214
-ocu_isco08_3_32,ISCO-08: Health associate professionals,215
-ocu_isco08_3_33,ISCO-08: Business and administration associate professionals,216
-ocu_isco08_4,ISCO-08: Clerical support workers,217
-ocu_isco08_4_41,ISCO-08: General and keyboard clerks,218
-ocu_isco08_4_42,ISCO-08: Customer services clerks,219
-ocu_isco08_5,ISCO-08: Service and sales workers,220
-ocu_isco08_5_51,ISCO-08: Personal service workers,221
-ocu_isco08_5_52,ISCO-08: Sales workers,222
-ocu_isco08_6,"ISCO-08: Skilled agricultural, forestry and fishery workers",223
-ocu_isco08_6_61,ISCO-08: Market oriented skilled agricultural workers,224
-ocu_isco08_6_63,"ISCO-08: Subsistence farmers, fishers, hunters and gatherers",225
-ocu_isco08_7,ISCO-08: Craft and related trades workers,226
-ocu_isco08_7_71,"ISCO-08: Building and related trades workers, excluding electricians",227
-ocu_isco08_7_74,ISCO-08: Electrical and electronic trades workers,228
-ocu_isco08_8,"ISCO-08: Plant and machine operators, and assemblers",229
-ocu_isco08_8_81,ISCO-08: Stationary plant and machine operators,230
-ocu_isco08_8_83,ISCO-08: Drivers and mobile plant operators,231
-ocu_isco08_9,ISCO-08: Elementary occupations,232
-ocu_isco08_9_91,ISCO-08: Cleaners and helpers,233
-ocu_isco08_9_92,"ISCO-08: Agricultural, forestry and fishery labourers",234
-ocu_isco08_9_93,"ISCO-08: Labourers in mining, construction, manufacturing and transport",235
-ocu_isco08_0,ISCO-08: Armed forces occupations,236
-ocu_isco08_x,ISCO-08: Not elsewhere classified,237
-ocu_isco88_total,ISCO-88: Total,238
-ocu_isco88_1,"ISCO-88: Legislators, senior officials and managers",239
-ocu_isco88_2,ISCO-88: Professionals,240
-ocu_isco88_3,ISCO-88: Technicians and associate professionals,241
-ocu_isco88_4,ISCO-88: Clerks,242
-ocu_isco88_5,ISCO-88: Service workers and shop and market sales workers,243
-ocu_isco88_6,ISCO-88: Skilled agricultural and fishery workers,244
-ocu_isco88_7,ISCO-88: Craft and related trades workers,245
-ocu_isco88_8,ISCO-88: Plant and machine operators and assemblers,246
-ocu_isco88_9,ISCO-88: Elementary occupations,247
-ocu_isco88_0,ISCO-88: Armed forces,248
-ocu_isco88_x,ISCO-88: Not elsewhere classified,249
-ocu_eqisco08isco88_11_11-121,ISCO-88: Legislators and senior officials; Directors and chief executives,250
-ocu_eqisco08isco88_12_123,ISCO-88: Other department managers,251
-ocu_eqisco08isco88_14_13,ISCO-88: General managers,252
-ocu_eqisco08isco88_22_222-223,ISCO-88: Health professionals (except nursing); Nursing and midwifery professionals,253
-ocu_eqisco08isco88_23_23-33,ISCO-88: Teaching professionals; Teaching associate professionals,254
-ocu_eqisco08isco88_25_213,ISCO-88: Computing professionals,255
-ocu_eqisco08isco88_32_322-324,ISCO-88: Health associate professionals (except nursing); Nursing and midwifery associate professionals;Traditional medicine practitioners and faith healers,256
-ocu_eqisco08isco88_33_343,ISCO-88: Administrative associate professionals,257
-ocu_eqisco08isco88_41_41,ISCO-88: Office clerks,258
-ocu_eqisco08isco88_42_42,ISCO-88: Customer services clerks,259
-ocu_eqisco08isco88_51_51,ISCO-88: Personal and protective services workers,260
-ocu_eqisco08isco88_52_52,"ISCO-88: Models, salespersons and demonstrators",261
-ocu_eqisco08isco88_61_611-613,ISCO-88: Market gardeners and crop growers; Market-oriented animal producers and related workers;Market-oriented crop and animal producers,262
-ocu_eqisco08isco88_63_62,ISCO-88: Subsistence agricultural and fishery workers,263
-ocu_eqisco08isco88_71_712-714,"ISCO-88: Building frame and related trades workers; Building finishers and related trades workers ;Painters, building structure cleaners and related trades workers",264
-ocu_eqisco08isco88_74_724,ISCO-88: Electrical and electronic equipment mechanics and fitters,265
-ocu_eqisco08isco88_81_81,ISCO-88: Stationary-plant and related operators,266
-ocu_eqisco08isco88_83_83,ISCO-88: Drivers and mobile plant operators,267
-ocu_eqisco08isco88_93_93,"ISCO-88: Labourers in mining, construction, manufacturing and transport",268
-ocu_eqisco08isco88_91_913,"ISCO-88: Domestic and related helpers, cleaners and launderers",269
-ocu_eqisco08isco88_92_92,"ISCO-88: Agricultural, forestry and fishery labourers",270
-ocu_mgmt_senior,Positions: Senior and middle management,271
-ocu_mgmt_total,Positions: Total management,272
-ocu_isco68_total,ISCO-68: Total,273
-ocu_isco68_0-1,"ISCO-68: Professional, technical and related workers",274
-ocu_isco68_2,ISCO-68: Administrative and managerial workers,275
-ocu_isco68_3,ISCO-68: Clerical and related workers,276
-ocu_isco68_4,ISCO-68: Sales workers,277
-ocu_isco68_5,ISCO-68: Service workers,278
-ocu_isco68_6,"ISCO-68: Agriculture, animal husbandry and forestry workers, fishermen and hunters",279
-ocu_isco68_7-9,"ISCO-68: Production and related workers, transport equipment operators and labourers",280
-ocu_isco68_x,ISCO-68: Not elsewhere classified,281
-ocu_isco68_af,ISCO-68: Armed Forces,282
-ocu_skill_total,Skill level: Total,283
-ocu_skill_l3-4,Skill level: Skill levels 3 and 4 (high),284
-ocu_skill_l2,Skill level: Skill level 2 (medium),285
-ocu_skill_l1,Skill level: Skill level 1 (low),286
-ocu_skill_x,Skill level: Not elsewhere classified,287
-gov_lvl_pse,Level: Total public sector,288
-gov_lvl_gg,Level: General government,289
-gov_lvl_ggcentral,Level: General government: Central,290
-gov_lvl_ggregion,Level: General government: Regional,291
-gov_lvl_gglocal,Level: General government: Local,292
-gov_lvl_ggss,Level: General government: Social security,293
-gov_lvl_pubcorp,Level: Public corporations,294
-gov_lvl_prv,Level: Private sector,295
-gov_lvl_x,Level: Not classified,296
-gov_lvl_total,Level: Total employment,297
-how_bands_total,Hour bands: Total,298
-how_bands_h00,Hour bands: No hours actually worked,299
-how_bands_h01-14,Hour bands: 1-14,300
-how_bands_h15-24,Hour bands: 15-24,301
-how_bands_h15-29,Hour bands: 15-29,302
-how_bands_hlt25,Hour bands: <25,303
-how_bands_h25-34,Hour bands: 25-34,304
-how_bands_h30-34,Hour bands: 30-34,305
-how_bands_h35-39,Hour bands: 35-39,306
-how_bands_h40-48,Hour bands: 40-48,307
-how_bands_hge40,Hour bands: 40+,308
-how_bands_hge49,Hour bands: 49+,309
-how_bands_hge50,Hour bands: 50+,310
-how_bands_hge60,Hour bands: 60+,311
-how_bands_vary,Hour bands: Hours vary,312
-how_bands_x,Hour bands: Not elsewhere classified,313
-inj_incapacity_total,Type of incapacity: Total,314
-inj_incapacity_prm,Type of incapacity: Permanent incapacity,315
-inj_incapacity_tmp,Type of incapacity: Temporary incapacity,316
-coi_component_gen,COICOP: General,317
-coi_compo_gen,COICOP: General,318
-coi_component_gex,COICOP: General excluding actual and imputed rentals for housing,319
-coi_component_foo,COICOP: Food and non-alcoholic beverages,320
-coi_compo_foo,COICOP: Food and non-alcoholic beverages,321
-coi_component_clo,COICOP: Clothing and footwear,322
-coi_component_egf,"COICOP: Electricity, gas and other fuels",323
-coi_component_hou,COICOP: Actual and imputed rentals for housing,324
-coi_coicop_cp01t12,COICOP 01-12: General - Individual consumption expenditure of households,325
-coi_coicop_cp01,COICOP 01-12: Food and non-alcoholic beverages,326
-coi_coicop_cp02,"COICOP 01-12: Alcoholic beverages, tobacco and narcotics",327
-coi_coicop_cp03,COICOP 01-12: Clothing and footwear,328
-coi_coicop_cp04,"COICOP 01-12: Housing, water, electricity, gas and other fuels",329
-coi_coicop_cp05,"COICOP 01-12: Furnishings, household equipment and routine household maintenance",330
-coi_coicop_cp06,COICOP 01-12: Health,331
-coi_coicop_cp07,COICOP 01-12: Transport,332
-coi_coicop_cp08,COICOP 01-12: Communication,333
-coi_coicop_cp09,COICOP 01-12: Recreation and culture,334
-coi_coicop_cp10,COICOP 01-12: Education,335
-coi_coicop_cp11,COICOP 01-12: Restaurants and hotels,336
-coi_coicop_cp12,COICOP 01-12: Miscellaneous goods and services,337
-soc_contig_total,Contigency: Population covered by at least one social protection benefit,338
-soc_contig_pension,Contigency: Persons above retirement age receiving a pension,339
-soc_contig_disab,Contigency: Persons with severe disabilities collecting disability social protection benefits,340
-soc_contig_une,Contigency: Unemployed receiving unemployment benefits,341
-soc_contig_mat,Contigency: Mothers with newborns receiving maternity benefits,342
-soc_contig_child,Contigency: Children covered by social protection benefits,343
-soc_contig_poor,Contigency: Poor persons covered by social protection systems,344
-soc_contig_vuln,Contigency: Vulnerable persons covered by social assistance,345
-soc_aggregate_total,Unemployment benefits schemes: Total,346
-mig_status_total,Status: Total,347
-mig_status_migrant,Status: Migrants,348
-mig_status_nonmig,Status: Non migrants,349
-mig_status_migranteu,Status: EU Migrants,350
-mig_status_migrantnoteu,Status: Migrants excluding EU,351
-mig_status_x,Status: Unknown,352
-cou_ori_total,Origin: Total,353
-cou_ori_afg,Origin: Afghanistan,354
-cou_ori_alb,Origin: Albania,355
-cou_ori_dza,Origin: Algeria,356
-cou_ori_asm,Origin: American Samoa,357
-cou_ori_and,Origin: Andorra,358
-cou_ori_ago,Origin: Angola,359
-cou_ori_arg,Origin: Argentina,360
-cou_ori_arm,Origin: Armenia,361
-cou_ori_aus,Origin: Australia,362
-cou_ori_aut,Origin: Austria,363
-cou_ori_aze,Origin: Azerbaijan,364
-cou_ori_bhs,Origin: Bahamas,365
-cou_ori_bhr,Origin: Bahrain,366
-cou_ori_bgd,Origin: Bangladesh,367
-cou_ori_brb,Origin: Barbados,368
-cou_ori_blr,Origin: Belarus,369
-cou_ori_bel,Origin: Belgium,370
-cou_ori_blz,Origin: Belize,371
-cou_ori_ben,Origin: Benin,372
-cou_ori_bmu,Origin: Bermuda,373
-cou_ori_btn,Origin: Bhutan,374
-cou_ori_bol,Origin: Bolivia,375
-cou_ori_bih,Origin: Bosnia and Herzegovina,376
-cou_ori_bwa,Origin: Botswana,377
-cou_ori_bra,Origin: Brazil,378
-cou_ori_brn,Origin: Brunei Darussalam,379
-cou_ori_bgr,Origin: Bulgaria,380
-cou_ori_bfa,Origin: Burkina Faso,381
-cou_ori_bdi,Origin: Burundi,382
-cou_ori_khm,Origin: Cambodia,383
-cou_ori_cmr,Origin: Cameroon,384
-cou_ori_can,Origin: Canada,385
-cou_ori_cpv,Origin: Cape Verde,386
-cou_ori_cym,Origin: Cayman Islands,387
-cou_ori_caf,Origin: Central African Republic,388
-cou_ori_tcd,Origin: Chad,389
-cou_ori_cha,Origin: Channel Islands,390
-cou_ori_chl,Origin: Chile,391
-cou_ori_chn,Origin: China,392
-cou_ori_chnek,Origin: China (excluding Korean-Chinese),393
-cou_ori_chnik,Origin: China (Korean-Chinese),394
-cou_ori_col,Origin: Colombia,395
-cou_ori_com,Origin: Comoros,396
-cou_ori_cog,Origin: Congo,397
-cou_ori_cod,"Origin: Congo, Democratic Republic of the",398
-cou_ori_cok,Origin: Cook Islands,399
-cou_ori_cri,Origin: Costa Rica,400
-cou_ori_hrv,Origin: Croatia,401
-cou_ori_cub,Origin: Cuba,402
-cou_ori_cuw,Origin: Curaçao,403
-cou_ori_cyp,Origin: Cyprus,404
-cou_ori_cze,Origin: Czech Republic,405
-cou_ori_civ,Origin: Côte d'Ivoire,406
-cou_ori_dnk,Origin: Denmark,407
-cou_ori_dji,Origin: Djibouti,408
-cou_ori_dma,Origin: Dominica,409
-cou_ori_dom,Origin: Dominican Republic,410
-cou_ori_ecu,Origin: Ecuador,411
-cou_ori_egy,Origin: Egypt,412
-cou_ori_slv,Origin: El Salvador,413
-cou_ori_eri,Origin: Eritrea,414
-cou_ori_est,Origin: Estonia,415
-cou_ori_eth,Origin: Ethiopia,416
-cou_ori_flk,Origin: Falkland Islands (Malvinas),417
-cou_ori_fji,Origin: Fiji,418
-cou_ori_fin,Origin: Finland,419
-cou_ori_fra,Origin: France,420
-cou_ori_pyf,Origin: French Polynesia,421
-cou_ori_gab,Origin: Gabon,422
-cou_ori_gmb,Origin: Gambia,423
-cou_ori_geo,Origin: Georgia,424
-cou_ori_deu,Origin: Germany,425
-cou_ori_gha,Origin: Ghana,426
-cou_ori_gib,Origin: Gibraltar,427
-cou_ori_grc,Origin: Greece,428
-cou_ori_grl,Origin: Greenland,429
-cou_ori_grd,Origin: Grenada,430
-cou_ori_gum,Origin: Guam,431
-cou_ori_gtm,Origin: Guatemala,432
-cou_ori_gin,Origin: Guinea,433
-cou_ori_gnb,Origin: Guinea-Bissau,434
-cou_ori_guy,Origin: Guyana,435
-cou_ori_hti,Origin: Haiti,436
-cou_ori_hnd,Origin: Honduras,437
-cou_ori_hkg,"Origin: Hong Kong, China",438
-cou_ori_hun,Origin: Hungary,439
-cou_ori_isl,Origin: Iceland,440
-cou_ori_ind,Origin: India,441
-cou_ori_idn,Origin: Indonesia,442
-cou_ori_irn,"Origin: Iran, Islamic Rep. of",443
-cou_ori_irq,Origin: Iraq,444
-cou_ori_irl,Origin: Ireland,445
-cou_ori_isr,Origin: Israel,446
-cou_ori_ita,Origin: Italy,447
-cou_ori_jam,Origin: Jamaica,448
-cou_ori_jpn,Origin: Japan,449
-cou_ori_jor,Origin: Jordan,450
-cou_ori_kaz,Origin: Kazakhstan,451
-cou_ori_ken,Origin: Kenya,452
-cou_ori_kir,Origin: Kiribati,453
-cou_ori_prk,"Origin: Korea, Dem. People's Rep. of",454
-cou_ori_kor,"Origin: Korea, Republic of",455
-cou_ori_kos,Origin: Kosovo,456
-cou_ori_kwt,Origin: Kuwait,457
-cou_ori_kgz,Origin: Kyrgyzstan,458
-cou_ori_lao,Origin: Lao People's Dem. Rep.,459
-cou_ori_lva,Origin: Latvia,460
-cou_ori_lbn,Origin: Lebanon,461
-cou_ori_lso,Origin: Lesotho,462
-cou_ori_lbr,Origin: Liberia,463
-cou_ori_lby,Origin: Libyan Arab Jamahiriya,464
-cou_ori_lie,Origin: Liechtenstein,465
-cou_ori_ltu,Origin: Lithuania,466
-cou_ori_lux,Origin: Luxembourg,467
-cou_ori_mac,"Origin: Macau, China",468
-cou_ori_mkd,"Origin: Macedonia, The former Yugoslav Rep. of",469
-cou_ori_mdg,Origin: Madagascar,470
-cou_ori_mwi,Origin: Malawi,471
-cou_ori_mys,Origin: Malaysia,472
-cou_ori_mdv,Origin: Maldives,473
-cou_ori_mli,Origin: Mali,474
-cou_ori_mlt,Origin: Malta,475
-cou_ori_mhl,Origin: Marshall Islands,476
-cou_ori_mrt,Origin: Mauritania,477
-cou_ori_mus,Origin: Mauritius,478
-cou_ori_mex,Origin: Mexico,479
-cou_ori_mda,"Origin: Moldova, Republic of",480
-cou_ori_mco,Origin: Monaco,481
-cou_ori_mng,Origin: Mongolia,482
-cou_ori_mne,Origin: Montenegro,483
-cou_ori_msr,Origin: Montserrat,484
-cou_ori_mar,Origin: Morocco,485
-cou_ori_moz,Origin: Mozambique,486
-cou_ori_mmr,Origin: Myanmar,487
-cou_ori_nam,Origin: Namibia,488
-cou_ori_nru,Origin: Nauru,489
-cou_ori_npl,Origin: Nepal,490
-cou_ori_nld,Origin: Netherlands,491
-cou_ori_ncl,Origin: New Caledonia,492
-cou_ori_nzl,Origin: New Zealand,493
-cou_ori_nic,Origin: Nicaragua,494
-cou_ori_ner,Origin: Niger,495
-cou_ori_nga,Origin: Nigeria,496
-cou_ori_niu,Origin: Niue,497
-cou_ori_nfk,Origin: Norfolk Island,498
-cou_ori_nor,Origin: Norway,499
-cou_ori_pse,Origin: West Bank and Gaza Strip,500
-cou_ori_omn,Origin: Oman,501
-cou_ori_pak,Origin: Pakistan,502
-cou_ori_pan,Origin: Panama,503
-cou_ori_png,Origin: Papua New Guinea,504
-cou_ori_pry,Origin: Paraguay,505
-cou_ori_per,Origin: Peru,506
-cou_ori_phl,Origin: Philippines,507
-cou_ori_pol,Origin: Poland,508
-cou_ori_prt,Origin: Portugal,509
-cou_ori_pri,Origin: Puerto Rico,510
-cou_ori_qat,Origin: Qatar,511
-cou_ori_rou,Origin: Romania,512
-cou_ori_rus,Origin: Russian Federation,513
-cou_ori_rwa,Origin: Rwanda,514
-cou_ori_reu,Origin: Réunion,515
-cou_ori_kna,Origin: Saint Kitts and Nevis,516
-cou_ori_wsm,Origin: Samoa,517
-cou_ori_smr,Origin: San Marino,518
-cou_ori_sau,Origin: Saudi Arabia,519
-cou_ori_sen,Origin: Senegal,520
-cou_ori_srb,Origin: Serbia,521
-cou_ori_syc,Origin: Seychelles,522
-cou_ori_sle,Origin: Sierra Leone,523
-cou_ori_sgp,Origin: Singapore,524
-cou_ori_svk,Origin: Slovakia,525
-cou_ori_svn,Origin: Slovenia,526
-cou_ori_slb,Origin: Solomon Islands,527
-cou_ori_som,Origin: Somalia,528
-cou_ori_zaf,Origin: South Africa,529
-cou_ori_ssd,"Origin: South Sudan, The Republic of",530
-cou_ori_esp,Origin: Spain,531
-cou_ori_lka,Origin: Sri Lanka,532
-cou_ori_sdn,"Origin: Sudan, The Republic of",533
-cou_ori_sur,Origin: Suriname,534
-cou_ori_swz,Origin: Swaziland,535
-cou_ori_swe,Origin: Sweden,536
-cou_ori_che,Origin: Switzerland,537
-cou_ori_syr,Origin: Syrian Arab Republic,538
-cou_ori_twn,"Origin: Taiwan, China",539
-cou_ori_tjk,Origin: Tajikistan,540
-cou_ori_tza,"Origin: Tanzania, United Republic of",541
-cou_ori_tha,Origin: Thailand,542
-cou_ori_tls,Origin: Timor-Leste,543
-cou_ori_tgo,Origin: Togo,544
-cou_ori_tkl,Origin: Tokelau,545
-cou_ori_ton,Origin: Tonga,546
-cou_ori_tto,Origin: Trinidad and Tobago,547
-cou_ori_tun,Origin: Tunisia,548
-cou_ori_tur,Origin: Turkey,549
-cou_ori_tkm,Origin: Turkmenistan,550
-cou_ori_tuv,Origin: Tuvalu,551
-cou_ori_uga,Origin: Uganda,552
-cou_ori_ukr,Origin: Ukraine,553
-cou_ori_are,Origin: United Arab Emirates,554
-cou_ori_gbr,Origin: United Kingdom,555
-cou_ori_usa,Origin: United States,556
-cou_ori_ury,Origin: Uruguay,557
-cou_ori_uzb,Origin: Uzbekistan,558
-cou_ori_vut,Origin: Vanuatu,559
-cou_ori_ven,"Origin: Venezuela, Bolivarian Rep. of",560
-cou_ori_vnm,Origin: Viet Nam,561
-cou_ori_wlf,Origin: Wallis and Futuna Islands,562
-cou_ori_yem,Origin: Yemen,563
-cou_ori_zmb,Origin: Zambia,564
-cou_ori_zwe,Origin: Zimbabwe,565
-cou_ori_afr,Origin: Africa,566
-cou_ori_ame,Origin: Americas,567
-cou_ori_asia,Origin: Asia,568
-cou_ori_asean,Origin: Association of Southeast Asian Nations,569
-cou_ori_baltic,Origin: Baltics,570
-cou_ori_amecs,Origin: Central and South American Countries,571
-cou_ori_cis,Origin: Commonwealth of Independent States,572
-cou_ori_eur,Origin: Europe,573
-cou_ori_meast,Origin: Middle East,574
-cou_ori_amen,Origin: North America,575
-cou_ori_oce,Origin: Oceania,576
-cou_ori_saarcei,Origin: South Asian Association for Regional Cooperation (excluding India),577
-cou_ori_x,Origin: Other countries,578
-cou_res_total,Residence: Total,579
-cou_res_afg,Residence: Afghanistan,580
-cou_res_dza,Residence: Algeria,581
-cou_res_ago,Residence: Angola,582
-cou_res_aus,Residence: Australia,583
-cou_res_aut,Residence: Austria,584
-cou_res_aze,Residence: Azerbaijan,585
-cou_res_bhr,Residence: Bahrain,586
-cou_res_bgd,Residence: Bangladesh,587
-cou_res_bel,Residence: Belgium,588
-cou_res_btn,Residence: Bhutan,589
-cou_res_brn,Residence: Brunei Darussalam,590
-cou_res_khm,Residence: Cambodia,591
-cou_res_can,Residence: Canada,592
-cou_res_chn,Residence: China,593
-cou_res_cyp,Residence: Cyprus,594
-cou_res_cze,Residence: Czech Republic,595
-cou_res_dnk,Residence: Denmark,596
-cou_res_egy,Residence: Egypt,597
-cou_res_gnq,Residence: Equatorial Guinea,598
-cou_res_fra,Residence: France,599
-cou_res_deu,Residence: Germany,600
-cou_res_grc,Residence: Greece,601
-cou_res_hkg,"Residence: Hong Kong, China",602
-cou_res_hun,Residence: Hungary,603
-cou_res_ind,Residence: India,604
-cou_res_idn,Residence: Indonesia,605
-cou_res_irn,"Residence: Iran, Islamic Rep. of",606
-cou_res_irq,Residence: Iraq,607
-cou_res_irl,Residence: Ireland,608
-cou_res_isr,Residence: Israel,609
-cou_res_ita,Residence: Italy,610
-cou_res_jpn,Residence: Japan,611
-cou_res_jor,Residence: Jordan,612
-cou_res_kaz,Residence: Kazakhstan,613
-cou_res_ken,Residence: Kenya,614
-cou_res_kor,"Residence: Korea, Republic of",615
-cou_res_kwt,Residence: Kuwait,616
-cou_res_lao,Residence: Lao People's Dem. Rep.,617
-cou_res_lbn,Residence: Lebanon,618
-cou_res_lby,Residence: Libyan Arab Jamahiriya,619
-cou_res_mac,"Residence: Macau, China",620
-cou_res_mdg,Residence: Madagascar,621
-cou_res_mys,Residence: Malaysia,622
-cou_res_mdv,Residence: Maldives,623
-cou_res_mus,Residence: Mauritius,624
-cou_res_mmr,Residence: Myanmar,625
-cou_res_npl,Residence: Nepal,626
-cou_res_nld,Residence: Netherlands,627
-cou_res_nzl,Residence: New Zealand,628
-cou_res_nga,Residence: Nigeria,629
-cou_res_nor,Residence: Norway,630
-cou_res_omn,Residence: Oman,631
-cou_res_plw,Residence: Palau,632
-cou_res_png,Residence: Papua New Guinea,633
-cou_res_phl,Residence: Philippines,634
-cou_res_pol,Residence: Poland,635
-cou_res_prt,Residence: Portugal,636
-cou_res_qat,Residence: Qatar,637
-cou_res_rus,Residence: Russian Federation,638
-cou_res_sau,Residence: Saudi Arabia,639
-cou_res_sgp,Residence: Singapore,640
-cou_res_esp,Residence: Spain,641
-cou_res_lka,Residence: Sri Lanka,642
-cou_res_swe,Residence: Sweden,643
-cou_res_che,Residence: Switzerland,644
-cou_res_syr,Residence: Syrian Arab Republic,645
-cou_res_twn,"Residence: Taiwan, China",646
-cou_res_tha,Residence: Thailand,647
-cou_res_tur,Residence: Turkey,648
-cou_res_uga,Residence: Uganda,649
-cou_res_ukr,Residence: Ukraine,650
-cou_res_are,Residence: United Arab Emirates,651
-cou_res_gbr,Residence: United Kingdom,652
-cou_res_usa,Residence: United States,653
-cou_res_vnm,Residence: Viet Nam,654
-cou_res_zmb,Residence: Zambia,655
-cou_res_asean,Residence: ASEAN,656
-cou_res_cis,Residence: Commonwealth of Independent States,657
-cou_res_eur,Residence: Europe,658
-cou_res_eureu,"Residence: Europe, EU Member States",659
-cou_res_eureeu,"Residence: Europe, non-EU Member States",660
-cou_res_meast,Residence: Middle East,661
-cou_res_saarc,Residence: SAARC,662
-cou_res_usacan,Residence: United States and Canada,663
-cou_res_x,Residence: Other countries,664
-cou_des_total,Destination: Total,665
-cou_des_afg,Destination: Afghanistan,666
-cou_des_dza,Destination: Algeria,667
-cou_des_asm,Destination: American Samoa,668
-cou_des_ago,Destination: Angola,669
-cou_des_arm,Destination: Armenia,670
-cou_des_aus,Destination: Australia,671
-cou_des_aut,Destination: Austria,672
-cou_des_aze,Destination: Azerbaijan,673
-cou_des_bhr,Destination: Bahrain,674
-cou_des_blr,Destination: Belarus,675
-cou_des_bel,Destination: Belgium,676
-cou_des_bra,Destination: Brazil,677
-cou_des_brn,Destination: Brunei Darussalam,678
-cou_des_khm,Destination: Cambodia,679
-cou_des_can,Destination: Canada,680
-cou_des_cym,Destination: Cayman Islands,681
-cou_des_chn,Destination: China,682
-cou_des_cyp,Destination: Cyprus,683
-cou_des_cze,Destination: Czech Republic,684
-cou_des_dnk,Destination: Denmark,685
-cou_des_egy,Destination: Egypt,686
-cou_des_gnq,Destination: Equatorial Guinea,687
-cou_des_fji,Destination: Fiji,688
-cou_des_fin,Destination: Finland,689
-cou_des_fra,Destination: France,690
-cou_des_geo,Destination: Georgia,691
-cou_des_deu,Destination: Germany,692
-cou_des_grc,Destination: Greece,693
-cou_des_hti,Destination: Haiti,694
-cou_des_hkg,"Destination: Hong Kong, China",695
-cou_des_ind,Destination: India,696
-cou_des_idn,Destination: Indonesia,697
-cou_des_irn,"Destination: Iran, Islamic Rep. of",698
-cou_des_irq,Destination: Iraq,699
-cou_des_irl,Destination: Ireland,700
-cou_des_isr,Destination: Israel,701
-cou_des_ita,Destination: Italy,702
-cou_des_jpn,Destination: Japan,703
-cou_des_jor,Destination: Jordan,704
-cou_des_kaz,Destination: Kazakhstan,705
-cou_des_prk,"Destination: Korea, Dem. People's Rep. of",706
-cou_des_kor,"Destination: Korea, Republic of",707
-cou_des_kwt,Destination: Kuwait,708
-cou_des_kgz,Destination: Kyrgyzstan,709
-cou_des_lao,Destination: Lao People's Dem. Rep.,710
-cou_des_lbn,Destination: Lebanon,711
-cou_des_lby,Destination: Libyan Arab Jamahiriya,712
-cou_des_mac,"Destination: Macau, China",713
-cou_des_mdg,Destination: Madagascar,714
-cou_des_mys,Destination: Malaysia,715
-cou_des_mdv,Destination: Maldives,716
-cou_des_mus,Destination: Mauritius,717
-cou_des_mda,"Destination: Moldova, Republic of",718
-cou_des_mco,Destination: Monaco,719
-cou_des_moz,Destination: Mozambique,720
-cou_des_mmr,Destination: Myanmar,721
-cou_des_nld,Destination: Netherlands,722
-cou_des_nzl,Destination: New Zealand,723
-cou_des_nga,Destination: Nigeria,724
-cou_des_mnp,Destination: Northern Mariana Islands,725
-cou_des_nor,Destination: Norway,726
-cou_des_omn,Destination: Oman,727
-cou_des_plw,Destination: Palau,728
-cou_des_png,Destination: Papua New Guinea,729
-cou_des_per,Destination: Peru,730
-cou_des_phl,Destination: Philippines,731
-cou_des_prt,Destination: Portugal,732
-cou_des_qat,Destination: Qatar,733
-cou_des_rou,Destination: Romania,734
-cou_des_rus,Destination: Russian Federation,735
-cou_des_sau,Destination: Saudi Arabia,736
-cou_des_syc,Destination: Seychelles,737
-cou_des_sgp,Destination: Singapore,738
-cou_des_zaf,Destination: South Africa,739
-cou_des_esp,Destination: Spain,740
-cou_des_sdn,"Destination: Sudan, The Republic of",741
-cou_des_swe,Destination: Sweden,742
-cou_des_che,Destination: Switzerland,743
-cou_des_syr,Destination: Syrian Arab Republic,744
-cou_des_twn,"Destination: Taiwan, China",745
-cou_des_tjk,Destination: Tajikistan,746
-cou_des_tha,Destination: Thailand,747
-cou_des_tls,Destination: Timor-Leste,748
-cou_des_tur,Destination: Turkey,749
-cou_des_tkm,Destination: Turkmenistan,750
-cou_des_ukr,Destination: Ukraine,751
-cou_des_are,Destination: United Arab Emirates,752
-cou_des_gbr,Destination: United Kingdom,753
-cou_des_usa,Destination: United States,754
-cou_des_uzb,Destination: Uzbekistan,755
-cou_des_vnm,Destination: Viet Nam,756
-cou_des_yem,Destination: Yemen,757
-cou_des_zmb,Destination: Zambia,758
-cou_des_asia,Destination: Asia,759
-cou_des_baltic,Destination: Baltics,760
-cou_des_cis,Destination: Commonwealth of Independent States,761
-cou_des_eur,Destination: Europe,762
-cou_des_amen,Destination: North America,763
-cou_des_oce,Destination: Oceania,764
-cou_des_x,Destination: Other countries,765
-exp_coverage_total,Coverage: Including health care,766
-exp_coverage_nonhealthcare,Coverage: Excluding health care,767
-gsa_benefits_total,Benefits: Including general social assistance,768
-typ_pension_total,Pension: Total,769
+noc_value,Total: Value,1
+age_cldversion_y5t17,Age: 5 to 17,2
+age_cldversion_y5t14,Age: 5 to 14,3
+age_cldversion_y15t17,Age: 15 to 17,4
+age_cldversion_y10t14,Age: 10 to 14,5
+age_cldversion_y10t17,Age: 10 to 17,6
+age_5yrbands_total,5-year age bands: Total,7
+age_5yrbands_y00-04,5-year age bands: 0-4,8
+age_5yrbands_y05-09,5-year age bands: 5-9,9
+age_5yrbands_y10-14,5-year age bands: 10-14,10
+age_5yrbands_y15-19,5-year age bands: 15-19,11
+age_5yrbands_y20-24,5-year age bands: 20-24,12
+age_5yrbands_y25-29,5-year age bands: 25-29,13
+age_5yrbands_y30-34,5-year age bands: 30-34,14
+age_5yrbands_y35-39,5-year age bands: 35-39,15
+age_5yrbands_y40-44,5-year age bands: 40-44,16
+age_5yrbands_y45-49,5-year age bands: 45-49,17
+age_5yrbands_y50-54,5-year age bands: 50-54,18
+age_5yrbands_y55-59,5-year age bands: 55-59,19
+age_5yrbands_y60-64,5-year age bands: 60-64,20
+age_5yrbands_yge65,5-year age bands: 65+,21
+age_10yrbands_total,10-year age bands: Total,22
+age_10yrbands_ylt15,10-year age bands: <15,23
+age_10yrbands_y15-24,10-year age bands: 15-24,24
+age_10yrbands_y25-34,10-year age bands: 25-34,25
+age_10yrbands_y35-44,10-year age bands: 35-44,26
+age_10yrbands_y45-54,10-year age bands: 45-54,27
+age_10yrbands_y55-64,10-year age bands: 55-64,28
+age_10yrbands_yge65,10-year age bands: 65+,29
+age_aggregate_total,Aggregate age bands: Total,30
+age_aggregate_ylt15,Aggregate age bands: <15,31
+age_aggregate_y15-24,Aggregate age bands: 15-24,32
+age_aggregate_y25-54,Aggregate age bands: 25-54,33
+age_aggregate_y55-64,Aggregate age bands: 55-64,34
+age_aggregate_yge65,Aggregate age bands: 65+,35
+age_ythbands_y15-29,Youth age bands: Total (15-29),36
+age_ythbands_y15-24,Youth age bands: 15-24,37
+age_ythbands_y15-17,Youth age bands: 15-17,38
+age_ythbands_y15-19,Youth age bands: 15-19,39
+age_ythbands_y20-24,Youth age bands: 20-24,40
+age_ythbands_y25-29,Youth age bands: 25-29,41
+age_ythadult_yge15,Age: 15+,42
+age_ythadult_y15-64,Age: 15-64,43
+age_ythadult_y15-24,Age: 15-24,44
+age_ythadult_yge25,Age: 25+,45
+age_socversion_ylt15,Age: <15,46
+age_socversion_yge15,Age: 15+,47
+age_socversion_yge65,Age: 65+,48
+edu_aggregate_total,Aggregate levels: Total,49
+edu_aggregate_bas,Aggregate levels: Basic,50
+edu_aggregate_int,Aggregate levels: Intermediate,51
+edu_aggregate_adv,Aggregate levels: Advanced,52
+edu_aggregate_x,Aggregate levels: Level not stated,53
+dsb_status_total,Disability status: Total,54
+dsb_status_dis,Disability status: Persons with disability,55
+dsb_status_nodis,Disability status: Persons without disability,56
+geo_cov_nat,Area type: National,57
+geo_cov_rur,Area type: Rural,58
+geo_cov_urb,Area type: Urban,59
+ste_icse93_total,ICSE-93: TOTAL. Total,60
+ste_icse93_1,ICSE-93: 1. Employees,61
+ste_icse93_2,ICSE-93: 2. Employers,62
+ste_icse93_3,ICSE-93: 3. Own-account workers,63
+ste_icse93_4,ICSE-93: 4. Members of producers' cooperatives,64
+ste_icse93_5,ICSE-93: 5. Contributing family workers,65
+ste_icse93_6,ICSE-93: 6. Workers not classifiable by status,66
+ste_aggregate_total,Aggregate status: Total,67
+ste_aggregate_ees,Aggregate status: Employees,68
+ste_aggregate_slf,Aggregate status: Self-employed,69
+ste_aggregate_x,Aggregate status: Workers not classifiable by status,70
+ins_sector_total,Institutional Sector: Total,71
+ins_sector_pub,Institutional Sector: Public,72
+ins_sector_pri,Institutional Sector: Private,73
+eco_isic4_total,ISIC-Rev.4: TOTAL. Total,74
+eco_isic4_a,ISIC-Rev.4: A. Agriculture; forestry and fishing,75
+eco_isic4_a_01,"ISIC-Rev.4: 01. Crop and animal production, hunting and related service activities.",76
+eco_isic4_a_03,ISIC-Rev.4: 03. Fishing and aquaculture,77
+eco_isic4_b,ISIC-Rev.4: B. Mining and quarrying,78
+eco_isic4_c,ISIC-Rev.4: C. Manufacturing,79
+eco_isic4_c_10,ISIC-Rev.4: 10. Manufacture of food products,80
+eco_isic4_c_11,ISIC-Rev.4: 11. Manufacture of beverages,81
+eco_isic4_c_13,ISIC-Rev.4: 13. Manufacture of textiles,82
+eco_isic4_c_14,ISIC-Rev.4: 14. Manufacture of wearing apparel,83
+eco_isic4_c_21,ISIC-Rev.4: 21. Manufacture of basic pharmaceutical products and pharmaceutical preparations.,84
+eco_isic4_c_31,ISIC-Rev.4: 31. Manufacture of furniture,85
+eco_isic4_d,"ISIC-Rev.4: D. Electricity; gas, steam and air conditioning supply",86
+eco_isic4_e,"ISIC-Rev.4: E. Water supply; sewerage, waste management and remediation activities",87
+eco_isic4_e_36,"ISIC-Rev.4: 36. Water collection, treatment and supply",88
+eco_isic4_f,ISIC-Rev.4: F. Construction,89
+eco_isic4_f_41,ISIC-Rev.4: 41. Construction of buildings,90
+eco_isic4_g,ISIC-Rev.4: G. Wholesale and retail trade; repair of motor vehicles and motorcycles,91
+eco_isic4_g_46,"ISIC-Rev.4: 46. Wholesale trade, except of motor vehicles and motorcycles.",92
+eco_isic4_g_47,"ISIC-Rev.4: 47. Retail trade, except of motor vehicles and motorcycles",93
+eco_isic4_h,ISIC-Rev.4: H. Transportation and storage,94
+eco_isic4_h_49,ISIC-Rev.4: 49. Land transport and transport via pipelines,95
+eco_isic4_i,ISIC-Rev.4: I. Accommodation and food service activities,96
+eco_isic4_i_55,ISIC-Rev.4: 55. Accommodation,97
+eco_isic4_i_56,ISIC-Rev.4: 56. Food and beverage service activities,98
+eco_isic4_j,ISIC-Rev.4: J. Information and communication,99
+eco_isic4_j_61,ISIC-Rev.4: 61. Telecommunications,100
+eco_isic4_k,ISIC-Rev.4: K. Financial and insurance activities,101
+eco_isic4_k_64,"ISIC-Rev.4: 64. Financial service activities, except insurance and pension funding.",102
+eco_isic4_k_65,"ISIC-Rev.4: 65. Insurance, reinsurance and pension funding, except compulsory social security.",103
+eco_isic4_l,ISIC-Rev.4: L. Real estate activities,104
+eco_isic4_m,"ISIC-Rev.4: M. Professional, scientific and technical activities",105
+eco_isic4_n,ISIC-Rev.4: N. Administrative and support service activities,106
+eco_isic4_n_78,ISIC-Rev.4: 78. Employment activities,107
+eco_isic4_o,ISIC-Rev.4: O. Public administration and defence; compulsory social security,108
+eco_isic4_p,ISIC-Rev.4: P. Education,109
+eco_isic4_q,ISIC-Rev.4: Q. Human health and social work activities,110
+eco_isic4_q_86,ISIC-Rev.4: 86. Human health activities,111
+eco_isic4_r,"ISIC-Rev.4: R. Arts, entertainment and recreation",112
+eco_isic4_s,ISIC-Rev.4: S. Other service activities,113
+eco_isic4_t,ISIC-Rev.4: T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,114
+eco_isic4_u,ISIC-Rev.4: U. Activities of extraterritorial organizations and bodies,115
+eco_isic4_x,ISIC-Rev.4: X. Not elsewhere classified,116
+eco_isic3_total,ISIC-Rev.3.1: TOTAL. Total,117
+eco_isic3_a,"ISIC-Rev.3.1: A. Agriculture, hunting and forestry",118
+eco_isic3_b,ISIC-Rev.3.1: B. Fishing,119
+eco_isic3_c,ISIC-Rev.3.1: C. Mining and quarrying,120
+eco_isic3_d,ISIC-Rev.3.1: D. Manufacturing,121
+eco_isic3_e,"ISIC-Rev.3.1: E. Electricity, gas and water supply",122
+eco_isic3_f,ISIC-Rev.3.1: F. Construction,123
+eco_isic3_g,"ISIC-Rev.3.1: G. Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",124
+eco_isic3_h,ISIC-Rev.3.1: H. Hotels and restaurants,125
+eco_isic3_i,"ISIC-Rev.3.1: I. Transport, storage and communications",126
+eco_isic3_j,ISIC-Rev.3.1: J. Financial intermediation,127
+eco_isic3_k,"ISIC-Rev.3.1: K. Real estate, renting and business activities",128
+eco_isic3_l,ISIC-Rev.3.1: L. Public administration and defence; compulsory social security,129
+eco_isic3_m,ISIC-Rev.3.1: M. Education,130
+eco_isic3_n,ISIC-Rev.3.1: N. Health and social work,131
+eco_isic3_o,"ISIC-Rev.3.1: O. Other community, social and personal service activities",132
+eco_isic3_p,ISIC-Rev.3.1: P. Activities of private households as employers and undifferentiated production activities of private households,133
+eco_isic3_q,ISIC-Rev.3.1: Q. Extraterritorial organizations and bodies,134
+eco_isic3_x,ISIC-Rev.3.1: X. Not elsewhere classified,135
+eco_eqisic4isic3_01_01,"ISIC-Rev.3.1: 01. Agriculture, hunting and related service activities",136
+eco_eqisic4isic3_03_05,"ISIC-Rev.3.1: 05. Fishing, operation of fish hatcheries and fish farms; Service activities incidental to fishing",137
+eco_eqisic4isic3_10_151-154,"ISIC-Rev.3.1: 151+152+153+154. Production, processing and preservation of meat, fish, fruit, vegetables, oils and fats; Manufacture of dairy products; Manufacture of grain mill products, starches and starch products, and prepared animal feeds; Manufacture of other food products",138
+eco_eqisic4isic3_11_155,ISIC-Rev.3.1: 155. Manufacture of beverages,139
+eco_eqisic4isic3_13_17,ISIC-Rev.3.1: 17. Manufacture of textiles,140
+eco_eqisic4isic3_14_18,ISIC-Rev.3.1: 18. Manufacture of wearing apparel; Dressing and dyeing,141
+eco_eqisic4isic3_21_242,ISIC-Rev.3.1: 242. Manufacture of other chemical products,142
+eco_eqisic4isic3_31_36,ISIC-Rev.3.1: 36. Manufacture of furniture,143
+eco_eqisic4isic3_36_41,"ISIC-Rev.3.1: 41. Collection, purification and distribution of water",144
+eco_eqisic4isic3_41_452,ISIC-Rev.3.1: 452. Building of complete constructions or parts thereof; civil engineering,145
+eco_eqisic4isic3_46_51,"ISIC-Rev.3.1: 51. Wholesale trade, except of motor vehicles and motorcycles.",146
+eco_eqisic4isic3_47_52,"ISIC-Rev.3.1: 52. Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",147
+eco_eqisic4isic3_49_60,ISIC-Rev.3.1: 60. Land transport and transport via pipelines,148
+eco_eqisic4isic3_55_551,ISIC-Rev.3.1: 551. Hotels; camping sites and other provision of short-stay accommodation,149
+eco_eqisic4isic3_56_552,"ISIC-Rev.3.1: 552. Restaurants, bars and canteens",150
+eco_eqisic4isic3_61_642,ISIC-Rev.3.1: 642. Telecommunications,151
+eco_eqisic4isic3_64_65-67,"ISIC-Rev.3.1: 65+67. Financial intermediation, except insurance and pension funding; Activities auxiliary to financial intermediation",152
+eco_eqisic4isic3_65_66,"ISIC-Rev.3.1: 66. Insurance, reinsurance and pension funding, except compulsory social security",153
+eco_eqisic4isic3_78_749,ISIC-Rev.3.1: 749. Business activities n.e.c.,154
+eco_eqisic4isic3_86_851,ISIC-Rev.3.1: 851. Human health activities,155
+eco_isic2_total,ISIC-Rev.2: TOTAL. Total,156
+eco_isic2_1,"ISIC-Rev.2: 1. Agriculture, Hunting, Forestry and Fishing",157
+eco_isic2_2,ISIC-Rev.2: 2. Mining and Quarrying,158
+eco_isic2_2-9,ISIC-Rev.2: 2-9. ...,159
+eco_isic2_3,ISIC-Rev.2: 3. Manufacturing,160
+eco_isic2_4,"ISIC-Rev.2: 4. Electricity, Gas and Water",161
+eco_isic2_5,ISIC-Rev.2: 5. Construction,162
+eco_isic2_6,ISIC-Rev.2: 6. Wholesale and Retail Trade and Restaurants and Hotels,163
+eco_isic2_7,"ISIC-Rev.2: 7. Transport, Storage and Communication",164
+eco_isic2_8,"ISIC-Rev.2: 8. Financing, Insurance, Real Estate and Business Services",165
+eco_isic2_9,"ISIC-Rev.2: 9. Community, Social and Personal Services",166
+eco_isic2_0,ISIC-Rev.2: 0. Activities not Adequately Defined,167
+eco_details_total,Activity: Total,168
+eco_details_a,Activity: Agriculture; forestry and fishing ~ISIC rev.4 A,169
+eco_details_b,Activity: Mining and quarrying ~ISIC rev.4 B,170
+eco_details_c,Activity: Manufacturing ~ISIC rev.4 C,171
+eco_details_de,Activity: Utilities ~ISIC rev.4 D; E,172
+eco_details_f,Activity: Construction ~ISIC rev.4 F,173
+eco_details_g,Activity: Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,174
+eco_details_hj,Activity: Transport; storage and communication ~ISIC rev.4 H; J,175
+eco_details_i,Activity: Accommodation and food service activities ~ISIC rev.4 I,176
+eco_details_k,Activity: Financial and insurance activities ~ISIC rev.4 K,177
+eco_details_lmn,Activity: Real estate; business and administrative activities  ~ISIC rev.4 L; M; N,178
+eco_details_o,Activity: Public administration and defence; compulsory social security ~ISIC rev.4 O,179
+eco_details_p,Activity: Education ~ISIC rev.4 P,180
+eco_details_q,Activity: Human health and social work activities ~ISIC rev.4 Q,181
+eco_details_rstu,Activity: Other services ~ISIC rev.4 R; S; T; U,182
+eco_aggregate_total,Activity: Total,183
+eco_aggregate_agr,Activity: Agriculture,184
+eco_aggregate_min,Activity: Mining and quarrying,185
+eco_aggregate_man,Activity: Manufacturing,186
+eco_aggregate_manel,"Activity: Manufacturing; Electricity, gas and water supply",187
+eco_aggregate_con,Activity: Construction,188
+eco_aggregate_mel,"Activity: Mining and quarrying; Electricity, gas and water supply",189
+eco_aggregate_mkt,"Activity: Trade, Transportation, Accommodation and Food, and Business and Administrative Services",190
+eco_aggregate_pub,"Activity: Public Administration, Community, Social and other Services and Activities",191
+eco_aggregate_x,Activity: Not classified,192
+eco_sector_total,Broad sector: Total,193
+eco_sector_agr,Broad sector: Agriculture,194
+eco_sector_nag,Broad sector: Non-Agriculture,195
+eco_sector_ind,Broad sector: Industry,196
+eco_sector_ser,Broad sector: Services,197
+eco_sector_x,Broad sector: Not classified,198
+eco_totnag_total,Activity: Total,199
+eco_totnag_nag,Activity: Non-agriculture,200
+ocu_isco08_total,ISCO-08: TOTAL. Total,201
+ocu_isco08_1,ISCO-08: 1. Managers,202
+ocu_isco08_1_11,"ISCO-08: 11. Chief executives, senior officials and legislators",203
+ocu_isco08_1_12,ISCO-08: 12. Administrative and commercial managers,204
+ocu_isco08_1_14,"ISCO-08: 14. Hospitality, retail and other services managers",205
+ocu_isco08_2,ISCO-08: 2. Professionals,206
+ocu_isco08_2_22,ISCO-08: 22. Health professionals,207
+ocu_isco08_2_23,ISCO-08: 23. Teaching professionals,208
+ocu_isco08_2_25,ISCO-08: 25. Information and communications technology professionals,209
+ocu_isco08_3,ISCO-08: 3. Technicians and associate professionals,210
+ocu_isco08_3_32,ISCO-08: 32. Health associate professionals,211
+ocu_isco08_3_33,ISCO-08: 33. Business and administration associate professionals,212
+ocu_isco08_4,ISCO-08: 4. Clerical support workers,213
+ocu_isco08_4_41,ISCO-08: 41. General and keyboard clerks,214
+ocu_isco08_4_42,ISCO-08: 42. Customer services clerks,215
+ocu_isco08_5,ISCO-08: 5. Service and sales workers,216
+ocu_isco08_5_51,ISCO-08: 51. Personal service workers,217
+ocu_isco08_5_52,ISCO-08: 52. Sales workers,218
+ocu_isco08_6,"ISCO-08: 6. Skilled agricultural, forestry and fishery workers",219
+ocu_isco08_6_61,ISCO-08: 61. Market oriented skilled agricultural workers,220
+ocu_isco08_6_63,"ISCO-08: 63. Subsistence farmers, fishers, hunters and gatherers",221
+ocu_isco08_7,ISCO-08: 7. Craft and related trades workers,222
+ocu_isco08_7_71,"ISCO-08: 71. Building and related trades workers, excluding electricians",223
+ocu_isco08_7_74,ISCO-08: 74. Electrical and electronic trades workers,224
+ocu_isco08_8,"ISCO-08: 8. Plant and machine operators, and assemblers",225
+ocu_isco08_8_81,ISCO-08: 81. Stationary plant and machine operators,226
+ocu_isco08_8_83,ISCO-08: 83. Drivers and mobile plant operators,227
+ocu_isco08_9,ISCO-08: 9. Elementary occupations,228
+ocu_isco08_9_91,ISCO-08: 91. Cleaners and helpers,229
+ocu_isco08_9_92,"ISCO-08: 92. Agricultural, forestry and fishery labourers",230
+ocu_isco08_9_93,"ISCO-08: 93. Labourers in mining, construction, manufacturing and transport",231
+ocu_isco08_0,ISCO-08: 0. Armed forces occupations,232
+ocu_isco08_x,ISCO-08: X. Not elsewhere classified,233
+ocu_isco88_total,ISCO-88: TOTAL. Total,234
+ocu_isco88_1,"ISCO-88: 1. Legislators, senior officials and managers",235
+ocu_isco88_2,ISCO-88: 2. Professionals,236
+ocu_isco88_3,ISCO-88: 3. Technicians and associate professionals,237
+ocu_isco88_4,ISCO-88: 4. Clerks,238
+ocu_isco88_5,ISCO-88: 5. Service workers and shop and market sales workers,239
+ocu_isco88_6,ISCO-88: 6. Skilled agricultural and fishery workers,240
+ocu_isco88_7,ISCO-88: 7. Craft and related trades workers,241
+ocu_isco88_8,ISCO-88: 8. Plant and machine operators and assemblers,242
+ocu_isco88_9,ISCO-88: 9. Elementary occupations,243
+ocu_isco88_0,ISCO-88: 0. Armed forces,244
+ocu_isco88_x,ISCO-88: X. Not elsewhere classified,245
+ocu_eqisco08isco88_11_11-121,ISCO-88: 11+121. Legislators and senior officials; Directors and chief executives,246
+ocu_eqisco08isco88_12_123,ISCO-88: 123. Other department managers,247
+ocu_eqisco08isco88_14_13,ISCO-88: 13. General managers,248
+ocu_eqisco08isco88_22_222-223,ISCO-88: 222+223. Health professionals (except nursing); Nursing and midwifery professionals,249
+ocu_eqisco08isco88_23_23-33,ISCO-88: 23+33. Teaching professionals; Teaching associate professionals,250
+ocu_eqisco08isco88_25_213,ISCO-88: 213. Computing professionals,251
+ocu_eqisco08isco88_32_322-324,ISCO-88: 322+323+324. Health associate professionals (except nursing); Nursing and midwifery associate professionals;Traditional medicine practitioners and faith healers,252
+ocu_eqisco08isco88_33_343,ISCO-88: 343. Administrative associate professionals,253
+ocu_eqisco08isco88_41_41,ISCO-88: 41. Office clerks,254
+ocu_eqisco08isco88_42_42,ISCO-88: 42. Customer services clerks,255
+ocu_eqisco08isco88_51_51,ISCO-88: 51. Personal and protective services workers,256
+ocu_eqisco08isco88_52_52,"ISCO-88: 52. Models, salespersons and demonstrators",257
+ocu_eqisco08isco88_61_611-613,ISCO-88: 611+612+613. Market gardeners and crop growers; Market-oriented animal producers and related workers;Market-oriented crop and animal producers,258
+ocu_eqisco08isco88_63_62,ISCO-88: 62. Subsistence agricultural and fishery workers,259
+ocu_eqisco08isco88_71_712-714,"ISCO-88: 712+713+714. Building frame and related trades workers; Building finishers and related trades workers ;Painters, building structure cleaners and related trades workers",260
+ocu_eqisco08isco88_74_724,ISCO-88: 724. Electrical and electronic equipment mechanics and fitters,261
+ocu_eqisco08isco88_81_81,ISCO-88: 81. Stationary-plant and related operators,262
+ocu_eqisco08isco88_83_83,ISCO-88: 83. Drivers and mobile plant operators,263
+ocu_eqisco08isco88_93_93,"ISCO-88: 93. Labourers in mining, construction, manufacturing and transport",264
+ocu_eqisco08isco88_91_913,"ISCO-88: 913. Domestic and related helpers, cleaners and launderers",265
+ocu_eqisco08isco88_92_92,"ISCO-88: 92. Agricultural, forestry and fishery labourers",266
+ocu_mgmt_senior,Positions: Senior and middle management,267
+ocu_mgmt_total,Positions: Total management,268
+ocu_isco68_total,ISCO-68: TOTAL. Total,269
+ocu_isco68_0-1,"ISCO-68: 0/1. Professional, technical and related workers",270
+ocu_isco68_2,ISCO-68: 2. Administrative and managerial workers,271
+ocu_isco68_3,ISCO-68: 3. Clerical and related workers,272
+ocu_isco68_4,ISCO-68: 4. Sales workers,273
+ocu_isco68_5,ISCO-68: 5. Service workers,274
+ocu_isco68_6,"ISCO-68: 6. Agriculture, animal husbandry and forestry workers, fishermen and hunters",275
+ocu_isco68_7-9,"ISCO-68: 7/8/9. Production and related workers, transport equipment operators and labourers",276
+ocu_isco68_x,ISCO-68: X. Not elsewhere classified,277
+ocu_isco68_af,ISCO-68: AF. Armed Forces,278
+ocu_skill_total,Skill level: Total,279
+ocu_skill_l3-4,Skill level: Skill levels 3 and 4 (high),280
+ocu_skill_l2,Skill level: Skill level 2 (medium),281
+ocu_skill_l1,Skill level: Skill level 1 (low),282
+ocu_skill_x,Skill level: Not elsewhere classified,283
+gov_lvl_pse,Level: Total public sector,284
+gov_lvl_gg,Level: General government,285
+gov_lvl_ggcentral,Level: General government: Central,286
+gov_lvl_ggregion,Level: General government: Regional,287
+gov_lvl_gglocal,Level: General government: Local,288
+gov_lvl_ggss,Level: General government: Social security,289
+gov_lvl_pubcorp,Level: Public corporations,290
+gov_lvl_prv,Level: Private sector,291
+gov_lvl_x,Level: Not classified,292
+gov_lvl_total,Level: Total employment,293
+how_bands_total,Hour bands: Total,294
+how_bands_h00,Hour bands: No hours actually worked,295
+how_bands_h01-14,Hour bands: 1-14,296
+how_bands_h15-24,Hour bands: 15-24,297
+how_bands_h15-29,Hour bands: 15-29,298
+how_bands_hlt25,Hour bands: <25,299
+how_bands_h25-34,Hour bands: 25-34,300
+how_bands_h30-34,Hour bands: 30-34,301
+how_bands_h35-39,Hour bands: 35-39,302
+how_bands_h40-48,Hour bands: 40-48,303
+how_bands_hge40,Hour bands: 40+,304
+how_bands_hge49,Hour bands: 49+,305
+how_bands_hge50,Hour bands: 50+,306
+how_bands_hge60,Hour bands: 60+,307
+how_bands_vary,Hour bands: Hours vary,308
+how_bands_x,Hour bands: Not elsewhere classified,309
+inj_incapacity_total,Type of incapacity: Total,310
+inj_incapacity_prm,Type of incapacity: Permanent incapacity,311
+inj_incapacity_tmp,Type of incapacity: Temporary incapacity,312
+coi_component_gen,COICOP: General,313
+coi_compo_gen,COICOP: General,314
+coi_component_gex,COICOP: General excluding actual and imputed rentals for housing,315
+coi_component_foo,COICOP: Food and non-alcoholic beverages,316
+coi_compo_foo,COICOP: Food and non-alcoholic beverages,317
+coi_component_clo,COICOP: Clothing and footwear,318
+coi_component_egf,"COICOP: Electricity, gas and other fuels",319
+coi_component_hou,COICOP: Actual and imputed rentals for housing,320
+coi_coicop_cp01t12,COICOP 01-12: General. General - Individual consumption expenditure of households,321
+coi_coicop_cp01,COICOP 01-12: 01. Food and non-alcoholic beverages,322
+coi_coicop_cp02,"COICOP 01-12: 02. Alcoholic beverages, tobacco and narcotics",323
+coi_coicop_cp03,COICOP 01-12: 03. Clothing and footwear,324
+coi_coicop_cp04,"COICOP 01-12: 04. Housing, water, electricity, gas and other fuels",325
+coi_coicop_cp05,"COICOP 01-12: 05. Furnishings, household equipment and routine household maintenance",326
+coi_coicop_cp06,COICOP 01-12: 06. Health,327
+coi_coicop_cp07,COICOP 01-12: 07. Transport,328
+coi_coicop_cp08,COICOP 01-12: 08. Communication,329
+coi_coicop_cp09,COICOP 01-12: 09. Recreation and culture,330
+coi_coicop_cp10,COICOP 01-12: 10. Education,331
+coi_coicop_cp11,COICOP 01-12: 11. Restaurants and hotels,332
+coi_coicop_cp12,COICOP 01-12: 12. Miscellaneous goods and services,333
+soc_contig_total,Contingency: Population covered by at least one social protection benefit,334
+soc_contig_pension,Contingency: Persons above retirement age receiving a pension,335
+soc_contig_disab,Contingency: Persons with severe disabilities collecting disability social protection benefits,336
+soc_contig_une,Contingency: Unemployed receiving unemployment benefits,337
+soc_contig_mat,Contingency: Mothers with newborns receiving maternity benefits,338
+soc_contig_child,Contingency: Children covered by social protection benefits,339
+soc_contig_poor,Contingency: Poor persons covered by social protection systems,340
+soc_contig_vuln,Contingency: Vulnerable persons covered by social assistance,341
+soc_aggregate_total,Unemployment benefits schemes: Total,342
+mig_status_total,Status: Total,343
+mig_status_migrant,Status: Migrants,344
+mig_status_nonmig,Status: Non migrants,345
+mig_status_migranteu,Status: EU Migrants,346
+mig_status_migrantnoteu,Status: Migrants excluding EU,347
+mig_status_x,Status: Unknown,348
+cou_ori_total,Origin: Total,349
+cou_ori_afg,Origin: Afghanistan,350
+cou_ori_alb,Origin: Albania,351
+cou_ori_dza,Origin: Algeria,352
+cou_ori_asm,Origin: American Samoa,353
+cou_ori_and,Origin: Andorra,354
+cou_ori_ago,Origin: Angola,355
+cou_ori_arg,Origin: Argentina,356
+cou_ori_arm,Origin: Armenia,357
+cou_ori_aus,Origin: Australia,358
+cou_ori_aut,Origin: Austria,359
+cou_ori_aze,Origin: Azerbaijan,360
+cou_ori_bhs,Origin: Bahamas,361
+cou_ori_bhr,Origin: Bahrain,362
+cou_ori_bgd,Origin: Bangladesh,363
+cou_ori_brb,Origin: Barbados,364
+cou_ori_blr,Origin: Belarus,365
+cou_ori_bel,Origin: Belgium,366
+cou_ori_blz,Origin: Belize,367
+cou_ori_ben,Origin: Benin,368
+cou_ori_bmu,Origin: Bermuda,369
+cou_ori_btn,Origin: Bhutan,370
+cou_ori_bol,Origin: Bolivia,371
+cou_ori_bih,Origin: Bosnia and Herzegovina,372
+cou_ori_bwa,Origin: Botswana,373
+cou_ori_bra,Origin: Brazil,374
+cou_ori_brn,Origin: Brunei Darussalam,375
+cou_ori_bgr,Origin: Bulgaria,376
+cou_ori_bfa,Origin: Burkina Faso,377
+cou_ori_bdi,Origin: Burundi,378
+cou_ori_khm,Origin: Cambodia,379
+cou_ori_cmr,Origin: Cameroon,380
+cou_ori_can,Origin: Canada,381
+cou_ori_cpv,Origin: Cape Verde,382
+cou_ori_cym,Origin: Cayman Islands,383
+cou_ori_caf,Origin: Central African Republic,384
+cou_ori_tcd,Origin: Chad,385
+cou_ori_cha,Origin: Channel Islands,386
+cou_ori_chl,Origin: Chile,387
+cou_ori_chn,Origin: China,388
+cou_ori_chnek,Origin: China (excluding Korean-Chinese),389
+cou_ori_chnik,Origin: China (Korean-Chinese),390
+cou_ori_col,Origin: Colombia,391
+cou_ori_com,Origin: Comoros,392
+cou_ori_cog,Origin: Congo,393
+cou_ori_cod,"Origin: Congo, Democratic Republic of the",394
+cou_ori_cok,Origin: Cook Islands,395
+cou_ori_cri,Origin: Costa Rica,396
+cou_ori_hrv,Origin: Croatia,397
+cou_ori_cub,Origin: Cuba,398
+cou_ori_cuw,Origin: Curaçao,399
+cou_ori_cyp,Origin: Cyprus,400
+cou_ori_cze,Origin: Czech Republic,401
+cou_ori_civ,Origin: Côte d'Ivoire,402
+cou_ori_dnk,Origin: Denmark,403
+cou_ori_dji,Origin: Djibouti,404
+cou_ori_dma,Origin: Dominica,405
+cou_ori_dom,Origin: Dominican Republic,406
+cou_ori_ecu,Origin: Ecuador,407
+cou_ori_egy,Origin: Egypt,408
+cou_ori_slv,Origin: El Salvador,409
+cou_ori_eri,Origin: Eritrea,410
+cou_ori_est,Origin: Estonia,411
+cou_ori_eth,Origin: Ethiopia,412
+cou_ori_flk,Origin: Falkland Islands (Malvinas),413
+cou_ori_fji,Origin: Fiji,414
+cou_ori_fin,Origin: Finland,415
+cou_ori_fra,Origin: France,416
+cou_ori_pyf,Origin: French Polynesia,417
+cou_ori_gab,Origin: Gabon,418
+cou_ori_gmb,Origin: Gambia,419
+cou_ori_geo,Origin: Georgia,420
+cou_ori_deu,Origin: Germany,421
+cou_ori_gha,Origin: Ghana,422
+cou_ori_gib,Origin: Gibraltar,423
+cou_ori_grc,Origin: Greece,424
+cou_ori_grl,Origin: Greenland,425
+cou_ori_grd,Origin: Grenada,426
+cou_ori_gum,Origin: Guam,427
+cou_ori_gtm,Origin: Guatemala,428
+cou_ori_gin,Origin: Guinea,429
+cou_ori_gnb,Origin: Guinea-Bissau,430
+cou_ori_guy,Origin: Guyana,431
+cou_ori_hti,Origin: Haiti,432
+cou_ori_hnd,Origin: Honduras,433
+cou_ori_hkg,"Origin: Hong Kong, China",434
+cou_ori_hun,Origin: Hungary,435
+cou_ori_isl,Origin: Iceland,436
+cou_ori_ind,Origin: India,437
+cou_ori_idn,Origin: Indonesia,438
+cou_ori_irn,"Origin: Iran, Islamic Rep. of",439
+cou_ori_irq,Origin: Iraq,440
+cou_ori_irl,Origin: Ireland,441
+cou_ori_isr,Origin: Israel,442
+cou_ori_ita,Origin: Italy,443
+cou_ori_jam,Origin: Jamaica,444
+cou_ori_jpn,Origin: Japan,445
+cou_ori_jor,Origin: Jordan,446
+cou_ori_kaz,Origin: Kazakhstan,447
+cou_ori_ken,Origin: Kenya,448
+cou_ori_kir,Origin: Kiribati,449
+cou_ori_prk,"Origin: Korea, Dem. People's Rep. of",450
+cou_ori_kor,"Origin: Korea, Republic of",451
+cou_ori_kos,Origin: Kosovo,452
+cou_ori_kwt,Origin: Kuwait,453
+cou_ori_kgz,Origin: Kyrgyzstan,454
+cou_ori_lao,Origin: Lao People's Dem. Rep.,455
+cou_ori_lva,Origin: Latvia,456
+cou_ori_lbn,Origin: Lebanon,457
+cou_ori_lso,Origin: Lesotho,458
+cou_ori_lbr,Origin: Liberia,459
+cou_ori_lby,Origin: Libyan Arab Jamahiriya,460
+cou_ori_lie,Origin: Liechtenstein,461
+cou_ori_ltu,Origin: Lithuania,462
+cou_ori_lux,Origin: Luxembourg,463
+cou_ori_mac,"Origin: Macau, China",464
+cou_ori_mkd,"Origin: Macedonia, The former Yugoslav Rep. of",465
+cou_ori_mdg,Origin: Madagascar,466
+cou_ori_mwi,Origin: Malawi,467
+cou_ori_mys,Origin: Malaysia,468
+cou_ori_mdv,Origin: Maldives,469
+cou_ori_mli,Origin: Mali,470
+cou_ori_mlt,Origin: Malta,471
+cou_ori_mhl,Origin: Marshall Islands,472
+cou_ori_mrt,Origin: Mauritania,473
+cou_ori_mus,Origin: Mauritius,474
+cou_ori_mex,Origin: Mexico,475
+cou_ori_mda,"Origin: Moldova, Republic of",476
+cou_ori_mco,Origin: Monaco,477
+cou_ori_mng,Origin: Mongolia,478
+cou_ori_mne,Origin: Montenegro,479
+cou_ori_msr,Origin: Montserrat,480
+cou_ori_mar,Origin: Morocco,481
+cou_ori_moz,Origin: Mozambique,482
+cou_ori_mmr,Origin: Myanmar,483
+cou_ori_nam,Origin: Namibia,484
+cou_ori_nru,Origin: Nauru,485
+cou_ori_npl,Origin: Nepal,486
+cou_ori_nld,Origin: Netherlands,487
+cou_ori_ncl,Origin: New Caledonia,488
+cou_ori_nzl,Origin: New Zealand,489
+cou_ori_nic,Origin: Nicaragua,490
+cou_ori_ner,Origin: Niger,491
+cou_ori_nga,Origin: Nigeria,492
+cou_ori_niu,Origin: Niue,493
+cou_ori_nfk,Origin: Norfolk Island,494
+cou_ori_nor,Origin: Norway,495
+cou_ori_pse,Origin: West Bank and Gaza Strip,496
+cou_ori_omn,Origin: Oman,497
+cou_ori_pak,Origin: Pakistan,498
+cou_ori_pan,Origin: Panama,499
+cou_ori_png,Origin: Papua New Guinea,500
+cou_ori_pry,Origin: Paraguay,501
+cou_ori_per,Origin: Peru,502
+cou_ori_phl,Origin: Philippines,503
+cou_ori_pol,Origin: Poland,504
+cou_ori_prt,Origin: Portugal,505
+cou_ori_pri,Origin: Puerto Rico,506
+cou_ori_qat,Origin: Qatar,507
+cou_ori_rou,Origin: Romania,508
+cou_ori_rus,Origin: Russian Federation,509
+cou_ori_rwa,Origin: Rwanda,510
+cou_ori_reu,Origin: Réunion,511
+cou_ori_kna,Origin: Saint Kitts and Nevis,512
+cou_ori_wsm,Origin: Samoa,513
+cou_ori_smr,Origin: San Marino,514
+cou_ori_sau,Origin: Saudi Arabia,515
+cou_ori_sen,Origin: Senegal,516
+cou_ori_srb,Origin: Serbia,517
+cou_ori_syc,Origin: Seychelles,518
+cou_ori_sle,Origin: Sierra Leone,519
+cou_ori_sgp,Origin: Singapore,520
+cou_ori_svk,Origin: Slovakia,521
+cou_ori_svn,Origin: Slovenia,522
+cou_ori_slb,Origin: Solomon Islands,523
+cou_ori_som,Origin: Somalia,524
+cou_ori_zaf,Origin: South Africa,525
+cou_ori_ssd,"Origin: South Sudan, The Republic of",526
+cou_ori_esp,Origin: Spain,527
+cou_ori_lka,Origin: Sri Lanka,528
+cou_ori_sdn,"Origin: Sudan, The Republic of",529
+cou_ori_sur,Origin: Suriname,530
+cou_ori_swz,Origin: Swaziland,531
+cou_ori_swe,Origin: Sweden,532
+cou_ori_che,Origin: Switzerland,533
+cou_ori_syr,Origin: Syrian Arab Republic,534
+cou_ori_twn,"Origin: Taiwan, China",535
+cou_ori_tjk,Origin: Tajikistan,536
+cou_ori_tza,"Origin: Tanzania, United Republic of",537
+cou_ori_tha,Origin: Thailand,538
+cou_ori_tls,Origin: Timor-Leste,539
+cou_ori_tgo,Origin: Togo,540
+cou_ori_tkl,Origin: Tokelau,541
+cou_ori_ton,Origin: Tonga,542
+cou_ori_tto,Origin: Trinidad and Tobago,543
+cou_ori_tun,Origin: Tunisia,544
+cou_ori_tur,Origin: Turkey,545
+cou_ori_tkm,Origin: Turkmenistan,546
+cou_ori_tuv,Origin: Tuvalu,547
+cou_ori_uga,Origin: Uganda,548
+cou_ori_ukr,Origin: Ukraine,549
+cou_ori_are,Origin: United Arab Emirates,550
+cou_ori_gbr,Origin: United Kingdom,551
+cou_ori_usa,Origin: United States,552
+cou_ori_ury,Origin: Uruguay,553
+cou_ori_uzb,Origin: Uzbekistan,554
+cou_ori_vut,Origin: Vanuatu,555
+cou_ori_ven,"Origin: Venezuela, Bolivarian Rep. of",556
+cou_ori_vnm,Origin: Viet Nam,557
+cou_ori_wlf,Origin: Wallis and Futuna Islands,558
+cou_ori_yem,Origin: Yemen,559
+cou_ori_zmb,Origin: Zambia,560
+cou_ori_zwe,Origin: Zimbabwe,561
+cou_ori_afr,Origin: Africa,562
+cou_ori_ame,Origin: Americas,563
+cou_ori_asia,Origin: Asia,564
+cou_ori_asean,Origin: Association of Southeast Asian Nations,565
+cou_ori_baltic,Origin: Baltics,566
+cou_ori_amecs,Origin: Central and South American Countries,567
+cou_ori_cis,Origin: Commonwealth of Independent States,568
+cou_ori_eur,Origin: Europe,569
+cou_ori_meast,Origin: Middle East,570
+cou_ori_amen,Origin: North America,571
+cou_ori_oce,Origin: Oceania,572
+cou_ori_saarcei,Origin: South Asian Association for Regional Cooperation (excluding India),573
+cou_ori_x,Origin: Other countries,574
+cou_res_total,Residence: Total,575
+cou_res_afg,Residence: Afghanistan,576
+cou_res_dza,Residence: Algeria,577
+cou_res_ago,Residence: Angola,578
+cou_res_aus,Residence: Australia,579
+cou_res_aut,Residence: Austria,580
+cou_res_aze,Residence: Azerbaijan,581
+cou_res_bhr,Residence: Bahrain,582
+cou_res_bgd,Residence: Bangladesh,583
+cou_res_bel,Residence: Belgium,584
+cou_res_btn,Residence: Bhutan,585
+cou_res_brn,Residence: Brunei Darussalam,586
+cou_res_khm,Residence: Cambodia,587
+cou_res_can,Residence: Canada,588
+cou_res_chn,Residence: China,589
+cou_res_cyp,Residence: Cyprus,590
+cou_res_cze,Residence: Czech Republic,591
+cou_res_dnk,Residence: Denmark,592
+cou_res_egy,Residence: Egypt,593
+cou_res_gnq,Residence: Equatorial Guinea,594
+cou_res_fra,Residence: France,595
+cou_res_deu,Residence: Germany,596
+cou_res_grc,Residence: Greece,597
+cou_res_hkg,"Residence: Hong Kong, China",598
+cou_res_hun,Residence: Hungary,599
+cou_res_ind,Residence: India,600
+cou_res_idn,Residence: Indonesia,601
+cou_res_irn,"Residence: Iran, Islamic Rep. of",602
+cou_res_irq,Residence: Iraq,603
+cou_res_irl,Residence: Ireland,604
+cou_res_isr,Residence: Israel,605
+cou_res_ita,Residence: Italy,606
+cou_res_jpn,Residence: Japan,607
+cou_res_jor,Residence: Jordan,608
+cou_res_kaz,Residence: Kazakhstan,609
+cou_res_ken,Residence: Kenya,610
+cou_res_kor,"Residence: Korea, Republic of",611
+cou_res_kwt,Residence: Kuwait,612
+cou_res_lao,Residence: Lao People's Dem. Rep.,613
+cou_res_lbn,Residence: Lebanon,614
+cou_res_lby,Residence: Libyan Arab Jamahiriya,615
+cou_res_mac,"Residence: Macau, China",616
+cou_res_mdg,Residence: Madagascar,617
+cou_res_mys,Residence: Malaysia,618
+cou_res_mdv,Residence: Maldives,619
+cou_res_mus,Residence: Mauritius,620
+cou_res_mmr,Residence: Myanmar,621
+cou_res_npl,Residence: Nepal,622
+cou_res_nld,Residence: Netherlands,623
+cou_res_nzl,Residence: New Zealand,624
+cou_res_nga,Residence: Nigeria,625
+cou_res_nor,Residence: Norway,626
+cou_res_omn,Residence: Oman,627
+cou_res_plw,Residence: Palau,628
+cou_res_png,Residence: Papua New Guinea,629
+cou_res_phl,Residence: Philippines,630
+cou_res_pol,Residence: Poland,631
+cou_res_prt,Residence: Portugal,632
+cou_res_qat,Residence: Qatar,633
+cou_res_rus,Residence: Russian Federation,634
+cou_res_sau,Residence: Saudi Arabia,635
+cou_res_sgp,Residence: Singapore,636
+cou_res_esp,Residence: Spain,637
+cou_res_lka,Residence: Sri Lanka,638
+cou_res_swe,Residence: Sweden,639
+cou_res_che,Residence: Switzerland,640
+cou_res_syr,Residence: Syrian Arab Republic,641
+cou_res_twn,"Residence: Taiwan, China",642
+cou_res_tha,Residence: Thailand,643
+cou_res_tur,Residence: Turkey,644
+cou_res_uga,Residence: Uganda,645
+cou_res_ukr,Residence: Ukraine,646
+cou_res_are,Residence: United Arab Emirates,647
+cou_res_gbr,Residence: United Kingdom,648
+cou_res_usa,Residence: United States,649
+cou_res_vnm,Residence: Viet Nam,650
+cou_res_zmb,Residence: Zambia,651
+cou_res_asean,Residence: ASEAN,652
+cou_res_cis,Residence: Commonwealth of Independent States,653
+cou_res_eur,Residence: Europe,654
+cou_res_eureu,"Residence: Europe, EU Member States",655
+cou_res_eureeu,"Residence: Europe, non-EU Member States",656
+cou_res_meast,Residence: Middle East,657
+cou_res_saarc,Residence: SAARC,658
+cou_res_usacan,Residence: United States and Canada,659
+cou_res_x,Residence: Other countries,660
+cou_des_total,Destination: Total,661
+cou_des_afg,Destination: Afghanistan,662
+cou_des_dza,Destination: Algeria,663
+cou_des_asm,Destination: American Samoa,664
+cou_des_ago,Destination: Angola,665
+cou_des_arm,Destination: Armenia,666
+cou_des_aus,Destination: Australia,667
+cou_des_aut,Destination: Austria,668
+cou_des_aze,Destination: Azerbaijan,669
+cou_des_bhr,Destination: Bahrain,670
+cou_des_blr,Destination: Belarus,671
+cou_des_bel,Destination: Belgium,672
+cou_des_bra,Destination: Brazil,673
+cou_des_brn,Destination: Brunei Darussalam,674
+cou_des_khm,Destination: Cambodia,675
+cou_des_can,Destination: Canada,676
+cou_des_cym,Destination: Cayman Islands,677
+cou_des_chn,Destination: China,678
+cou_des_cyp,Destination: Cyprus,679
+cou_des_cze,Destination: Czech Republic,680
+cou_des_dnk,Destination: Denmark,681
+cou_des_egy,Destination: Egypt,682
+cou_des_gnq,Destination: Equatorial Guinea,683
+cou_des_fji,Destination: Fiji,684
+cou_des_fin,Destination: Finland,685
+cou_des_fra,Destination: France,686
+cou_des_geo,Destination: Georgia,687
+cou_des_deu,Destination: Germany,688
+cou_des_grc,Destination: Greece,689
+cou_des_hti,Destination: Haiti,690
+cou_des_hkg,"Destination: Hong Kong, China",691
+cou_des_ind,Destination: India,692
+cou_des_idn,Destination: Indonesia,693
+cou_des_irn,"Destination: Iran, Islamic Rep. of",694
+cou_des_irq,Destination: Iraq,695
+cou_des_irl,Destination: Ireland,696
+cou_des_isr,Destination: Israel,697
+cou_des_ita,Destination: Italy,698
+cou_des_jpn,Destination: Japan,699
+cou_des_jor,Destination: Jordan,700
+cou_des_kaz,Destination: Kazakhstan,701
+cou_des_prk,"Destination: Korea, Dem. People's Rep. of",702
+cou_des_kor,"Destination: Korea, Republic of",703
+cou_des_kwt,Destination: Kuwait,704
+cou_des_kgz,Destination: Kyrgyzstan,705
+cou_des_lao,Destination: Lao People's Dem. Rep.,706
+cou_des_lbn,Destination: Lebanon,707
+cou_des_lby,Destination: Libyan Arab Jamahiriya,708
+cou_des_mac,"Destination: Macau, China",709
+cou_des_mdg,Destination: Madagascar,710
+cou_des_mys,Destination: Malaysia,711
+cou_des_mdv,Destination: Maldives,712
+cou_des_mus,Destination: Mauritius,713
+cou_des_mda,"Destination: Moldova, Republic of",714
+cou_des_mco,Destination: Monaco,715
+cou_des_moz,Destination: Mozambique,716
+cou_des_mmr,Destination: Myanmar,717
+cou_des_nld,Destination: Netherlands,718
+cou_des_nzl,Destination: New Zealand,719
+cou_des_nga,Destination: Nigeria,720
+cou_des_mnp,Destination: Northern Mariana Islands,721
+cou_des_nor,Destination: Norway,722
+cou_des_omn,Destination: Oman,723
+cou_des_plw,Destination: Palau,724
+cou_des_png,Destination: Papua New Guinea,725
+cou_des_per,Destination: Peru,726
+cou_des_phl,Destination: Philippines,727
+cou_des_prt,Destination: Portugal,728
+cou_des_qat,Destination: Qatar,729
+cou_des_rou,Destination: Romania,730
+cou_des_rus,Destination: Russian Federation,731
+cou_des_sau,Destination: Saudi Arabia,732
+cou_des_syc,Destination: Seychelles,733
+cou_des_sgp,Destination: Singapore,734
+cou_des_zaf,Destination: South Africa,735
+cou_des_esp,Destination: Spain,736
+cou_des_sdn,"Destination: Sudan, The Republic of",737
+cou_des_swe,Destination: Sweden,738
+cou_des_che,Destination: Switzerland,739
+cou_des_syr,Destination: Syrian Arab Republic,740
+cou_des_twn,"Destination: Taiwan, China",741
+cou_des_tjk,Destination: Tajikistan,742
+cou_des_tha,Destination: Thailand,743
+cou_des_tls,Destination: Timor-Leste,744
+cou_des_tur,Destination: Turkey,745
+cou_des_tkm,Destination: Turkmenistan,746
+cou_des_ukr,Destination: Ukraine,747
+cou_des_are,Destination: United Arab Emirates,748
+cou_des_gbr,Destination: United Kingdom,749
+cou_des_usa,Destination: United States,750
+cou_des_uzb,Destination: Uzbekistan,751
+cou_des_vnm,Destination: Viet Nam,752
+cou_des_yem,Destination: Yemen,753
+cou_des_zmb,Destination: Zambia,754
+cou_des_asia,Destination: Asia,755
+cou_des_baltic,Destination: Baltics,756
+cou_des_cis,Destination: Commonwealth of Independent States,757
+cou_des_eur,Destination: Europe,758
+cou_des_amen,Destination: North America,759
+cou_des_oce,Destination: Oceania,760
+cou_des_x,Destination: Other countries,761
+exp_coverage_total,Coverage: Including health care,762
+exp_coverage_nonhealthcare,Coverage: Excluding health care,763
+gsa_benefits_total,Benefits: Including general social assistance,764
+typ_pension_total,Pension: Total,765
+cur_type_lcu,Currency: Local currency,766
+cur_type_ppp2011,Currency: Constant 2011 PPP $,767
+cur_type_usd,Currency: U.S. dollars,768

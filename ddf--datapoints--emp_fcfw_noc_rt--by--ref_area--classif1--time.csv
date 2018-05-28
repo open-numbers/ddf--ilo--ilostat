@@ -52,6 +52,7 @@ arg,noc_value,2006,1.59
 arg,noc_value,2007,1.44
 arg,noc_value,2008,1.19
 arg,noc_value,2009,1.16
+arg,noc_value,2017,0.97
 arg,noc_value,2010,1.51
 arg,noc_value,2011,1.17
 arg,noc_value,2012,0.96
@@ -652,7 +653,15 @@ ecu,noc_value,1996,10.93
 ecu,noc_value,1997,8.78
 ecu,noc_value,1998,10.75
 ecu,noc_value,1999,9.91
+ecu,noc_value,2001,21.3
 ecu,noc_value,2002,8.64
+ecu,noc_value,2003,15.0
+ecu,noc_value,2004,19.41
+ecu,noc_value,2005,16.39
+ecu,noc_value,2006,19.46
+ecu,noc_value,2007,17.6
+ecu,noc_value,2008,17.59
+ecu,noc_value,2009,17.86
 ecu,noc_value,2010,15.75
 ecu,noc_value,2011,15.99
 ecu,noc_value,2012,16.78
@@ -662,14 +671,6 @@ ecu,noc_value,2015,17.06
 ecu,noc_value,2016,19.35
 ecu,noc_value,2017,20.44
 ecu,noc_value,2000,18.55
-ecu,noc_value,2001,24.11
-ecu,noc_value,2003,17.03
-ecu,noc_value,2004,22.05
-ecu,noc_value,2005,18.52
-ecu,noc_value,2006,22.48
-ecu,noc_value,2007,20.49
-ecu,noc_value,2008,18.66
-ecu,noc_value,2009,19.9
 egy,noc_value,1993,32.77
 egy,noc_value,1994,33.49
 egy,noc_value,1995,29.84
@@ -1290,7 +1291,7 @@ kos,noc_value,2014,7.4
 kos,noc_value,2015,6.82
 kos,noc_value,2016,7.04
 kwt,noc_value,2005,0.03
-lao,noc_value,2010,45.24
+lao,noc_value,2010,45.2
 lao,noc_value,1995,37.56
 lao,noc_value,2005,65.05
 lbn,noc_value,2004,4.03
@@ -1460,12 +1461,14 @@ mda,noc_value,2013,3.02
 mda,noc_value,2014,3.5
 mda,noc_value,2015,6.12
 mda,noc_value,2016,7.06
+mda,noc_value,2017,5.51
 mdg,noc_value,2012,60.8
 mdg,noc_value,2015,59.4
 mdg,noc_value,2003,51.93
 mdg,noc_value,2005,72.98
 mdg,noc_value,2010,63.42
 mdg,noc_value,1993,41.62
+mdv,noc_value,2016,3.95
 mdv,noc_value,1990,6.58
 mdv,noc_value,1995,12.15
 mdv,noc_value,2000,3.36
@@ -1562,8 +1565,9 @@ mus,noc_value,2007,4.67
 mus,noc_value,2008,4.38
 mus,noc_value,2009,4.82
 mus,noc_value,2010,5.09
-mus,noc_value,2011,4.27
+mus,noc_value,2011,4.26
 mus,noc_value,2012,4.79
+mus,noc_value,2013,4.59
 mus,noc_value,2014,4.45
 mus,noc_value,2015,4.73
 mus,noc_value,2016,4.35
@@ -1937,6 +1941,7 @@ pse,noc_value,2013,20.95
 pse,noc_value,2014,18.83
 pse,noc_value,2015,17.0
 pse,noc_value,2016,12.84
+pse,noc_value,2017,9.96
 pyf,noc_value,1996,3.54
 pyf,noc_value,2002,3.05
 pyf,noc_value,2007,0.39
@@ -1995,6 +2000,7 @@ rus,noc_value,2013,0.36
 rus,noc_value,2014,0.4
 rus,noc_value,2015,0.37
 rus,noc_value,2016,0.4
+rus,noc_value,2017,0.38
 rwa,noc_value,1996,30.03
 rwa,noc_value,2014,43.72
 rwa,noc_value,2002,19.09
@@ -2401,6 +2407,7 @@ usa,noc_value,2014,0.08
 usa,noc_value,2015,0.09
 usa,noc_value,2016,0.07
 usa,noc_value,2017,0.07
+vct,noc_value,2008,0.53
 vct,noc_value,1980,0.98
 vct,noc_value,1991,2.74
 ven,noc_value,1994,1.24

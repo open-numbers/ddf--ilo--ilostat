@@ -1,25 +1,24 @@
 concept,concept_label,concept_type
-last_update,Last Update,string
-classif1_sort,Classif1 Sort,string
-collection,Collection,string
-sex,Sex,entity_domain
-ref_area_sort,Ref Area Sort,string
-ref_area,Ref Area,entity_domain
-classif2_label,Classif2 Label,string
-n_records,N Records,string
+concept,Concept,string
 data_start,Data Start,string
+ref_area_sort,Ref Area Sort,string
 subject,Subject,string
-sex_sort,Sex Sort,string
-collection_label,Collection Label,string
-indicator_label,Indicator Label,string
-sex_label,Sex Label,string
-classif1,Classif1,entity_domain
-indicator,Indicator,string
-subject_label,Subject Label,string
+sex,Sex,entity_domain
+last_update,Last Update,string
 classif2_sort,Classif2 Sort,string
 ref_area_label,Ref Area Label,string
+sex_label,Sex Label,string
+classif2_label,Classif2 Label,string
+ref_area,Ref Area,entity_domain
+n_records,N Records,string
+sex_sort,Sex Sort,string
 data_end,Data End,string
-classif2,Classif2,entity_domain
 classif1_label,Classif1 Label,string
-concept_label,Concept Label,string
+classif1,Classif1,entity_domain
+subject_label,Subject Label,string
+collection,Collection,string
+concept_label,['Concept Label'],string
+collection_label,Collection Label,string
+classif1_sort,Classif1 Sort,string
+classif2,Classif2,entity_domain
 time,Time,time

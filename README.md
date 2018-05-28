@@ -4,22 +4,12 @@ ILO database of labour statistics in DDF format
 
 ## Indicators
 
-- List of indicators in this repo
+All Annual Indicators from ILOSTAT are in this dataset.
 
-## Definition of indicator
+Check the [ILOSTAT Website][1] for details.
 
-
-## Unit of measurement
-
+[1]: http://www.ilo.org/ilostat/
 
 ## Versions
 
-
 ### Revision history
-
-
-## Data sources summary
-
-
-## Specific information about this indicator
-
