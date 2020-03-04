@@ -1,341 +1,513 @@
-concept,concept_label,data_start,data_end,last_update,n_records,collection,collection_label,subject,subject_label
-gdp_211p_noc_nb,"Output per worker (GDP constant 2011 international $ in PPP) -- ILO modelled estimates, Nov. 2017",1991,2022,25/01/2018 09:32:40,8736,ILOEST,ILO estimates,LPY,Labour productivity
-gdp_205u_noc_nb,"Output per worker (GDP constant 2010 US $) -- ILO modelled estimates, Nov. 2017",1991,2022,25/01/2018 09:32:40,8736,ILOEST,ILO estimates,LPY,Labour productivity
-pop_2ldr_noc_rt,"Labour dependency ratio -- ILO modelled estimates, November 2017",1991,2022,25/01/2018 09:32:40,8736,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-pop_2pop_sex_age_nb,"Population by sex and age -- UN estimates and projections, July 2017 (thousands)",1990,2030,25/01/2018 09:32:38,1108107,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-pop_2pop_sex_age_geo_nb,"Population by sex, age and rural / urban areas -- UN estimates, July 2017 (thousands)",1990,2015,25/01/2018 09:32:38,486486,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-pop_2pop_geo_nb,"Population by rural / urban areas -- UN estimates and projections, July 2017 (thousands)",1990,2030,25/01/2018 09:32:40,33579,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-eap_2eap_sex_age_nb,"Labour force by sex and age -- ILO modelled estimates, July 2017 (thousands)",1990,2030,25/01/2018 09:32:39,940212,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-eap_2mdn_sex_nb,"Median age of the labour force by sex -- ILO modelled estimates, July 2017 (years)",1990,2030,25/01/2018 09:32:40,23985,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-eap_2wap_sex_age_rt,"Labour force participation rate by sex and age -- ILO modelled estimates, July 2017 (%)",1990,2030,25/01/2018 09:32:39,940212,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_age_nb,"Employment by sex and age -- ILO modelled estimates, Nov. 2017 (thousands)",1991,2022,25/01/2018 09:32:39,78624,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_ste_nb,"Employment by sex and status in employment -- ILO modelled estimates, Nov. 2017 (thousands)",1991,2022,25/01/2018 09:32:39,209664,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_eco_nb,"Employment by sex and economic activity -- ILO modelled estimates, Nov. 2017 (thousands)",1991,2022,02/03/2018 16:09:05,681408,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_ocu_nb,"Employment by sex and occupation -- ILO modelled estimates, Nov. 2017 (thousands)",1991,2022,25/01/2018 09:32:40,104544,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_age_cla_nb,"Employment by sex, age and economic class -- ILO modelled estimates, Nov. 2017 (thousands)",1991,2022,15/02/2018 10:53:07,327456,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_ste_dt,"Employment distribution by status in employment (by sex) -- ILO modelled estimates, Nov. 2017 (%)",1991,2022,25/01/2018 09:32:40,209664,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_eco_dt,"Employment distribution by economic activity (by sex) -- ILO modelled estimates, Nov. 2017 (%)",1991,2022,02/03/2018 16:09:05,681408,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_ocu_dt,"Employment distribution by occupation (by sex) -- ILO modelled estimates, Nov. 2017 (%)",1991,2022,25/01/2018 09:32:40,104544,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2emp_sex_age_cla_dt,"Employment distribution by economic class (by sex and age) -- ILO modelled estimates, Nov. 2017 (%)",1991,2022,15/02/2018 10:52:53,327456,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-emp_2wap_sex_age_rt,"Employment-to-population ratio by sex and age -- ILO modelled estimates, Nov. 2017 (%)",1991,2022,25/01/2018 09:32:39,78624,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-une_2une_sex_age_nb,"Unemployment by sex and age -- ILO modelled estimates, Nov. 2017 (thousands)",1991,2022,25/01/2018 09:32:39,78624,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-une_2eap_sex_age_rt,"Unemployment rate by sex and age -- ILO modelled estimates, Nov. 2017 (%)",1991,2022,25/01/2018 09:32:39,78624,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-eip_2eip_sex_age_nb,Persons outside the labour force by sex and age -- ILO modelled estimates July 2017 (thousands),1990,2030,25/01/2018 09:32:39,940212,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-eip_2wap_sex_age_rt,"Inactivity rate by sex and age -- ILO modelled estimates, July 2017 (%)",1990,2030,25/01/2018 09:32:40,940212,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-ear_mree_noc_gr,"Mean real monthly earnings of employees, annual growth -- ILO modelled estimates, Dec. 2016 (%)",1999,2015,10/03/2017 15:02:47,1876,ILOEST,ILO estimates,ILOEST,ILO modelled estimates
-sdg_0111_sex_age_rt,[1.1.1] Working poverty rate (percentage of employed living below US$1.90 PPP) (%),2000,2017,27/05/2018 08:18:21,24300,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0131_sex_soc_rt,[1.3.1] Proportion of population covered by social protection floors/systems (%),2010,2016,20/09/2017 15:47:42,797,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0552_ocu_rt,[5.5.2] Female share of employment in managerial positions (%),2000,2017,27/05/2018 08:18:11,2267,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0821_noc_rt,[8.2.1] Annual growth rate of output per worker (measured as GDP in constant 2011 international $ in PPP) (%),2001,2017,27/05/2018 08:18:02,3349,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_a831_sex_rt,[8.3.1] Proportion of informal employment in non-agricultural employment (%),2004,2016,27/05/2018 08:19:07,464,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_b831_sex_rt,[8.3.1] Proportion of informal employment in non-agricultural employment -- Harmonized series (%),2001,2017,27/05/2018 08:19:37,765,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0851_sex_ocu_nb,[8.5.1] Average hourly earnings of female and male employees (Local currency),2000,2016,27/05/2018 08:17:41,5801,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0852_sex_age_rt,[8.5.2] Unemployment rate (%),2000,2017,27/05/2018 08:18:47,19526,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0852_sex_dsb_rt,[8.5.2] Unemployment rate by disability status (%),2005,2017,27/05/2018 08:19:44,977,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0861_sex_rt,"[8.6.1] Proportion of youth (aged 15-24 years) not in education, employment or training (%)",2000,2017,27/05/2018 08:19:21,3074,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0871_sex_age_nb,[8.7.1] Number of children aged 5-17 years engaged in child labour,2000,2015,27/05/2018 08:17:48,1077,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0871_sex_age_rt,[8.7.1] Proportion of children aged 5-17 years engaged in child labour (%),2000,2015,27/05/2018 08:19:26,1452,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_n881_sex_mig_rt,[8.8.1] Non-fatal occupational injuries per 100'000 workers,2000,2016,27/05/2018 08:18:54,304,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_f881_sex_mig_rt,[8.8.1] Fatal occupational injuries per 100'000 workers,2000,2017,27/05/2018 08:19:14,2896,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_0922_noc_rt,[9.2.2] Manufacturing employment as a proportion of total employment (%),2000,2017,27/05/2018 08:19:01,1713,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-sdg_1041_noc_rt,[10.4.1] Labour income share as a percent of GDP (%),2000,2017,27/05/2018 08:19:33,753,SDG,SDG labour market indicators,SDG,SDG labour market indicators
-cpi_ncyr_coi_rt,"National consumer price index (CPI) by COICOP, percentage change from previous year (%)",1951,2017,27/05/2018 07:44:07,23806,YI,Yearly indicators,CPI,Consumer prices
-cpi_nwgt_coi_dt,"National consumer price index (CPI) by COICOP, country weights",1980,2017,27/05/2018 07:45:23,20917,YI,Yearly indicators,CPI,Consumer prices
-ifl_4iem_sex_eco_ifl_rt,Informal employment and informal sector as a percent of employment by sex -- Harmonized series (%),1999,2017,27/05/2018 06:46:02,3225,YI,Yearly indicators,EMP,Employment
-pop_xwap_sex_age_nb,Working-age population by sex and age (thousands),1945,2017,27/05/2018 07:08:45,302379,YI,Yearly indicators,EAP,Population and labour force
-pop_xwap_sex_age_edu_nb,"Working-age population by sex, age and education (thousands)",1990,2017,27/05/2018 07:09:09,798556,YI,Yearly indicators,EAP,Population and labour force
-pop_xwap_sex_age_geo_nb,"Working-age population by sex, age and rural / urban areas (thousands)",1990,2017,27/05/2018 07:09:26,157657,YI,Yearly indicators,EAP,Population and labour force
-eap_teap_sex_age_nb,Labour force by sex and age (thousands),1945,2017,27/05/2018 07:09:52,301542,YI,Yearly indicators,EAP,Population and labour force
-eap_teap_sex_age_edu_nb,"Labour force by sex, age and education (thousands)",1980,2017,27/05/2018 07:10:37,935701,YI,Yearly indicators,EAP,Population and labour force
-eap_teap_sex_age_geo_nb,"Labour force by sex, age and rural / urban areas (thousands)",1982,2017,27/05/2018 07:10:58,156608,YI,Yearly indicators,EAP,Population and labour force
-eap_teap_sex_dsb_nb,Labour force by sex and disability status (thousands),2005,2017,25/05/2018 13:06:47,846,YI,Yearly indicators,EAP,Population and labour force
-eap_teap_sex_age_edu_dt,Labour force distribution by education (by sex and age) (%),1980,2017,27/05/2018 07:12:00,921293,YI,Yearly indicators,EAP,Population and labour force
-eap_dwap_sex_age_rt,Labour force participation rate by sex and age (%),1945,2017,27/05/2018 07:10:10,285162,YI,Yearly indicators,EAP,Population and labour force
-eap_dwap_sex_age_edu_rt,"Labour force participation rate by sex, age and education (%)",1990,2017,27/05/2018 07:11:35,739766,YI,Yearly indicators,EAP,Population and labour force
-eap_dwap_sex_age_geo_rt,"Labour force participation rate by sex, age and rural / urban areas (%)",1990,2017,27/05/2018 07:11:14,153247,YI,Yearly indicators,EAP,Population and labour force
-emp_temp_sex_age_nb,Employment by sex and age (thousands),1947,2017,27/05/2018 07:12:19,185011,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_age_edu_nb,"Employment by sex, age and education (thousands)",1980,2017,27/05/2018 07:12:57,777882,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_dsb_nb,Employment by sex and disability status (thousands),2005,2017,25/05/2018 13:06:47,855,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_age_geo_nb,"Employment by sex, age and rural / urban areas (thousands)",1952,2017,27/05/2018 07:14:43,157353,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_ste_nb,Employment by sex and status in employment (thousands),1948,2017,27/05/2018 06:06:19,61446,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_ins_nb,Employment by sex and institutional sector (thousands),1976,2017,27/05/2018 06:06:27,8137,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_eco_nb,Employment by sex and economic activity (thousands),1947,2017,27/05/2018 06:19:56,311102,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_eco2_nb,Employment by sex and economic activity - selected ISIC level 2 (thousands),1991,2017,25/05/2018 13:06:49,47421,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_ocu_nb,Employment by sex and occupation (thousands),1969,2017,27/05/2018 07:13:39,124892,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_ocu2_nb,Employment by sex and occupation - selected ISCO level 2 (thousands),1991,2017,25/05/2018 13:06:49,60224,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_how_nb,Employment by sex and weekly hours actually worked (thousands),1976,2017,27/05/2018 06:09:42,35195,YI,Yearly indicators,EMP,Employment
-emp_temp_eco_ocu_nb,Employment by economic activity and occupation (thousands),1992,2017,27/05/2018 07:14:01,577127,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_age_edu_dt,Employment distribution by education (by sex and age) (%),1980,2017,27/05/2018 07:16:21,760451,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_eco_dt,Employment distribution by economic activity (by sex) (%),1947,2017,27/05/2018 07:15:52,251437,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_ocu_dt,Employment distribution by occupation (by sex) (%),1969,2017,27/05/2018 07:15:35,122064,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_ste_dt,Employment distribution by status in employment (by sex) (%),1948,2017,27/05/2018 06:35:39,60555,YI,Yearly indicators,EMP,Employment
-emp_temp_sex_how_dt,Employment distribution by hours actually worked (by sex) (%),1976,2017,27/05/2018 06:37:33,35107,YI,Yearly indicators,EMP,Employment
-emp_xfmg_noc_rt,Female share of employment in senior and middle management (%),1991,2017,27/05/2018 06:42:22,937,YI,Yearly indicators,EMP,Employment
-emp_dwap_sex_age_rt,Employment-to-population ratio by sex and age (%),1947,2017,27/05/2018 07:12:36,172133,YI,Yearly indicators,EMP,Employment
-emp_dwap_sex_age_geo_rt,"Employment-to-population ratio by sex, age and rural / urban areas (%)",1990,2017,27/05/2018 07:14:57,153080,YI,Yearly indicators,EMP,Employment
-emp_pter_sex_rt,Incidence of part-time employment by sex -- Common definition (%),1976,2017,27/05/2018 06:44:07,4252,YI,Yearly indicators,EMP,Employment
-tru_ttru_sex_age_nb,Time-related underemployment by sex and age (thousands),1955,2017,27/05/2018 06:21:19,48015,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-tru_demp_sex_age_rt,Time-related underemployment rate by sex and age (%),1955,2017,27/05/2018 07:39:18,46988,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-ees_tees_sex_eco_nb,Employees by sex and economic activity (thousands),1939,2017,27/05/2018 06:21:29,302700,YI,Yearly indicators,EMP,Employment
-ees_tees_sex_ocu_nb,Employees by sex and occupation (thousands),1991,2017,27/05/2018 06:22:04,66590,YI,Yearly indicators,EMP,Employment
-une_tune_sex_age_nb,Unemployment by sex and age (thousands),1947,2017,27/05/2018 07:20:14,296922,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_dsb_nb,Unemployment by sex and disability status (thousands),2005,2017,25/05/2018 13:06:47,1178,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_age_edu_nb,"Unemployment by sex, age and education (thousands)",1976,2017,27/05/2018 07:20:59,693349,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_age_geo_nb,"Unemployment by sex, age and rural / urban areas (thousands)",1982,2017,27/05/2018 07:22:23,147750,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_age_dur_nb,"Unemployment by sex, age and duration (thousands)",1948,2017,27/05/2018 07:21:33,660076,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_eco_nb,Unemployment of previously employed persons by sex and former economic activity (thousands),1970,2017,27/05/2018 06:24:25,190912,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_ocu_nb,Unemployment of previously employed persons by sex and former occupation (thousands),1969,2017,27/05/2018 07:22:06,85486,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_age_edu_dt,Unemployment distribution by education (by sex and age) (%),1976,2017,27/05/2018 07:23:46,648557,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_tune_sex_age_dur_dt,Unemployment distribution by duration (by sex and age) (%),1948,2017,27/05/2018 07:24:17,628796,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_deap_sex_age_rt,Unemployment rate by sex and age (%),1947,2017,27/05/2018 07:20:32,214061,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_deap_sex_dsb_rt,Unemployment rate by sex and disability status (%),2005,2017,25/05/2018 13:06:47,1127,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_deap_sex_age_edu_rt,"Unemployment rate by sex, age and education (%)",1980,2017,27/05/2018 07:23:00,624926,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-une_deap_sex_age_geo_rt,"Unemployment rate by sex, age and rural / urban areas (%)",1980,2017,27/05/2018 07:42:20,135682,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-eip_wplf_sex_age_nb,Potential labour force by sex and age (thousands),1976,2017,27/05/2018 06:25:32,28301,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-luu_xlu2_sex_age_rt,Combined rate of time-related underemployment and unemployment (LU2) by sex and age (%),1955,2017,27/05/2018 06:58:16,47635,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-luu_xlu3_sex_age_rt,Combined rate of unemployment and potential labour force (LU3) by sex and age (%),1976,2017,27/05/2018 06:58:31,28318,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-luu_xlu4_sex_age_rt,Composite measure of labour underutilization (LU4) by sex and age (%),1994,2017,27/05/2018 06:58:02,17005,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-eip_teip_sex_age_nb,Persons outside the labour force by sex and age (thousands),1947,2017,27/05/2018 06:25:12,134960,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-eip_wdis_sex_age_nb,Discouraged job-seekers by sex and age (thousands),1990,2017,27/05/2018 07:25:15,45881,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-eip_neet_sex_nb,"Youth not in employment, education or training (NEET) by sex (thousands)",1976,2017,27/05/2018 06:08:24,3377,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-eip_neet_sex_rt,"Share of youth not in employment, education or training (NEET) by sex (%)",1976,2017,27/05/2018 06:58:41,3351,YI,Yearly indicators,LUU,Unemployment and labour underutilization
-how_temp_sex_eco_nb,Mean weekly hours actually worked per employed person by sex and economic activity,1948,2017,27/05/2018 07:27:08,126735,YI,Yearly indicators,HOW,Working time
-how_temp_sex_ocu_nb,Mean weekly hours actually worked per employed person by sex and occupation,1991,2017,27/05/2018 07:27:46,55606,YI,Yearly indicators,HOW,Working time
-how_xees_sex_eco_nb,Mean weekly hours actually worked per employee by sex and economic activity,1969,2017,27/05/2018 07:27:29,143508,YI,Yearly indicators,HOW,Working time
-how_xees_sex_ocu_nb,Mean weekly hours actually worked per employee by sex and occupation,1991,2017,27/05/2018 07:27:59,54721,YI,Yearly indicators,HOW,Working time
-ear_4mth_sex_eco_cur_nb,Mean nominal monthly earnings of employees by sex and economic activity -- Harmonized series,1969,2017,27/05/2018 07:29:24,239544,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_xees_sex_eco_nb,Mean nominal monthly earnings of employees by sex and economic activity (local currency),1969,2017,27/05/2018 07:28:15,109639,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_4mth_sex_ocu_cur_nb,Mean nominal monthly earnings of employees by sex and occupation -- Harmonized series,1992,2017,27/05/2018 07:01:30,55272,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_xees_sex_ocu_nb,Mean nominal monthly earnings of employees by sex and occupation (local currency),1992,2017,27/05/2018 07:28:35,25447,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_4mmn_cur_nb,Statutory nominal gross monthly minimum wage -- Harmonized series,1980,2016,27/05/2018 07:00:43,4862,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_inee_noc_nb,Statutory nominal gross monthly minimum wage (local currency),1980,2016,27/05/2018 06:12:20,2085,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_hees_sex_ocu_nb,Mean nominal hourly earnings of employees by sex and occupation (local currency),1981,2016,23/05/2018 18:07:28,5540,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_4hrl_sex_ocu_cur_nb,Mean nominal hourly earnings of employees by sex and occupation -- Harmonized series,1981,2016,27/05/2018 07:03:30,14978,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_xtlp_sex_rt,Low pay rate by sex (%),1995,2016,25/05/2018 09:34:44,1853,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_xfls_noc_rt,Female share of low pay earners (%),1995,2015,16/11/2017 09:23:41,148,YI,Yearly indicators,EAR,Earnings and labour cost
-ear_ggap_ocu_rt,Gender wage gap by occupation (%),1981,2016,27/05/2018 07:04:01,991,YI,Yearly indicators,EAR,Earnings and labour cost
-cpi_acpi_coi_rt,"National consumer price index (CPI), annual rate of change - discontinued",1970,2014,27/05/2018 07:44:00,37779,YI,Yearly indicators,CPI,Consumer prices
-lac_xees_eco_nb,Mean nominal hourly labour cost per employee by economic activity (local currency),1994,2016,27/05/2018 07:29:53,10418,YI,Yearly indicators,EAR,Earnings and labour cost
-lac_4hrl_eco_cur_nb,Mean nominal hourly labour cost per employee by economic activity -- Harmonized series,1995,2016,27/05/2018 07:30:06,27322,YI,Yearly indicators,EAR,Earnings and labour cost
-inj_days_sex_mig_nb,Days lost due to cases of occupational injury with temporary incapacity for work by sex and migrant status,1975,2017,23/05/2018 18:07:29,4607,YI,Yearly indicators,OSH,Safety and health at work
-inj_days_eco_nb,Days lost due to cases of occupational injury with temporary incapacity for work by economic activity,1975,2016,27/05/2018 07:35:20,14807,YI,Yearly indicators,OSH,Safety and health at work
-inj_fatl_sex_mig_nb,Cases of fatal occupational injury by sex and migrant status,1970,2017,27/05/2018 06:13:16,7374,YI,Yearly indicators,OSH,Safety and health at work
-inj_fatl_eco_nb,Cases of fatal occupational injury by economic activity,1970,2017,27/05/2018 07:36:05,37288,YI,Yearly indicators,OSH,Safety and health at work
-inj_nftl_sex_mig_nb,Cases of non-fatal occupational injury by sex and migrant status,1970,2016,27/05/2018 06:13:20,7243,YI,Yearly indicators,OSH,Safety and health at work
-inj_nftl_eco_nb,Cases of non-fatal occupational injury by economic activity,1970,2016,27/05/2018 07:36:21,32809,YI,Yearly indicators,OSH,Safety and health at work
-inj_nftl_inj_eco_nb,Cases of non-fatal occupational injury by type of incapacity and economic activity,1971,2016,27/05/2018 07:36:45,31154,YI,Yearly indicators,OSH,Safety and health at work
-inj_nftl_sex_inj_mig_nb,"Cases of non-fatal occupational injury by sex, type of incapacity and migrant status",1971,2016,23/05/2018 18:07:29,10943,YI,Yearly indicators,OSH,Safety and health at work
-inj_fatl_sex_mig_rt,Fatal occupational injuries per 100'000 workers by sex and migrant status,1969,2017,27/05/2018 07:06:58,4890,YI,Yearly indicators,OSH,Safety and health at work
-inj_fatl_eco_rt,Fatal occupational injuries per 100'000 workers by economic activity,1969,2016,27/05/2018 07:35:48,28068,YI,Yearly indicators,OSH,Safety and health at work
-inj_nftl_sex_mig_rt,Non-fatal occupational injuries per 100'000 workers by sex and migrant status,1970,2016,27/05/2018 07:06:43,4516,YI,Yearly indicators,OSH,Safety and health at work
-inj_nftl_eco_rt,Non-fatal occupational injuries per 100'000 workers by economic activity,1970,2016,27/05/2018 07:35:33,23851,YI,Yearly indicators,OSH,Safety and health at work
-str_tstr_eco_nb,Number of strikes and lockouts by economic activity,1969,2016,27/05/2018 07:37:03,37791,YI,Yearly indicators,IR,Industrial relations
-str_days_eco_nb,Days not worked due to strikes and lockouts by economic activity,1969,2016,27/05/2018 07:37:33,37273,YI,Yearly indicators,IR,Industrial relations
-str_work_eco_nb,Workers involved in strikes and lockouts by economic activity (thousands),1969,2016,27/05/2018 06:26:11,63484,YI,Yearly indicators,IR,Industrial relations
-str_days_eco_rt,Days not worked per 1000 workers due to strikes and lockouts by economic activity (per 1000 workers),1980,2016,27/05/2018 07:37:50,9873,YI,Yearly indicators,IR,Industrial relations
-lai_wopl_noc_nb,Registered workplaces that could be selected for labour inspection,2000,2015,16/02/2017 11:03:03,233,YI,Yearly indicators,OSH,Safety and health at work
-lai_insp_sex_nb,Number of labour inspectors by sex (thousands),2009,2015,16/02/2017 11:02:09,704,YI,Yearly indicators,OSH,Safety and health at work
-lai_vist_noc_nb,Number of labour inspection visits to workplaces during the year,1996,2015,16/02/2017 10:58:19,359,YI,Yearly indicators,OSH,Safety and health at work
-lai_inde_noc_rt,Inspectors per 10'000 employed persons,2009,2015,27/05/2018 07:07:42,292,YI,Yearly indicators,OSH,Safety and health at work
-lai_vdin_noc_rt,Labour inspection visits per inspector,2009,2015,27/05/2018 07:07:52,308,YI,Yearly indicators,OSH,Safety and health at work
-lap_dgva_noc_rt,Labour income share in GDP (%),1960,2017,27/05/2018 07:40:34,1841,YI,Yearly indicators,EAR,Earnings and labour cost
-ifl_xiem_sex_eco_ifl_nb,Informal employment and informal sector by sex (thousands),2004,2016,28/03/2018 11:39:01,3115,YI,Yearly indicators,EMP,Employment
-ifl_xiem_sex_eco_ifl_rt,Informal employment and informal sector as a percent of employment by sex (%),2004,2016,27/05/2018 06:45:52,1052,YI,Yearly indicators,EMP,Employment
-ifl_4iem_sex_eco_ifl_nb,Informal employment and informal sector by sex -- Harmonized series (thousands),1999,2017,25/05/2018 13:06:46,8160,YI,Yearly indicators,EMP,Employment
-pse_tpse_gov_nb,Public employment by sectors and sub-sectors of national accounts (thousands),1985,2016,05/04/2018 09:41:01,6854,YI,Yearly indicators,EMP,Employment
-ilr_tumt_noc_rt,Trade union density rate (%),2000,2016,12/03/2018 14:32:38,856,IR,Industrial relations,IR,Industrial relations
-ilr_cbct_noc_rt,Collective bargaining coverage rate (%),2000,2016,22/02/2018 10:42:36,623,IR,Industrial relations,IR,Industrial relations
-mst_tpop_sex_mig_nb,"Resident population by sex, total and migrants (thousands)",1990,2016,23/04/2018 15:04:30,1221,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_xwap_sex_edu_mig_nb,"Working-age population by sex and education, total and migrants (thousands)",1991,2017,23/04/2018 15:04:30,1239,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_xwap_sex_mig_nb,"Working-age population by sex, total and migrants (thousands)",1991,2016,23/04/2018 15:04:30,773,MIG,Labour Migration Statistics,MIG,Labour migration
-mna_tpop_sex_cou_nb,Stock of nationals abroad by sex and country of residence (thousands),1993,2015,26/02/2018 16:34:00,1056,MIG,Labour Migration Statistics,MIG,Labour migration
-mfl_xwap_sex_edu_nb,Inflow of working-age migrants by sex and education (thousands),1992,2016,26/02/2018 16:34:00,729,MIG,Labour Migration Statistics,MIG,Labour migration
-mfl_tpop_sex_cou_nb,Inflow of migrants by sex and country of origin (thousands),1980,2016,26/02/2018 16:34:00,3754,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_tpop_cou_nb,Migrants by country of origin (thousands),2000,2016,28/02/2018 15:39:15,2844,MIG,Labour Migration Statistics,MIG,Labour migration
-mna_opop_sex_cou_nb,Outflow of nationals by sex and country of destination (thousands),1997,2016,26/02/2018 16:34:00,1559,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_teap_sex_age_mig_nb,"Labour force by sex and age, total and migrants (thousands)",1991,2016,23/04/2018 15:04:30,830,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_temp_sex_age_mig_nb,"Employment by sex and age, total and migrants (thousands)",1990,2017,23/04/2018 15:04:30,1439,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_temp_sex_ste_mig_nb,"Employment by sex and status in employment, total and migrants (thousands)",1993,2016,23/04/2018 15:04:30,1695,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_temp_eco_mig_nb,"Employment by economic activity, total and migrants (thousands)",1991,2016,23/04/2018 15:04:30,2299,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_temp_ocu_mig_nb,"Employment by occupation, total and migrants (thousands)",1993,2017,23/04/2018 15:04:30,1213,MIG,Labour Migration Statistics,MIG,Labour migration
-mfl_temp_eco_nb,Inflow of employed migrants by economic activity (thousands),1997,2016,01/03/2018 19:13:02,668,MIG,Labour Migration Statistics,MIG,Labour migration
-mfl_temp_ocu_nb,Inflow of employed migrants by occupation (thousands),1997,2016,26/02/2018 16:33:59,668,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_memp_cou_nb,Employed migrants by country of origin (thousands),1992,2017,26/02/2018 16:34:00,2152,MIG,Labour Migration Statistics,MIG,Labour migration
-mna_oemp_sex_cou_nb,Outflow of nationals for employment by sex and country of destination (thousands),1980,2016,26/02/2018 16:34:00,3809,MIG,Labour Migration Statistics,MIG,Labour migration
-mna_oemp_sex_edu_nb,Outflow of nationals for employment by sex and education (thousands),1999,2015,26/02/2018 16:33:59,361,MIG,Labour Migration Statistics,MIG,Labour migration
-mna_oemp_eco_nb,Outflow of nationals for employment by economic activity (thousands),2010,2015,01/03/2018 19:11:24,100,MIG,Labour Migration Statistics,MIG,Labour migration
-mna_oemp_ocu_nb,Outflow of nationals for employment by occupation (thousands),2004,2015,26/02/2018 16:34:00,351,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_eara_sex_mig_nb,"Mean monthly employment-related income of employed persons by sex, total and migrants (local currency)",1999,2016,23/04/2018 15:04:30,295,MIG,Labour Migration Statistics,MIG,Labour migration
-mst_earb_sex_mig_nb,"Median monthly employment-related income of employed persons by sex, total and migrants (local currency)",2007,2016,23/04/2018 15:04:30,93,MIG,Labour Migration Statistics,MIG,Labour migration
-ees_lt30_noc_rt,Share of employees working less than 30 hours per week (%),1976,2017,27/05/2018 08:10:57,1353,KI,Key Indicators,HOW,Working time
-pop_2flf_noc_rt,"Female labour force as % of working-age population -- ILO modelled estimates, July 2017",1990,2018,27/05/2018 07:53:52,7917,KI,Key Indicators,EAP,Population and labour force
-pop_2mlf_noc_rt,"Male labour force as % of working-age population -- ILO modelled estimates, July 2017",1990,2018,27/05/2018 07:53:12,7917,KI,Key Indicators,EAP,Population and labour force
-pop_2tlf_noc_rt,"Persons outside the labour force as % of working-age population -- ILO modelled estimates, July 2017",1990,2018,27/05/2018 07:54:07,7917,KI,Key Indicators,EAP,Population and labour force
-une_2eap_noc_rt,"Unemployment rate -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:05:46,7644,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_2yap_noc_rt,"Unemployment rate, youth -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:05:32,7644,KI,Key Indicators,YTH,Youth
-emp_2eer_noc_rt,"Employers as % of total employment -- ILO modelled estimates, Nov. 2017",1991,2018,27/05/2018 08:01:21,7644,KI,Key Indicators,EMP,Employment
-emp_2ees_noc_rt,"Employees as % of total employment -- ILO modelled estimates, Nov. 2017",1991,2018,27/05/2018 08:00:39,7644,KI,Key Indicators,EMP,Employment
-emp_2oaw_noc_rt,"Own-account workers as % of total employment -- ILO modelled estimates, Nov. 2017",1991,2018,27/05/2018 08:00:24,7644,KI,Key Indicators,EMP,Employment
-emp_2cfw_noc_rt,"Contributing family workers as % of total employment -- ILO modelled estimates, Nov. 2017",1991,2018,27/05/2018 08:01:31,7644,KI,Key Indicators,EMP,Employment
-emp_2agr_noc_rt,"Agriculture as % of total employment -- ILO modelled estimates, Nov. 2017",1991,2018,27/05/2018 08:01:08,7644,KI,Key Indicators,EMP,Employment
-emp_2ind_noc_rt,"Industry as % of total employment -- ILO modelled estimates, Nov. 2017",1991,2018,27/05/2018 08:00:53,7644,KI,Key Indicators,EMP,Employment
-emp_2srv_noc_rt,"Services as % of total employment -- ILO modelled estimates, Nov. 2017",1991,2018,27/05/2018 08:01:42,7644,KI,Key Indicators,EMP,Employment
-eap_2wap_noc_rt,"Labour force participation rate -- ILO modelled estimates, July 2017 (%)",1990,2018,27/05/2018 07:55:45,7917,KI,Key Indicators,EAP,Population and labour force
-eap_2waf_noc_rt,"Labour force participation rate, women -- ILO modelled estimates, July 2017 (%)",1990,2018,27/05/2018 07:55:58,7917,KI,Key Indicators,EAP,Population and labour force
-eap_2wam_noc_rt,"Labour force participation rate, men -- ILO modelled estimates, July 2017 (%)",1990,2018,27/05/2018 07:56:09,7917,KI,Key Indicators,EAP,Population and labour force
-pop_aeda_noc_rt,Share of adult population with advanced education (%),1990,2017,27/05/2018 07:53:01,1302,KI,Key Indicators,EAP,Population and labour force
-emp_2wap_noc_rt,"Employment-to-population ratio -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:02:31,7644,KI,Key Indicators,EMP,Employment
-emp_2mep_noc_rt,"Employment-to-population ratio, men -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:02:10,7644,KI,Key Indicators,EMP,Employment
-emp_2wep_noc_rt,"Employment-to-population ratio, women -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:01:58,7644,KI,Key Indicators,EMP,Employment
-emp_2yep_noc_rt,"Employment-to-population ratio, youth -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:02:20,7644,KI,Key Indicators,YTH,Youth
-eap_dwap_noc_rt,Labour force participation rate (%),1970,2017,27/05/2018 07:54:23,3337,KI,Key Indicators,EAP,Population and labour force
-eap_dwam_noc_rt,"Labour force participation rate, men (%)",1970,2017,27/05/2018 07:54:37,3320,KI,Key Indicators,EAP,Population and labour force
-eap_dwaf_noc_rt,"Labour force participation rate, women (%)",1970,2017,27/05/2018 07:54:55,3320,KI,Key Indicators,EAP,Population and labour force
-eap_dyap_noc_rt,Youth labour force participation rate (%),1970,2017,27/05/2018 07:55:09,3068,KI,Key Indicators,YTH,Youth
-eap_dyam_noc_rt,"Youth labour force participation rate, men (%)",1970,2017,27/05/2018 07:55:21,3046,KI,Key Indicators,YTH,Youth
-eap_dyaf_noc_rt,"Youth labour force participation rate, women (%)",1970,2017,27/05/2018 07:55:34,3046,KI,Key Indicators,YTH,Youth
-une_2urm_noc_rt,"Unemployment rate, men -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:05:59,7644,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_2urw_noc_rt,"Unemployment rate, women -- ILO modelled estimates, Nov. 2017 (%)",1991,2018,27/05/2018 08:06:14,7644,KI,Key Indicators,LUU,Unemployment and labour underutilization
-ear_4mnp_noc_nb,Statutory nominal gross monthly minimum wage -- Harmonized series (constant 2011 PPP $),1991,2016,27/05/2018 08:08:21,1584,KI,Key Indicators,EAR,Earnings and labour cost
-ear_4hpt_noc_nb,Average hourly earnings of employees -- Harmonized series (constant 2011 PPP $),1990,2016,27/05/2018 08:08:17,403,KI,Key Indicators,EAR,Earnings and labour cost
-ear_4hpm_noc_nb,"Average hourly earnings of employees, men -- Harmonized series (constant 2011 PPP $)",1990,2016,27/05/2018 08:08:15,403,KI,Key Indicators,EAR,Earnings and labour cost
-ear_4hpw_noc_nb,"Average hourly earnings of employees, women -- Harmonized series (constant 2011 PPP $)",1990,2016,27/05/2018 08:08:02,403,KI,Key Indicators,EAR,Earnings and labour cost
-ear_4mpt_noc_nb,Average monthly earnings of employees -- Harmonized series (constant 2011 PPP $),1990,2016,27/05/2018 08:07:55,1049,KI,Key Indicators,EAR,Earnings and labour cost
-ear_4mpm_noc_nb,"Average monthly earnings of employees, men -- Harmonized series (constant 2011 PPP $)",1991,2016,27/05/2018 08:08:06,764,KI,Key Indicators,EAR,Earnings and labour cost
-ear_4mpw_noc_nb,"Average monthly earnings of employees, women -- Harmonized series (constant 2011 PPP $)",1991,2016,27/05/2018 08:08:11,762,KI,Key Indicators,EAR,Earnings and labour cost
-lac_4hpt_noc_nb,Average hourly labour cost per employee -- Harmonized series (constant 2011 PPP $),1995,2016,27/05/2018 08:08:33,471,KI,Key Indicators,EAR,Earnings and labour cost
-emp_dwap_noc_rt,Employment-to-population ratio (%),1970,2017,27/05/2018 07:59:43,2009,KI,Key Indicators,EMP,Employment
-emp_dwam_noc_rt,"Employment-to-population ratio, men (%)",1970,2017,27/05/2018 07:59:53,1996,KI,Key Indicators,EMP,Employment
-emp_dwaf_noc_rt,"Employment-to-population ratio, women (%)",1970,2017,27/05/2018 08:00:02,1996,KI,Key Indicators,EMP,Employment
-emp_tagr_noc_rt,Share of agriculture in total employment (%),1970,2017,27/05/2018 07:56:32,3768,KI,Key Indicators,EMP,Employment
-emp_tcfw_noc_rt,Share of contributing family workers in total employment (%),1970,2017,27/05/2018 07:59:09,2560,KI,Key Indicators,EMP,Employment
-emp_teer_noc_rt,Share of employers in total employment (%),1976,2017,27/05/2018 07:58:34,2463,KI,Key Indicators,EMP,Employment
-emp_tind_noc_rt,Share of industry in total employment (%),1970,2017,27/05/2018 07:56:48,3833,KI,Key Indicators,EMP,Employment
-emp_toaw_noc_rt,Share of own-account workers in total employment (%),1970,2017,27/05/2018 07:58:00,2595,KI,Key Indicators,EMP,Employment
-emp_tsrv_noc_rt,Share of services in total employment (%),1970,2017,27/05/2018 07:57:01,3832,KI,Key Indicators,EMP,Employment
-emp_fagr_noc_rt,Female share of employment in agriculture (%),1970,2017,27/05/2018 07:57:13,3268,KI,Key Indicators,EMP,Employment
-emp_fcfw_noc_rt,"Share of contributing family workers in total employment, women (%)",1970,2017,27/05/2018 07:59:30,2482,KI,Key Indicators,EMP,Employment
-emp_feer_noc_rt,"Share of employers in total employment, women (%)",1976,2017,27/05/2018 07:58:59,2408,KI,Key Indicators,EMP,Employment
-emp_find_noc_rt,Female share of employment in industry (%),1970,2017,27/05/2018 07:57:25,3349,KI,Key Indicators,EMP,Employment
-emp_foaw_noc_rt,"Share of own-account workers in total employment, women (%)",1970,2017,27/05/2018 07:58:23,2519,KI,Key Indicators,EMP,Employment
-emp_fsrv_noc_rt,Female share of employment in services (%),1970,2017,27/05/2018 07:57:38,3347,KI,Key Indicators,EMP,Employment
-emp_mcfw_noc_rt,"Share of contributing family workers in total employment, men (%)",1970,2017,27/05/2018 07:59:20,2465,KI,Key Indicators,EMP,Employment
-emp_meer_noc_rt,"Share of employers in total employment, men (%)",1976,2017,27/05/2018 07:58:49,2411,KI,Key Indicators,EMP,Employment
-emp_moaw_noc_rt,"Share of own-account workers in total employment, men (%)",1970,2017,27/05/2018 07:58:11,2520,KI,Key Indicators,EMP,Employment
-tru_demp_noc_rt,Time-related underemployment rate (%),1979,2017,27/05/2018 08:02:43,1035,KI,Key Indicators,LUU,Unemployment and labour underutilization
-tru_demm_noc_rt,"Time-related underemployment rate, men (%)",1979,2017,27/05/2018 08:02:52,1030,KI,Key Indicators,LUU,Unemployment and labour underutilization
-tru_demf_noc_rt,"Time-related underemployment rate, women (%)",1979,2017,27/05/2018 08:03:01,1035,KI,Key Indicators,LUU,Unemployment and labour underutilization
-ees_3048_noc_rt,Share of employees working 30-48 hours per week (%),1976,2017,27/05/2018 08:10:49,1349,KI,Key Indicators,HOW,Working time
-ees_tg48_noc_rt,Share of employees working more than 48 hours per week (%),1976,2017,27/05/2018 08:10:25,1338,KI,Key Indicators,HOW,Working time
-ees_tnag_noc_rt,Share of paid employment in non-agricultural employment (%),1970,2017,27/05/2018 08:09:54,1962,KI,Key Indicators,EMP,Employment
-ees_fnag_noc_rt,"Share of paid employment in non-agricultural employment, women (%)",1970,2017,27/05/2018 08:10:14,1877,KI,Key Indicators,EMP,Employment
-ees_mg48_noc_rt,"Share of employees working more than 48 hours per week, men (%)",1976,2017,27/05/2018 08:10:33,1338,KI,Key Indicators,HOW,Working time
-ees_fg48_noc_rt,"Share of employees working more than 48 hours per week, women (%)",1976,2017,27/05/2018 08:10:41,1337,KI,Key Indicators,HOW,Working time
-ees_mnag_noc_rt,"Share of paid employment in non-agricultural employment, men (%)",1970,2017,27/05/2018 08:10:05,1872,KI,Key Indicators,EMP,Employment
-une_deap_noc_rt,Unemployment rate (%),1970,2017,27/05/2018 08:03:13,3577,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_dyap_noc_rt,Youth unemployment rate (%),1970,2017,27/05/2018 08:04:00,2520,KI,Key Indicators,YTH,Youth
-une_deam_noc_rt,"Unemployment rate, men (%)",1970,2017,27/05/2018 08:03:27,3287,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_dyam_noc_rt,"Youth unemployment rate, men (%)",1970,2017,27/05/2018 08:04:16,2494,KI,Key Indicators,YTH,Youth
-une_deaf_noc_rt,"Unemployment rate, women (%)",1970,2017,27/05/2018 08:03:40,3290,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_dyaf_noc_rt,"Youth unemployment rate, women (%)",1970,2017,27/05/2018 08:04:36,2495,KI,Key Indicators,YTH,Youth
-pov_plt1_noc_rt,"Extremely poor (<US$1.90, PPP) as % of total employment -- ILO modelled estimates",1991,2018,27/05/2018 08:09:23,5936,KI,Key Indicators,POV,Employment by economic class
-pov_p2t3_noc_rt,"Moderately poor (>=US$1.90 & <US$3.10, PPP) as % of total employment -- ILO modelled estimates",1991,2018,27/05/2018 08:09:35,5936,KI,Key Indicators,POV,Employment by economic class
-pov_p3t5_noc_rt,"Near poor (>=US$3.10 & <US$5, PPP) as % of total employment -- ILO modelled estimates",1991,2018,27/05/2018 08:09:16,5712,KI,Key Indicators,POV,Employment by economic class
-une_edad_noc_rt,Share of unemployed persons with advanced education (%),1976,2017,27/05/2018 08:05:17,2163,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_edbs_noc_rt,Share of unemployed persons with basic education (%),1976,2017,27/05/2018 08:04:53,2168,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_edin_noc_rt,Share of unemployed persons with intermediate education (%),1976,2017,27/05/2018 08:05:06,2149,KI,Key Indicators,LUU,Unemployment and labour underutilization
-une_lgtd_noc_rt,Share of long term unemployment in total unemployment (%),1970,2017,27/05/2018 08:05:25,1512,KI,Key Indicators,LUU,Unemployment and labour underutilization
-eip_tnee_noc_rt,"Share of youth not in employment, education or training (NEET) (%)",1976,2017,27/05/2018 08:06:31,1131,KI,Key Indicators,YTH,Youth
-eip_mnee_noc_rt,"Share of youth not in employment, education or training (NEET), men (%)",1976,2017,27/05/2018 08:06:39,1108,KI,Key Indicators,YTH,Youth
-eip_fnee_noc_rt,"Share of youth not in employment, education or training (NEET), women (%)",1976,2017,27/05/2018 08:06:47,1108,KI,Key Indicators,YTH,Youth
-how_temp_noc_nb,Mean weekly hours actually worked per employed person,1970,2017,27/05/2018 08:06:54,1555,KI,Key Indicators,HOW,Working time
-ear_tear_noc_nb,Average monthly earnings of employees (local currency),1970,2017,27/05/2018 08:07:11,1807,KI,Key Indicators,EAR,Earnings and labour cost
-ear_xmfg_noc_nb,"Average monthly earnings of employees, manufacturing (local currency)",1990,2017,27/05/2018 08:07:42,514,KI,Key Indicators,EAR,Earnings and labour cost
-ear_mear_noc_nb,"Average monthly earnings of employees, men (local currency)",1972,2017,27/05/2018 08:07:24,1164,KI,Key Indicators,EAR,Earnings and labour cost
-ear_fear_noc_nb,"Average monthly earnings of employees, women (local currency)",1972,2017,27/05/2018 08:07:36,1118,KI,Key Indicators,EAR,Earnings and labour cost
-ear_ggap_noc_rt,Gender wage gap (%),1981,2016,27/05/2018 08:07:00,383,KI,Key Indicators,EAR,Earnings and labour cost
-lac_tlac_noc_nb,Labour cost per employee (local currency),1994,2016,27/05/2018 08:08:25,504,KI,Key Indicators,EAR,Earnings and labour cost
-lac_xmfg_noc_nb,"Labour cost per employee, manufacturing (local currency)",1994,2016,27/05/2018 08:08:29,623,KI,Key Indicators,EAR,Earnings and labour cost
-soc_soct_noc_rt,Share of unemployed receiving regular periodic social security unemployment benefits (%),2000,2013,27/05/2018 08:12:24,1084,KI,Key Indicators,SOC,Social protection
-soc_hext_noc_rt,Total health expenditure as a percent of GDP (%),2000,2011,27/05/2018 08:11:27,2133,KI,Key Indicators,SOC,Social protection
-soc_hexr_noc_rt,Private health expenditure as a percent of GDP (%),2000,2011,27/05/2018 08:11:32,2207,KI,Key Indicators,SOC,Social protection
-soc_hexu_noc_rt,Public health expenditure as a percent of GDP (%),2000,2011,27/05/2018 08:11:38,2169,KI,Key Indicators,SOC,Social protection
-soc_pext_noc_rt,Public social protection expenditure [all functions] as a percent of GDP (%),2000,2013,27/05/2018 08:11:43,935,KI,Key Indicators,SOC,Social protection
-soc_pexn_noc_rt,Public social protection expenditure [excluding health care] as a percent of GDP (%),2000,2012,27/05/2018 08:11:45,808,KI,Key Indicators,SOC,Social protection
-soc_ebeo_noc_rt,Public social protection expenditure on old age and survivors' benefits as a percent of GDP (%),2001,2012,27/05/2018 08:11:48,142,KI,Key Indicators,SOC,Social protection
-soc_ebew_noc_rt,Public social protection expenditure on benefits for the working age as a percent of GDP (%),2003,2012,27/05/2018 08:11:49,114,KI,Key Indicators,SOC,Social protection
-soc_ebec_noc_rt,Public social protection expenditure on benefits for children as a percent of GDP (%),2003,2012,27/05/2018 08:11:50,113,KI,Key Indicators,SOC,Social protection
-soc_wbet_noc_rt,Public social protection expenditure on benefits for the working age [including general social assistance] as a percent of GDP (%),2003,2012,27/05/2018 08:11:52,113,KI,Key Indicators,SOC,Social protection
-soc_ppnt_noc_rt,Share of population above statutory pensionable age receiving an old age pension (%),2000,2013,27/05/2018 08:11:59,281,KI,Key Indicators,SOC,Social protection
-soc_ceat_noc_rt,Active contributors to an old age contributory scheme as a percent of labour force (%),2004,2012,27/05/2018 08:12:17,138,KI,Key Indicators,SOC,Social protection
-soc_cwat_noc_rt,Active contributors to an old age contributory scheme as a percent of the working-age population (%),2003,2012,27/05/2018 08:12:22,156,KI,Key Indicators,SOC,Social protection
-inj_irnf_noc_rt,Non-fatal occupational injuries per 100'000 workers,1970,2016,27/05/2018 08:08:46,2143,KI,Key Indicators,OSH,Safety and health at work
-inj_tlpi_noc_nb,Days lost per occupational injury,1975,2017,27/05/2018 08:08:54,1736,KI,Key Indicators,OSH,Safety and health at work
-inj_irfa_noc_rt,Fatal occupational injuries per 100'000 workers,1970,2017,27/05/2018 08:08:39,2520,KI,Key Indicators,OSH,Safety and health at work
-str_days_noc_rt,Days not worked per 1000 workers due to strikes and lockouts (per 1000 workers),1980,2016,27/05/2018 08:08:59,767,KI,Key Indicators,IR,Industrial relations
-pov_demm_noc_rt,"Working poverty rate, men (%)",2007,2016,27/05/2018 08:09:09,170,KI,Key Indicators,POV,Employment by economic class
-pov_demf_noc_rt,"Working poverty rate, women (%)",2007,2016,27/05/2018 08:09:13,170,KI,Key Indicators,POV,Employment by economic class
-pov_demp_noc_rt,Working poverty rate (%),2007,2016,27/05/2018 08:09:05,177,KI,Key Indicators,POV,Employment by economic class
-ees_xtmp_sex_rt,Share of temporary employees by sex (%),1980,2017,27/04/2018 13:26:30,4032,NSW,Non-standard forms of work - ad hoc collection (latest period: 2016),EMP,Employment
-soc_hexp_ins_rt,Total health expenditure as a percent of GDP by institutional sector (%),2000,2011,25/09/2014 09:57:38,6509,SSI,Social Security Indicators,SOC,Social protection
-soc_socp_sex_soc_rt,Share of unemployed receiving regular periodic social security unemployment benefits by schemes and sex (%),2000,2013,25/09/2014 09:57:38,1090,SSI,Social Security Indicators,SOC,Social protection
-soc_hcov_noc_rt,Social health protection coverage as a percent of total population (%),2001,2011,25/09/2014 09:57:38,156,SSI,Social Security Indicators,SOC,Social protection
-soc_nphc_noc_rt,Percentage of health care expenditure not financed by private households' out of pocket payments (%),2000,2011,25/09/2014 09:57:38,2207,SSI,Social Security Indicators,SOC,Social protection
-soc_egge_noc_rt,Public health expenditure as a percent of General Government Expenditure (%),2000,2011,25/09/2014 09:57:38,2050,SSI,Social Security Indicators,SOC,Social protection
-soc_pspe_exp_rt,Public social protection expenditure as a percent of GDP in function of health care (%),2000,2013,25/09/2014 09:57:38,1743,SSI,Social Security Indicators,SOC,Social protection
-soc_eben_age_rt,Public social protection expenditure on benefits as a percent of GDP by age (%),2001,2012,25/09/2014 09:57:38,369,SSI,Social Security Indicators,SOC,Social protection
-soc_wben_gsa_rt,Public social protection expenditure on benefits for the working-age as a percent of GDP in function of general social assistance (%),2003,2012,25/09/2014 09:57:38,113,SSI,Social Security Indicators,SOC,Social protection
-soc_ppen_sex_typ_rt,Share of population above statutory pensionable age receiving an old age pension by contribution and sex (%),2000,2013,25/09/2014 09:57:38,377,SSI,Social Security Indicators,SOC,Social protection
-soc_ceap_sex_rt,Active contributors to an old age contributory scheme as a percent of labour force by sex (%),2004,2012,25/09/2014 09:57:38,138,SSI,Social Security Indicators,SOC,Social protection
-soc_cwap_sex_rt,Active contributors to an old age contributory scheme as a percent of the working age population by sex (%),2003,2012,25/09/2014 09:57:38,156,SSI,Social Security Indicators,SOC,Social protection
-soc_hcov_geo_rt,Legal health coverage deficit by rural / urban areas (% of population without legal coverage) (%),1995,2011,14/12/2015 11:49:19,483,RUR,Rural economy - ad hoc collection (latest period: 2014),SOC,Social protection
-soc_oope_geo_rt,Out-of-pocket expenditure as a percentage of total health expenditure by rural / urban areas (%),1996,2011,14/12/2015 11:49:19,414,RUR,Rural economy - ad hoc collection (latest period: 2014),SOC,Social protection
-soc_mmpb_geo_rt,Maternal mortality ratio per 10 000 live births by rural / urban areas (%),1999,2013,14/12/2015 11:49:19,457,RUR,Rural economy - ad hoc collection (latest period: 2014),SOC,Social protection
-soc_cgfr_geo_rt,Financial deficit by rural / urban areas (% of population not covered due to financial resource deficit) (%),1999,2013,14/12/2015 11:49:19,459,RUR,Rural economy - ad hoc collection (latest period: 2014),SOC,Social protection
-soc_cghp_geo_rt,Staff access deficit by rural / urban areas (% of population not covered due to health professional staff deficit) (%),1999,2013,14/12/2015 11:49:19,508,RUR,Rural economy - ad hoc collection (latest period: 2014),SOC,Social protection
-soc_ppen_sex_geo_rt,Share of population above statutory pensionable age receiving a contributory old age pension by sex and rural / urban areas (%),2005,2011,10/12/2014 11:46:39,180,RUR,Rural economy - ad hoc collection (latest period: 2014),SOC,Social protection
-soc_ceap_sex_geo_rt,Active contributors to an old age contributory scheme as a percent of employment by sex and rural / urban areas (%),2005,2011,10/12/2014 11:46:39,189,RUR,Rural economy - ad hoc collection (latest period: 2014),SOC,Social protection
-pop_3wap_sex_age_geo_nb,"Youth working-age population by sex, age and rural / urban areas (thousands)",2002,2013,23/02/2015 11:20:17,3924,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-pop_3wap_sex_age_edu_nb,"Youth working-age population by sex, age and education (thousands)",2002,2011,12/06/2017 13:14:20,5208,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-pop_3wap_sex_age_stu_nb,"Youth working-age population by sex, age and school attendance status (thousands)",2002,2013,12/06/2017 13:14:20,3942,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-pop_3wap_sex_age_lms_nb,"Youth working-age population by sex, age and labour market status (thousands)",2002,2013,12/06/2017 13:14:20,6963,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eap_3eap_sex_age_geo_nb,"Youth labour force by sex, age and rural / urban areas (thousands)",2002,2013,23/02/2015 11:20:15,3706,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eap_3eap_sex_age_edu_nb,"Youth labour force by sex, age and education (thousands)",2002,2011,12/06/2017 13:41:21,4985,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eap_3eap_sex_age_stu_nb,"Youth labour force by sex, age and school attendance status (thousands)",2002,2013,12/06/2017 13:41:21,3815,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eap_3wap_sex_age_geo_rt,"Youth labour force participation rate by sex, age and rural / urban areas (%)",2002,2013,14/07/2017 13:54:34,3760,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eap_3wap_sex_age_edu_rt,"Youth labour force participation rate by sex, age and education (%)",2002,2011,14/07/2017 13:54:34,4985,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eap_3wap_sex_age_stu_rt,"Youth labour force participation rate by sex, age and school attendance status (%)",2002,2013,14/07/2017 13:54:34,3815,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_geo_nb,"Youth employment by sex, age and rural / urban areas (thousands)",2002,2013,23/02/2015 11:20:17,3924,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_edu_nb,"Youth employment by sex, age and education (thousands)",2002,2011,12/06/2017 14:41:19,4908,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_stu_nb,"Youth employment by sex, age and school attendance status (thousands)",2002,2013,12/06/2017 15:25:58,3927,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_ste_nb,"Youth employment by sex, age and status in employment (thousands)",2002,2013,12/06/2017 16:09:18,7748,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_eco_nb,"Youth employment by sex, age and economic activity (thousands)",2002,2011,12/06/2017 16:09:18,13852,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_ocu_nb,"Youth employment by sex, age and occupation (thousands)",2002,2011,12/06/2017 16:09:18,6908,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_how_nb,"Youth employment by sex, age and weekly hours actually worked (thousands)",2002,2011,12/06/2017 16:09:18,6541,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3emp_sex_age_job_nb,"Youth employment by sex, age and working time arrangement (thousands)",2002,2011,12/06/2017 16:09:18,2322,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3wap_sex_age_geo_rt,"Youth employment-to-population ratio by sex, age and rural / urban areas (%)",2002,2013,14/07/2017 13:54:34,3978,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3wap_sex_age_edu_rt,"Youth employment-to-population ratio by sex, age and education (%)",2002,2011,14/07/2017 13:54:34,4908,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-emp_3wap_sex_age_stu_rt,"Youth employment-to-population ratio by sex, age and school attendance status (%)",2002,2013,14/07/2017 13:54:34,3927,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-tru_3tru_sex_age_geo_nb,"Youth time-related underemployment by sex, age and rural / urban areas (thousands)",2003,2013,23/02/2015 11:20:17,2589,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-ees_3ees_sex_age_job_nb,"Youth employees by sex, age and type of job contract (thousands)",2004,2011,12/06/2017 16:09:18,1406,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3une_sex_age_geo_nb,"Youth unemployment by sex, age and rural / urban areas (thousands)",2002,2013,23/02/2015 11:20:16,3699,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3une_sex_age_edu_nb,"Youth unemployment by sex, age and education (thousands)",2002,2011,12/06/2017 14:41:19,4316,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3une_sex_age_stu_nb,"Youth unemployment by sex, age and school attendance status (thousands)",2002,2013,12/06/2017 15:25:58,3723,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3une_sex_age_cat_nb,"Youth unemployment by sex, age and categories of unemployed persons (thousands)",2003,2011,12/06/2017 16:09:18,1619,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3une_sex_age_dur_nb,"Youth unemployment by sex, age and duration (thousands)",2002,2011,12/06/2017 16:09:18,1716,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3elu_sex_age_geo_nb,"Youth unemployment (extended definition) by sex, age and rural / urban areas (thousands)",2002,2013,23/02/2015 11:20:16,3168,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3eap_sex_age_geo_rt,"Youth unemployment rate by sex, age and rural / urban areas (%)",2002,2013,14/07/2017 13:54:34,3744,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3eap_sex_age_edu_rt,"Youth unemployment rate by sex, age and education (%)",2002,2011,14/07/2017 13:54:34,4316,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3eap_sex_age_stu_rt,"Youth unemployment rate by sex, age and school attendance status (%)",2002,2013,14/07/2017 13:54:34,3723,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3wap_sex_age_stu_rt,"Youth unemployment-to-population ratio by sex, age and school attendance status (%)",2002,2013,14/07/2017 13:54:34,3723,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-une_3elu_sex_age_geo_rt,"Youth unemployment rate (extended definition) by sex, age and rural / urban areas (%)",2002,2013,23/02/2015 11:20:17,3162,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3eip_sex_age_geo_nb,"Youth outside the labour force by sex, age and rural / urban areas (thousands)",2002,2013,23/02/2015 11:20:17,3708,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3eip_sex_age_edu_nb,"Youth outside the labour force by sex, age and education (thousands)",2002,2011,12/06/2017 14:41:19,5013,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3eip_sex_age_stu_nb,"Youth outside the labour force by sex, age and school attendance status (thousands)",2002,2013,12/06/2017 15:25:58,3825,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3eet_sex_age_geo_nb,"Youth not in employment, education or training (NEET) by sex, age and rural / urban areas (thousands)",2002,2013,23/02/2015 11:20:17,3582,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3dis_sex_age_geo_nb,"Youth discouraged job-seekers by sex, age and rural / urban areas (thousands)",2003,2013,23/02/2015 11:20:16,1659,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3wap_sex_age_geo_rt,"Youth inactivity rate by sex, age and rural / urban areas (%)",2002,2013,14/07/2017 13:54:34,3762,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3wap_sex_age_edu_rt,"Youth inactivity rate by sex, age and education (%)",2002,2011,14/07/2017 13:54:34,5013,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3wap_sex_age_stu_rt,"Youth inactivity rate by sex, age and school attendance status (%)",2002,2013,14/07/2017 13:54:34,3825,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3eet_sex_age_geo_rt,"Share of youth not in employment, education or training (NEET) by sex, age and rural / urban areas (%)",2002,2013,23/02/2015 11:20:17,3581,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
-eip_3dis_sex_age_geo_rt,Youth unemployed plus youth discouraged job-seekers as a percent of youth labour force plus youth discouraged job-seekers by sex (%),2003,2011,14/04/2014 09:09:14,1422,YTH,youthSTATS - discontinued (latest period: 2013),YTH,Youth
+concept,concept_label,data_start,data_end,last_update,n_records,collection,collection_label,subject,subject_label,concept_type
+cpi_acpi_coi_rt,"National consumer price index (CPI), annual rate of change - discontinued",1970,2014,13/04/2019 13:27:59,32743,YI,Yearly indicators,CPI,Consumer prices,measure
+cpi_ncyr_coi_rt,"National consumer price index (CPI) by COICOP, percentage change from previous year (%)",1951,2018,13/11/2019 15:28:51,29038,YI,Yearly indicators,CPI,Consumer prices,measure
+cpi_nwgt_coi_dt,"National consumer price index (CPI) by COICOP, country weights",1980,2018,13/11/2019 15:28:46,26146,YI,Yearly indicators,CPI,Consumer prices,measure
+eap_2eap_sex_age_geo_nb,"Labour force by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+eap_2eap_sex_age_nb,"Labour force by sex and age -- ILO modelled estimates, July 2019 (thousands)",1990,2030,21/01/2020 15:48:57,947100,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+eap_2mdn_sex_nb,"Median age of the labour force by sex -- ILO modelled estimates, July 2019 (years)",1990,2030,10/01/2020 08:28:05,26937,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+eap_2waf_noc_rt,"Labour force participation rate, women -- ILO modelled estimates, July 2019 (%)",1990,2020,02/02/2020 08:04:47,8215,KI,Key Indicators,EAP,Population and labour force,measure
+eap_2wam_noc_rt,"Labour force participation rate, men -- ILO modelled estimates, July 2019 (%)",1990,2020,02/02/2020 08:05:06,8215,KI,Key Indicators,EAP,Population and labour force,measure
+eap_2wap_noc_rt,"Labour force participation rate -- ILO modelled estimates, July 2019 (%)",1990,2020,02/02/2020 08:04:30,8215,KI,Key Indicators,EAP,Population and labour force,measure
+eap_2wap_sex_age_geo_rt,"Labour force participation rate by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+eap_2wap_sex_age_rt,"Labour force participation rate by sex and age -- ILO modelled estimates, July 2019 (%)",1990,2030,21/01/2020 15:48:57,947100,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+eap_3eap_sex_age_edu_nb,"Youth labour force by sex, age and education (thousands)",1990,2019,16/01/2020 12:15:48,75626,YTH,youthSTATS,YTH,Youth,measure
+eap_3eap_sex_age_geo_nb,"Youth labour force by sex, age and rural / urban areas (thousands)",1990,2019,16/01/2020 12:15:48,41450,YTH,youthSTATS,YTH,Youth,measure
+eap_3eap_sex_age_stu_nb,"Youth labour force by sex, age and school attendance status (thousands)",1976,2019,16/01/2020 12:15:48,42291,YTH,youthSTATS,YTH,Youth,measure
+eap_3wap_sex_age_edu_rt,"Youth labour force participation rate by sex, age and education (%)",1990,2019,16/01/2020 12:15:48,75589,YTH,youthSTATS,YTH,Youth,measure
+eap_3wap_sex_age_geo_rt,"Youth labour force participation rate by sex, age and rural / urban areas (%)",1990,2019,16/01/2020 12:15:48,41449,YTH,youthSTATS,YTH,Youth,measure
+eap_3wap_sex_age_stu_rt,"Youth labour force participation rate by sex, age and school attendance status (%)",1976,2019,16/01/2020 12:15:48,42273,YTH,youthSTATS,YTH,Youth,measure
+eap_dwaf_noc_rt,"Labour force participation rate, women (%)",1990,2019,02/02/2020 08:02:50,2509,KI,Key Indicators,EAP,Population and labour force,measure
+eap_dwam_noc_rt,"Labour force participation rate, men (%)",1990,2019,02/02/2020 08:02:23,2508,KI,Key Indicators,EAP,Population and labour force,measure
+eap_dwap_noc_rt,Labour force participation rate (%),1990,2019,02/02/2020 08:01:47,2523,KI,Key Indicators,EAP,Population and labour force,measure
+eap_dwap_sex_age_edu_rt,"Labour force participation rate by sex, age and education (%)",1990,2019,02/02/2020 06:33:06,847351,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_dwap_sex_age_geo_rt,"Labour force participation rate by sex, age and rural / urban areas (%)",1990,2019,02/02/2020 06:49:24,176974,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_dwap_sex_age_mts_rt,"Labour force participation rate by sex, age and marital status (%)",1990,2019,15/01/2020 21:35:07,262056,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+eap_dwap_sex_age_rt,Labour force participation rate by sex and age (%),1946,2019,02/02/2020 06:48:25,279836,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_dwap_sex_edu_geo_rt,"Labour force participation rate by sex, education and rural / urban areas (%)",1994,2019,15/01/2020 21:35:07,48211,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_dwap_sex_edu_mts_rt,"Labour force participation rate by sex, education and marital status (%)",1994,2019,15/01/2020 21:35:07,232899,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+eap_dwap_sex_mts_rt,Labour force participation rate by sex and marital status (%),1998,2018,05/10/2019 14:49:51,2077,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+eap_dyaf_noc_rt,"Youth labour force participation rate, women (%)",1990,2019,02/02/2020 08:04:00,2349,KI,Key Indicators,YTH,Youth,measure
+eap_dyam_noc_rt,"Youth labour force participation rate, men (%)",1990,2019,02/02/2020 08:03:40,2349,KI,Key Indicators,YTH,Youth,measure
+eap_dyap_noc_rt,Youth labour force participation rate (%),1990,2019,02/02/2020 08:03:13,2366,KI,Key Indicators,YTH,Youth,measure
+eap_teap_sex_age_edu_dt,Labour force distribution by education (by sex and age) (%),1980,2019,02/02/2020 06:30:55,956077,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_teap_sex_age_edu_nb,"Labour force by sex, age and education (thousands)",1980,2019,02/02/2020 06:29:51,974059,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_teap_sex_age_geo_nb,"Labour force by sex, age and rural / urban areas (thousands)",1982,2019,02/02/2020 06:49:12,180206,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_teap_sex_age_mts_nb,"Labour force by sex, age and marital status (thousands)",1990,2019,15/01/2020 21:35:07,262056,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+eap_teap_sex_age_nb,Labour force by sex and age (thousands),1946,2019,02/02/2020 06:29:24,287384,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_teap_sex_dsb_nb,Labour force by sex and disability status (thousands),2005,2018,15/01/2020 21:31:52,1188,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_teap_sex_edu_geo_nb,"Labour force by sex, education and rural / urban areas (thousands)",1994,2019,15/01/2020 21:35:07,48211,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_teap_sex_edu_mts_nb,"Labour force by sex, education and marital status (thousands)",1994,2019,15/01/2020 21:35:07,232898,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+eap_teap_sex_edu_nb,Labour force by sex and education (thousands),1990,2019,15/01/2020 21:31:48,20418,YI,Yearly indicators,EAP,Population and labour force,measure
+eap_teap_sex_mts_nb,Labour force by sex and marital status (thousands),1998,2018,05/10/2019 14:49:52,2077,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+ear_4hpm_noc_nb,"Average hourly earnings of employees, men -- Harmonized series (constant 2011 PPP $)",1990,2018,02/02/2020 08:26:42,378,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_4hpt_noc_nb,Average hourly earnings of employees -- Harmonized series (constant 2011 PPP $),1990,2018,02/02/2020 08:26:46,383,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_4hpw_noc_nb,"Average hourly earnings of employees, women -- Harmonized series (constant 2011 PPP $)",1990,2018,02/02/2020 08:26:15,378,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_4hrl_sex_ocu_cur_nb,Mean nominal hourly earnings of employees by sex and occupation -- Harmonized series,1981,2018,02/02/2020 06:44:15,17530,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_4mmn_cur_nb,Statutory nominal gross monthly minimum wage -- Harmonized series,1980,2019,19/01/2020 06:15:49,5025,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_4mnp_noc_nb,Statutory nominal gross monthly minimum wage -- Harmonized series (constant 2011 PPP $),1991,2019,02/02/2020 08:26:52,1571,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_4mpm_noc_nb,"Average monthly earnings of employees, men -- Harmonized series (constant 2011 PPP $)",1991,2018,02/02/2020 08:26:21,902,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_4mpt_noc_nb,Average monthly earnings of employees -- Harmonized series (constant 2011 PPP $),1990,2018,02/02/2020 08:26:01,1160,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_4mpw_noc_nb,"Average monthly earnings of employees, women -- Harmonized series (constant 2011 PPP $)",1991,2018,02/02/2020 08:26:31,899,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_4mth_sex_eco_cur_nb,Mean nominal monthly earnings of employees by sex and economic activity -- Harmonized series,1969,2019,02/02/2020 07:18:41,246949,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_4mth_sex_ocu_cur_nb,Mean nominal monthly earnings of employees by sex and occupation -- Harmonized series,1992,2019,02/02/2020 06:43:22,67123,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_fear_noc_nb,"Average monthly earnings of employees, women (local currency)",1990,2019,02/02/2020 08:25:29,1271,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_ggap_noc_rt,Gender wage gap (%),1990,2018,02/02/2020 08:23:59,376,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_ggap_ocu_rt,Gender wage gap by occupation (%),1981,2018,02/02/2020 06:44:28,1284,YI,Yearly indicators,EAR;WOM,Earnings and labour income | Women,measure
+ear_hees_sex_ocu_nb,Mean nominal hourly earnings of employees by sex and occupation (local currency),1981,2018,14/01/2020 11:09:14,7999,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_inee_noc_nb,Statutory nominal gross monthly minimum wage (local currency),1980,2019,13/01/2020 11:28:17,2233,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_mear_noc_nb,"Average monthly earnings of employees, men (local currency)",1990,2019,02/02/2020 08:25:05,1313,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_mree_noc_gr,"Mean real monthly earnings of employees, annual growth -- ILO modelled estimates, Nov. 2019 (%)",2000,2017,10/12/2018 14:24:33,288,ILOEST,ILO estimates,ILOEST,ILO modelled estimates,measure
+ear_tear_noc_nb,Average monthly earnings of employees (local currency),1990,2019,02/02/2020 08:24:32,1954,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_xees_sex_eco_nb,Mean nominal monthly earnings of employees by sex and economic activity (local currency),1969,2019,02/02/2020 07:18:03,108529,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_xees_sex_ocu_nb,Mean nominal monthly earnings of employees by sex and occupation (local currency),1992,2019,02/02/2020 07:18:16,30793,YI,Yearly indicators,EAR,Earnings and labour income,measure
+ear_xfls_noc_rt,Female share of low pay earners (%),1995,2018,19/01/2020 06:16:53,260,YI,Yearly indicators,EAR;WOM,Earnings and labour income | Women,measure
+ear_xmfg_noc_nb,"Average monthly earnings of employees, manufacturing (local currency)",1990,2019,02/02/2020 08:25:40,648,KI,Key Indicators,EAR,Earnings and labour income,measure
+ear_xtlp_sex_rt,Low pay rate by sex (%),1995,2018,19/01/2020 06:16:57,1848,YI,Yearly indicators,EAR;WOM,Earnings and labour income | Women,measure
+ees_3548_noc_rt,Share of employees working 35-48 hours per week (%),1990,2019,02/02/2020 08:30:39,1409,KI,Key Indicators,HOW,Working time,measure
+ees_3ees_sex_age_job_nb,"Youth employees by sex, age and type of job contract (thousands)",1983,2019,16/01/2020 12:15:48,47452,YTH,youthSTATS,YTH,Youth,measure
+ees_fg48_noc_rt,"Share of employees working more than 48 hours per week, women (%)",1990,2019,02/02/2020 08:30:21,1396,KI,Key Indicators,HOW,Working time,measure
+ees_fnag_noc_rt,"Share of paid employment in non-agricultural employment, women (%)",,,,,,,,,measure
+ees_lt35_noc_rt,Share of employees working less than 35 hours per week (%),1990,2019,02/02/2020 08:30:57,1404,KI,Key Indicators,HOW,Working time,measure
+ees_mg48_noc_rt,"Share of employees working more than 48 hours per week, men (%)",1990,2019,02/02/2020 08:30:05,1397,KI,Key Indicators,HOW,Working time,measure
+ees_mnag_noc_rt,"Share of paid employment in non-agricultural employment, men (%)",,,,,,,,,measure
+ees_tees_eco_ocu_nb,Employees by economic activity and occupation (thousands),1992,2019,02/02/2020 06:25:44,589756,YI,Yearly indicators,EMP,Employment,measure
+ees_tees_sex_age_job_nb,"Employees by sex, age and temporary or permanent contract (thousands)",1983,2019,15/01/2020 21:32:30,196886,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+ees_tees_sex_ec2_nb,Employees by sex and economic activity - ISIC level 2 (thousands),1992,2019,06/12/2019 08:57:34,238511,YI,Yearly indicators,EMP,Employment,measure
+ees_tees_sex_eco_nb,Employees by sex and economic activity (thousands),1939,2019,02/02/2020 07:02:06,235828,YI,Yearly indicators,EMP,Employment,measure
+ees_tees_sex_how_nb,Employees by sex and weekly hours actually worked (thousands),1976,2019,15/01/2020 21:32:16,37945,YI,Yearly indicators,EMP,Employment,measure
+ees_tees_sex_ins_nb,Employees by sex and institutional sector (thousands),1976,2019,15/01/2020 21:32:26,6782,YI,Yearly indicators,EMP,Employment,measure
+ees_tees_sex_oc2_nb,Employees by sex and occupation - ISCO level 2 (thousands),1992,2019,06/12/2019 08:57:34,119330,YI,Yearly indicators,EMP,Employment,measure
+ees_tees_sex_ocu_nb,Employees by sex and occupation (thousands),1991,2019,02/02/2020 06:25:40,74371,YI,Yearly indicators,EMP,Employment,measure
+ees_tg48_noc_rt,Share of employees working more than 48 hours per week (%),1990,2019,02/02/2020 08:29:51,1397,KI,Key Indicators,HOW,Working time,measure
+ees_tnag_noc_rt,Share of paid employment in non-agricultural employment (%),,,,,,,,,measure
+ees_xtmp_sex_rt,Share of temporary employees by sex (%),1980,2019,15/01/2020 21:32:28,4127,YI,Yearly indicators,EMP,Employment,measure
+eip_2eet_sex_geo_nb,"Youth not in employment, education or training (NEET) by sex and rural / urban areas -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,49500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2eet_sex_geo_rt,"Share of youth not in employment, education or training (NEET) by sex and rural / urban areas-- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:58,49500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2eet_sex_nb,"Youth not in employment, education or training (NEET) by sex -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:58,16500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2eet_sex_rt,"Share of youth not in employment, education or training (NEET) by sex -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,16500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2eip_sex_age_nb,"Persons outside the labour force by sex and age -- ILO modelled estimates, July 2019 (thousands)",1990,2030,21/01/2020 15:48:58,947100,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2plf_sex_age_geo_nb,"Potential labour force by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2plf_sex_age_nb,"Potential labour force by sex and age -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,49500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2wap_sex_age_geo_rt,"Inactivity rate by sex, age and rural / urban areas -- ILO modelled estimates, July 2019 (%)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_2wap_sex_age_rt,"Inactivity rate by sex and age -- ILO modelled estimates, July 2019 (%)",1990,2030,21/01/2020 15:48:58,947100,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+eip_3dis_sex_age_geo_nb,"Youth discouraged job-seekers by sex, age and rural / urban areas (thousands)",1990,2019,16/01/2020 12:15:48,27942,YTH,youthSTATS,YTH,Youth,measure
+eip_3eip_sex_age_edu_nb,"Youth outside the labour force by sex, age and education (thousands)",1990,2019,16/01/2020 12:15:48,77521,YTH,youthSTATS,YTH,Youth,measure
+eip_3eip_sex_age_geo_nb,"Youth outside the labour force by sex, age and rural / urban areas (thousands)",1990,2019,16/01/2020 12:15:48,41478,YTH,youthSTATS,YTH,Youth,measure
+eip_3eip_sex_age_stu_nb,"Youth outside the labour force by sex, age and school attendance status (thousands)",1976,2019,16/01/2020 12:15:48,43236,YTH,youthSTATS,YTH,Youth,measure
+eip_3wap_sex_age_edu_rt,"Youth inactivity rate by sex, age and education (%)",1990,2019,16/01/2020 12:15:48,77483,YTH,youthSTATS,YTH,Youth,measure
+eip_3wap_sex_age_geo_rt,"Youth inactivity rate by sex, age and rural / urban areas (%)",1990,2019,16/01/2020 12:15:48,41473,YTH,youthSTATS,YTH,Youth,measure
+eip_3wap_sex_age_stu_rt,"Youth inactivity rate by sex, age and school attendance status (%)",1976,2019,16/01/2020 12:15:48,43231,YTH,youthSTATS,YTH,Youth,measure
+eip_dwap_sex_age_edu_rt,"Inactivity rate by sex, age and education (%)",1990,2019,15/01/2020 21:33:08,801423,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_dwap_sex_age_geo_rt,"Inactivity rate by sex, age and rural / urban areas (%)",1990,2019,15/01/2020 21:33:00,168913,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_dwap_sex_age_mts_rt,"Inactivity rate by sex, age and marital status (%)",1990,2019,15/01/2020 21:35:07,298746,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+eip_dwap_sex_age_rt,Inactivity rate by sex and age (%),1946,2019,02/02/2020 07:11:18,279814,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_dwap_sex_edu_geo_rt,"Inactivity rate by sex, education and rural / urban areas (%)",1994,2019,15/01/2020 21:35:07,50144,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_dwap_sex_edu_mts_rt,"Inactivity rate by sex, education and marital status (%)",1994,2019,15/01/2020 21:35:07,231047,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_fnee_noc_rt,"Share of youth not in employment, education or training (NEET), women (%)",1990,2019,02/02/2020 08:23:18,1264,KI,Key Indicators,YTH,Youth,measure
+eip_mnee_noc_rt,"Share of youth not in employment, education or training (NEET), men (%)",1990,2019,02/02/2020 08:23:01,1261,KI,Key Indicators,YTH,Youth,measure
+eip_neet_sex_geo_nb,"Youth not in employment, education or training (NEET) by sex and rural / urban areas (thousands)",1990,2019,15/01/2020 21:35:07,8199,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_neet_sex_geo_rt,"Share of youth not in employment, education or training (NEET) by sex and rural / urban areas (%)",1990,2019,15/01/2020 21:35:07,8199,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_neet_sex_mts_nb,"Youth not in employment, education or training (NEET) by sex and marital status (thousands)",1990,2019,15/01/2020 21:35:07,15390,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_neet_sex_mts_rt,"Share of youth not in employment, education or training (NEET) by sex and marital status (%)",1990,2019,15/01/2020 21:35:07,15390,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_neet_sex_nb,"Youth not in employment, education or training (NEET) by sex (thousands)",1976,2019,24/01/2020 15:07:05,3960,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_neet_sex_rt,"Share of youth not in employment, education or training (NEET) by sex (%)",1976,2019,02/02/2020 06:42:28,3930,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_age_edu_nb,"Persons outside the labour force by sex, age and education (thousands)",1990,2019,15/01/2020 21:33:06,807380,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_age_geo_nb,"Persons outside the labour force by sex, age and rural / urban areas (thousands)",1990,2019,15/01/2020 21:32:57,169110,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_age_mts_nb,"Persons outside the labour force by sex, age and marital status (thousands)",1990,2019,15/01/2020 21:35:07,262640,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_age_nb,Persons outside the labour force by sex and age (thousands),1947,2019,15/01/2020 21:33:02,166057,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_edu_geo_nb,"Persons outside the labour force by sex, education and rural / urban areas (thousands)",1994,2019,15/01/2020 21:35:07,50144,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_edu_mts_nb,"Persons outside the labour force by sex, education and marital status (thousands)",1994,2019,15/01/2020 21:35:07,231046,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_edu_nb,Persons outside the labour force by sex and education (thousands),1990,2019,15/01/2020 21:33:03,52083,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_teip_sex_mts_nb,Persons outside the labour force by sex and marital status (thousands),1998,2018,05/10/2019 14:49:51,2057,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+eip_tnee_noc_rt,"Share of youth not in employment, education or training (NEET) (%)",1990,2019,02/02/2020 08:22:41,1283,KI,Key Indicators,YTH,Youth,measure
+eip_wdis_sex_age_geo_nb,"Discouraged job-seekers by sex, age and rural / urban areas (thousands)",1990,2019,15/01/2020 21:35:07,49447,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_wdis_sex_age_mts_nb,"Discouraged job-seekers by sex, age and marital status (thousands)",1990,2019,15/01/2020 21:35:07,93308,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+eip_wdis_sex_age_nb,Discouraged job-seekers by sex and age (thousands),1990,2019,02/02/2020 06:27:51,48370,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_wdis_sex_edu_geo_nb,"Discouraged job-seekers by sex, education and rural / urban areas (thousands)",1998,2019,15/01/2020 21:35:07,24192,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_wdis_sex_edu_mts_nb,"Discouraged job-seekers by sex, education and marital status (thousands)",1998,2018,18/10/2019 13:46:03,8080,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+eip_wplf_sex_age_geo_nb,"Potential labour force by sex, age and rural / urban areas (thousands)",1994,2019,15/01/2020 21:35:07,55006,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_wplf_sex_age_mts_nb,"Potential labour force by sex, age and marital status (thousands)",1994,2019,15/01/2020 21:35:07,94721,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+eip_wplf_sex_age_nb,Potential labour force by sex and age (thousands),1976,2019,19/01/2020 06:09:37,43631,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_wplf_sex_edu_geo_nb,"Potential labour force by sex, education and rural / urban areas (thousands)",1994,2019,15/01/2020 21:35:07,28663,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+eip_wplf_sex_edu_mts_nb,"Potential labour force by sex, education and marital status (thousands)",2005,2018,18/10/2019 13:46:03,13115,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+emp_2agr_noc_rt,"Agriculture as % of total employment -- ILO modelled estimates, November 2019",1991,2020,02/02/2020 08:13:44,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2cfw_noc_rt,"Contributing family workers as % of total employment -- ILO modelled estimates, November 2019",1991,2020,02/02/2020 08:14:14,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2eer_noc_rt,"Employers as % of total employment -- ILO modelled estimates, November 2019",1991,2020,02/02/2020 08:13:59,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2ees_noc_rt,"Employees as % of total employment -- ILO modelled estimates, November 2019",1991,2020,02/02/2020 08:13:04,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2emp_age_ste_dt,"Employment distribution by status in employment (by age) -- ILO modelled estimates, November 2019 (%)",1991,2024,21/01/2020 15:49:00,224400,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_age_ste_nb,"Employment by age and status in employment -- ILO modelled estimates, November 2019 (thousands)",1991,2024,21/01/2020 15:48:59,224400,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_age_cla_dt,"Employment distribution by economic class (by sex and age) -- ILO modelled estimates, November 2019 (%)",1991,2024,21/01/2020 15:48:56,350370,ILOEST,ILO estimates,ILOEST;EMP;POV,ILO modelled estimates | Employment | Employment by economic class,measure
+emp_2emp_sex_age_cla_nb,"Employment by sex, age and economic class -- ILO modelled estimates, November 2019 (thousands)",1991,2024,21/01/2020 15:48:56,350370,ILOEST,ILO estimates,ILOEST;EMP;POV,ILO modelled estimates | Employment | Employment by economic class,measure
+emp_2emp_sex_age_geo_nb,"Employment by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_age_nb,"Employment by sex and age -- ILO modelled estimates, November 2019 (thousands)",1991,2024,21/01/2020 15:48:57,84150,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_eco_dt,"Employment distribution by economic activity (by sex) -- ILO modelled estimates, November 2019 (%)",1991,2024,21/01/2020 15:48:59,729300,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_eco_nb,"Employment by sex and economic activity -- ILO modelled estimates, November 2019 (thousands)",1991,2024,21/01/2020 15:48:58,729300,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_geo_eco_dt,"Employment distribution by economic activity (by sex and rural / urban areas) -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,198000,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_geo_eco_nb,"Employment by sex, rural / urban areas and economic activity -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,198000,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_geo_ocu_dt,"Employment distribution by occupation (by sex and rural / urban areas) -- ILO modelled estimates, November 2019 (%)",2010,2024,21/01/2020 15:48:59,334125,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_geo_ocu_nb,"Employment by sex, rural / urban areas and occupation -- ILO modelled estimates, November 2019 (thousands)",2010,2024,21/01/2020 15:49:00,334125,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_geo_ste_dt,"Employment distribution by status in employment (by sex and rural / urban areas) -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:49:00,396000,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_geo_ste_nb,"Employment by sex, rural / urban areas and status in employment -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,396000,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_ocu_dt,"Employment distribution by occupation (by sex) -- ILO modelled estimates, November 2019 (%)",1991,2024,21/01/2020 15:48:58,252450,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_ocu_nb,"Employment by sex and occupation -- ILO modelled estimates, November 2019 (thousands)",1991,2024,21/01/2020 15:48:59,252450,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_ste_dt,"Employment distribution by status in employment (by sex) -- ILO modelled estimates, November 2019 (%)",1991,2024,21/01/2020 15:48:59,224400,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2emp_sex_ste_nb,"Employment by sex and status in employment -- ILO modelled estimates, November 2019 (thousands)",1991,2024,21/01/2020 15:48:57,224400,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2ind_noc_rt,"Industry as % of total employment -- ILO modelled estimates, November 2019",1991,2020,02/02/2020 08:13:27,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2mep_noc_rt,"Employment-to-population ratio, men -- ILO modelled estimates, November 2019 (%)",1991,2020,02/02/2020 08:15:06,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2oaw_noc_rt,"Own-account workers as % of total employment -- ILO modelled estimates, November 2019",1991,2020,02/02/2020 08:12:44,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2srv_noc_rt,"Services as % of total employment -- ILO modelled estimates, November 2019",1991,2020,02/02/2020 08:14:30,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2tru_sex_age_geo_nb,"Time-related underemployment by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+emp_2tru_sex_age_nb,"Time-related underemployment by sex and age -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,49500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+emp_2wap_noc_rt,"Employment-to-population ratio -- ILO modelled estimates, November 2019 (%)",1991,2020,02/02/2020 08:15:39,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2wap_sex_age_geo_rt,"Employment-to-population ratio by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2wap_sex_age_rt,"Employment-to-population ratio by sex and age -- ILO modelled estimates, November 2019 (%)",1991,2024,21/01/2020 15:48:58,84150,ILOEST,ILO estimates,ILOEST;EMP,ILO modelled estimates | Employment,measure
+emp_2wep_noc_rt,"Employment-to-population ratio, women -- ILO modelled estimates, November 2019 (%)",1991,2020,02/02/2020 08:14:48,7950,KI,Key Indicators,EMP,Employment,measure
+emp_2yep_noc_rt,"Employment-to-population ratio, youth -- ILO modelled estimates, November 2019 (%)",1991,2020,02/02/2020 08:15:21,7950,KI,Key Indicators,EMP;YTH,Employment | Youth,measure
+emp_3emp_sex_age_eco_nb,"Youth employment by sex, age and economic activity (thousands)",1992,2019,16/01/2020 12:15:48,283549,YTH,youthSTATS,YTH,Youth,measure
+emp_3emp_sex_age_edu_nb,"Youth employment by sex, age and education (thousands)",1990,2019,16/01/2020 12:15:48,74942,YTH,youthSTATS,YTH,Youth,measure
+emp_3emp_sex_age_geo_nb,"Youth employment by sex, age and rural / urban areas (thousands)",1990,2019,16/01/2020 12:15:48,41572,YTH,youthSTATS,YTH,Youth,measure
+emp_3emp_sex_age_how_nb,"Youth employment by sex, age and weekly hours actually worked (thousands)",1976,2019,16/01/2020 12:15:48,132122,YTH,youthSTATS,YTH,Youth,measure
+emp_3emp_sex_age_job_nb,"Youth employment by sex, age and working time arrangement (thousands)",1976,2019,16/01/2020 12:15:48,56871,YTH,youthSTATS,YTH;HOW,Youth | Working time,measure
+emp_3emp_sex_age_ocu_nb,"Youth employment by sex, age and occupation (thousands)",1992,2019,16/01/2020 12:15:48,168855,YTH,youthSTATS,YTH,Youth,measure
+emp_3emp_sex_age_ste_nb,"Youth employment by sex, age and status in employment (thousands)",1976,2019,16/01/2020 12:15:48,87614,YTH,youthSTATS,YTH,Youth,measure
+emp_3emp_sex_age_stu_nb,"Youth employment by sex, age and school attendance status (thousands)",1976,2019,16/01/2020 12:15:48,42155,YTH,youthSTATS,YTH,Youth,measure
+emp_3wap_sex_age_edu_rt,"Youth employment-to-population ratio by sex, age and education (%)",1990,2019,16/01/2020 12:15:48,74895,YTH,youthSTATS,YTH,Youth,measure
+emp_3wap_sex_age_geo_rt,"Youth employment-to-population ratio by sex, age and rural / urban areas (%)",1990,2019,16/01/2020 12:15:48,41571,YTH,youthSTATS,YTH,Youth,measure
+emp_3wap_sex_age_stu_rt,"Youth employment-to-population ratio by sex, age and school attendance status (%)",1976,2019,16/01/2020 12:15:48,42139,YTH,youthSTATS,YTH,Youth,measure
+emp_dwaf_noc_rt,"Employment-to-population ratio, women (%)",1990,2019,02/02/2020 08:12:20,2000,KI,Key Indicators,EMP,Employment,measure
+emp_dwam_noc_rt,"Employment-to-population ratio, men (%)",1990,2019,02/02/2020 08:11:57,1999,KI,Key Indicators,EMP,Employment,measure
+emp_dwap_noc_rt,Employment-to-population ratio (%),1990,2019,02/02/2020 08:11:21,2012,KI,Key Indicators,EMP,Employment,measure
+emp_dwap_sex_age_edu_rt,"Employment-to-population ratio by sex, age and education (%)",1990,2019,15/01/2020 21:31:59,797052,YI,Yearly indicators,EMP,Employment,measure
+emp_dwap_sex_age_geo_rt,"Employment-to-population ratio by sex, age and rural / urban areas (%)",1990,2019,02/02/2020 06:54:51,176341,YI,Yearly indicators,EMP,Employment,measure
+emp_dwap_sex_age_mts_rt,"Employment-to-population ratio by sex, age and marital status (%)",1990,2019,15/01/2020 21:35:07,261273,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_dwap_sex_age_rt,Employment-to-population ratio by sex and age (%),1947,2019,02/02/2020 06:52:51,188076,YI,Yearly indicators,EMP,Employment,measure
+emp_dwap_sex_edu_geo_rt,"Employment-to-population ratio by sex, education and rural / urban areas (%)",1994,2019,15/01/2020 21:35:07,48023,YI,Yearly indicators,EMP,Employment,measure
+emp_dwap_sex_edu_mts_rt,"Employment-to-population ratio by sex, education and marital status (%)",1994,2019,15/01/2020 21:35:07,232112,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_dwap_sex_mts_rt,Employment-to-population ratio by sex and marital status (%),1998,2018,05/10/2019 14:49:34,2077,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_fagr_noc_rt,Female share of employment in agriculture (%),1990,2019,02/02/2020 08:06:55,2525,KI,Key Indicators,EMP,Employment,measure
+emp_fcfw_noc_rt,"Share of contributing family workers in total employment, women (%)",1990,2019,02/02/2020 08:10:30,2227,KI,Key Indicators,EMP,Employment,measure
+emp_feer_noc_rt,"Share of employers in total employment, women (%)",1990,2019,02/02/2020 08:09:26,2202,KI,Key Indicators,EMP,Employment,measure
+emp_find_noc_rt,Female share of employment in industry (%),1990,2019,02/02/2020 08:07:12,2576,KI,Key Indicators,EMP,Employment,measure
+emp_foaw_noc_rt,"Share of own-account workers in total employment, women (%)",1990,2019,02/02/2020 08:08:33,2324,KI,Key Indicators,EMP,Employment,measure
+emp_fsrv_noc_rt,Female share of employment in services (%),1990,2019,02/02/2020 08:07:28,2575,KI,Key Indicators,EMP,Employment,measure
+emp_mcfw_noc_rt,"Share of contributing family workers in total employment, men (%)",1990,2019,02/02/2020 08:10:09,2207,KI,Key Indicators,EMP,Employment,measure
+emp_meer_noc_rt,"Share of employers in total employment, men (%)",1990,2019,02/02/2020 08:09:11,2210,KI,Key Indicators,EMP,Employment,measure
+emp_moaw_noc_rt,"Share of own-account workers in total employment, men (%)",1990,2019,02/02/2020 08:08:09,2325,KI,Key Indicators,EMP,Employment,measure
+emp_norm_sex_edu_dt,"Employment distribution by sex and 'educational mismatch', normative approach (%)",2001,2018,05/12/2019 11:11:25,11516,YI,Yearly indicators,EMP,Employment,measure
+emp_norm_sex_edu_nb,"Employment by sex and 'educational mismatch', normative approach (thousands)",2001,2018,05/12/2019 11:11:25,11520,YI,Yearly indicators,EMP,Employment,measure
+emp_pter_sex_rt,Incidence of part-time employment by sex -- Common definition (%),1976,2019,02/02/2020 06:37:15,4751,YI,Yearly indicators,EMP;HOW,Employment | Working time,measure
+emp_stat_sex_edu_dt,"Employment distribution by sex and 'educational mismatch', Statistical approach (%)",2001,2018,05/12/2019 11:11:25,10076,YI,Yearly indicators,EMP,Employment,measure
+emp_stat_sex_edu_nb,"Employment by sex and 'educational mismatch', Statistical approach (thousands)",2001,2018,05/12/2019 11:11:25,10080,YI,Yearly indicators,EMP,Employment,measure
+emp_tagr_noc_rt,Share of agriculture in total employment (%),1990,2019,02/02/2020 08:05:46,2734,KI,Key Indicators,EMP,Employment,measure
+emp_tcfw_noc_rt,Share of contributing family workers in total employment (%),1990,2019,02/02/2020 08:09:48,2273,KI,Key Indicators,EMP,Employment,measure
+emp_teer_noc_rt,Share of employers in total employment (%),1990,2019,02/02/2020 08:08:55,2233,KI,Key Indicators,EMP,Employment,measure
+emp_temp_eco_ocu_nb,Employment by economic activity and occupation (thousands),1992,2019,02/02/2020 06:24:10,638385,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_age_edu_dt,Employment distribution by education (by sex and age) (%),1980,2019,02/02/2020 06:35:12,855577,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_age_edu_nb,"Employment by sex, age and education (thousands)",1980,2019,02/02/2020 06:22:51,876903,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_age_geo_nb,"Employment by sex, age and rural / urban areas (thousands)",1952,2019,02/02/2020 06:54:38,180768,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_age_job_nb,"Employment by sex, age and working time arrangement (thousands)",1976,2019,26/01/2020 06:05:36,235427,YI,Yearly indicators,EMP;HOW,Employment | Working time,measure
+emp_temp_sex_age_mts_nb,"Employment by sex, age and marital status (thousands)",1990,2019,15/01/2020 21:35:07,261273,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_temp_sex_age_nb,Employment by sex and age (thousands),1947,2019,02/02/2020 06:22:33,197788,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_age_ste_nb,"Employment by sex, age and status in employment (thousands)",1976,2019,15/01/2020 21:32:11,354613,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_dsb_nb,Employment by sex and disability status (thousands),2005,2018,15/01/2020 21:32:03,1197,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ec2_nb,Employment by sex and economic activity - ISIC level 2 (thousands),1992,2019,06/12/2019 08:57:34,242525,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_eco_dt,Employment distribution by economic activity (by sex) (%),1947,2019,02/02/2020 06:34:31,289172,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_eco_geo_nb,"Employment by sex, economic activity and rural / urban areas (thousands)",1990,2019,15/01/2020 21:35:07,129395,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_eco_mts_nb,"Employment by sex, economic activity and marital status (thousands)",1990,2019,15/01/2020 21:35:07,222797,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_temp_sex_eco_nb,Employment by sex and economic activity (thousands),1947,2019,02/02/2020 06:23:28,295907,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_edu_geo_nb,"Employment by sex, education and rural / urban areas (thousands)",1994,2019,15/01/2020 21:35:07,48023,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_edu_mts_nb,"Employment by sex, education and marital status (thousands)",1994,2019,15/01/2020 21:35:07,232111,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_temp_sex_edu_nb,Employment by sex and education (thousands),1990,2019,15/01/2020 21:31:56,20347,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_how_dt,Employment distribution by hours actually worked (by sex) (%),1976,2019,02/02/2020 06:35:04,39372,YI,Yearly indicators,EMP;HOW,Employment | Working time,measure
+emp_temp_sex_how_geo_nb,"Employment by sex, weekly hours actually worked and rural / urban areas (thousands)",1992,2019,15/01/2020 21:35:07,72194,YI,Yearly indicators,EMP;HOW,Employment | Working time,measure
+emp_temp_sex_how_mts_nb,"Employment by sex, weekly hours actually worked and marital status (thousands)",1992,2019,15/01/2020 21:35:07,103354,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_how_nb,Employment by sex and weekly hours actually worked (thousands),1976,2019,24/01/2020 15:06:41,39497,YI,Yearly indicators,EMP;HOW,Employment | Working time,measure
+emp_temp_sex_ins_nb,Employment by sex and institutional sector (thousands),1976,2019,27/01/2020 11:17:37,9511,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_mjh_nb,Employment by sex and and multiple-job holding (thousands),1976,2019,15/01/2020 21:32:05,5712,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_mts_nb,Employment by sex and marital status (thousands),1998,2018,05/10/2019 14:49:51,2077,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_oc2_nb,Employment by sex and occupation - ISCO level 2 (thousands),1992,2019,06/12/2019 08:57:34,121009,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ocu_dt,Employment distribution by occupation (by sex) (%),1969,2019,02/02/2020 06:55:56,126429,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ocu_geo_nb,"Employment by sex, occupation and rural / urban areas (thousands)",2002,2019,15/01/2020 21:35:07,52716,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ocu_mts_nb,"Employment by sex, occupation and marital status (thousands)",1992,2019,15/01/2020 21:35:07,252765,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_temp_sex_ocu_nb,Employment by sex and occupation (thousands),1969,2019,02/02/2020 06:53:49,129166,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ste_dt,Employment distribution by status in employment (by sex) (%),1948,2019,02/02/2020 06:34:17,61165,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ste_eco_nb,"Employment by sex, status in employment and economic activity (thousands)",1990,2019,15/01/2020 21:32:07,626474,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ste_geo_dt,Employment distribution by status in employment (by sex and rural / urban areas (%),1990,2019,15/01/2020 21:35:07,86882,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ste_geo_nb,"Employment by sex, status in employment and rural / urban areas (thousands)",1990,2019,15/01/2020 21:35:07,87998,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ste_mts_nb,"Employment by sex, status in employment and marital status (thousands)",1990,2019,15/01/2020 21:35:07,163963,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+emp_temp_sex_ste_nb,Employment by sex and status in employment (thousands),1948,2019,27/01/2020 11:05:08,61692,YI,Yearly indicators,EMP,Employment,measure
+emp_temp_sex_ste_ocu_nb,"Employment by sex, status in employment and occupation (thousands)",1992,2019,15/01/2020 21:32:09,253759,YI,Yearly indicators,EMP,Employment,measure
+emp_tind_noc_rt,Share of industry in total employment (%),1990,2019,02/02/2020 08:06:09,2755,KI,Key Indicators,EMP,Employment,measure
+emp_toaw_noc_rt,Share of own-account workers in total employment (%),1990,2019,02/02/2020 08:07:49,2355,KI,Key Indicators,EMP,Employment,measure
+emp_tsrv_noc_rt,Share of services in total employment (%),1990,2019,02/02/2020 08:06:28,2755,KI,Key Indicators,EMP,Employment,measure
+emp_xfmg_noc_rt,Female share of employment in senior and middle management (%),1992,2019,19/01/2020 06:12:44,1101,YI,Yearly indicators,EMP;WOM,Employment | Women,measure
+gdp_205u_noc_nb,"Output per worker (GDP constant 2010 US $) -- ILO modelled estimates, November 2019",1991,2024,21/01/2020 15:48:56,9350,ILOEST,ILO estimates,ILOEST;LPY,ILO modelled estimates | Labour productivity,measure
+gdp_211p_noc_nb,"Output per worker (GDP constant 2011 international $ in PPP) -- ILO modelled estimates, November 2019",1991,2024,21/01/2020 15:48:58,9350,ILOEST,ILO estimates,ILOEST;LPY,ILO modelled estimates | Labour productivity,measure
+how_temp_noc_nb,Mean weekly hours actually worked per employed person,1990,2019,02/02/2020 08:23:43,1643,KI,Key Indicators,HOW,Working time,measure
+how_temp_sex_ec2_nb,Mean weekly hours actually worked per employed person by sex and economic activity - ISIC level 2,2000,2019,06/12/2019 08:57:34,129335,YI,Yearly indicators,HOW,Working time,measure
+how_temp_sex_eco_geo_nb,"Mean weekly hours actually worked per employed person by sex, economic activity and rural / urban areas",1990,2019,15/01/2020 21:35:07,107279,YI,Yearly indicators,HOW,Working time,measure
+how_temp_sex_eco_mts_nb,"Mean weekly hours actually worked per employed person by sex, economic activity and marital status",1990,2019,15/01/2020 21:35:07,157891,YI,Yearly indicators,HOW,Working time,measure
+how_temp_sex_eco_nb,Mean weekly hours actually worked per employed person by sex and economic activity,1948,2019,02/02/2020 07:16:31,142903,YI,Yearly indicators,HOW,Working time,measure
+how_temp_sex_oc2_nb,Mean weekly hours actually worked per employed person by sex and occupation - ISCO level 2,2000,2019,06/12/2019 08:57:34,53438,YI,Yearly indicators,HOW,Working time,measure
+how_temp_sex_ocu_geo_nb,"Mean weekly hours actually worked per employed person by sex, occupation and rural / urban areas",1992,2019,15/01/2020 21:35:07,85350,YI,Yearly indicators,HOW,Working time,measure
+how_temp_sex_ocu_mts_nb,"Mean weekly hours actually worked per employed person by sex, occupation and marital status",1992,2019,15/01/2020 21:35:07,192717,YI,Yearly indicators,HOW,Working time,measure
+how_temp_sex_ocu_nb,Mean weekly hours actually worked per employed person by sex and occupation,1991,2019,02/02/2020 07:17:01,63414,YI,Yearly indicators,HOW,Working time,measure
+how_uees_sex_nb,Mean weekly hours usually worked per employee by sex,1976,2019,15/01/2020 21:33:34,1444,YI,Yearly indicators,HOW,Working time,measure
+how_uemp_sex_nb,Mean weekly hours usually worked per employed person by sex,1976,2019,15/01/2020 21:33:32,1395,YI,Yearly indicators,HOW,Working time,measure
+how_xees_sex_ec2_nb,Mean weekly hours actually worked per employee by sex and economic activity - ISIC level 2,2000,2019,06/12/2019 08:57:34,126292,YI,Yearly indicators,HOW,Working time,measure
+how_xees_sex_eco_nb,Mean weekly hours actually worked per employee by sex and economic activity,1969,2019,02/02/2020 07:16:47,150791,YI,Yearly indicators,HOW,Working time,measure
+how_xees_sex_oc2_nb,Mean weekly hours actually worked per employee by sex and occupation - ISCO level 2,2011,2018,05/10/2019 14:48:31,30856,YI,Yearly indicators,HOW,Working time,measure
+how_xees_sex_ocu_nb,Mean weekly hours actually worked per employee by sex and occupation,1991,2019,02/02/2020 07:17:09,61883,YI,Yearly indicators,HOW,Working time,measure
+ifl_4iem_sex_eco_ifl_nb,Informal employment and informal sector by sex -- Harmonized series (thousands),1999,2019,15/01/2020 21:32:13,10776,YI,Yearly indicators,EMP;IFL,Employment | Informal sector and informal employment,measure
+ifl_4iem_sex_eco_ifl_rt,Informal employment and informal sector as a percent of employment by sex -- Harmonized series (%),1999,2019,26/01/2020 06:09:42,4251,YI,Yearly indicators,EMP;IFL,Employment | Informal sector and informal employment,measure
+ifl_xiem_sex_eco_ifl_nb,Informal employment and informal sector by sex (thousands),2004,2018,26/01/2020 06:09:35,4446,YI,Yearly indicators,EMP;IFL,Employment | Informal sector and informal employment,measure
+ifl_xiem_sex_eco_ifl_rt,Informal employment and informal sector as a percent of employment by sex (%),2004,2018,02/02/2020 06:37:56,1564,YI,Yearly indicators,EMP;IFL,Employment | Informal sector and informal employment,measure
+ilr_cbct_noc_rt,Collective bargaining coverage rate (%),2000,2016,10/04/2019 17:26:59,622,IR,Industrial relations,IR,Industrial relations,measure
+ilr_tumt_noc_rt,Trade union density rate (%),2000,2016,09/07/2019 07:47:32,856,IR,Industrial relations,IR,Industrial relations,measure
+inj_days_eco_nb,Days lost due to cases of occupational injury with temporary incapacity for work by economic activity,1975,2018,26/01/2020 06:21:22,14603,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_days_sex_mig_nb,Days lost due to cases of occupational injury with temporary incapacity for work by sex and migrant status,1975,2018,29/11/2019 15:55:11,4632,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_fatl_eco_nb,Cases of fatal occupational injury by economic activity,1970,2018,26/01/2020 06:21:29,36927,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_fatl_eco_rt,Fatal occupational injuries per 100'000 workers by economic activity,1969,2018,26/01/2020 06:21:26,27903,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_fatl_sex_mig_nb,Cases of fatal occupational injury by sex and migrant status,1970,2018,01/12/2019 14:48:20,7410,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_fatl_sex_mig_rt,Fatal occupational injuries per 100'000 workers by sex and migrant status,1969,2018,19/01/2020 06:17:31,5763,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_irfa_noc_rt,Fatal occupational injuries per 100'000 workers,1990,2018,02/02/2020 08:27:34,1628,KI,Key Indicators,OSH,Safety and health at work,measure
+inj_irnf_noc_rt,Non-fatal occupational injuries per 100'000 workers,1990,2018,02/02/2020 08:27:47,1489,KI,Key Indicators,OSH,Safety and health at work,measure
+inj_nftl_eco_nb,Cases of non-fatal occupational injury by economic activity,1970,2018,26/01/2020 06:21:31,32753,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_nftl_eco_rt,Non-fatal occupational injuries per 100'000 workers by economic activity,1970,2018,26/01/2020 06:21:24,23937,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_nftl_inj_eco_nb,Cases of non-fatal occupational injury by type of incapacity and economic activity,1971,2018,19/01/2020 06:29:32,31612,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_nftl_sex_inj_mig_nb,"Cases of non-fatal occupational injury by sex, type of incapacity and migrant status",1971,2018,22/11/2019 16:19:58,11095,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_nftl_sex_mig_nb,Cases of non-fatal occupational injury by sex and migrant status,1970,2018,01/12/2019 14:48:48,7283,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_nftl_sex_mig_rt,Non-fatal occupational injuries per 100'000 workers by sex and migrant status,1970,2018,19/01/2020 06:17:25,5448,YI,Yearly indicators,OSH,Safety and health at work,measure
+inj_tlpi_noc_nb,Days lost per occupational injury,1990,2018,02/02/2020 08:27:59,1115,KI,Key Indicators,OSH,Safety and health at work,measure
+lac_4hpt_noc_nb,Average hourly labour cost per employee -- Harmonized series (constant 2011 PPP $),1995,2018,02/02/2020 08:27:19,449,KI,Key Indicators,LAC,Labour cost,measure
+lac_4hrl_eco_cur_nb,Mean nominal hourly labour cost per employee by economic activity -- Harmonized series,1995,2018,26/01/2020 06:20:46,26592,YI,Yearly indicators,LAC,Labour cost,measure
+lac_tlac_noc_nb,Labour cost per employee (local currency),1994,2018,02/02/2020 08:27:03,512,KI,Key Indicators,LAC,Labour cost,measure
+lac_xees_eco_nb,Mean nominal hourly labour cost per employee by economic activity (local currency),1994,2018,03/02/2020 08:39:26,10074,YI,Yearly indicators,LAC,Labour cost,measure
+lac_xmfg_noc_nb,"Labour cost per employee, manufacturing (local currency)",1994,2018,02/02/2020 08:27:11,641,KI,Key Indicators,LAC,Labour cost,measure
+lai_inde_noc_rt,Inspectors per 10'000 employed persons,2008,2018,26/01/2020 06:12:18,408,YI,Yearly indicators,OSH,Safety and health at work,measure
+lai_insp_sex_nb,Number of labour inspectors by sex (thousands),2008,2018,24/01/2020 15:12:03,1040,YI,Yearly indicators,OSH,Safety and health at work,measure
+lai_vdin_noc_rt,Labour inspection visits per inspector,2008,2018,24/01/2020 13:53:33,423,YI,Yearly indicators,OSH,Safety and health at work,measure
+lai_vist_noc_nb,Number of labour inspection visits to workplaces during the year,1996,2018,24/01/2020 13:52:20,478,YI,Yearly indicators,OSH,Safety and health at work,measure
+lai_wopl_noc_nb,Registered workplaces that could be selected for labour inspection,2000,2018,18/12/2019 17:33:40,318,YI,Yearly indicators,OSH,Safety and health at work,measure
+lap_2gdp_noc_rt,"Labour income share as a percent of GDP -- ILO modelled estimates, July 2019 (%)",2004,2017,10/01/2020 08:51:38,3122,ILOEST,ILO estimates,ILOEST;EAR;LAP,ILO modelled estimates | Earnings and labour income | Labour income,measure
+lap_2lid_qtl_dt,"Labour income distribution -- ILO modelled estimates, July 2019 (%)",2004,2017,10/01/2020 09:02:19,31220,ILOEST,ILO estimates,ILOEST;EAR;LAP,ILO modelled estimates | Earnings and labour income | Labour income,measure
+luu_2lu2_sex_age_geo_rt,"Combined rate of time-related underemployment and unemployment (LU2) by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+luu_2lu2_sex_age_rt,"Combined rate of time-related underemployment and unemployment (LU2) by sex and age -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,49500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+luu_2lu3_sex_age_geo_rt,"Combined rate of unemployment and potential labour force (LU3) by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+luu_2lu3_sex_age_rt,"Combined rate of unemployment and potential labour force (LU3) by sex and age -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,49500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+luu_2lu4_sex_age_geo_rt,"Composite measure of labour underutilization (LU4) by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+luu_2lu4_sex_age_rt,"Composite measure of labour underutilization (LU4) by sex and age -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,49500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+luu_xlu2_sex_age_geo_rt,"Combined rate of time-related underemployment and unemployment (LU2) by sex, age and rural / urban areas (%)",1998,2019,15/01/2020 21:35:07,61743,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu2_sex_age_mts_rt,"Combined rate of time-related underemployment and unemployment (LU2) by sex, age and marital status (%)",1994,2019,15/01/2020 21:35:07,90980,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu2_sex_age_rt,Combined rate of time-related underemployment and unemployment (LU2) by sex and age (%),1955,2019,02/02/2020 06:42:10,53289,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu2_sex_edu_geo_rt,"Combined rate of time-related underemployment and unemployment (LU2) by sex, education and rural / urban areas (%)",1998,2019,15/01/2020 21:35:07,34389,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu2_sex_edu_mts_rt,"Combined rate of time-related underemployment and unemployment (LU2) by sex, education and marital status (%)",1998,2018,18/10/2019 13:46:03,17200,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu3_sex_age_geo_rt,"Combined rate of unemployment and potential labour force (LU3) by sex, age and rural / urban areas (%)",1994,2019,15/01/2020 21:35:07,56023,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu3_sex_age_mts_rt,"Combined rate of unemployment and potential labour force (LU3) by sex, age and marital status (%)",1994,2019,15/01/2020 21:35:07,92075,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu3_sex_age_rt,Combined rate of unemployment and potential labour force (LU3) by sex and age (%),1976,2019,19/01/2020 06:15:30,43815,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu3_sex_edu_geo_rt,"Combined rate of unemployment and potential labour force (LU3) by sex, education and rural / urban areas (%)",1994,2019,15/01/2020 21:35:07,30145,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu3_sex_edu_mts_rt,"Combined rate of unemployment and potential labour force (LU3) by sex, education and marital status (%)",2005,2018,18/10/2019 13:46:03,15773,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu4_sex_age_geo_rt,"Composite measure of labour underutilization (LU4) by sex, age and rural / urban areas (%)",2005,2019,15/01/2020 21:35:07,49485,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu4_sex_age_mts_rt,"Composite measure of labour underutilization (LU4) by sex, age and marital status (%)",1994,2019,15/01/2020 21:35:07,69368,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu4_sex_age_rt,Composite measure of labour underutilization (LU4) by sex and age (%),1994,2019,19/01/2020 06:15:23,21255,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu4_sex_edu_geo_rt,"Composite measure of labour underutilization (LU4) by sex, education and rural / urban areas (%)",2005,2019,15/01/2020 21:35:07,27085,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+luu_xlu4_sex_edu_mts_rt,"Composite measure of labour underutilization (LU4) by sex, education and marital status (%)",2005,2018,18/10/2019 13:46:03,15412,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+mfl_femp_sex_eco_nb,Inflow of foreign-born employed persons by sex and economic activity (in thousands),1997,2018,02/02/2020 07:31:13,692,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mfl_femp_sex_ocu_nb,Inflow of foreign-born employed persons by sex and occupation (in thousands),1997,2018,30/01/2020 14:14:18,515,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mfl_fpop_sex_cbr_nb,Inflow of foreign-born working-age population by sex and country of birth (in thousands),1992,2018,31/01/2020 14:14:53,1717,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mfl_fwap_sex_edu_nb,Inflow of foreign-born working-age population by sex and education (in thousands),1992,2018,30/01/2020 12:49:18,483,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mfl_ncit_sex_cct_nb,Inflow of working-age non-citizens by sex and country of citizenship (in thousands),1980,2018,31/01/2020 14:16:18,5256,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mfl_nemp_sex_eco_nb,Inflow of employed non-citizens by sex and economic activity (in thousands),2001,2018,20/01/2020 12:25:50,1354,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mfl_nemp_sex_ocu_nb,Inflow of employed non-citizens by sex and occupation (in thousands),2001,2018,20/01/2020 12:25:52,1153,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mfl_nwap_sex_edu_nb,Inflow of working-age non-citizens by sex and education (in thousands),2000,2018,21/01/2020 12:25:32,989,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mna_oemp_sex_cds_nb,Outflow of nationals for employment by sex and country of destination (thousands),1980,2018,17/12/2019 15:42:39,568,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mna_oemp_sex_eco_nb,Outflow of nationals for employment by sex and economic activity (thousands),2010,2018,15/12/2019 06:19:34,339,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mna_oemp_sex_edu_nb,Outflow of nationals for employment by sex and education (thousands),1999,2018,09/12/2019 09:08:33,452,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mna_oemp_sex_ocu_nb,Outflow of nationals for employment by sex and occupation (thousands),2004,2018,07/01/2020 11:12:14,694,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mna_opop_sex_cds_nb,Outflow of nationals by sex and country of destination (thousands),1997,2018,24/01/2020 18:07:16,643,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mna_tpop_sex_crs_nb,Stock of nationals abroad by sex and country of residence (thousands),1993,2018,24/01/2020 16:16:10,310,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mna_xret_sex_cpr_nb,Inflow of nationals returned from abroad by sex and country of previous residence (thousands),2014,2018,24/01/2020 18:07:18,1105,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_eara_sex_cbr_nb,Mean nominal monthly earnings of employees by sex and place of birth (local currency),1999,2019,03/02/2020 17:03:23,1838,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_eara_sex_cct_nb,Mean nominal monthly earnings of employees by sex and citizenship (local currency),2001,2019,23/01/2020 14:55:46,736,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_fore_sex_cbr_nb,Employed foreign-born persons by sex and country of birth (in thousands),1992,2018,24/01/2020 17:12:12,2269,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_forp_sex_cbr_nb,Foreign-born working-age population by sex and country of birth (in thousands),2000,2018,24/01/2020 17:34:39,2769,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_ncte_sex_cct_nb,Employed non-citizens by sex and country of citizenship (in thousands),2000,2018,24/01/2020 17:14:50,2664,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_nctp_sex_cct_nb,Non-citizen working-age population by sex and country of citizenship (in thousands),2000,2018,24/01/2020 17:27:30,3672,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_teap_sex_age_cbr_nb,"Labour force by sex, age and place of birth (thousands)",1991,2019,02/02/2020 07:31:17,118981,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_teap_sex_age_cbr_rt,"Labour force participation rate by sex, age and place of birth (%)",1994,2019,15/01/2020 21:33:54,118318,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_teap_sex_age_cct_nb,"Labour force by sex, age and citizenship (thousands)",1991,2019,02/02/2020 07:31:25,108835,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_teap_sex_age_cct_rt,"Labour force participation rate by sex, age and citizenship (%)",1994,2019,15/01/2020 21:33:54,108100,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_teip_sex_age_cbr_nb,"Persons outside the labour force by sex, age and place of birth (in thousands)",1994,2019,15/01/2020 21:33:55,119046,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_teip_sex_age_cct_nb,"Persons outside the labour force by sex, age and citizenship (in thousands)",1994,2019,15/01/2020 21:33:54,108753,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_age_cbr_nb,"Employment by sex, age and place of birth (thousands)",1991,2019,26/01/2020 06:25:57,119805,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_age_cbr_rt,"Employment-to-population ratio by sex, age and place of birth (%)",1994,2019,26/01/2020 06:27:58,119223,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_age_cct_nb,"Employment by sex, age and citizenship (thousands)",1990,2019,26/01/2020 06:26:01,109020,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_age_cct_rt,"Employment-to-population ratio by sex, age and citizenship (%)",1994,2019,26/01/2020 06:28:30,107675,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_cbr_eco_dt,Employment distribution by economic activity (by sex and place of birth) (%),1991,2019,26/01/2020 06:27:17,119482,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_cbr_ocu_dt,Employment distribution by occupation (by sex and place of birth) (%),1993,2019,26/01/2020 06:27:40,109682,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_cbr_ste_dt,Employment distribution by status in employment (by sex and place of birth) (%),1993,2019,26/01/2020 06:27:28,16187,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_cct_eco_dt,Employment distribution by economic activity (by sex and citizenship) (%),1995,2019,26/01/2020 06:27:11,103578,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_cct_ocu_dt,Employment distribution by occupation (by sex and citizenship) (%),1995,2019,26/01/2020 06:27:35,101507,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_cct_ste_dt,Employment distribution by status in employment (by sex and citizenship) (%),1994,2019,26/01/2020 06:27:22,11965,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_eco_cbr_nb,"Employment by sex, economic activity and place of birth (thousands)",1991,2019,26/01/2020 06:25:33,124202,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_eco_cct_nb,"Employment by sex, economic activity and citizenship (thousands)",1995,2019,26/01/2020 06:25:41,107712,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_ocu_cbr_nb,"Employment by sex, occupation and place of birth (thousands)",1993,2019,24/01/2020 16:08:03,111339,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_ocu_cct_nb,"Employment by sex, occupation and citizenship (thousands)",1995,2019,26/01/2020 06:25:38,103005,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_ste_cbr_nb,"Employment by sex, status in employment and place of birth (thousands)",1993,2019,24/01/2020 14:09:18,17169,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_temp_sex_ste_cct_nb,"Employment by sex, status in employment and citizenship (thousands)",1994,2019,23/01/2020 14:43:07,12940,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_tune_sex_age_cbr_nb,"Unemployment by sex, age and place of birth (in thousands)",1994,2019,26/01/2020 06:26:05,98731,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_tune_sex_age_cbr_rt,"Unemployment rate by sex, age and place of birth (%)",1994,2019,26/01/2020 06:28:07,98608,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_tune_sex_age_cct_nb,"Unemployment by sex, age and citizenship (in thousands)",1994,2019,02/02/2020 07:31:04,89711,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_tune_sex_age_cct_rt,"Unemployment rate by sex, age and citizenship (%)",1994,2019,02/02/2020 07:32:16,89320,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_xwap_sex_age_cbr_nb,"Working-age population by sex, age and place of birth (thousands)",1991,2019,26/01/2020 06:25:28,129393,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_xwap_sex_age_cct_nb,"Working-age population by sex, age and citizenship (thousands)",1994,2019,02/02/2020 07:30:53,116251,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_xwap_sex_edu_cbr_nb,"Working-age population by sex, education and place of birth (thousands)",1991,2019,24/01/2020 16:08:08,97705,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+mst_xwap_sex_edu_cct_nb,"Working-age population by sex, education and citizenship (thousands)",1994,2019,23/01/2020 14:43:14,87770,ILMS,Labour Migration Statistics,MIG,Labour migration,measure
+pop_2flf_noc_rt,"Female labour force as % of working-age population -- ILO modelled estimates, July 2019",1990,2020,02/02/2020 08:00:25,8215,KI,Key Indicators,EAP,Population and labour force,measure
+pop_2ldr_noc_rt,"Labour dependency ratio -- ILO modelled estimates, November 2019",1991,2024,21/01/2020 15:48:58,9350,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+pop_2mlf_noc_rt,"Male labour force as % of working-age population -- ILO modelled estimates, July 2019",1990,2020,02/02/2020 07:59:33,8215,KI,Key Indicators,EAP,Population and labour force,measure
+pop_2pop_geo_nb,"Population by rural / urban areas -- UN estimates and projections, July 2019 (thousands)",1990,2030,21/01/2020 15:48:59,33825,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+pop_2pop_sex_age_geo_nb,"Population by sex, age and rural / urban areas -- UN estimates, July 2019 (thousands)",1990,2015,21/01/2020 15:48:57,490050,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+pop_2pop_sex_age_nb,"Population by sex and age -- UN estimates and projections, July 2019 (thousands)",1990,2030,21/01/2020 15:48:57,1116225,ILOEST,ILO estimates,ILOEST;EAP,ILO modelled estimates | Population and labour force,measure
+pop_2tlf_noc_rt,"Persons outside the labour force as % of working-age population -- ILO modelled estimates, July 2019",1990,2020,02/02/2020 08:00:53,8215,KI,Key Indicators,EAP,Population and labour force,measure
+pop_3for_sex_age_tra_dt,"Youth working-age population distribution by sex, age and forms of transition (%)",2004,2019,25/12/2019 22:27:20,61882,YTH,youthSTATS,YTH,Youth,measure
+pop_3for_sex_age_tra_nb,"Youth working-age population by sex, age and forms of transition (thousands)",2004,2019,25/12/2019 22:27:20,63936,YTH,youthSTATS,YTH,Youth,measure
+pop_3for_sex_edu_tra_nb,"Youth working-age population by sex, education and forms of transition (thousands)",2004,2019,25/12/2019 22:27:20,76392,YTH,youthSTATS,YTH,Youth,measure
+pop_3for_sex_geo_tra_nb,"Youth working-age population by sex, rural / urban areas and forms of transition (thousands)",2004,2019,25/12/2019 22:27:20,44745,YTH,youthSTATS,YTH,Youth,measure
+pop_3stg_sex_age_tra_dt,"Youth working-age population distribution by sex, age and stages of transition (%)",2004,2019,25/12/2019 22:27:20,29445,YTH,youthSTATS,YTH,Youth,measure
+pop_3stg_sex_age_tra_nb,"Youth working-age population by sex, age and stages of transition (thousands)",2004,2019,25/12/2019 22:27:20,30381,YTH,youthSTATS,YTH,Youth,measure
+pop_3stg_sex_edu_tra_dt,"Youth working-age population distribution by sex, education and stages of transition (%)",2004,2019,25/12/2019 22:27:20,35557,YTH,youthSTATS,YTH,Youth,measure
+pop_3stg_sex_edu_tra_nb,"Youth working-age population by sex, education and stages of transition (thousands)",2004,2019,25/12/2019 22:27:20,38322,YTH,youthSTATS,YTH,Youth,measure
+pop_3stg_sex_geo_tra_dt,"Youth working-age population distribution by sex, rural / urban areas and stages of transition (%)",2004,2019,25/12/2019 22:27:20,20644,YTH,youthSTATS,YTH,Youth,measure
+pop_3stg_sex_geo_tra_nb,"Youth working-age population by sex, rural / urban areas and stages of transition (thousands)",2004,2019,25/12/2019 22:27:20,21284,YTH,youthSTATS,YTH,Youth,measure
+pop_3ted_sex_eco_nb,Youth transited by sex and economic activity (thousands),2004,2019,06/12/2019 08:57:35,21453,YTH,youthSTATS,YTH,Youth,measure
+pop_3ted_sex_ocu_nb,Youth transited by sex and occupation (thousands),2006,2019,06/12/2019 08:57:35,10759,YTH,youthSTATS,YTH,Youth,measure
+pop_3ted_sex_ste_nb,Youth transited by sex and status in employment (thousands),2004,2019,06/12/2019 08:57:35,11749,YTH,youthSTATS,YTH,Youth,measure
+pop_3wap_sex_age_edu_nb,"Youth working-age population by sex, age and education (thousands)",1990,2019,16/01/2020 12:15:48,78735,YTH,youthSTATS,YTH,Youth,measure
+pop_3wap_sex_age_geo_nb,"Youth working-age population by sex, age and rural / urban areas (thousands)",1990,2019,16/01/2020 12:15:48,41678,YTH,youthSTATS,YTH,Youth,measure
+pop_3wap_sex_age_lms_nb,"Youth working-age population by sex, age and labour market status (thousands)",1976,2019,16/01/2020 12:15:48,72713,YTH,youthSTATS,YTH,Youth,measure
+pop_3wap_sex_age_stu_nb,"Youth working-age population by sex, age and school attendance status (thousands)",1976,2019,16/01/2020 12:15:48,44043,YTH,youthSTATS,YTH,Youth,measure
+pop_aeda_noc_rt,Share of adult population with advanced education (%),1990,2019,02/02/2020 07:59:05,1501,KI,Key Indicators,EAP,Population and labour force,measure
+pop_xwap_sex_age_edu_nb,"Working-age population by sex, age and education (thousands)",1990,2019,02/02/2020 06:19:19,910220,YI,Yearly indicators,EAP,Population and labour force,measure
+pop_xwap_sex_age_geo_nb,"Working-age population by sex, age and rural / urban areas (thousands)",1990,2019,02/02/2020 06:46:56,183089,YI,Yearly indicators,EAP,Population and labour force,measure
+pop_xwap_sex_age_mts_nb,"Working-age population by sex, age and marital status (thousands)",1990,2019,15/01/2020 21:35:07,266844,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+pop_xwap_sex_age_nb,Working-age population by sex and age (thousands),1946,2019,02/02/2020 06:18:37,290750,YI,Yearly indicators,EAP,Population and labour force,measure
+pop_xwap_sex_dsb_nb,Working-age population by sex and disability status (thousands),2005,2018,15/01/2020 21:31:46,1188,YI,Yearly indicators,EAP,Population and labour force,measure
+pop_xwap_sex_edu_geo_nb,"Working-age population by sex, education and rural / urban areas (thousands)",1994,2019,15/01/2020 21:35:07,50680,YI,Yearly indicators,EAP,Population and labour force,measure
+pop_xwap_sex_edu_mts_nb,"Working-age population by sex, education and marital status (thousands)",1994,2019,15/01/2020 21:35:07,239572,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+pop_xwap_sex_edu_nb,Working-age population by sex and education (thousands),1990,2019,15/01/2020 21:31:44,21281,YI,Yearly indicators,EAP,Population and labour force,measure
+pop_xwap_sex_mts_nb,Working-age population by sex and marital status (thousands),1998,2018,03/10/2019 12:47:10,2087,YI,Yearly indicators,EAP;WOM,Population and labour force | Women,measure
+pov_demf_noc_rt,"Working poverty rate, women (%)",2007,2018,02/02/2020 08:28:29,256,KI,Key Indicators,POV,Employment by economic class,measure
+pov_demm_noc_rt,"Working poverty rate, men (%)",2007,2018,02/02/2020 08:28:24,256,KI,Key Indicators,POV,Employment by economic class,measure
+pov_demp_noc_rt,Working poverty rate (%),2007,2018,02/02/2020 08:28:18,263,KI,Key Indicators,POV,Employment by economic class,measure
+pov_p2t3_noc_rt,"Moderately poor (>=US$1.90 & <US$3.10, PPP) as % of total employment -- ILO modelled estimates",1991,2020,02/02/2020 08:29:15,6270,KI,Key Indicators,POV,Employment by economic class,measure
+pov_p3t5_noc_rt,"Near poor (>=US$3.10 & <US$5, PPP) as % of total employment -- ILO modelled estimates",1991,2020,02/02/2020 08:28:39,6030,KI,Key Indicators,POV,Employment by economic class,measure
+pov_plt1_noc_rt,"Extremely poor (<US$1.90, PPP) as % of total employment -- ILO modelled estimates",1991,2020,02/02/2020 08:28:57,6270,KI,Key Indicators,POV,Employment by economic class,measure
+pse_tpse_gov_nb,Public employment by sectors and sub-sectors of national accounts (thousands),1975,2018,14/01/2020 15:00:17,7236,YI,Yearly indicators,EMP,Employment,measure
+sdg_0111_sex_age_rt,SDG indicator 1.1.1 - Working poverty rate (percentage of employed living below US$1.90 PPP) (%),2000,2024,10/01/2020 12:17:24,34875,SDG,SDG labour market indicators,SDG;EMP;WOM,SDG labour market indicators | Employment | Women,measure
+sdg_0131_sex_soc_rt,SDG indicator 1.3.1 - Proportion of population covered by social protection floors/systems (%),1996,2018,12/03/2019 12:03:08,1896,SDG,SDG labour market indicators,SDG;SOC;WOM,SDG labour market indicators | Social protection | Women,measure
+sdg_0552_ocu_rt,SDG indicator 5.5.2 - Female share of employment in managerial positions (%),1991,2019,02/02/2020 08:47:08,3141,SDG,SDG labour market indicators,SDG;EMP;WOM,SDG labour market indicators | Employment | Women,measure
+sdg_0851_sex_ocu_nb,SDG indicator 8.5.1 - Average hourly earnings of employees by sex (Local currency),2000,2018,02/02/2020 08:46:37,6648,SDG,SDG labour market indicators,SDG;EAR;WOM,SDG labour market indicators | Earnings and labour income | Women,measure
+sdg_0852_sex_age_rt,SDG indicator 8.5.2 - Unemployment rate (%),2000,2024,02/02/2020 08:48:17,23725,SDG,SDG labour market indicators,SDG;LUU;WOM,SDG labour market indicators | Unemployment and labour underutilization | Women,measure
+sdg_0852_sex_dsb_rt,SDG indicator 8.5.2 - Unemployment rate by disability status (%),2005,2018,02/02/2020 08:50:43,1245,SDG,SDG labour market indicators,SDG;LUU;WOM,SDG labour market indicators | Unemployment and labour underutilization | Women,measure
+sdg_0861_sex_rt,"SDG indicator 8.6.1 - Proportion of youth (aged 15-24 years) not in education, employment or training (%)",2000,2019,02/02/2020 08:50:15,4524,SDG,SDG labour market indicators,SDG;LUU;WOM,SDG labour market indicators | Unemployment and labour underutilization | Women,measure
+sdg_0922_noc_rt,SDG indicator 9.2.2 - Manufacturing employment as a proportion of total employment (%),1991,2019,02/02/2020 08:49:33,2406,SDG,SDG labour market indicators,SDG;EMP,SDG labour market indicators | Employment,measure
+sdg_1041_noc_rt,SDG indicator 10.4.1 - Labour income share as a percent of GDP (%),2004,2017,10/01/2020 12:39:02,2842,SDG,SDG labour market indicators,SDG;EAR,SDG labour market indicators | Earnings and labour income,measure
+sdg_a821_noc_rt,SDG indicator 8.2.1 - Annual growth rate of output per worker (GDP constant 2010 US $) (%),2001,2024,10/01/2020 13:23:32,4968,SDG,SDG labour market indicators,SDG;LPY,SDG labour market indicators | Labour productivity,measure
+sdg_a831_sex_rt,SDG indicator 8.3.1 - Proportion of informal employment in non-agricultural employment (%),2004,2018,02/02/2020 08:49:47,590,SDG,SDG labour market indicators,SDG;EMP;WOM,SDG labour market indicators | Employment | Women,measure
+sdg_a871_sex_age_rt,SDG indicator 8.7.1 - Proportion of children engaged in economic activity (%),2010,2016,08/11/2018 16:58:37,243,SDG,SDG labour market indicators,SDG;CHL;WOM,SDG labour market indicators | Child labour | Women,measure
+sdg_b821_noc_rt,SDG indicator 8.2.1 - Annual growth rate of output per worker (GDP constant 2011 international $ in PPP) (%),2001,2024,10/01/2020 13:23:25,4968,SDG,SDG labour market indicators,SDG;LPY,SDG labour market indicators | Labour productivity,measure
+sdg_b831_sex_rt,SDG indicator 8.3.1 - Proportion of informal employment in non-agricultural employment -- Harmonized series (%),2000,2019,02/02/2020 08:50:33,1047,SDG,SDG labour market indicators,SDG;EMP;WOM,SDG labour market indicators | Employment | Women,measure
+sdg_b871_sex_age_rt,SDG indicator 8.7.1 - Proportion of children engaged in economic activity and household chores (%),2010,2016,08/11/2018 16:58:37,216,SDG,SDG labour market indicators,SDG;CHL;WOM,SDG labour market indicators | Child labour | Women,measure
+sdg_f881_sex_mig_rt,SDG indicator 8.8.1 - Fatal occupational injuries per 100'000 workers,2000,2018,02/02/2020 08:49:58,3910,SDG,SDG labour market indicators,SDG;INJ,SDG labour market indicators | Occupational injuries,measure
+sdg_n881_sex_mig_rt,SDG indicator 8.8.1 - Non-fatal occupational injuries per 100'000 workers,2000,2018,02/02/2020 08:48:51,3868,SDG,SDG labour market indicators,SDG;INJ,SDG labour market indicators | Occupational injuries,measure
+soc_ceap_sex_rt,Active contributors to an old age contributory scheme as a percent of labour force by sex (%),2004,2012,25/09/2014 09:57:38,138,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_ceat_noc_rt,Active contributors to an old age contributory scheme as a percent of labour force (%),2004,2012,02/02/2020 08:33:19,135,KI,Key Indicators,SOC,Social protection,measure
+soc_cwap_sex_rt,Active contributors to an old age contributory scheme as a percent of the working age population by sex (%),2003,2012,25/09/2014 09:57:38,156,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_cwat_noc_rt,Active contributors to an old age contributory scheme as a percent of the working-age population (%),2003,2012,02/02/2020 08:33:25,153,KI,Key Indicators,SOC,Social protection,measure
+soc_ebec_noc_rt,Public social protection expenditure on benefits for children as a percent of GDP (%),2003,2012,02/02/2020 08:32:47,111,KI,Key Indicators,SOC,Social protection,measure
+soc_eben_age_rt,Public social protection expenditure on benefits as a percent of GDP by age (%),2001,2012,10/10/2018 14:47:16,369,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_ebeo_noc_rt,Public social protection expenditure on old age and survivors' benefits as a percent of GDP (%),2001,2012,02/02/2020 08:32:43,139,KI,Key Indicators,SOC,Social protection,measure
+soc_ebew_noc_rt,Public social protection expenditure on benefits for the working age as a percent of GDP (%),2003,2012,02/02/2020 08:32:45,111,KI,Key Indicators,SOC,Social protection,measure
+soc_egge_noc_rt,Public health expenditure as a percent of General Government Expenditure (%),2000,2011,25/09/2014 09:57:38,2050,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_hcov_noc_rt,Social health protection coverage as a percent of total population (%),2001,2011,25/09/2014 09:57:38,156,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_hexp_ins_rt,Total health expenditure as a percent of GDP by institutional sector (%),2000,2011,25/09/2014 09:57:38,6509,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_hexr_noc_rt,Private health expenditure as a percent of GDP (%),2000,2011,02/02/2020 08:32:17,2196,KI,Key Indicators,SOC,Social protection,measure
+soc_hext_noc_rt,Total health expenditure as a percent of GDP (%),2000,2011,02/02/2020 08:32:08,2129,KI,Key Indicators,SOC,Social protection,measure
+soc_hexu_noc_rt,Public health expenditure as a percent of GDP (%),2000,2011,02/02/2020 08:32:25,2165,KI,Key Indicators,SOC,Social protection,measure
+soc_nphc_noc_rt,Percentage of health care expenditure not financed by private households' out of pocket payments (%),2000,2011,25/09/2014 09:57:38,2207,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_pexn_noc_rt,Public social protection expenditure [excluding health care] as a percent of GDP (%),2000,2012,02/02/2020 08:32:38,792,KI,Key Indicators,SOC,Social protection,measure
+soc_pext_noc_rt,Public social protection expenditure [all functions] as a percent of GDP (%),2000,2013,02/02/2020 08:32:33,916,KI,Key Indicators,SOC,Social protection,measure
+soc_ppen_sex_rt,Share of population above statutory pensionable age receiving an old age pension by sex (%),2000,2013,12/09/2018 11:17:33,377,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_pspe_exp_rt,Public social protection expenditure as a percent of GDP in function of health care (%),2000,2013,10/10/2018 14:47:15,1743,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_socp_sex_rt,Share of unemployed receiving regular periodic social security unemployment benefits by sex (%),2000,2013,12/09/2018 11:17:33,1090,SSI,Social Security Indicators,SOC,Social protection,measure
+soc_wben_noc_rt,Public social protection expenditure on benefits for the working-age as a percent of GDP in function of general social assistance (%),2003,2012,10/10/2018 14:47:15,113,SSI,Social Security Indicators,SOC,Social protection,measure
+str_days_eco_nb,Days not worked due to strikes and lockouts by economic activity,1969,2018,19/01/2020 06:29:40,37970,YI,Yearly indicators,IR,Industrial relations,measure
+str_days_eco_rt,Days not worked per 1000 workers due to strikes and lockouts by economic activity (per 1000 workers),1980,2018,22/12/2019 06:29:39,9112,YI,Yearly indicators,IR,Industrial relations,measure
+str_days_noc_rt,Days not worked per 1000 workers due to strikes and lockouts (per 1000 workers),1990,2018,02/02/2020 08:28:09,721,KI,Key Indicators,IR,Industrial relations,measure
+str_tstr_eco_nb,Number of strikes and lockouts by economic activity,1969,2018,19/01/2020 06:29:34,38662,YI,Yearly indicators,IR,Industrial relations,measure
+str_work_eco_nb,Workers involved in strikes and lockouts by economic activity (thousands),1969,2018,12/01/2020 06:34:07,56415,YI,Yearly indicators,IR,Industrial relations,measure
+tru_3tru_sex_age_geo_nb,"Youth time-related underemployment by sex, age and rural / urban areas (thousands)",1990,2019,16/01/2020 12:15:47,40936,YTH,youthSTATS,YTH,Youth,measure
+tru_demf_noc_rt,"Time-related underemployment rate, women (%)",1990,2019,02/02/2020 08:16:38,1145,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+tru_demm_noc_rt,"Time-related underemployment rate, men (%)",1990,2019,02/02/2020 08:16:26,1144,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+tru_demp_noc_rt,Time-related underemployment rate (%),1990,2019,02/02/2020 08:16:11,1147,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+tru_demp_sex_age_geo_rt,"Time-related underemployment rate by sex, age and rural / urban areas (%)",1998,2019,15/01/2020 21:35:07,55106,YI,Yearly indicators,LUU;HOW,Unemployment and labour underutilization | Working time,measure
+tru_demp_sex_age_mts_rt,"Time-related underemployment rate by sex, age and marital status (%)",1994,2019,15/01/2020 21:35:07,92202,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+tru_demp_sex_age_rt,Time-related underemployment rate by sex and age (%),1955,2019,02/02/2020 06:38:11,51711,YI,Yearly indicators,LUU;HOW,Unemployment and labour underutilization | Working time,measure
+tru_demp_sex_edu_geo_rt,"Time-related underemployment rate by sex, education and rural / urban areas (%)",1998,2019,15/01/2020 21:35:07,30745,YI,Yearly indicators,LUU;HOW,Unemployment and labour underutilization | Working time,measure
+tru_demp_sex_edu_mts_rt,"Time-related underemployment rate by sex, education and marital status (%)",1998,2018,18/10/2019 13:46:03,12887,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+tru_ttru_sex_age_geo_nb,"Time-related underemployment by sex, age and rural / urban areas (thousands)",1998,2019,15/01/2020 21:35:07,56038,YI,Yearly indicators,LUU;HOW,Unemployment and labour underutilization | Working time,measure
+tru_ttru_sex_age_mts_nb,"Time-related underemployment by sex, age and marital status (thousands)",1994,2019,15/01/2020 21:35:07,92204,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+tru_ttru_sex_age_nb,Time-related underemployment by sex and age (thousands),1955,2019,02/02/2020 06:25:20,52724,YI,Yearly indicators,LUU;HOW,Unemployment and labour underutilization | Working time,measure
+tru_ttru_sex_edu_geo_nb,"Time-related underemployment by sex, education and rural / urban areas (thousands)",1998,2019,15/01/2020 21:35:07,30744,YI,Yearly indicators,LUU;HOW,Unemployment and labour underutilization | Working time,measure
+tru_ttru_sex_edu_mts_nb,"Time-related underemployment by sex, education and marital status (thousands)",1998,2018,18/10/2019 13:46:03,12883,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+une_2eap_noc_rt,"Unemployment rate -- ILO modelled estimates, November 2019 (%)",1991,2020,02/02/2020 08:21:35,7950,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_2eap_sex_age_geo_rt,"Unemployment rate by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (%)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+une_2eap_sex_age_rt,"Unemployment rate by sex and age -- ILO modelled estimates, November 2019 (%)",1991,2024,21/01/2020 15:48:58,84150,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+une_2une_sex_age_geo_nb,"Unemployment by sex, age and rural / urban areas -- ILO modelled estimates, November 2019 (thousands)",2005,2024,21/01/2020 15:48:59,148500,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+une_2une_sex_age_nb,"Unemployment by sex and age -- ILO modelled estimates, November 2019 (thousands)",1991,2024,21/01/2020 15:48:58,84150,ILOEST,ILO estimates,ILOEST;LUU,ILO modelled estimates | Unemployment and labour underutilization,measure
+une_2urm_noc_rt,"Unemployment rate, men -- ILO modelled estimates, November 2019 (%)",1991,2020,02/02/2020 08:21:56,7950,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_2urw_noc_rt,"Unemployment rate, women -- ILO modelled estimates, November 2019 (%)",1991,2020,02/02/2020 08:22:16,7950,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_3eap_sex_age_edu_rt,"Youth unemployment rate by sex, age and education (%)",1990,2019,16/01/2020 12:15:48,70575,YTH,youthSTATS,YTH,Youth,measure
+une_3eap_sex_age_geo_rt,"Youth unemployment rate by sex, age and rural / urban areas (%)",1990,2019,16/01/2020 12:15:48,41270,YTH,youthSTATS,YTH,Youth,measure
+une_3eap_sex_age_stu_rt,"Youth unemployment rate by sex, age and school attendance status (%)",1976,2019,16/01/2020 12:15:48,40109,YTH,youthSTATS,YTH,Youth,measure
+une_3une_sex_age_cat_nb,"Youth unemployment by sex, age and categories of unemployed persons (thousands)",1976,2019,20/12/2019 22:04:20,50652,YTH,youthSTATS,YTH,Youth,measure
+une_3une_sex_age_dur_nb,"Youth unemployment by sex, age and duration (thousands)",1976,2019,16/01/2020 12:15:48,66162,YTH,youthSTATS,YTH,Youth,measure
+une_3une_sex_age_edu_nb,"Youth unemployment by sex, age and education (thousands)",1990,2019,16/01/2020 12:15:48,70642,YTH,youthSTATS,YTH,Youth,measure
+une_3une_sex_age_geo_nb,"Youth unemployment by sex, age and rural / urban areas (thousands)",1990,2019,16/01/2020 12:15:48,41279,YTH,youthSTATS,YTH,Youth,measure
+une_3une_sex_age_stu_nb,"Youth unemployment by sex, age and school attendance status (thousands)",1976,2019,16/01/2020 12:15:48,40112,YTH,youthSTATS,YTH,Youth,measure
+une_3wap_sex_age_stu_rt,"Youth unemployment-to-population ratio by sex, age and school attendance status (%)",1976,2019,16/01/2020 12:15:48,40109,YTH,youthSTATS,YTH,Youth,measure
+une_deaf_noc_rt,"Unemployment rate, women (%)",1990,2019,02/02/2020 08:18:09,2455,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_deam_noc_rt,"Unemployment rate, men (%)",1990,2019,02/02/2020 08:17:43,2456,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_deap_noc_rt,Unemployment rate (%),1990,2019,02/02/2020 08:17:19,2558,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_deap_sex_age_edu_rt,"Unemployment rate by sex, age and education (%)",1980,2019,02/02/2020 07:05:48,708584,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_deap_sex_age_geo_rt,"Unemployment rate by sex, age and rural / urban areas (%)",1980,2019,02/02/2020 07:05:22,157029,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_deap_sex_age_mts_rt,"Unemployment rate by sex, age and marital status (%)",1990,2019,15/01/2020 21:35:07,235134,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+une_deap_sex_age_rt,Unemployment rate by sex and age (%),1947,2019,02/02/2020 07:03:35,215666,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_deap_sex_dsb_rt,Unemployment rate by sex and disability status (%),2005,2018,24/01/2020 15:07:00,1546,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_deap_sex_edu_geo_rt,"Unemployment rate by sex, education and rural / urban areas (%)",1994,2019,15/01/2020 21:35:07,44323,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_deap_sex_edu_mts_rt,"Unemployment rate by sex, education and marital status (%)",1994,2019,15/01/2020 21:35:07,199867,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+une_deap_sex_mts_rt,Unemployment rate by sex and marital status (%),1998,2018,05/10/2019 14:49:52,2031,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_dyaf_noc_rt,"Youth unemployment rate, women (%)",1990,2019,02/02/2020 08:19:21,2201,KI,Key Indicators,YTH,Youth,measure
+une_dyam_noc_rt,"Youth unemployment rate, men (%)",1990,2019,02/02/2020 08:19:01,2201,KI,Key Indicators,YTH,Youth,measure
+une_dyap_noc_rt,Youth unemployment rate (%),1990,2019,02/02/2020 08:18:38,2218,KI,Key Indicators,YTH,Youth,measure
+une_edad_noc_rt,Share of unemployed persons with advanced education (%),1990,2019,02/02/2020 08:20:30,2118,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_edbs_noc_rt,Share of unemployed persons with basic education (%),1990,2019,02/02/2020 08:19:44,2125,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_edin_noc_rt,Share of unemployed persons with intermediate education (%),1990,2019,02/02/2020 08:20:06,2111,KI,Key Indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_age_dur_dt,Unemployment distribution by duration (by sex and age) (%),1948,2019,02/02/2020 06:39:43,694664,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_age_dur_nb,"Unemployment by sex, age and duration (thousands)",1948,2019,02/02/2020 06:26:54,724547,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_age_edu_dt,Unemployment distribution by education (by sex and age) (%),1976,2019,02/02/2020 07:06:31,689342,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_age_edu_nb,"Unemployment by sex, age and education (thousands)",1976,2019,02/02/2020 07:03:48,742611,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_age_geo_nb,"Unemployment by sex, age and rural / urban areas (thousands)",1982,2019,02/02/2020 07:05:08,169022,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_age_mts_nb,"Unemployment by sex, age and marital status (thousands)",1990,2019,15/01/2020 21:35:07,235134,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+une_tune_sex_age_nb,Unemployment by sex and age (thousands),1947,2019,02/02/2020 06:26:05,253959,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_cat_nb,Unemployment by sex and categories of unemployed persons (thousands),1969,2019,20/12/2019 22:04:09,27479,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_dsb_nb,Unemployment by sex and disability status (thousands),2005,2018,15/01/2020 21:32:40,1588,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_dur_geo_nb,"Unemployment by sex, duration and rural / urban areas (thousands)",1992,2019,15/01/2020 21:35:07,40782,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_dur_mts_nb,"Unemployment by sex, duration and marital status (thousands)",1992,2018,05/10/2019 14:49:52,24603,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+une_tune_sex_eco_nb,Unemployment of previously employed persons by sex and former economic activity (thousands),1970,2019,02/02/2020 06:27:19,176703,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_edu_geo_nb,"Unemployment by sex, education and rural / urban areas (thousands)",1994,2019,15/01/2020 21:35:07,44323,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_edu_mts_nb,"Unemployment by sex, education and marital status (thousands)",1994,2019,15/01/2020 21:35:07,199861,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+une_tune_sex_edu_nb,Unemployment by sex and education (thousands),1990,2019,15/01/2020 21:32:37,19330,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
+une_tune_sex_mts_nb,Unemployment by sex and marital status (thousands),1998,2018,05/10/2019 14:49:52,2031,YI,Yearly indicators,LUU;WOM,Unemployment and labour underutilization | Women,measure
+une_tune_sex_ocu_nb,Unemployment of previously employed persons by sex and former occupation (thousands),1969,2019,02/02/2020 07:05:00,72183,YI,Yearly indicators,LUU,Unemployment and labour underutilization,measure
