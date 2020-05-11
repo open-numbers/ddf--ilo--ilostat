@@ -1470,6 +1470,8 @@ aus,eco_aggregate_total,2008,172.9
 aus,eco_aggregate_total,2013,132.2
 aus,eco_aggregate_total,2015,73.3
 aus,eco_aggregate_total,2016,105.9
+aus,eco_aggregate_total,2018,57.6
+aus,eco_aggregate_total,2019,53.2
 aus,eco_isic2_1,1973,0.2
 aus,eco_isic2_1,1974,6.7
 aus,eco_isic2_1,1975,6
@@ -1966,6 +1968,8 @@ aus,eco_isic4_s,2013,0.3
 aus,eco_isic4_total,2013,132.2
 aus,eco_isic4_total,2015,73.3
 aus,eco_isic4_total,2016,105.9
+aus,eco_isic4_total,2018,57.6
+aus,eco_isic4_total,2019,53.2
 aus,eco_sector_agr,1973,0.2
 aus,eco_sector_agr,1974,6.7
 aus,eco_sector_agr,1975,6
@@ -2071,6 +2075,8 @@ aus,eco_sector_nag,2008,172.9
 aus,eco_sector_nag,2013,132.2
 aus,eco_sector_nag,2015,73.3
 aus,eco_sector_nag,2016,105.9
+aus,eco_sector_nag,2018,57.6
+aus,eco_sector_nag,2019,53.2
 aus,eco_sector_ser,1973,236.7
 aus,eco_sector_ser,1974,500.3
 aus,eco_sector_ser,1975,372.3
@@ -2153,6 +2159,8 @@ aus,eco_sector_total,2008,172.9
 aus,eco_sector_total,2013,132.2
 aus,eco_sector_total,2015,73.3
 aus,eco_sector_total,2016,105.9
+aus,eco_sector_total,2018,57.6
+aus,eco_sector_total,2019,53.2
 aut,eco_aggregate_con,1972,0.98
 aut,eco_aggregate_con,1973,0.08
 aut,eco_aggregate_con,1974,0.122
@@ -16204,6 +16212,11 @@ est,eco_aggregate_total,2008,0.4
 est,eco_aggregate_total,2009,1.8
 est,eco_aggregate_total,2011,0
 est,eco_aggregate_total,2012,13.302
+est,eco_aggregate_total,2013,0
+est,eco_aggregate_total,2014,0
+est,eco_aggregate_total,2015,0
+est,eco_aggregate_total,2016,0
+est,eco_aggregate_total,2017,0
 est,eco_aggregate_total,2018,0.025
 est,eco_isic3_total,1992,0
 est,eco_isic3_total,1993,0
@@ -16226,6 +16239,11 @@ est,eco_isic4_p,2012,12.093
 est,eco_isic4_q,2012,1.209
 est,eco_isic4_total,2011,0
 est,eco_isic4_total,2012,13.302
+est,eco_isic4_total,2013,0
+est,eco_isic4_total,2014,0
+est,eco_isic4_total,2015,0
+est,eco_isic4_total,2016,0
+est,eco_isic4_total,2017,0
 est,eco_isic4_total,2018,0.025
 est,eco_sector_ind,2018,0.025
 est,eco_sector_nag,2003,13.26
@@ -16254,6 +16272,11 @@ est,eco_sector_total,2008,0.4
 est,eco_sector_total,2009,1.8
 est,eco_sector_total,2011,0
 est,eco_sector_total,2012,13.302
+est,eco_sector_total,2013,0
+est,eco_sector_total,2014,0
+est,eco_sector_total,2015,0
+est,eco_sector_total,2016,0
+est,eco_sector_total,2017,0
 est,eco_sector_total,2018,0.025
 fin,eco_aggregate_agr,1973,0.15
 fin,eco_aggregate_agr,1979,3.04
@@ -30661,6 +30684,7 @@ ltu,eco_aggregate_pub,2005,0.07
 ltu,eco_aggregate_pub,2007,7.033
 ltu,eco_aggregate_pub,2008,7.961
 ltu,eco_aggregate_pub,2012,5.558
+ltu,eco_aggregate_pub,2015,7.126
 ltu,eco_aggregate_pub,2016,6.295
 ltu,eco_aggregate_pub,2018,4.498
 ltu,eco_aggregate_total,2000,3.303
@@ -30673,6 +30697,7 @@ ltu,eco_aggregate_total,2006,0
 ltu,eco_aggregate_total,2007,7.033
 ltu,eco_aggregate_total,2008,7.961
 ltu,eco_aggregate_total,2012,5.558
+ltu,eco_aggregate_total,2015,7.126
 ltu,eco_aggregate_total,2016,6.295
 ltu,eco_aggregate_total,2017,2.205
 ltu,eco_aggregate_total,2018,4.498
@@ -30709,6 +30734,7 @@ ltu,eco_isic4_p,2006,0
 ltu,eco_isic4_p,2007,7.033
 ltu,eco_isic4_p,2008,7.961
 ltu,eco_isic4_p,2012,5.558
+ltu,eco_isic4_p,2015,7.126
 ltu,eco_isic4_p,2016,6.295
 ltu,eco_isic4_p,2018,4.498
 ltu,eco_isic4_r,2005,0.07
@@ -30725,6 +30751,7 @@ ltu,eco_isic4_total,2006,0
 ltu,eco_isic4_total,2007,7.033
 ltu,eco_isic4_total,2008,7.961
 ltu,eco_isic4_total,2012,5.558
+ltu,eco_isic4_total,2015,7.126
 ltu,eco_isic4_total,2016,6.295
 ltu,eco_isic4_total,2017,2.205
 ltu,eco_isic4_total,2018,4.498
@@ -30735,6 +30762,7 @@ ltu,eco_sector_nag,2005,0.07
 ltu,eco_sector_nag,2007,7.033
 ltu,eco_sector_nag,2008,7.961
 ltu,eco_sector_nag,2012,5.558
+ltu,eco_sector_nag,2015,7.126
 ltu,eco_sector_nag,2016,6.295
 ltu,eco_sector_nag,2018,4.498
 ltu,eco_sector_ser,2000,3.303
@@ -30743,6 +30771,7 @@ ltu,eco_sector_ser,2005,0.07
 ltu,eco_sector_ser,2007,7.033
 ltu,eco_sector_ser,2008,7.961
 ltu,eco_sector_ser,2012,5.558
+ltu,eco_sector_ser,2015,7.126
 ltu,eco_sector_ser,2016,6.295
 ltu,eco_sector_ser,2018,4.498
 ltu,eco_sector_total,2000,3.303
@@ -30755,6 +30784,7 @@ ltu,eco_sector_total,2006,0
 ltu,eco_sector_total,2007,7.033
 ltu,eco_sector_total,2008,7.961
 ltu,eco_sector_total,2012,5.558
+ltu,eco_sector_total,2015,7.126
 ltu,eco_sector_total,2016,6.295
 ltu,eco_sector_total,2017,2.205
 ltu,eco_sector_total,2018,4.498
@@ -30774,6 +30804,7 @@ lva,eco_aggregate_total,2012,0.035
 lva,eco_aggregate_total,2013,0
 lva,eco_aggregate_total,2014,0
 lva,eco_aggregate_total,2015,22.854
+lva,eco_aggregate_total,2016,0
 lva,eco_aggregate_total,2017,0.061
 lva,eco_aggregate_total,2018,0
 lva,eco_isic4_a,2005,0
@@ -31040,6 +31071,7 @@ lva,eco_isic4_total,2012,0.035
 lva,eco_isic4_total,2013,0
 lva,eco_isic4_total,2014,0
 lva,eco_isic4_total,2015,22.854
+lva,eco_isic4_total,2016,0
 lva,eco_isic4_total,2017,0.061
 lva,eco_isic4_total,2018,0
 lva,eco_isic4_u,2005,0
@@ -31076,6 +31108,7 @@ lva,eco_sector_total,2012,0.035
 lva,eco_sector_total,2013,0
 lva,eco_sector_total,2014,0
 lva,eco_sector_total,2015,22.854
+lva,eco_sector_total,2016,0
 lva,eco_sector_total,2017,0.061
 lva,eco_sector_total,2018,0
 mar,eco_aggregate_agr,1972,3.834
@@ -38613,7 +38646,6 @@ nzl,eco_aggregate_con,1988,12.306
 nzl,eco_aggregate_con,1989,1.538
 nzl,eco_aggregate_con,1990,0.397
 nzl,eco_aggregate_con,2001,0.09
-nzl,eco_aggregate_con,2006,0.754
 nzl,eco_aggregate_man,1976,143.485
 nzl,eco_aggregate_man,1977,112.133
 nzl,eco_aggregate_man,1978,125.345
@@ -38644,8 +38676,6 @@ nzl,eco_aggregate_man,2002,1.504
 nzl,eco_aggregate_man,2003,0.725
 nzl,eco_aggregate_man,2004,2.455
 nzl,eco_aggregate_man,2005,1.763
-nzl,eco_aggregate_man,2006,1.686
-nzl,eco_aggregate_man,2007,0.341
 nzl,eco_aggregate_man,2009,0.403
 nzl,eco_aggregate_man,2010,0.272
 nzl,eco_aggregate_mel,1976,0.385
@@ -38688,8 +38718,6 @@ nzl,eco_aggregate_mkt,2001,0.64
 nzl,eco_aggregate_mkt,2002,1.414
 nzl,eco_aggregate_mkt,2004,1.042
 nzl,eco_aggregate_mkt,2005,2.275
-nzl,eco_aggregate_mkt,2006,0.867
-nzl,eco_aggregate_mkt,2007,0.422
 nzl,eco_aggregate_mkt,2009,2.246
 nzl,eco_aggregate_pub,1976,2.107
 nzl,eco_aggregate_pub,1977,0.572
@@ -38721,8 +38749,6 @@ nzl,eco_aggregate_pub,2002,18.063
 nzl,eco_aggregate_pub,2003,3.025
 nzl,eco_aggregate_pub,2004,1.547
 nzl,eco_aggregate_pub,2005,6.617
-nzl,eco_aggregate_pub,2006,6.427
-nzl,eco_aggregate_pub,2007,1.708
 nzl,eco_aggregate_pub,2009,4.298
 nzl,eco_aggregate_pub,2010,5.776
 nzl,eco_aggregate_total,1971,86.009
@@ -38766,6 +38792,13 @@ nzl,eco_aggregate_total,2009,8.951
 nzl,eco_aggregate_total,2010,6.394
 nzl,eco_aggregate_total,2011,2.098
 nzl,eco_aggregate_total,2012,5.179
+nzl,eco_aggregate_total,2013,0.27
+nzl,eco_aggregate_total,2014,1.564
+nzl,eco_aggregate_total,2015,1.845
+nzl,eco_aggregate_total,2016,0.43
+nzl,eco_aggregate_total,2017,0.421
+nzl,eco_aggregate_total,2018,11.109
+nzl,eco_aggregate_total,2019,52.042
 nzl,eco_aggregate_x,1976,7.07
 nzl,eco_aggregate_x,1977,0.166
 nzl,eco_aggregate_x,1979,2.902
@@ -39161,8 +39194,17 @@ nzl,eco_isic4_s,2009,0
 nzl,eco_isic4_s,2010,0
 nzl,eco_isic4_t,2009,0
 nzl,eco_isic4_t,2010,0
+nzl,eco_isic4_total,2006,10.079
+nzl,eco_isic4_total,2007,4.09
 nzl,eco_isic4_total,2009,8.951
 nzl,eco_isic4_total,2010,6.394
+nzl,eco_isic4_total,2013,0.27
+nzl,eco_isic4_total,2014,1.564
+nzl,eco_isic4_total,2015,1.845
+nzl,eco_isic4_total,2016,0.43
+nzl,eco_isic4_total,2017,0.421
+nzl,eco_isic4_total,2018,11.109
+nzl,eco_isic4_total,2019,52.042
 nzl,eco_isic4_u,2009,0
 nzl,eco_isic4_u,2010,0
 nzl,eco_isic4_x,2009,0
@@ -39208,8 +39250,6 @@ nzl,eco_sector_ind,2002,1.504
 nzl,eco_sector_ind,2003,0.725
 nzl,eco_sector_ind,2004,2.455
 nzl,eco_sector_ind,2005,1.763
-nzl,eco_sector_ind,2006,2.44
-nzl,eco_sector_ind,2007,0.341
 nzl,eco_sector_ind,2009,0.403
 nzl,eco_sector_ind,2010,0.272
 nzl,eco_sector_nag,1971,86.009
@@ -39253,6 +39293,13 @@ nzl,eco_sector_nag,2009,8.951
 nzl,eco_sector_nag,2010,6.394
 nzl,eco_sector_nag,2011,2.098
 nzl,eco_sector_nag,2012,5.179
+nzl,eco_sector_nag,2013,0.27
+nzl,eco_sector_nag,2014,1.564
+nzl,eco_sector_nag,2015,1.845
+nzl,eco_sector_nag,2016,0.43
+nzl,eco_sector_nag,2017,0.421
+nzl,eco_sector_nag,2018,11.109
+nzl,eco_sector_nag,2019,52.042
 nzl,eco_sector_ser,1976,34.443
 nzl,eco_sector_ser,1977,42.366
 nzl,eco_sector_ser,1978,28.15
@@ -39283,8 +39330,6 @@ nzl,eco_sector_ser,2002,19.477
 nzl,eco_sector_ser,2003,3.025
 nzl,eco_sector_ser,2004,2.589
 nzl,eco_sector_ser,2005,8.892
-nzl,eco_sector_ser,2006,7.294
-nzl,eco_sector_ser,2007,2.13
 nzl,eco_sector_ser,2009,6.544
 nzl,eco_sector_ser,2010,5.776
 nzl,eco_sector_total,1971,86.009
@@ -39328,6 +39373,13 @@ nzl,eco_sector_total,2009,8.951
 nzl,eco_sector_total,2010,6.394
 nzl,eco_sector_total,2011,2.098
 nzl,eco_sector_total,2012,5.179
+nzl,eco_sector_total,2013,0.27
+nzl,eco_sector_total,2014,1.564
+nzl,eco_sector_total,2015,1.845
+nzl,eco_sector_total,2016,0.43
+nzl,eco_sector_total,2017,0.421
+nzl,eco_sector_total,2018,11.109
+nzl,eco_sector_total,2019,52.042
 nzl,eco_sector_x,1976,7.07
 nzl,eco_sector_x,1977,0.166
 nzl,eco_sector_x,1979,2.902
@@ -46407,6 +46459,7 @@ sgp,eco_aggregate_total,2007,0
 sgp,eco_aggregate_total,2008,0
 sgp,eco_aggregate_total,2009,0
 sgp,eco_aggregate_total,2010,0
+sgp,eco_aggregate_total,2015,0
 sgp,eco_aggregate_total,2016,0
 sgp,eco_aggregate_total,2017,0
 sgp,eco_aggregate_total,2018,0
@@ -46558,6 +46611,7 @@ sgp,eco_isic4_t,2017,0
 sgp,eco_isic4_t,2018,0
 sgp,eco_isic4_total,2009,0
 sgp,eco_isic4_total,2010,0
+sgp,eco_isic4_total,2015,0
 sgp,eco_isic4_total,2016,0
 sgp,eco_isic4_total,2017,0
 sgp,eco_isic4_total,2018,0
@@ -46614,6 +46668,7 @@ sgp,eco_sector_total,2007,0
 sgp,eco_sector_total,2008,0
 sgp,eco_sector_total,2009,0
 sgp,eco_sector_total,2010,0
+sgp,eco_sector_total,2015,0
 sgp,eco_sector_total,2016,0
 sgp,eco_sector_total,2017,0
 sgp,eco_sector_total,2018,0
@@ -48980,8 +49035,6 @@ swe,eco_aggregate_con,2004,1.991
 swe,eco_aggregate_con,2005,0.2
 swe,eco_aggregate_con,2007,1.022
 swe,eco_aggregate_con,2012,2.97
-swe,eco_aggregate_con,2015,0.07
-swe,eco_aggregate_con,2016,2.35
 swe,eco_aggregate_man,1972,5.384
 swe,eco_aggregate_man,1973,2.396
 swe,eco_aggregate_man,1974,7.292
@@ -49019,7 +49072,6 @@ swe,eco_aggregate_man,2007,1.151
 swe,eco_aggregate_man,2008,0.006
 swe,eco_aggregate_man,2010,2.4
 swe,eco_aggregate_man,2013,0.065
-swe,eco_aggregate_man,2015,0.052
 swe,eco_aggregate_mel,1973,0.261
 swe,eco_aggregate_mel,1974,1.04
 swe,eco_aggregate_mel,1975,0.24
@@ -49082,9 +49134,6 @@ swe,eco_aggregate_mkt,2010,0.55
 swe,eco_aggregate_mkt,2011,2
 swe,eco_aggregate_mkt,2012,2.24
 swe,eco_aggregate_mkt,2013,2.635
-swe,eco_aggregate_mkt,2014,1.757
-swe,eco_aggregate_mkt,2015,0.001
-swe,eco_aggregate_mkt,2016,1.421
 swe,eco_aggregate_mkt,2017,0.267
 swe,eco_aggregate_mkt,2018,0.05
 swe,eco_aggregate_pub,1972,0.884
@@ -49125,8 +49174,6 @@ swe,eco_aggregate_pub,2008,10
 swe,eco_aggregate_pub,2010,0.01
 swe,eco_aggregate_pub,2011,5
 swe,eco_aggregate_pub,2013,0.1
-swe,eco_aggregate_pub,2014,0.003
-swe,eco_aggregate_pub,2015,0.003
 swe,eco_aggregate_total,1971,62.919
 swe,eco_aggregate_total,1972,7.145
 swe,eco_aggregate_total,1973,4.252
@@ -49631,31 +49678,22 @@ swe,eco_isic3_x,2006,0
 swe,eco_isic3_x,2008,0
 swe,eco_isic4_c,2010,2.4
 swe,eco_isic4_c,2013,0.065
-swe,eco_isic4_c,2015,0.052
 swe,eco_isic4_d,2010,0.018
 swe,eco_isic4_d,2013,0.005
 swe,eco_isic4_e,2017,0.05
 swe,eco_isic4_f,2012,2.97
-swe,eco_isic4_f,2015,0.07
-swe,eco_isic4_f,2016,2.35
 swe,eco_isic4_g,2017,0.003
 swe,eco_isic4_h,2009,0.876
 swe,eco_isic4_h,2010,0.55
 swe,eco_isic4_h,2012,1.46
 swe,eco_isic4_h,2013,2.625
-swe,eco_isic4_h,2014,1.747
-swe,eco_isic4_h,2016,1.421
 swe,eco_isic4_h,2017,0.264
 swe,eco_isic4_h,2018,0.05
 swe,eco_isic4_i,2011,2
-swe,eco_isic4_i,2015,0.001
 swe,eco_isic4_j,2012,0.78
-swe,eco_isic4_k,2014,0.01
 swe,eco_isic4_n,2013,0.01
 swe,eco_isic4_q,2010,0.01
 swe,eco_isic4_q,2011,5
-swe,eco_isic4_q,2014,0.003
-swe,eco_isic4_q,2015,0.003
 swe,eco_isic4_r,2013,0.05
 swe,eco_isic4_s,2013,0.05
 swe,eco_isic4_total,2009,0.876
@@ -49714,8 +49752,6 @@ swe,eco_sector_ind,2008,0.006
 swe,eco_sector_ind,2010,2.418
 swe,eco_sector_ind,2012,2.97
 swe,eco_sector_ind,2013,0.07
-swe,eco_sector_ind,2015,0.122
-swe,eco_sector_ind,2016,2.35
 swe,eco_sector_ind,2017,0.05
 swe,eco_sector_nag,1971,62.919
 swe,eco_sector_nag,1972,7.125
@@ -49803,9 +49839,6 @@ swe,eco_sector_ser,2010,0.56
 swe,eco_sector_ser,2011,7
 swe,eco_sector_ser,2012,2.24
 swe,eco_sector_ser,2013,2.735
-swe,eco_sector_ser,2014,1.76
-swe,eco_sector_ser,2015,0.004
-swe,eco_sector_ser,2016,1.421
 swe,eco_sector_ser,2017,0.267
 swe,eco_sector_ser,2018,0.05
 swe,eco_sector_total,1971,62.919
@@ -52128,6 +52161,7 @@ tur,eco_aggregate_man,2013,15.93
 tur,eco_aggregate_man,2015,6.844
 tur,eco_aggregate_man,2016,0.886
 tur,eco_aggregate_man,2017,2.313
+tur,eco_aggregate_man,2018,0.649
 tur,eco_aggregate_mel,1988,0.59
 tur,eco_aggregate_mel,1989,1.818
 tur,eco_aggregate_mel,1990,42.274
@@ -52143,6 +52177,7 @@ tur,eco_aggregate_mel,2000,0.326
 tur,eco_aggregate_mel,2001,0.261
 tur,eco_aggregate_mel,2003,0.809
 tur,eco_aggregate_mel,2015,0.855
+tur,eco_aggregate_mel,2018,0.78
 tur,eco_aggregate_mkt,1988,1.083
 tur,eco_aggregate_mkt,1989,0.27
 tur,eco_aggregate_mkt,1990,0.438
@@ -52168,6 +52203,7 @@ tur,eco_aggregate_mkt,2013,0.702
 tur,eco_aggregate_mkt,2015,0.251
 tur,eco_aggregate_mkt,2016,1.517
 tur,eco_aggregate_mkt,2017,0.539
+tur,eco_aggregate_mkt,2018,0.252
 tur,eco_aggregate_pub,1988,1.123
 tur,eco_aggregate_pub,1989,0.804
 tur,eco_aggregate_pub,1990,3.067
@@ -52555,6 +52591,7 @@ tur,eco_isic3_total,2008,5.04
 tur,eco_isic4_b,2010,0
 tur,eco_isic4_b,2011,0
 tur,eco_isic4_b,2015,0.855
+tur,eco_isic4_b,2018,0.78
 tur,eco_isic4_c,2009,3.101
 tur,eco_isic4_c,2010,0.364
 tur,eco_isic4_c,2011,0.469
@@ -52563,6 +52600,7 @@ tur,eco_isic4_c,2013,15.93
 tur,eco_isic4_c,2015,6.844
 tur,eco_isic4_c,2016,0.886
 tur,eco_isic4_c,2017,2.313
+tur,eco_isic4_c,2018,0.649
 tur,eco_isic4_g,2010,0.038
 tur,eco_isic4_g,2011,0.088
 tur,eco_isic4_g,2013,0.095
@@ -52571,11 +52609,14 @@ tur,eco_isic4_h,2013,0.607
 tur,eco_isic4_h,2015,0.007
 tur,eco_isic4_h,2016,0.307
 tur,eco_isic4_h,2017,0.22
+tur,eco_isic4_h,2018,0.007
 tur,eco_isic4_i,2010,0.406
 tur,eco_isic4_i,2016,1.21
 tur,eco_isic4_i,2017,0.319
+tur,eco_isic4_i,2018,0.245
 tur,eco_isic4_o,2016,0
 tur,eco_isic4_o,2017,0.881
+tur,eco_isic4_o,2018,0
 tur,eco_isic4_s,2015,0.032
 tur,eco_isic4_total,2009,3.101
 tur,eco_isic4_total,2010,0.808
@@ -52616,6 +52657,7 @@ tur,eco_sector_ind,2013,15.93
 tur,eco_sector_ind,2015,7.699
 tur,eco_sector_ind,2016,0.886
 tur,eco_sector_ind,2017,2.313
+tur,eco_sector_ind,2018,1.429
 tur,eco_sector_nag,1969,12.601
 tur,eco_sector_nag,1970,21.156
 tur,eco_sector_nag,1971,10.916
@@ -52686,6 +52728,7 @@ tur,eco_sector_ser,2013,0.702
 tur,eco_sector_ser,2015,0.283
 tur,eco_sector_ser,2016,1.517
 tur,eco_sector_ser,2017,1.42
+tur,eco_sector_ser,2018,0.252
 tur,eco_sector_total,1969,12.601
 tur,eco_sector_total,1970,21.156
 tur,eco_sector_total,1971,10.916
