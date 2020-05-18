@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
+import os
 import pandas as pd
+import dask.dataframe as dd
 from ddf_utils.factory import ILOLoader
 from ddf_utils.str import to_concept_id, format_float_digits
 from pandas.api.types import CategoricalDtype
@@ -61,6 +63,24 @@ def read_sources(indicators):
             raise
 
 
+def serve_datapoints(df, indicator_name, by, split_entity=None):
+    if not split_entity:
+        fn = 'ddf--datapoints--' + indicator_name + '--by--' + '--'.join(by) + '.csv'
+        df.to_csv(f'../../{fn}', index=False)
+        return
+
+    assert type(split_entity) is str, "only support split by one column."
+    dir_name = 'ddf--datapoints--' + indicator_name + '--by--' + '--'.join(by)
+    os.makedirs(os.path.join('../../', dir_name), exist_ok=True)
+    grouped = df.groupby(by=split_entity)
+    split_entity_idx = by.index(split_entity)
+    for g, df_group in grouped:
+        by_new = by.copy()
+        by_new[split_entity_idx] = by_new[split_entity_idx] + '-' + g
+        fn = 'ddf--datapoints--' + indicator_name + '--by--' + '--'.join(by_new) + '.csv'
+        df_group.to_csv(os.path.join('../../', dir_name, fn), index=False)
+
+
 def create_datapoints(dfs):
     # prepare the source/note_source category
     source = ilo.load_metadata(table='source').source.values
@@ -71,13 +91,11 @@ def create_datapoints(dfs):
 
     # create ddf datapoints
     for df in dfs.values():
-        df_ = df.copy()
+        iName = to_concept_id(df.indicator.unique()[0])
 
-        iName = to_concept_id(df_.indicator.unique()[0])
+        df = df.drop('indicator', axis=1).rename(columns={'obs_value': iName})
 
-        df_ = df_.drop('indicator', axis=1).rename(columns={'obs_value': iName})
-
-        by = df_.columns.tolist()
+        by = df.columns.tolist()
         by.remove(iName)
         by.remove('source')
 
@@ -87,16 +105,14 @@ def create_datapoints(dfs):
 
         for c in by:
             if c in ['ref_area', 'sex', 'classif1', 'classif2']:
-                df_[c] = df_[c].map(to_concept_id)
-
-        fn = 'ddf--datapoints--' + iName + '--by--' + '--'.join(by) + '.csv'
+                df[c] = df[c].map(to_concept_id)
 
         # removing rows where "classif1" or "classif2" is
         # empty. Because these columns are not suppose to be empty.
         for c in ['classif1' , 'classif2']:
-            if c in df_.columns and df_[c].hasnans:
+            if c in df.columns and df[c].hasnans:
                 print(f"{iName}: nan found in column {c}, dropping them")
-                df_ = df_[~pd.isnull(df_[c])]
+                df = df[~pd.isnull(df[c])]
 
         # removing duplicates.
         # duplications are due to different sources.  The source.csv
@@ -104,45 +120,49 @@ def create_datapoints(dfs):
         # are sorted and it looks like they are sorted by data
         # quality. So we sort the dataframe by note_source and use the
         # first datapoint.
-        df_ = df_.dropna(subset=[iName])
+        df = df.dropna(subset=[iName])
 
-        if df_.duplicated(subset=by).any():
+        if df.duplicated(subset=by).any():
 
-            if 'source' in df_.columns:
+            if 'source' in df.columns:
                 # source column: we only keep one source for a country, to keep consistency for the series
-                df_['source'] = df_['source'].astype(source_cat)
-                groups = df_.groupby(by=['ref_area'])
+                df['source'] = df['source'].astype(source_cat)
+                groups = df.groupby(by=['ref_area'])
                 to_concat = list()
                 for _, area_df in groups:
                     first_source = area_df.source.sort_values().values[0]
                     to_concat.append(area_df[area_df.source ==  first_source])
-                df_ = pd.concat(to_concat)
-                # print(df_.columns)
+                df = pd.concat(to_concat)
+                # print(df.columns)
 
-                if 'note_source' in df_.columns:
-                    df_['note_source'] = df_['note_source'].astype(note_source_cat)
-                    df_ = df_.sort_values(by=['note_source']).drop_duplicates(subset=by, keep='first')
+                if 'note_source' in df.columns:
+                    df['note_source'] = df['note_source'].astype(note_source_cat)
+                    df = df.sort_values(by=['note_source']).drop_duplicates(subset=by, keep='first')
 
-                if df_.duplicated(subset=by).any():
+                if df.duplicated(subset=by).any():
                     print(f"there are still duplicated datapoints in {iName} after selecting source/note_source\n"
                           "keeping the first value")
-                    df_ = df_.drop_duplicates(subset=by, keep='first')
+                    df = df.drop_duplicates(subset=by, keep='first')
             else:
                 print(f"there are duplicated datapoints in {iName}, but no source/note_source column")
 
         # debugging duplicated datapoint issue
-        # if df_.duplicated(subset=by).any():
+        # if df.duplicated(subset=by).any():
         #     import ipdb
         #     ipdb.set_trace()
 
         for c in ['source', 'note_source', 'note_indicator', 'note_classif']:
-            if c in df_.columns:
-                df_ = df_.drop([c], axis=1)
+            if c in df.columns:
+                df = df.drop([c], axis=1)
 
-        # df_ = df_.dropna(how='any')
-        df_[iName] = df_[iName].map(format_float_digits)
-        df_['time'] = df_['time'].astype('int16')
-        df_.sort_values(by=by).to_csv(f'../../{fn}', index=False)
+        # df = df.dropna(how='any')
+        df[iName] = df[iName].map(format_float_digits)
+        df['time'] = df['time'].astype('int16')
+        df = df.sort_values(by=by)
+        if df.shape[0] > 150000:
+            serve_datapoints(df, iName, by, split_entity='ref_area')
+        else:
+            serve_datapoints(df, iName, by)
 
 
 def non_arg_emp_indicators():
@@ -157,8 +177,8 @@ def non_arg_emp_indicators():
     Employment by sex and economic activity.  And then it's the ratio
     of both.
     """
-    employment = pd.read_csv('../../ddf--datapoints--emp_temp_sex_eco_nb--by--ref_area--sex--classif1--time.csv')
-    employees = pd.read_csv('../../ddf--datapoints--ees_tees_sex_eco_nb--by--ref_area--sex--classif1--time.csv')
+    employment = dd.read_csv('../../ddf--datapoints--emp_temp_sex_eco_nb--by--ref_area--sex--classif1--time/*.csv').compute()
+    employees = dd.read_csv('../../ddf--datapoints--ees_tees_sex_eco_nb--by--ref_area--sex--classif1--time/*.csv').compute()
 
     # we use eco_sector_nag as filter for non agricultural data
     emp = employment[employment.classif1.isin(['eco_sector_nag'])].drop('classif1', axis=1)
