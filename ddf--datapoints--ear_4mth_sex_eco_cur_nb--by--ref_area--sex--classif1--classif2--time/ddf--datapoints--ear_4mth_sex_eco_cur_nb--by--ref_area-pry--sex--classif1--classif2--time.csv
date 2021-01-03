@@ -1,4 +1,5 @@
 ref_area,sex,classif1,classif2,time,ear_4mth_sex_eco_cur_nb
+pry,sex_f,eco_aggregate_agr,cur_type_lcu,2001,483933.91
 pry,sex_f,eco_aggregate_agr,cur_type_lcu,2002,315347.81
 pry,sex_f,eco_aggregate_agr,cur_type_lcu,2003,480428.26
 pry,sex_f,eco_aggregate_agr,cur_type_lcu,2004,306444.73
@@ -17,6 +18,7 @@ pry,sex_f,eco_aggregate_agr,cur_type_lcu,2016,1015217.14
 pry,sex_f,eco_aggregate_agr,cur_type_lcu,2017,1059781.55
 pry,sex_f,eco_aggregate_agr,cur_type_lcu,2018,1284426.08
 pry,sex_f,eco_aggregate_agr,cur_type_lcu,2019,1586997.92
+pry,sex_f,eco_aggregate_agr,cur_type_ppp,2001,362.59
 pry,sex_f,eco_aggregate_agr,cur_type_ppp,2002,217.2
 pry,sex_f,eco_aggregate_agr,cur_type_ppp,2003,296.23
 pry,sex_f,eco_aggregate_agr,cur_type_ppp,2004,185.97
@@ -34,6 +36,7 @@ pry,sex_f,eco_aggregate_agr,cur_type_ppp,2015,590.14
 pry,sex_f,eco_aggregate_agr,cur_type_ppp,2016,411.08
 pry,sex_f,eco_aggregate_agr,cur_type_ppp,2017,417.24
 pry,sex_f,eco_aggregate_agr,cur_type_ppp,2018,498.23
+pry,sex_f,eco_aggregate_agr,cur_type_usd,2001,117.86
 pry,sex_f,eco_aggregate_agr,cur_type_usd,2002,55.17
 pry,sex_f,eco_aggregate_agr,cur_type_usd,2003,74.78
 pry,sex_f,eco_aggregate_agr,cur_type_usd,2004,51.29
@@ -52,6 +55,7 @@ pry,sex_f,eco_aggregate_agr,cur_type_usd,2016,179.03
 pry,sex_f,eco_aggregate_agr,cur_type_usd,2017,188.61
 pry,sex_f,eco_aggregate_agr,cur_type_usd,2018,224.08
 pry,sex_f,eco_aggregate_agr,cur_type_usd,2019,254.3
+pry,sex_f,eco_aggregate_con,cur_type_lcu,2001,1056342.86
 pry,sex_f,eco_aggregate_con,cur_type_lcu,2002,668375.43
 pry,sex_f,eco_aggregate_con,cur_type_lcu,2003,794061.65
 pry,sex_f,eco_aggregate_con,cur_type_lcu,2004,775015.18
@@ -64,6 +68,7 @@ pry,sex_f,eco_aggregate_con,cur_type_lcu,2016,2373790.32
 pry,sex_f,eco_aggregate_con,cur_type_lcu,2017,4012767.06
 pry,sex_f,eco_aggregate_con,cur_type_lcu,2018,3297246.87
 pry,sex_f,eco_aggregate_con,cur_type_lcu,2019,2976300.45
+pry,sex_f,eco_aggregate_con,cur_type_ppp,2001,791.47
 pry,sex_f,eco_aggregate_con,cur_type_ppp,2002,460.34
 pry,sex_f,eco_aggregate_con,cur_type_ppp,2003,489.62
 pry,sex_f,eco_aggregate_con,cur_type_ppp,2004,470.33
@@ -75,6 +80,7 @@ pry,sex_f,eco_aggregate_con,cur_type_ppp,2015,1104.85
 pry,sex_f,eco_aggregate_con,cur_type_ppp,2016,961.19
 pry,sex_f,eco_aggregate_con,cur_type_ppp,2017,1579.84
 pry,sex_f,eco_aggregate_con,cur_type_ppp,2018,1279
+pry,sex_f,eco_aggregate_con,cur_type_usd,2001,257.27
 pry,sex_f,eco_aggregate_con,cur_type_usd,2002,116.93
 pry,sex_f,eco_aggregate_con,cur_type_usd,2003,123.6
 pry,sex_f,eco_aggregate_con,cur_type_usd,2004,129.72
@@ -87,6 +93,7 @@ pry,sex_f,eco_aggregate_con,cur_type_usd,2016,418.62
 pry,sex_f,eco_aggregate_con,cur_type_usd,2017,714.15
 pry,sex_f,eco_aggregate_con,cur_type_usd,2018,575.22
 pry,sex_f,eco_aggregate_con,cur_type_usd,2019,476.92
+pry,sex_f,eco_aggregate_man,cur_type_lcu,2001,772211.3
 pry,sex_f,eco_aggregate_man,cur_type_lcu,2002,617176.81
 pry,sex_f,eco_aggregate_man,cur_type_lcu,2003,635948.62
 pry,sex_f,eco_aggregate_man,cur_type_lcu,2004,955350.54
@@ -105,6 +112,7 @@ pry,sex_f,eco_aggregate_man,cur_type_lcu,2016,1827590.65
 pry,sex_f,eco_aggregate_man,cur_type_lcu,2017,2002046.9
 pry,sex_f,eco_aggregate_man,cur_type_lcu,2018,2083582.14
 pry,sex_f,eco_aggregate_man,cur_type_lcu,2019,2419005.39
+pry,sex_f,eco_aggregate_man,cur_type_ppp,2001,578.58
 pry,sex_f,eco_aggregate_man,cur_type_ppp,2002,425.08
 pry,sex_f,eco_aggregate_man,cur_type_ppp,2003,392.13
 pry,sex_f,eco_aggregate_man,cur_type_ppp,2004,579.77
@@ -122,6 +130,7 @@ pry,sex_f,eco_aggregate_man,cur_type_ppp,2015,877.48
 pry,sex_f,eco_aggregate_man,cur_type_ppp,2016,740.02
 pry,sex_f,eco_aggregate_man,cur_type_ppp,2017,788.21
 pry,sex_f,eco_aggregate_man,cur_type_ppp,2018,808.22
+pry,sex_f,eco_aggregate_man,cur_type_usd,2001,188.07
 pry,sex_f,eco_aggregate_man,cur_type_usd,2002,107.97
 pry,sex_f,eco_aggregate_man,cur_type_usd,2003,98.99
 pry,sex_f,eco_aggregate_man,cur_type_usd,2004,159.9
@@ -140,6 +149,7 @@ pry,sex_f,eco_aggregate_man,cur_type_usd,2016,322.3
 pry,sex_f,eco_aggregate_man,cur_type_usd,2017,356.3
 pry,sex_f,eco_aggregate_man,cur_type_usd,2018,363.49
 pry,sex_f,eco_aggregate_man,cur_type_usd,2019,387.62
+pry,sex_f,eco_aggregate_mel,cur_type_lcu,2001,1838815.95
 pry,sex_f,eco_aggregate_mel,cur_type_lcu,2002,552332.36
 pry,sex_f,eco_aggregate_mel,cur_type_lcu,2003,1456711.93
 pry,sex_f,eco_aggregate_mel,cur_type_lcu,2004,1732721.79
@@ -157,6 +167,7 @@ pry,sex_f,eco_aggregate_mel,cur_type_lcu,2016,5140205.67
 pry,sex_f,eco_aggregate_mel,cur_type_lcu,2017,4231997.82
 pry,sex_f,eco_aggregate_mel,cur_type_lcu,2018,5104634.22
 pry,sex_f,eco_aggregate_mel,cur_type_lcu,2019,5049481.01
+pry,sex_f,eco_aggregate_mel,cur_type_ppp,2001,1377.74
 pry,sex_f,eco_aggregate_mel,cur_type_ppp,2002,380.42
 pry,sex_f,eco_aggregate_mel,cur_type_ppp,2003,898.21
 pry,sex_f,eco_aggregate_mel,cur_type_ppp,2004,1051.54
@@ -173,6 +184,7 @@ pry,sex_f,eco_aggregate_mel,cur_type_ppp,2015,2109.43
 pry,sex_f,eco_aggregate_mel,cur_type_ppp,2016,2081.36
 pry,sex_f,eco_aggregate_mel,cur_type_ppp,2017,1666.15
 pry,sex_f,eco_aggregate_mel,cur_type_ppp,2018,1980.08
+pry,sex_f,eco_aggregate_mel,cur_type_usd,2001,447.84
 pry,sex_f,eco_aggregate_mel,cur_type_usd,2002,96.62
 pry,sex_f,eco_aggregate_mel,cur_type_usd,2003,226.75
 pry,sex_f,eco_aggregate_mel,cur_type_usd,2004,290.02
@@ -190,6 +202,7 @@ pry,sex_f,eco_aggregate_mel,cur_type_usd,2016,906.48
 pry,sex_f,eco_aggregate_mel,cur_type_usd,2017,753.17
 pry,sex_f,eco_aggregate_mel,cur_type_usd,2018,890.53
 pry,sex_f,eco_aggregate_mel,cur_type_usd,2019,809.12
+pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2001,946412.21
 pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2002,730876.54
 pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2003,879100.48
 pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2004,860164.21
@@ -208,6 +221,7 @@ pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2016,1942920.95
 pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2017,1962520.51
 pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2018,2231145.26
 pry,sex_f,eco_aggregate_mkt,cur_type_lcu,2019,2251445.66
+pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2001,709.1
 pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2002,503.39
 pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2003,542.05
 pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2004,522.01
@@ -225,6 +239,7 @@ pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2015,814.85
 pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2016,786.72
 pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2017,772.65
 pry,sex_f,eco_aggregate_mkt,cur_type_ppp,2018,865.46
+pry,sex_f,eco_aggregate_mkt,cur_type_usd,2001,230.5
 pry,sex_f,eco_aggregate_mkt,cur_type_usd,2002,127.86
 pry,sex_f,eco_aggregate_mkt,cur_type_usd,2003,136.84
 pry,sex_f,eco_aggregate_mkt,cur_type_usd,2004,143.97
@@ -243,6 +258,7 @@ pry,sex_f,eco_aggregate_mkt,cur_type_usd,2016,342.63
 pry,sex_f,eco_aggregate_mkt,cur_type_usd,2017,349.27
 pry,sex_f,eco_aggregate_mkt,cur_type_usd,2018,389.24
 pry,sex_f,eco_aggregate_mkt,cur_type_usd,2019,360.77
+pry,sex_f,eco_aggregate_pub,cur_type_lcu,2001,690579.11
 pry,sex_f,eco_aggregate_pub,cur_type_lcu,2002,556665.69
 pry,sex_f,eco_aggregate_pub,cur_type_lcu,2003,632022.75
 pry,sex_f,eco_aggregate_pub,cur_type_lcu,2004,591393.66
@@ -261,6 +277,7 @@ pry,sex_f,eco_aggregate_pub,cur_type_lcu,2016,1777000.21
 pry,sex_f,eco_aggregate_pub,cur_type_lcu,2017,1788119.05
 pry,sex_f,eco_aggregate_pub,cur_type_lcu,2018,2108628.64
 pry,sex_f,eco_aggregate_pub,cur_type_lcu,2019,2187928.62
+pry,sex_f,eco_aggregate_pub,cur_type_ppp,2001,517.42
 pry,sex_f,eco_aggregate_pub,cur_type_ppp,2002,383.4
 pry,sex_f,eco_aggregate_pub,cur_type_ppp,2003,389.71
 pry,sex_f,eco_aggregate_pub,cur_type_ppp,2004,358.9
@@ -278,6 +295,7 @@ pry,sex_f,eco_aggregate_pub,cur_type_ppp,2015,721.11
 pry,sex_f,eco_aggregate_pub,cur_type_ppp,2016,719.54
 pry,sex_f,eco_aggregate_pub,cur_type_ppp,2017,703.99
 pry,sex_f,eco_aggregate_pub,cur_type_ppp,2018,817.93
+pry,sex_f,eco_aggregate_pub,cur_type_usd,2001,168.19
 pry,sex_f,eco_aggregate_pub,cur_type_usd,2002,97.38
 pry,sex_f,eco_aggregate_pub,cur_type_usd,2003,98.38
 pry,sex_f,eco_aggregate_pub,cur_type_usd,2004,98.99
@@ -313,6 +331,7 @@ pry,sex_f,eco_aggregate_total,cur_type_lcu,1997,773147
 pry,sex_f,eco_aggregate_total,cur_type_lcu,1998,889260
 pry,sex_f,eco_aggregate_total,cur_type_lcu,1999,645446
 pry,sex_f,eco_aggregate_total,cur_type_lcu,2000,606598
+pry,sex_f,eco_aggregate_total,cur_type_lcu,2001,757906.77
 pry,sex_f,eco_aggregate_total,cur_type_lcu,2002,599929.18
 pry,sex_f,eco_aggregate_total,cur_type_lcu,2003,683218.14
 pry,sex_f,eco_aggregate_total,cur_type_lcu,2004,679616.45
@@ -342,6 +361,7 @@ pry,sex_f,eco_aggregate_total,cur_type_ppp,1997,731.07
 pry,sex_f,eco_aggregate_total,cur_type_ppp,1998,765.48
 pry,sex_f,eco_aggregate_total,cur_type_ppp,1999,531.85
 pry,sex_f,eco_aggregate_total,cur_type_ppp,2000,474.13
+pry,sex_f,eco_aggregate_total,cur_type_ppp,2001,567.87
 pry,sex_f,eco_aggregate_total,cur_type_ppp,2002,413.2
 pry,sex_f,eco_aggregate_total,cur_type_ppp,2003,421.27
 pry,sex_f,eco_aggregate_total,cur_type_ppp,2004,412.44
@@ -376,6 +396,7 @@ pry,sex_f,eco_aggregate_total,cur_type_usd,1997,355
 pry,sex_f,eco_aggregate_total,cur_type_usd,1998,326.16
 pry,sex_f,eco_aggregate_total,cur_type_usd,1999,206.94
 pry,sex_f,eco_aggregate_total,cur_type_usd,2000,173.99
+pry,sex_f,eco_aggregate_total,cur_type_usd,2001,184.59
 pry,sex_f,eco_aggregate_total,cur_type_usd,2002,104.95
 pry,sex_f,eco_aggregate_total,cur_type_usd,2003,106.35
 pry,sex_f,eco_aggregate_total,cur_type_usd,2004,113.75
@@ -394,8 +415,11 @@ pry,sex_f,eco_aggregate_total,cur_type_usd,2016,325.78
 pry,sex_f,eco_aggregate_total,cur_type_usd,2017,331.74
 pry,sex_f,eco_aggregate_total,cur_type_usd,2018,376.56
 pry,sex_f,eco_aggregate_total,cur_type_usd,2019,358.47
+pry,sex_f,eco_aggregate_x,cur_type_lcu,2001,120000
 pry,sex_f,eco_aggregate_x,cur_type_lcu,2002,1378500
+pry,sex_f,eco_aggregate_x,cur_type_ppp,2001,89.91
 pry,sex_f,eco_aggregate_x,cur_type_ppp,2002,949.44
+pry,sex_f,eco_aggregate_x,cur_type_usd,2001,29.23
 pry,sex_f,eco_aggregate_x,cur_type_usd,2002,241.15
 pry,sex_f,eco_isic2_1,cur_type_lcu,1983,14595
 pry,sex_f,eco_isic2_1,cur_type_lcu,1984,17910
@@ -781,6 +805,7 @@ pry,sex_f,eco_isic2_total,cur_type_usd,1997,355
 pry,sex_f,eco_isic2_total,cur_type_usd,1998,326.16
 pry,sex_f,eco_isic2_total,cur_type_usd,1999,206.94
 pry,sex_f,eco_isic2_total,cur_type_usd,2000,173.99
+pry,sex_m,eco_aggregate_agr,cur_type_lcu,2001,449220.11
 pry,sex_m,eco_aggregate_agr,cur_type_lcu,2002,576622.13
 pry,sex_m,eco_aggregate_agr,cur_type_lcu,2003,513674.92
 pry,sex_m,eco_aggregate_agr,cur_type_lcu,2004,523504.69
@@ -799,6 +824,7 @@ pry,sex_m,eco_aggregate_agr,cur_type_lcu,2016,1597713.21
 pry,sex_m,eco_aggregate_agr,cur_type_lcu,2017,1788795.97
 pry,sex_m,eco_aggregate_agr,cur_type_lcu,2018,2046796.17
 pry,sex_m,eco_aggregate_agr,cur_type_lcu,2019,1998502.76
+pry,sex_m,eco_aggregate_agr,cur_type_ppp,2001,336.58
 pry,sex_m,eco_aggregate_agr,cur_type_ppp,2002,397.15
 pry,sex_m,eco_aggregate_agr,cur_type_ppp,2003,316.73
 pry,sex_m,eco_aggregate_agr,cur_type_ppp,2004,317.7
@@ -816,6 +842,7 @@ pry,sex_m,eco_aggregate_agr,cur_type_ppp,2015,645.98
 pry,sex_m,eco_aggregate_agr,cur_type_ppp,2016,646.94
 pry,sex_m,eco_aggregate_agr,cur_type_ppp,2017,704.25
 pry,sex_m,eco_aggregate_agr,cur_type_ppp,2018,793.95
+pry,sex_m,eco_aggregate_agr,cur_type_usd,2001,109.41
 pry,sex_m,eco_aggregate_agr,cur_type_usd,2002,100.87
 pry,sex_m,eco_aggregate_agr,cur_type_usd,2003,79.96
 pry,sex_m,eco_aggregate_agr,cur_type_usd,2004,87.62
@@ -834,6 +861,7 @@ pry,sex_m,eco_aggregate_agr,cur_type_usd,2016,281.76
 pry,sex_m,eco_aggregate_agr,cur_type_usd,2017,318.35
 pry,sex_m,eco_aggregate_agr,cur_type_usd,2018,357.08
 pry,sex_m,eco_aggregate_agr,cur_type_usd,2019,320.24
+pry,sex_m,eco_aggregate_con,cur_type_lcu,2001,696292.37
 pry,sex_m,eco_aggregate_con,cur_type_lcu,2002,560789.82
 pry,sex_m,eco_aggregate_con,cur_type_lcu,2003,738912.34
 pry,sex_m,eco_aggregate_con,cur_type_lcu,2004,680790.92
@@ -852,6 +880,7 @@ pry,sex_m,eco_aggregate_con,cur_type_lcu,2016,1903872.13
 pry,sex_m,eco_aggregate_con,cur_type_lcu,2017,1969806.46
 pry,sex_m,eco_aggregate_con,cur_type_lcu,2018,2038714.54
 pry,sex_m,eco_aggregate_con,cur_type_lcu,2019,2169269.81
+pry,sex_m,eco_aggregate_con,cur_type_ppp,2001,521.7
 pry,sex_m,eco_aggregate_con,cur_type_ppp,2002,386.24
 pry,sex_m,eco_aggregate_con,cur_type_ppp,2003,455.61
 pry,sex_m,eco_aggregate_con,cur_type_ppp,2004,413.15
@@ -869,6 +898,7 @@ pry,sex_m,eco_aggregate_con,cur_type_ppp,2015,781.05
 pry,sex_m,eco_aggregate_con,cur_type_ppp,2016,770.91
 pry,sex_m,eco_aggregate_con,cur_type_ppp,2017,775.52
 pry,sex_m,eco_aggregate_con,cur_type_ppp,2018,790.81
+pry,sex_m,eco_aggregate_con,cur_type_usd,2001,169.58
 pry,sex_m,eco_aggregate_con,cur_type_usd,2002,98.1
 pry,sex_m,eco_aggregate_con,cur_type_usd,2003,115.02
 pry,sex_m,eco_aggregate_con,cur_type_usd,2004,113.95
@@ -887,6 +917,7 @@ pry,sex_m,eco_aggregate_con,cur_type_usd,2016,335.75
 pry,sex_m,eco_aggregate_con,cur_type_usd,2017,350.57
 pry,sex_m,eco_aggregate_con,cur_type_usd,2018,355.67
 pry,sex_m,eco_aggregate_con,cur_type_usd,2019,347.6
+pry,sex_m,eco_aggregate_man,cur_type_lcu,2001,864190.8
 pry,sex_m,eco_aggregate_man,cur_type_lcu,2002,818237.95
 pry,sex_m,eco_aggregate_man,cur_type_lcu,2003,810456.6
 pry,sex_m,eco_aggregate_man,cur_type_lcu,2004,862651.81
@@ -905,6 +936,7 @@ pry,sex_m,eco_aggregate_man,cur_type_lcu,2016,2083099.76
 pry,sex_m,eco_aggregate_man,cur_type_lcu,2017,2086392.14
 pry,sex_m,eco_aggregate_man,cur_type_lcu,2018,2330765.87
 pry,sex_m,eco_aggregate_man,cur_type_lcu,2019,2327754.74
+pry,sex_m,eco_aggregate_man,cur_type_ppp,2001,647.5
 pry,sex_m,eco_aggregate_man,cur_type_ppp,2002,563.56
 pry,sex_m,eco_aggregate_man,cur_type_ppp,2003,499.73
 pry,sex_m,eco_aggregate_man,cur_type_ppp,2004,523.52
@@ -922,6 +954,7 @@ pry,sex_m,eco_aggregate_man,cur_type_ppp,2015,831.38
 pry,sex_m,eco_aggregate_man,cur_type_ppp,2016,843.48
 pry,sex_m,eco_aggregate_man,cur_type_ppp,2017,821.42
 pry,sex_m,eco_aggregate_man,cur_type_ppp,2018,904.1
+pry,sex_m,eco_aggregate_man,cur_type_usd,2001,210.47
 pry,sex_m,eco_aggregate_man,cur_type_usd,2002,143.14
 pry,sex_m,eco_aggregate_man,cur_type_usd,2003,126.15
 pry,sex_m,eco_aggregate_man,cur_type_usd,2004,144.39
@@ -940,6 +973,7 @@ pry,sex_m,eco_aggregate_man,cur_type_usd,2016,367.35
 pry,sex_m,eco_aggregate_man,cur_type_usd,2017,371.31
 pry,sex_m,eco_aggregate_man,cur_type_usd,2018,406.62
 pry,sex_m,eco_aggregate_man,cur_type_usd,2019,372.99
+pry,sex_m,eco_aggregate_mel,cur_type_lcu,2001,3243274.18
 pry,sex_m,eco_aggregate_mel,cur_type_lcu,2002,2220802.61
 pry,sex_m,eco_aggregate_mel,cur_type_lcu,2003,2227439.84
 pry,sex_m,eco_aggregate_mel,cur_type_lcu,2004,1609925.39
@@ -958,6 +992,7 @@ pry,sex_m,eco_aggregate_mel,cur_type_lcu,2016,4450801.96
 pry,sex_m,eco_aggregate_mel,cur_type_lcu,2017,6507919.28
 pry,sex_m,eco_aggregate_mel,cur_type_lcu,2018,5984297.41
 pry,sex_m,eco_aggregate_mel,cur_type_lcu,2019,5950371.27
+pry,sex_m,eco_aggregate_mel,cur_type_ppp,2001,2430.04
 pry,sex_m,eco_aggregate_mel,cur_type_ppp,2002,1529.58
 pry,sex_m,eco_aggregate_mel,cur_type_ppp,2003,1373.44
 pry,sex_m,eco_aggregate_mel,cur_type_ppp,2004,977.02
@@ -975,6 +1010,7 @@ pry,sex_m,eco_aggregate_mel,cur_type_ppp,2015,2168.24
 pry,sex_m,eco_aggregate_mel,cur_type_ppp,2016,1802.21
 pry,sex_m,eco_aggregate_mel,cur_type_ppp,2017,2562.19
 pry,sex_m,eco_aggregate_mel,cur_type_ppp,2018,2321.3
+pry,sex_m,eco_aggregate_mel,cur_type_usd,2001,789.9
 pry,sex_m,eco_aggregate_mel,cur_type_usd,2002,388.51
 pry,sex_m,eco_aggregate_mel,cur_type_usd,2003,346.72
 pry,sex_m,eco_aggregate_mel,cur_type_usd,2004,269.46
@@ -993,6 +1029,7 @@ pry,sex_m,eco_aggregate_mel,cur_type_usd,2016,784.9
 pry,sex_m,eco_aggregate_mel,cur_type_usd,2017,1158.21
 pry,sex_m,eco_aggregate_mel,cur_type_usd,2018,1044
 pry,sex_m,eco_aggregate_mel,cur_type_usd,2019,953.47
+pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2001,939952.01
 pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2002,822306.16
 pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2003,1019808.34
 pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2004,966473.49
@@ -1011,6 +1048,7 @@ pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2016,2139345.57
 pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2017,2269519.96
 pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2018,2602677.87
 pry,sex_m,eco_aggregate_mkt,cur_type_lcu,2019,2538842.88
+pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2001,704.26
 pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2002,566.36
 pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2003,628.81
 pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2004,586.52
@@ -1028,6 +1066,7 @@ pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2015,948.57
 pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2016,866.26
 pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2017,893.52
 pry,sex_m,eco_aggregate_mkt,cur_type_ppp,2018,1009.57
+pry,sex_m,eco_aggregate_mkt,cur_type_usd,2001,228.93
 pry,sex_m,eco_aggregate_mkt,cur_type_usd,2002,143.85
 pry,sex_m,eco_aggregate_mkt,cur_type_usd,2003,158.74
 pry,sex_m,eco_aggregate_mkt,cur_type_usd,2004,161.76
@@ -1046,6 +1085,7 @@ pry,sex_m,eco_aggregate_mkt,cur_type_usd,2016,377.27
 pry,sex_m,eco_aggregate_mkt,cur_type_usd,2017,403.91
 pry,sex_m,eco_aggregate_mkt,cur_type_usd,2018,454.05
 pry,sex_m,eco_aggregate_mkt,cur_type_usd,2019,406.82
+pry,sex_m,eco_aggregate_pub,cur_type_lcu,2001,1097006.67
 pry,sex_m,eco_aggregate_pub,cur_type_lcu,2002,1067687.9
 pry,sex_m,eco_aggregate_pub,cur_type_lcu,2003,1100653.12
 pry,sex_m,eco_aggregate_pub,cur_type_lcu,2004,1027537.82
@@ -1064,6 +1104,7 @@ pry,sex_m,eco_aggregate_pub,cur_type_lcu,2016,3238559.71
 pry,sex_m,eco_aggregate_pub,cur_type_lcu,2017,3270003.22
 pry,sex_m,eco_aggregate_pub,cur_type_lcu,2018,3184817.79
 pry,sex_m,eco_aggregate_pub,cur_type_lcu,2019,3270702.88
+pry,sex_m,eco_aggregate_pub,cur_type_ppp,2001,821.94
 pry,sex_m,eco_aggregate_pub,cur_type_ppp,2002,735.37
 pry,sex_m,eco_aggregate_pub,cur_type_ppp,2003,678.66
 pry,sex_m,eco_aggregate_pub,cur_type_ppp,2004,623.58
@@ -1081,6 +1122,7 @@ pry,sex_m,eco_aggregate_pub,cur_type_ppp,2015,1143.78
 pry,sex_m,eco_aggregate_pub,cur_type_ppp,2016,1311.35
 pry,sex_m,eco_aggregate_pub,cur_type_ppp,2017,1287.41
 pry,sex_m,eco_aggregate_pub,cur_type_ppp,2018,1235.39
+pry,sex_m,eco_aggregate_pub,cur_type_usd,2001,267.18
 pry,sex_m,eco_aggregate_pub,cur_type_usd,2002,186.78
 pry,sex_m,eco_aggregate_pub,cur_type_usd,2003,171.33
 pry,sex_m,eco_aggregate_pub,cur_type_usd,2004,171.99
@@ -1116,6 +1158,7 @@ pry,sex_m,eco_aggregate_total,cur_type_lcu,1997,948077
 pry,sex_m,eco_aggregate_total,cur_type_lcu,1998,1074925
 pry,sex_m,eco_aggregate_total,cur_type_lcu,1999,1091264
 pry,sex_m,eco_aggregate_total,cur_type_lcu,2000,899758
+pry,sex_m,eco_aggregate_total,cur_type_lcu,2001,884787
 pry,sex_m,eco_aggregate_total,cur_type_lcu,2002,838230.61
 pry,sex_m,eco_aggregate_total,cur_type_lcu,2003,927338.88
 pry,sex_m,eco_aggregate_total,cur_type_lcu,2004,884462.72
@@ -1145,6 +1188,7 @@ pry,sex_m,eco_aggregate_total,cur_type_ppp,1997,896.48
 pry,sex_m,eco_aggregate_total,cur_type_ppp,1998,925.3
 pry,sex_m,eco_aggregate_total,cur_type_ppp,1999,899.2
 pry,sex_m,eco_aggregate_total,cur_type_ppp,2000,703.27
+pry,sex_m,eco_aggregate_total,cur_type_ppp,2001,662.93
 pry,sex_m,eco_aggregate_total,cur_type_ppp,2002,577.33
 pry,sex_m,eco_aggregate_total,cur_type_ppp,2003,571.8
 pry,sex_m,eco_aggregate_total,cur_type_ppp,2004,536.75
@@ -1179,6 +1223,7 @@ pry,sex_m,eco_aggregate_total,cur_type_usd,1997,435.32
 pry,sex_m,eco_aggregate_total,cur_type_usd,1998,394.25
 pry,sex_m,eco_aggregate_total,cur_type_usd,1999,349.87
 pry,sex_m,eco_aggregate_total,cur_type_usd,2000,258.08
+pry,sex_m,eco_aggregate_total,cur_type_usd,2001,215.49
 pry,sex_m,eco_aggregate_total,cur_type_usd,2002,146.64
 pry,sex_m,eco_aggregate_total,cur_type_usd,2003,144.35
 pry,sex_m,eco_aggregate_total,cur_type_usd,2004,148.04
@@ -1587,6 +1632,7 @@ pry,sex_m,eco_isic2_total,cur_type_usd,1997,435.32
 pry,sex_m,eco_isic2_total,cur_type_usd,1998,394.25
 pry,sex_m,eco_isic2_total,cur_type_usd,1999,349.87
 pry,sex_m,eco_isic2_total,cur_type_usd,2000,258.08
+pry,sex_t,eco_aggregate_agr,cur_type_lcu,2001,451672.1
 pry,sex_t,eco_aggregate_agr,cur_type_lcu,2002,556377.81
 pry,sex_t,eco_aggregate_agr,cur_type_lcu,2003,511976.55
 pry,sex_t,eco_aggregate_agr,cur_type_lcu,2004,507598.29
@@ -1605,6 +1651,7 @@ pry,sex_t,eco_aggregate_agr,cur_type_lcu,2016,1548492.42
 pry,sex_t,eco_aggregate_agr,cur_type_lcu,2017,1730030.72
 pry,sex_t,eco_aggregate_agr,cur_type_lcu,2018,1973423.24
 pry,sex_t,eco_aggregate_agr,cur_type_lcu,2019,1962954.46
+pry,sex_t,eco_aggregate_agr,cur_type_ppp,2001,338.42
 pry,sex_t,eco_aggregate_agr,cur_type_ppp,2002,383.2
 pry,sex_t,eco_aggregate_agr,cur_type_ppp,2003,315.68
 pry,sex_t,eco_aggregate_agr,cur_type_ppp,2004,308.05
@@ -1622,6 +1669,7 @@ pry,sex_t,eco_aggregate_agr,cur_type_ppp,2015,641.33
 pry,sex_t,eco_aggregate_agr,cur_type_ppp,2016,627.01
 pry,sex_t,eco_aggregate_agr,cur_type_ppp,2017,681.12
 pry,sex_t,eco_aggregate_agr,cur_type_ppp,2018,765.49
+pry,sex_t,eco_aggregate_agr,cur_type_usd,2001,110
 pry,sex_t,eco_aggregate_agr,cur_type_usd,2002,97.33
 pry,sex_t,eco_aggregate_agr,cur_type_usd,2003,79.69
 pry,sex_t,eco_aggregate_agr,cur_type_usd,2004,84.96
@@ -1640,6 +1688,7 @@ pry,sex_t,eco_aggregate_agr,cur_type_usd,2016,273.08
 pry,sex_t,eco_aggregate_agr,cur_type_usd,2017,307.89
 pry,sex_t,eco_aggregate_agr,cur_type_usd,2018,344.28
 pry,sex_t,eco_aggregate_agr,cur_type_usd,2019,314.54
+pry,sex_t,eco_aggregate_con,cur_type_lcu,2001,698571.75
 pry,sex_t,eco_aggregate_con,cur_type_lcu,2002,563929.73
 pry,sex_t,eco_aggregate_con,cur_type_lcu,2003,739948.64
 pry,sex_t,eco_aggregate_con,cur_type_lcu,2004,684014.38
@@ -1658,6 +1707,7 @@ pry,sex_t,eco_aggregate_con,cur_type_lcu,2016,1911886.29
 pry,sex_t,eco_aggregate_con,cur_type_lcu,2017,2021882.51
 pry,sex_t,eco_aggregate_con,cur_type_lcu,2018,2064820.97
 pry,sex_t,eco_aggregate_con,cur_type_lcu,2019,2183866.69
+pry,sex_t,eco_aggregate_con,cur_type_ppp,2001,523.41
 pry,sex_t,eco_aggregate_con,cur_type_ppp,2002,388.41
 pry,sex_t,eco_aggregate_con,cur_type_ppp,2003,456.25
 pry,sex_t,eco_aggregate_con,cur_type_ppp,2004,415.11
@@ -1675,6 +1725,7 @@ pry,sex_t,eco_aggregate_con,cur_type_ppp,2015,786.33
 pry,sex_t,eco_aggregate_con,cur_type_ppp,2016,774.16
 pry,sex_t,eco_aggregate_con,cur_type_ppp,2017,796.02
 pry,sex_t,eco_aggregate_con,cur_type_ppp,2018,800.94
+pry,sex_t,eco_aggregate_con,cur_type_usd,2001,170.14
 pry,sex_t,eco_aggregate_con,cur_type_usd,2002,98.65
 pry,sex_t,eco_aggregate_con,cur_type_usd,2003,115.18
 pry,sex_t,eco_aggregate_con,cur_type_usd,2004,114.49
@@ -1693,6 +1744,7 @@ pry,sex_t,eco_aggregate_con,cur_type_usd,2016,337.16
 pry,sex_t,eco_aggregate_con,cur_type_usd,2017,359.83
 pry,sex_t,eco_aggregate_con,cur_type_usd,2018,360.22
 pry,sex_t,eco_aggregate_con,cur_type_usd,2019,349.94
+pry,sex_t,eco_aggregate_man,cur_type_lcu,2001,849765.75
 pry,sex_t,eco_aggregate_man,cur_type_lcu,2002,781284.48
 pry,sex_t,eco_aggregate_man,cur_type_lcu,2003,779107.26
 pry,sex_t,eco_aggregate_man,cur_type_lcu,2004,884115.14
@@ -1711,6 +1763,7 @@ pry,sex_t,eco_aggregate_man,cur_type_lcu,2016,2037096.34
 pry,sex_t,eco_aggregate_man,cur_type_lcu,2017,2070580.11
 pry,sex_t,eco_aggregate_man,cur_type_lcu,2018,2282355.72
 pry,sex_t,eco_aggregate_man,cur_type_lcu,2019,2346967.73
+pry,sex_t,eco_aggregate_man,cur_type_ppp,2001,636.69
 pry,sex_t,eco_aggregate_man,cur_type_ppp,2002,538.11
 pry,sex_t,eco_aggregate_man,cur_type_ppp,2003,480.4
 pry,sex_t,eco_aggregate_man,cur_type_ppp,2004,536.54
@@ -1728,6 +1781,7 @@ pry,sex_t,eco_aggregate_man,cur_type_ppp,2015,841.77
 pry,sex_t,eco_aggregate_man,cur_type_ppp,2016,824.86
 pry,sex_t,eco_aggregate_man,cur_type_ppp,2017,815.19
 pry,sex_t,eco_aggregate_man,cur_type_ppp,2018,885.32
+pry,sex_t,eco_aggregate_man,cur_type_usd,2001,206.96
 pry,sex_t,eco_aggregate_man,cur_type_usd,2002,136.68
 pry,sex_t,eco_aggregate_man,cur_type_usd,2003,121.27
 pry,sex_t,eco_aggregate_man,cur_type_usd,2004,147.98
@@ -1746,6 +1800,7 @@ pry,sex_t,eco_aggregate_man,cur_type_usd,2016,359.24
 pry,sex_t,eco_aggregate_man,cur_type_usd,2017,368.5
 pry,sex_t,eco_aggregate_man,cur_type_usd,2018,398.17
 pry,sex_t,eco_aggregate_man,cur_type_usd,2019,376.07
+pry,sex_t,eco_aggregate_mel,cur_type_lcu,2001,2920054.86
 pry,sex_t,eco_aggregate_mel,cur_type_lcu,2002,2121834.12
 pry,sex_t,eco_aggregate_mel,cur_type_lcu,2003,2087434.38
 pry,sex_t,eco_aggregate_mel,cur_type_lcu,2004,1639618.28
@@ -1764,6 +1819,7 @@ pry,sex_t,eco_aggregate_mel,cur_type_lcu,2016,4693648.13
 pry,sex_t,eco_aggregate_mel,cur_type_lcu,2017,6360425.65
 pry,sex_t,eco_aggregate_mel,cur_type_lcu,2018,5758029.59
 pry,sex_t,eco_aggregate_mel,cur_type_lcu,2019,5695225.41
+pry,sex_t,eco_aggregate_mel,cur_type_ppp,2001,2187.86
 pry,sex_t,eco_aggregate_mel,cur_type_ppp,2002,1461.41
 pry,sex_t,eco_aggregate_mel,cur_type_ppp,2003,1287.11
 pry,sex_t,eco_aggregate_mel,cur_type_ppp,2004,995.04
@@ -1781,6 +1837,7 @@ pry,sex_t,eco_aggregate_mel,cur_type_ppp,2015,2152.17
 pry,sex_t,eco_aggregate_mel,cur_type_ppp,2016,1900.54
 pry,sex_t,eco_aggregate_mel,cur_type_ppp,2017,2504.12
 pry,sex_t,eco_aggregate_mel,cur_type_ppp,2018,2233.53
+pry,sex_t,eco_aggregate_mel,cur_type_usd,2001,711.18
 pry,sex_t,eco_aggregate_mel,cur_type_usd,2002,371.19
 pry,sex_t,eco_aggregate_mel,cur_type_usd,2003,324.93
 pry,sex_t,eco_aggregate_mel,cur_type_usd,2004,274.43
@@ -1799,6 +1856,7 @@ pry,sex_t,eco_aggregate_mel,cur_type_usd,2016,827.72
 pry,sex_t,eco_aggregate_mel,cur_type_usd,2017,1131.96
 pry,sex_t,eco_aggregate_mel,cur_type_usd,2018,1004.52
 pry,sex_t,eco_aggregate_mel,cur_type_usd,2019,912.59
+pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2001,941876.85
 pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2002,792931.71
 pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2003,984855.78
 pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2004,939004.65
@@ -1817,6 +1875,7 @@ pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2016,2073037.88
 pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2017,2166608.3
 pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2018,2468228.32
 pry,sex_t,eco_aggregate_mkt,cur_type_lcu,2019,2434475.17
+pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2001,705.71
 pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2002,546.13
 pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2003,607.26
 pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2004,569.85
@@ -1834,6 +1893,7 @@ pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2015,902.74
 pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2016,839.41
 pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2017,853
 pry,sex_t,eco_aggregate_mkt,cur_type_ppp,2018,957.42
+pry,sex_t,eco_aggregate_mkt,cur_type_usd,2001,229.39
 pry,sex_t,eco_aggregate_mkt,cur_type_usd,2002,138.72
 pry,sex_t,eco_aggregate_mkt,cur_type_usd,2003,153.3
 pry,sex_t,eco_aggregate_mkt,cur_type_usd,2004,157.17
@@ -1852,6 +1912,7 @@ pry,sex_t,eco_aggregate_mkt,cur_type_usd,2016,365.58
 pry,sex_t,eco_aggregate_mkt,cur_type_usd,2017,385.59
 pry,sex_t,eco_aggregate_mkt,cur_type_usd,2018,430.6
 pry,sex_t,eco_aggregate_mkt,cur_type_usd,2019,390.1
+pry,sex_t,eco_aggregate_pub,cur_type_lcu,2001,809489.38
 pry,sex_t,eco_aggregate_pub,cur_type_lcu,2002,731182.47
 pry,sex_t,eco_aggregate_pub,cur_type_lcu,2003,779000.77
 pry,sex_t,eco_aggregate_pub,cur_type_lcu,2004,732059.68
@@ -1870,6 +1931,7 @@ pry,sex_t,eco_aggregate_pub,cur_type_lcu,2016,2243916.39
 pry,sex_t,eco_aggregate_pub,cur_type_lcu,2017,2242431.7
 pry,sex_t,eco_aggregate_pub,cur_type_lcu,2018,2458236
 pry,sex_t,eco_aggregate_pub,cur_type_lcu,2019,2528468.31
+pry,sex_t,eco_aggregate_pub,cur_type_ppp,2001,606.51
 pry,sex_t,eco_aggregate_pub,cur_type_ppp,2002,503.6
 pry,sex_t,eco_aggregate_pub,cur_type_ppp,2003,480.33
 pry,sex_t,eco_aggregate_pub,cur_type_ppp,2004,444.27
@@ -1887,6 +1949,7 @@ pry,sex_t,eco_aggregate_pub,cur_type_ppp,2015,853.56
 pry,sex_t,eco_aggregate_pub,cur_type_ppp,2016,908.6
 pry,sex_t,eco_aggregate_pub,cur_type_ppp,2017,882.85
 pry,sex_t,eco_aggregate_pub,cur_type_ppp,2018,953.55
+pry,sex_t,eco_aggregate_pub,cur_type_usd,2001,197.15
 pry,sex_t,eco_aggregate_pub,cur_type_usd,2002,127.91
 pry,sex_t,eco_aggregate_pub,cur_type_usd,2003,121.26
 pry,sex_t,eco_aggregate_pub,cur_type_usd,2004,122.53
@@ -1922,6 +1985,7 @@ pry,sex_t,eco_aggregate_total,cur_type_lcu,1997,900601
 pry,sex_t,eco_aggregate_total,cur_type_lcu,1998,1023865
 pry,sex_t,eco_aggregate_total,cur_type_lcu,1999,932741
 pry,sex_t,eco_aggregate_total,cur_type_lcu,2000,787514
+pry,sex_t,eco_aggregate_total,cur_type_lcu,2001,835207.31
 pry,sex_t,eco_aggregate_total,cur_type_lcu,2002,746149.34
 pry,sex_t,eco_aggregate_total,cur_type_lcu,2003,833219.66
 pry,sex_t,eco_aggregate_total,cur_type_lcu,2004,804576.11
@@ -1951,6 +2015,7 @@ pry,sex_t,eco_aggregate_total,cur_type_ppp,1997,851.59
 pry,sex_t,eco_aggregate_total,cur_type_ppp,1998,881.35
 pry,sex_t,eco_aggregate_total,cur_type_ppp,1999,768.58
 pry,sex_t,eco_aggregate_total,cur_type_ppp,2000,615.54
+pry,sex_t,eco_aggregate_total,cur_type_ppp,2001,625.78
 pry,sex_t,eco_aggregate_total,cur_type_ppp,2002,513.91
 pry,sex_t,eco_aggregate_total,cur_type_ppp,2003,513.76
 pry,sex_t,eco_aggregate_total,cur_type_ppp,2004,488.27
@@ -1985,6 +2050,7 @@ pry,sex_t,eco_aggregate_total,cur_type_usd,1997,413.53
 pry,sex_t,eco_aggregate_total,cur_type_usd,1998,375.52
 pry,sex_t,eco_aggregate_total,cur_type_usd,1999,299.04
 pry,sex_t,eco_aggregate_total,cur_type_usd,2000,225.88
+pry,sex_t,eco_aggregate_total,cur_type_usd,2001,203.42
 pry,sex_t,eco_aggregate_total,cur_type_usd,2002,130.53
 pry,sex_t,eco_aggregate_total,cur_type_usd,2003,129.7
 pry,sex_t,eco_aggregate_total,cur_type_usd,2004,134.67
@@ -2003,10 +2069,13 @@ pry,sex_t,eco_aggregate_total,cur_type_usd,2016,371.19
 pry,sex_t,eco_aggregate_total,cur_type_usd,2017,387.19
 pry,sex_t,eco_aggregate_total,cur_type_usd,2018,420.1
 pry,sex_t,eco_aggregate_total,cur_type_usd,2019,391.37
+pry,sex_t,eco_aggregate_x,cur_type_lcu,2001,120000
 pry,sex_t,eco_aggregate_x,cur_type_lcu,2002,1378500
 pry,sex_t,eco_aggregate_x,cur_type_lcu,2017,1877682.88
+pry,sex_t,eco_aggregate_x,cur_type_ppp,2001,89.91
 pry,sex_t,eco_aggregate_x,cur_type_ppp,2002,949.44
 pry,sex_t,eco_aggregate_x,cur_type_ppp,2017,739.25
+pry,sex_t,eco_aggregate_x,cur_type_usd,2001,29.23
 pry,sex_t,eco_aggregate_x,cur_type_usd,2002,241.15
 pry,sex_t,eco_aggregate_x,cur_type_usd,2017,334.17
 pry,sex_t,eco_isic2_1,cur_type_lcu,1983,19639
