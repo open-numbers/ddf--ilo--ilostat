@@ -11,12 +11,15 @@ afg,sex_t,2017,42.01
 ago,sex_f,2004,38.34
 ago,sex_f,2009,30.85
 ago,sex_f,2011,12.23
+ago,sex_f,2014,33.56
 ago,sex_m,2004,22.37
 ago,sex_m,2009,20.26
 ago,sex_m,2011,7.61
+ago,sex_m,2014,21.71
 ago,sex_t,2004,30.96
 ago,sex_t,2009,25.81
 ago,sex_t,2011,10.01
+ago,sex_t,2014,27.9
 alb,sex_f,2007,36.74
 alb,sex_f,2008,30.8
 alb,sex_f,2009,35.76
@@ -398,6 +401,10 @@ blz,sex_t,2017,27.34
 bmu,sex_f,2010,5.48
 bmu,sex_m,2010,8.18
 bmu,sex_t,2010,6.79
+bol,sex_f,1999,1.01
+bol,sex_f,2000,2.21
+bol,sex_f,2001,30.68
+bol,sex_f,2002,10.25
 bol,sex_f,2005,18.34
 bol,sex_f,2006,17.71
 bol,sex_f,2007,17.58
@@ -412,6 +419,10 @@ bol,sex_f,2016,16.48
 bol,sex_f,2017,18.08
 bol,sex_f,2018,17.55
 bol,sex_f,2019,16.15
+bol,sex_m,1999,2.27
+bol,sex_m,2000,1.19
+bol,sex_m,2001,14.87
+bol,sex_m,2002,8.14
 bol,sex_m,2005,5.46
 bol,sex_m,2006,3.85
 bol,sex_m,2007,4.11
@@ -426,6 +437,10 @@ bol,sex_m,2016,4.7
 bol,sex_m,2017,5.01
 bol,sex_m,2018,4.11
 bol,sex_m,2019,4.31
+bol,sex_t,1999,1.64
+bol,sex_t,2000,1.73
+bol,sex_t,2001,22.93
+bol,sex_t,2002,9.22
 bol,sex_t,2005,12.08
 bol,sex_t,2006,10.79
 bol,sex_t,2007,11.02
@@ -577,6 +592,7 @@ can,sex_f,2016,12.89
 can,sex_f,2017,12.11
 can,sex_f,2018,12.27
 can,sex_f,2019,11.67
+can,sex_f,2020,16.67
 can,sex_m,1976,14.62
 can,sex_m,1977,15.55
 can,sex_m,1978,15.32
@@ -621,6 +637,7 @@ can,sex_m,2016,14.07
 can,sex_m,2017,13.03
 can,sex_m,2018,13.37
 can,sex_m,2019,13
+can,sex_m,2020,19.11
 can,sex_t,1976,19.68
 can,sex_t,1977,20.17
 can,sex_t,1978,19.76
@@ -665,6 +682,7 @@ can,sex_t,2016,13.5
 can,sex_t,2017,12.58
 can,sex_t,2018,12.84
 can,sex_t,2019,12.36
+can,sex_t,2020,17.93
 che,sex_f,2003,7.65
 che,sex_f,2004,6.53
 che,sex_f,2005,7.21
@@ -809,8 +827,11 @@ cok,sex_m,2016,5.88
 cok,sex_m,2019,8.55
 cok,sex_t,2016,11.68
 cok,sex_t,2019,12.6
-col,sex_f,2003,33.79
-col,sex_f,2005,34.62
+col,sex_f,2002,39.85
+col,sex_f,2003,37.83
+col,sex_f,2004,38.77
+col,sex_f,2005,38.4
+col,sex_f,2006,38.12
 col,sex_f,2007,36.36
 col,sex_f,2008,35.25
 col,sex_f,2009,34.38
@@ -824,8 +845,11 @@ col,sex_f,2016,29.24
 col,sex_f,2017,30.28
 col,sex_f,2018,31.07
 col,sex_f,2019,32.37
-col,sex_m,2003,16.22
-col,sex_m,2005,13.33
+col,sex_m,2002,19.69
+col,sex_m,2003,18.15
+col,sex_m,2004,18.52
+col,sex_m,2005,16.91
+col,sex_m,2006,16.57
 col,sex_m,2007,16.89
 col,sex_m,2008,15.55
 col,sex_m,2009,15.32
@@ -839,8 +863,11 @@ col,sex_m,2016,12.75
 col,sex_m,2017,13.3
 col,sex_m,2018,14.14
 col,sex_m,2019,15.55
-col,sex_t,2003,25.4
-col,sex_t,2005,24.31
+col,sex_t,2002,29.94
+col,sex_t,2003,28.09
+col,sex_t,2004,28.74
+col,sex_t,2005,27.72
+col,sex_t,2006,27.43
 col,sex_t,2007,26.69
 col,sex_t,2008,25.44
 col,sex_t,2009,24.83
@@ -1751,7 +1778,6 @@ hnd,sex_f,2010,42.79
 hnd,sex_f,2011,42.98
 hnd,sex_f,2012,45.23
 hnd,sex_f,2013,42.69
-hnd,sex_f,2014,43.06
 hnd,sex_f,2015,41.98
 hnd,sex_f,2016,42.16
 hnd,sex_f,2017,42.61
@@ -1766,7 +1792,6 @@ hnd,sex_m,2010,10.17
 hnd,sex_m,2011,12.22
 hnd,sex_m,2012,12.57
 hnd,sex_m,2013,11.14
-hnd,sex_m,2014,13.95
 hnd,sex_m,2015,11.6
 hnd,sex_m,2016,12.67
 hnd,sex_m,2017,12.11
@@ -1781,7 +1806,6 @@ hnd,sex_t,2010,26.21
 hnd,sex_t,2011,27.54
 hnd,sex_t,2012,28.67
 hnd,sex_t,2013,26.81
-hnd,sex_t,2014,28.67
 hnd,sex_t,2015,26.96
 hnd,sex_t,2016,27.82
 hnd,sex_t,2017,27.72
@@ -4222,7 +4246,7 @@ vnm,sex_f,2015,12.62
 vnm,sex_f,2016,11.84
 vnm,sex_f,2017,12.01
 vnm,sex_f,2018,10.63
-vnm,sex_f,2019,17.42
+vnm,sex_f,2019,17.05
 vnm,sex_m,2007,8.92
 vnm,sex_m,2009,7.71
 vnm,sex_m,2010,5.86
@@ -4234,7 +4258,7 @@ vnm,sex_m,2015,7.29
 vnm,sex_m,2016,7.21
 vnm,sex_m,2017,7.51
 vnm,sex_m,2018,6
-vnm,sex_m,2019,12.06
+vnm,sex_m,2019,11.93
 vnm,sex_t,2007,10.6
 vnm,sex_t,2009,10.27
 vnm,sex_t,2010,8.24
@@ -4246,7 +4270,7 @@ vnm,sex_t,2015,9.88
 vnm,sex_t,2016,9.47
 vnm,sex_t,2017,9.7
 vnm,sex_t,2018,8.31
-vnm,sex_t,2019,14.64
+vnm,sex_t,2019,14.41
 vut,sex_f,2006,24.44
 vut,sex_f,2009,32.41
 vut,sex_f,2010,35.25
