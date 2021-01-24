@@ -1,5 +1,7 @@
 ref_area,sex,classif1,classif2,time,ear_4mth_sex_eco_cur_nb
+cok,sex_f,eco_aggregate_agr,cur_type_lcu,2019,1360
 cok,sex_f,eco_aggregate_man,cur_type_lcu,2019,1579.36
+cok,sex_f,eco_aggregate_mel,cur_type_lcu,2019,1977.26
 cok,sex_f,eco_aggregate_mkt,cur_type_lcu,2019,1446.41
 cok,sex_f,eco_aggregate_pub,cur_type_lcu,2019,1533.64
 cok,sex_f,eco_aggregate_total,cur_type_lcu,1989,506.61
@@ -29,7 +31,10 @@ cok,sex_f,eco_isic2_9,cur_type_lcu,1993,909.3
 cok,sex_f,eco_isic2_total,cur_type_lcu,1989,506.61
 cok,sex_f,eco_isic2_total,cur_type_lcu,1990,710.12
 cok,sex_f,eco_isic2_total,cur_type_lcu,1993,874.66
+cok,sex_f,eco_isic4_a,cur_type_lcu,2019,1360
+cok,sex_f,eco_isic4_b,cur_type_lcu,2019,1200
 cok,sex_f,eco_isic4_c,cur_type_lcu,2019,1579.36
+cok,sex_f,eco_isic4_d,cur_type_lcu,2019,2400
 cok,sex_f,eco_isic4_g,cur_type_lcu,2019,1625.07
 cok,sex_f,eco_isic4_h,cur_type_lcu,2019,1294.68
 cok,sex_f,eco_isic4_i,cur_type_lcu,2019,1221.56
@@ -40,6 +45,7 @@ cok,sex_f,eco_isic4_n,cur_type_lcu,2019,2013.54
 cok,sex_f,eco_isic4_o,cur_type_lcu,2019,1662.17
 cok,sex_f,eco_isic4_p,cur_type_lcu,2019,1569.94
 cok,sex_f,eco_isic4_q,cur_type_lcu,2019,1406.23
+cok,sex_f,eco_isic4_r,cur_type_lcu,2019,1200
 cok,sex_f,eco_isic4_s,cur_type_lcu,2019,1829.51
 cok,sex_f,eco_isic4_t,cur_type_lcu,2019,946.39
 cok,sex_f,eco_isic4_total,cur_type_lcu,2019,1490.14
@@ -80,17 +86,20 @@ cok,sex_m,eco_isic2_total,cur_type_lcu,1993,987.24
 cok,sex_m,eco_isic4_a,cur_type_lcu,2019,1441.62
 cok,sex_m,eco_isic4_c,cur_type_lcu,2019,1746.79
 cok,sex_m,eco_isic4_d,cur_type_lcu,2019,1286.43
+cok,sex_m,eco_isic4_e,cur_type_lcu,2019,1234.38
 cok,sex_m,eco_isic4_f,cur_type_lcu,2019,2173.27
 cok,sex_m,eco_isic4_g,cur_type_lcu,2019,1490.23
 cok,sex_m,eco_isic4_h,cur_type_lcu,2019,1708.27
 cok,sex_m,eco_isic4_i,cur_type_lcu,2019,1667
 cok,sex_m,eco_isic4_j,cur_type_lcu,2019,1658.49
+cok,sex_m,eco_isic4_k,cur_type_lcu,2019,800
 cok,sex_m,eco_isic4_n,cur_type_lcu,2019,1864.01
 cok,sex_m,eco_isic4_o,cur_type_lcu,2019,1335.01
 cok,sex_m,eco_isic4_p,cur_type_lcu,2019,1671.83
 cok,sex_m,eco_isic4_s,cur_type_lcu,2019,1221.03
 cok,sex_m,eco_isic4_t,cur_type_lcu,2019,991.2
 cok,sex_m,eco_isic4_total,cur_type_lcu,2019,1564.88
+cok,sex_m,eco_isic4_u,cur_type_lcu,2019,3900
 cok,sex_t,eco_aggregate_agr,cur_type_lcu,2019,1429.86
 cok,sex_t,eco_aggregate_con,cur_type_lcu,2019,2173.27
 cok,sex_t,eco_aggregate_man,cur_type_lcu,2019,1700.84
@@ -126,8 +135,10 @@ cok,sex_t,eco_isic2_total,cur_type_lcu,1989,523.93
 cok,sex_t,eco_isic2_total,cur_type_lcu,1990,783.73
 cok,sex_t,eco_isic2_total,cur_type_lcu,1993,943.94
 cok,sex_t,eco_isic4_a,cur_type_lcu,2019,1429.86
+cok,sex_t,eco_isic4_b,cur_type_lcu,2019,1200
 cok,sex_t,eco_isic4_c,cur_type_lcu,2019,1700.84
 cok,sex_t,eco_isic4_d,cur_type_lcu,2019,1612.31
+cok,sex_t,eco_isic4_e,cur_type_lcu,2019,1234.38
 cok,sex_t,eco_isic4_f,cur_type_lcu,2019,2173.27
 cok,sex_t,eco_isic4_g,cur_type_lcu,2019,1560.64
 cok,sex_t,eco_isic4_h,cur_type_lcu,2019,1588.86
@@ -139,6 +150,8 @@ cok,sex_t,eco_isic4_n,cur_type_lcu,2019,1942.88
 cok,sex_t,eco_isic4_o,cur_type_lcu,2019,1452.68
 cok,sex_t,eco_isic4_p,cur_type_lcu,2019,1602.44
 cok,sex_t,eco_isic4_q,cur_type_lcu,2019,1406.23
+cok,sex_t,eco_isic4_r,cur_type_lcu,2019,1200
 cok,sex_t,eco_isic4_s,cur_type_lcu,2019,1443.17
 cok,sex_t,eco_isic4_t,cur_type_lcu,2019,969.87
 cok,sex_t,eco_isic4_total,cur_type_lcu,2019,1530.87
+cok,sex_t,eco_isic4_u,cur_type_lcu,2019,3900

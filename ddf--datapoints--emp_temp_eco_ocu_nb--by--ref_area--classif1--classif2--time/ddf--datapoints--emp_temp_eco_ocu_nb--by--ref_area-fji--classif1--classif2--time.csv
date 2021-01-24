@@ -28,6 +28,8 @@ fji,eco_aggregate_agr,ocu_isco08_total,2011,152.577
 fji,eco_aggregate_agr,ocu_isco08_total,2014,139.166
 fji,eco_aggregate_agr,ocu_isco08_total,2016,62.437
 fji,eco_aggregate_agr,ocu_isco88_1,2005,0.337
+fji,eco_aggregate_agr,ocu_isco88_2,2005,0.105
+fji,eco_aggregate_agr,ocu_isco88_3,2005,0.134
 fji,eco_aggregate_agr,ocu_isco88_4,2005,0.336
 fji,eco_aggregate_agr,ocu_isco88_5,2005,0.304
 fji,eco_aggregate_agr,ocu_isco88_6,2005,73.447
@@ -82,6 +84,8 @@ fji,eco_aggregate_con,ocu_isco88_1,2005,0.618
 fji,eco_aggregate_con,ocu_isco88_2,2005,0.256
 fji,eco_aggregate_con,ocu_isco88_3,2005,0.495
 fji,eco_aggregate_con,ocu_isco88_4,2005,0.699
+fji,eco_aggregate_con,ocu_isco88_5,2005,0.066
+fji,eco_aggregate_con,ocu_isco88_6,2005,0.033
 fji,eco_aggregate_con,ocu_isco88_7,2005,11.271
 fji,eco_aggregate_con,ocu_isco88_8,2005,1.163
 fji,eco_aggregate_con,ocu_isco88_9,2005,2.269
@@ -181,8 +185,11 @@ fji,eco_aggregate_mel,ocu_isco08_9,2016,0.306
 fji,eco_aggregate_mel,ocu_isco08_total,2011,4.121
 fji,eco_aggregate_mel,ocu_isco08_total,2014,4.617
 fji,eco_aggregate_mel,ocu_isco08_total,2016,2.756
+fji,eco_aggregate_mel,ocu_isco88_1,2005,0.026
 fji,eco_aggregate_mel,ocu_isco88_2,2005,0.277
+fji,eco_aggregate_mel,ocu_isco88_3,2005,0.183
 fji,eco_aggregate_mel,ocu_isco88_4,2005,0.924
+fji,eco_aggregate_mel,ocu_isco88_5,2005,0.13
 fji,eco_aggregate_mel,ocu_isco88_7,2005,2.755
 fji,eco_aggregate_mel,ocu_isco88_8,2005,0.888
 fji,eco_aggregate_mel,ocu_isco88_9,2005,0.547
@@ -366,6 +373,7 @@ fji,eco_aggregate_total,ocu_isco88_7,2005,39.902
 fji,eco_aggregate_total,ocu_isco88_8,2005,25.757
 fji,eco_aggregate_total,ocu_isco88_9,2005,56.096
 fji,eco_aggregate_total,ocu_isco88_total,2005,314.533
+fji,eco_aggregate_total,ocu_isco88_x,2005,0.135
 fji,eco_aggregate_total,ocu_skill_l1,2005,56.096
 fji,eco_aggregate_total,ocu_skill_l1,2011,43.985
 fji,eco_aggregate_total,ocu_skill_l1,2014,33.96
@@ -385,6 +393,10 @@ fji,eco_aggregate_total,ocu_skill_total,2016,327.065
 fji,eco_aggregate_total,ocu_skill_x,2005,2.379
 fji,eco_aggregate_total,ocu_skill_x,2011,2.143
 fji,eco_aggregate_total,ocu_skill_x,2014,2.692
+fji,eco_aggregate_x,ocu_isco88_total,2005,0.135
+fji,eco_aggregate_x,ocu_isco88_x,2005,0.135
+fji,eco_aggregate_x,ocu_skill_total,2005,0.135
+fji,eco_aggregate_x,ocu_skill_x,2005,0.135
 fji,eco_isic3_a,ocu_isco08_1,2011,0.319
 fji,eco_isic3_a,ocu_isco08_3,2011,0.258
 fji,eco_isic3_a,ocu_isco08_5,2011,0.824
@@ -1205,6 +1217,8 @@ fji,eco_sector_agr,ocu_isco08_total,2011,152.577
 fji,eco_sector_agr,ocu_isco08_total,2014,139.166
 fji,eco_sector_agr,ocu_isco08_total,2016,62.437
 fji,eco_sector_agr,ocu_isco88_1,2005,0.337
+fji,eco_sector_agr,ocu_isco88_2,2005,0.105
+fji,eco_sector_agr,ocu_isco88_3,2005,0.134
 fji,eco_sector_agr,ocu_isco88_4,2005,0.336
 fji,eco_sector_agr,ocu_isco88_5,2005,0.304
 fji,eco_sector_agr,ocu_isco88_6,2005,73.447
@@ -1314,6 +1328,8 @@ fji,eco_sector_nag,ocu_isco08_total,2011,200.916
 fji,eco_sector_nag,ocu_isco08_total,2014,205.019
 fji,eco_sector_nag,ocu_isco08_total,2016,264.628
 fji,eco_sector_nag,ocu_isco88_1,2005,13.929
+fji,eco_sector_nag,ocu_isco88_2,2005,20.448
+fji,eco_sector_nag,ocu_isco88_3,2005,19.093
 fji,eco_sector_nag,ocu_isco88_4,2005,20.736
 fji,eco_sector_nag,ocu_isco88_5,2005,33.633
 fji,eco_sector_nag,ocu_isco88_6,2005,7.897
@@ -1443,6 +1459,7 @@ fji,eco_sector_total,ocu_isco88_7,2005,39.902
 fji,eco_sector_total,ocu_isco88_8,2005,25.757
 fji,eco_sector_total,ocu_isco88_9,2005,56.096
 fji,eco_sector_total,ocu_isco88_total,2005,314.533
+fji,eco_sector_total,ocu_isco88_x,2005,0.135
 fji,eco_sector_total,ocu_skill_l1,2005,56.096
 fji,eco_sector_total,ocu_skill_l1,2011,43.985
 fji,eco_sector_total,ocu_skill_l1,2014,33.96
@@ -1462,3 +1479,7 @@ fji,eco_sector_total,ocu_skill_total,2016,327.065
 fji,eco_sector_total,ocu_skill_x,2005,2.379
 fji,eco_sector_total,ocu_skill_x,2011,2.143
 fji,eco_sector_total,ocu_skill_x,2014,2.692
+fji,eco_sector_x,ocu_isco88_total,2005,0.135
+fji,eco_sector_x,ocu_isco88_x,2005,0.135
+fji,eco_sector_x,ocu_skill_total,2005,0.135
+fji,eco_sector_x,ocu_skill_x,2005,0.135

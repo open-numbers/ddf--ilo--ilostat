@@ -71,6 +71,7 @@ pan,sex_f,age_10yrbands_y55_64,job_contract_total,2008,24.609
 pan,sex_f,age_10yrbands_y55_64,job_contract_x,1997,7.348
 pan,sex_f,age_10yrbands_y55_64,job_contract_x,2003,6.493
 pan,sex_f,age_10yrbands_y55_64,job_contract_x,2008,9.827
+pan,sex_f,age_10yrbands_yge65,job_contract_perm,1997,0.153
 pan,sex_f,age_10yrbands_yge65,job_contract_perm,2008,0.923
 pan,sex_f,age_10yrbands_yge65,job_contract_total,1997,1.003
 pan,sex_f,age_10yrbands_yge65,job_contract_total,2003,3.168
@@ -126,6 +127,7 @@ pan,sex_f,age_aggregate_y55_64,job_contract_total,2008,24.609
 pan,sex_f,age_aggregate_y55_64,job_contract_x,1997,7.348
 pan,sex_f,age_aggregate_y55_64,job_contract_x,2003,6.493
 pan,sex_f,age_aggregate_y55_64,job_contract_x,2008,9.827
+pan,sex_f,age_aggregate_yge65,job_contract_perm,1997,0.153
 pan,sex_f,age_aggregate_yge65,job_contract_perm,2008,0.923
 pan,sex_f,age_aggregate_yge65,job_contract_total,1997,1.003
 pan,sex_f,age_aggregate_yge65,job_contract_total,2003,3.168
@@ -256,6 +258,7 @@ pan,sex_m,age_10yrbands_y55_64,job_contract_x,2008,12.181
 pan,sex_m,age_10yrbands_yge65,job_contract_perm,1997,2.63
 pan,sex_m,age_10yrbands_yge65,job_contract_perm,2003,2.069
 pan,sex_m,age_10yrbands_yge65,job_contract_perm,2008,3.862
+pan,sex_m,age_10yrbands_yge65,job_contract_temp,1997,0.766
 pan,sex_m,age_10yrbands_yge65,job_contract_temp,2003,0.596
 pan,sex_m,age_10yrbands_yge65,job_contract_temp,2008,1.975
 pan,sex_m,age_10yrbands_yge65,job_contract_total,1997,9.6
@@ -315,6 +318,7 @@ pan,sex_m,age_aggregate_y55_64,job_contract_x,2008,12.181
 pan,sex_m,age_aggregate_yge65,job_contract_perm,1997,2.63
 pan,sex_m,age_aggregate_yge65,job_contract_perm,2003,2.069
 pan,sex_m,age_aggregate_yge65,job_contract_perm,2008,3.862
+pan,sex_m,age_aggregate_yge65,job_contract_temp,1997,0.766
 pan,sex_m,age_aggregate_yge65,job_contract_temp,2003,0.596
 pan,sex_m,age_aggregate_yge65,job_contract_temp,2008,1.975
 pan,sex_m,age_aggregate_yge65,job_contract_total,1997,9.6
@@ -446,6 +450,7 @@ pan,sex_t,age_10yrbands_y55_64,job_contract_x,2008,22.007
 pan,sex_t,age_10yrbands_yge65,job_contract_perm,1997,2.783
 pan,sex_t,age_10yrbands_yge65,job_contract_perm,2003,2.445
 pan,sex_t,age_10yrbands_yge65,job_contract_perm,2008,4.785
+pan,sex_t,age_10yrbands_yge65,job_contract_temp,1997,0.766
 pan,sex_t,age_10yrbands_yge65,job_contract_temp,2003,1.132
 pan,sex_t,age_10yrbands_yge65,job_contract_temp,2008,2.17
 pan,sex_t,age_10yrbands_yge65,job_contract_total,1997,10.603
@@ -505,6 +510,7 @@ pan,sex_t,age_aggregate_y55_64,job_contract_x,2008,22.007
 pan,sex_t,age_aggregate_yge65,job_contract_perm,1997,2.783
 pan,sex_t,age_aggregate_yge65,job_contract_perm,2003,2.445
 pan,sex_t,age_aggregate_yge65,job_contract_perm,2008,4.785
+pan,sex_t,age_aggregate_yge65,job_contract_temp,1997,0.766
 pan,sex_t,age_aggregate_yge65,job_contract_temp,2003,1.132
 pan,sex_t,age_aggregate_yge65,job_contract_temp,2008,2.17
 pan,sex_t,age_aggregate_yge65,job_contract_total,1997,10.603

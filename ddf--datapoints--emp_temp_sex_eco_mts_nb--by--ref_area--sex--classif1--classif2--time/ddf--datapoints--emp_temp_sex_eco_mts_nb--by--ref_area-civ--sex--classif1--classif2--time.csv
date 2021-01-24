@@ -11,6 +11,7 @@ civ,sex_f,eco_aggregate_agr,mts_aggregate_total,2012,839
 civ,sex_f,eco_aggregate_agr,mts_aggregate_total,2013,1639.393
 civ,sex_f,eco_aggregate_agr,mts_aggregate_total,2016,1372.742
 civ,sex_f,eco_aggregate_agr,mts_aggregate_total,2017,1010.892
+civ,sex_f,eco_aggregate_agr,mts_aggregate_x,2012,0.527
 civ,sex_f,eco_aggregate_agr,mts_aggregate_x,2013,4.089
 civ,sex_f,eco_aggregate_agr,mts_details_mrd,2012,590.923
 civ,sex_f,eco_aggregate_agr,mts_details_mrd,2013,1212.225
@@ -33,11 +34,19 @@ civ,sex_f,eco_aggregate_agr,mts_details_wid,2012,76.983
 civ,sex_f,eco_aggregate_agr,mts_details_wid,2013,150.854
 civ,sex_f,eco_aggregate_agr,mts_details_wid,2016,144.55
 civ,sex_f,eco_aggregate_agr,mts_details_wid,2017,70.828
+civ,sex_f,eco_aggregate_agr,mts_details_x,2012,0.527
 civ,sex_f,eco_aggregate_agr,mts_details_x,2013,4.089
+civ,sex_f,eco_aggregate_con,mts_aggregate_1,2012,1.513
+civ,sex_f,eco_aggregate_con,mts_aggregate_2,2012,0.385
 civ,sex_f,eco_aggregate_con,mts_aggregate_2,2013,2.241
+civ,sex_f,eco_aggregate_con,mts_aggregate_total,2012,1.898
 civ,sex_f,eco_aggregate_con,mts_aggregate_total,2013,4.12
+civ,sex_f,eco_aggregate_con,mts_details_mrd,2012,0.385
 civ,sex_f,eco_aggregate_con,mts_details_mrd,2013,2.241
+civ,sex_f,eco_aggregate_con,mts_details_sgle,2012,1.211
+civ,sex_f,eco_aggregate_con,mts_details_total,2012,1.898
 civ,sex_f,eco_aggregate_con,mts_details_total,2013,4.12
+civ,sex_f,eco_aggregate_con,mts_details_wid,2012,0.302
 civ,sex_f,eco_aggregate_man,mts_aggregate_1,2012,43.361
 civ,sex_f,eco_aggregate_man,mts_aggregate_1,2013,144.865
 civ,sex_f,eco_aggregate_man,mts_aggregate_1,2016,58.386
@@ -54,6 +63,7 @@ civ,sex_f,eco_aggregate_man,mts_details_mrd,2012,25.665
 civ,sex_f,eco_aggregate_man,mts_details_mrd,2013,220.589
 civ,sex_f,eco_aggregate_man,mts_details_mrd,2016,40.778
 civ,sex_f,eco_aggregate_man,mts_details_mrd,2017,189.982
+civ,sex_f,eco_aggregate_man,mts_details_sep,2012,0.833
 civ,sex_f,eco_aggregate_man,mts_details_sep,2013,10.147
 civ,sex_f,eco_aggregate_man,mts_details_sep,2017,2.569
 civ,sex_f,eco_aggregate_man,mts_details_sgle,2012,40.464
@@ -69,8 +79,10 @@ civ,sex_f,eco_aggregate_man,mts_details_wid,2012,2.064
 civ,sex_f,eco_aggregate_man,mts_details_wid,2013,31.58
 civ,sex_f,eco_aggregate_man,mts_details_wid,2016,7.979
 civ,sex_f,eco_aggregate_man,mts_details_wid,2017,13.912
+civ,sex_f,eco_aggregate_mel,mts_aggregate_1,2012,1.253
 civ,sex_f,eco_aggregate_mel,mts_aggregate_1,2013,27.328
 civ,sex_f,eco_aggregate_mel,mts_aggregate_1,2017,2.337
+civ,sex_f,eco_aggregate_mel,mts_aggregate_2,2012,1.508
 civ,sex_f,eco_aggregate_mel,mts_aggregate_2,2013,57.165
 civ,sex_f,eco_aggregate_mel,mts_aggregate_2,2016,4.689
 civ,sex_f,eco_aggregate_mel,mts_aggregate_2,2017,5.45
@@ -78,8 +90,10 @@ civ,sex_f,eco_aggregate_mel,mts_aggregate_total,2012,2.761
 civ,sex_f,eco_aggregate_mel,mts_aggregate_total,2013,84.493
 civ,sex_f,eco_aggregate_mel,mts_aggregate_total,2016,7.688
 civ,sex_f,eco_aggregate_mel,mts_aggregate_total,2017,7.787
+civ,sex_f,eco_aggregate_mel,mts_details_mrd,2012,1.508
 civ,sex_f,eco_aggregate_mel,mts_details_mrd,2013,57.165
 civ,sex_f,eco_aggregate_mel,mts_details_mrd,2017,5.45
+civ,sex_f,eco_aggregate_mel,mts_details_sgle,2012,1.253
 civ,sex_f,eco_aggregate_mel,mts_details_sgle,2013,20.351
 civ,sex_f,eco_aggregate_mel,mts_details_sgle,2017,1.807
 civ,sex_f,eco_aggregate_mel,mts_details_total,2012,2.761
@@ -99,6 +113,7 @@ civ,sex_f,eco_aggregate_mkt,mts_aggregate_total,2012,909.55
 civ,sex_f,eco_aggregate_mkt,mts_aggregate_total,2013,1515.964
 civ,sex_f,eco_aggregate_mkt,mts_aggregate_total,2016,1509.319
 civ,sex_f,eco_aggregate_mkt,mts_aggregate_total,2017,1414.304
+civ,sex_f,eco_aggregate_mkt,mts_aggregate_x,2012,0.52
 civ,sex_f,eco_aggregate_mkt,mts_aggregate_x,2013,5.508
 civ,sex_f,eco_aggregate_mkt,mts_details_mrd,2012,501.694
 civ,sex_f,eco_aggregate_mkt,mts_details_mrd,2013,901.914
@@ -121,6 +136,7 @@ civ,sex_f,eco_aggregate_mkt,mts_details_wid,2012,59.275
 civ,sex_f,eco_aggregate_mkt,mts_details_wid,2013,108.738
 civ,sex_f,eco_aggregate_mkt,mts_details_wid,2016,96.607
 civ,sex_f,eco_aggregate_mkt,mts_details_wid,2017,74.356
+civ,sex_f,eco_aggregate_mkt,mts_details_x,2012,0.52
 civ,sex_f,eco_aggregate_mkt,mts_details_x,2013,5.508
 civ,sex_f,eco_aggregate_pub,mts_aggregate_1,2012,224.825
 civ,sex_f,eco_aggregate_pub,mts_aggregate_1,2013,260.437
@@ -134,10 +150,12 @@ civ,sex_f,eco_aggregate_pub,mts_aggregate_total,2012,337.061
 civ,sex_f,eco_aggregate_pub,mts_aggregate_total,2013,432.229
 civ,sex_f,eco_aggregate_pub,mts_aggregate_total,2016,342.734
 civ,sex_f,eco_aggregate_pub,mts_aggregate_total,2017,359.816
+civ,sex_f,eco_aggregate_pub,mts_aggregate_x,2012,0.763
 civ,sex_f,eco_aggregate_pub,mts_details_mrd,2012,111.473
 civ,sex_f,eco_aggregate_pub,mts_details_mrd,2013,169.396
 civ,sex_f,eco_aggregate_pub,mts_details_mrd,2016,120.9
 civ,sex_f,eco_aggregate_pub,mts_details_mrd,2017,150.683
+civ,sex_f,eco_aggregate_pub,mts_details_sep,2012,1.155
 civ,sex_f,eco_aggregate_pub,mts_details_sep,2013,7.388
 civ,sex_f,eco_aggregate_pub,mts_details_sep,2016,14.592
 civ,sex_f,eco_aggregate_pub,mts_details_sep,2017,4.959
@@ -154,6 +172,7 @@ civ,sex_f,eco_aggregate_pub,mts_details_wid,2012,9.223
 civ,sex_f,eco_aggregate_pub,mts_details_wid,2013,18.053
 civ,sex_f,eco_aggregate_pub,mts_details_wid,2016,11.227
 civ,sex_f,eco_aggregate_pub,mts_details_wid,2017,11.844
+civ,sex_f,eco_aggregate_pub,mts_details_x,2012,0.763
 civ,sex_f,eco_aggregate_total,mts_aggregate_1,2012,925.838
 civ,sex_f,eco_aggregate_total,mts_aggregate_1,2013,1466.129
 civ,sex_f,eco_aggregate_total,mts_aggregate_1,2016,1027.238
@@ -166,6 +185,7 @@ civ,sex_f,eco_aggregate_total,mts_aggregate_total,2012,2159.296
 civ,sex_f,eco_aggregate_total,mts_aggregate_total,2013,4041.652
 civ,sex_f,eco_aggregate_total,mts_aggregate_total,2016,3423.726
 civ,sex_f,eco_aggregate_total,mts_aggregate_total,2017,3105.402
+civ,sex_f,eco_aggregate_total,mts_aggregate_x,2012,1.81
 civ,sex_f,eco_aggregate_total,mts_aggregate_x,2013,11.994
 civ,sex_f,eco_aggregate_total,mts_details_mrd,2012,1231.648
 civ,sex_f,eco_aggregate_total,mts_details_mrd,2013,2563.529
@@ -188,6 +208,7 @@ civ,sex_f,eco_aggregate_total,mts_details_wid,2012,147.847
 civ,sex_f,eco_aggregate_total,mts_details_wid,2013,315.476
 civ,sex_f,eco_aggregate_total,mts_details_wid,2016,263.411
 civ,sex_f,eco_aggregate_total,mts_details_wid,2017,171.47
+civ,sex_f,eco_aggregate_total,mts_details_x,2012,1.81
 civ,sex_f,eco_aggregate_total,mts_details_x,2013,11.994
 civ,sex_f,eco_aggregate_x,mts_aggregate_1,2016,15.512
 civ,sex_f,eco_aggregate_x,mts_aggregate_2,2016,59.822
@@ -210,6 +231,7 @@ civ,sex_f,eco_sector_agr,mts_aggregate_total,2012,839
 civ,sex_f,eco_sector_agr,mts_aggregate_total,2013,1639.393
 civ,sex_f,eco_sector_agr,mts_aggregate_total,2016,1372.742
 civ,sex_f,eco_sector_agr,mts_aggregate_total,2017,1010.892
+civ,sex_f,eco_sector_agr,mts_aggregate_x,2012,0.527
 civ,sex_f,eco_sector_agr,mts_aggregate_x,2013,4.089
 civ,sex_f,eco_sector_agr,mts_details_mrd,2012,590.923
 civ,sex_f,eco_sector_agr,mts_details_mrd,2013,1212.225
@@ -232,6 +254,7 @@ civ,sex_f,eco_sector_agr,mts_details_wid,2012,76.983
 civ,sex_f,eco_sector_agr,mts_details_wid,2013,150.854
 civ,sex_f,eco_sector_agr,mts_details_wid,2016,144.55
 civ,sex_f,eco_sector_agr,mts_details_wid,2017,70.828
+civ,sex_f,eco_sector_agr,mts_details_x,2012,0.527
 civ,sex_f,eco_sector_agr,mts_details_x,2013,4.089
 civ,sex_f,eco_sector_ind,mts_aggregate_1,2012,46.127
 civ,sex_f,eco_sector_ind,mts_aggregate_1,2013,174.071
@@ -249,6 +272,7 @@ civ,sex_f,eco_sector_ind,mts_details_mrd,2012,27.558
 civ,sex_f,eco_sector_ind,mts_details_mrd,2013,279.995
 civ,sex_f,eco_sector_ind,mts_details_mrd,2016,44.808
 civ,sex_f,eco_sector_ind,mts_details_mrd,2017,196.789
+civ,sex_f,eco_sector_ind,mts_details_sep,2012,0.833
 civ,sex_f,eco_sector_ind,mts_details_sep,2013,10.873
 civ,sex_f,eco_sector_ind,mts_details_sep,2017,2.569
 civ,sex_f,eco_sector_ind,mts_details_sgle,2012,42.928
@@ -276,6 +300,7 @@ civ,sex_f,eco_sector_nag,mts_aggregate_total,2012,1320.296
 civ,sex_f,eco_sector_nag,mts_aggregate_total,2013,2402.26
 civ,sex_f,eco_sector_nag,mts_aggregate_total,2016,2050.984
 civ,sex_f,eco_sector_nag,mts_aggregate_total,2017,2094.51
+civ,sex_f,eco_sector_nag,mts_aggregate_x,2012,1.283
 civ,sex_f,eco_sector_nag,mts_aggregate_x,2013,7.905
 civ,sex_f,eco_sector_nag,mts_details_mrd,2012,640.725
 civ,sex_f,eco_sector_nag,mts_details_mrd,2013,1351.304
@@ -298,6 +323,7 @@ civ,sex_f,eco_sector_nag,mts_details_wid,2012,70.864
 civ,sex_f,eco_sector_nag,mts_details_wid,2013,164.623
 civ,sex_f,eco_sector_nag,mts_details_wid,2016,118.861
 civ,sex_f,eco_sector_nag,mts_details_wid,2017,100.642
+civ,sex_f,eco_sector_nag,mts_details_x,2012,1.283
 civ,sex_f,eco_sector_nag,mts_details_x,2013,7.905
 civ,sex_f,eco_sector_ser,mts_aggregate_1,2012,632.161
 civ,sex_f,eco_sector_ser,mts_aggregate_1,2013,868.979
@@ -311,6 +337,7 @@ civ,sex_f,eco_sector_ser,mts_aggregate_total,2012,1246.611
 civ,sex_f,eco_sector_ser,mts_aggregate_total,2013,1948.194
 civ,sex_f,eco_sector_ser,mts_aggregate_total,2016,1852.053
 civ,sex_f,eco_sector_ser,mts_aggregate_total,2017,1774.119
+civ,sex_f,eco_sector_ser,mts_aggregate_x,2012,1.283
 civ,sex_f,eco_sector_ser,mts_aggregate_x,2013,7.905
 civ,sex_f,eco_sector_ser,mts_details_mrd,2012,613.167
 civ,sex_f,eco_sector_ser,mts_details_mrd,2013,1071.309
@@ -333,6 +360,7 @@ civ,sex_f,eco_sector_ser,mts_details_wid,2012,68.498
 civ,sex_f,eco_sector_ser,mts_details_wid,2013,126.791
 civ,sex_f,eco_sector_ser,mts_details_wid,2016,107.834
 civ,sex_f,eco_sector_ser,mts_details_wid,2017,86.2
+civ,sex_f,eco_sector_ser,mts_details_x,2012,1.283
 civ,sex_f,eco_sector_ser,mts_details_x,2013,7.905
 civ,sex_f,eco_sector_total,mts_aggregate_1,2012,925.838
 civ,sex_f,eco_sector_total,mts_aggregate_1,2013,1466.129
@@ -346,6 +374,7 @@ civ,sex_f,eco_sector_total,mts_aggregate_total,2012,2159.296
 civ,sex_f,eco_sector_total,mts_aggregate_total,2013,4041.652
 civ,sex_f,eco_sector_total,mts_aggregate_total,2016,3423.726
 civ,sex_f,eco_sector_total,mts_aggregate_total,2017,3105.402
+civ,sex_f,eco_sector_total,mts_aggregate_x,2012,1.81
 civ,sex_f,eco_sector_total,mts_aggregate_x,2013,11.994
 civ,sex_f,eco_sector_total,mts_details_mrd,2012,1231.648
 civ,sex_f,eco_sector_total,mts_details_mrd,2013,2563.529
@@ -368,6 +397,7 @@ civ,sex_f,eco_sector_total,mts_details_wid,2012,147.847
 civ,sex_f,eco_sector_total,mts_details_wid,2013,315.476
 civ,sex_f,eco_sector_total,mts_details_wid,2016,263.411
 civ,sex_f,eco_sector_total,mts_details_wid,2017,171.47
+civ,sex_f,eco_sector_total,mts_details_x,2012,1.81
 civ,sex_f,eco_sector_total,mts_details_x,2013,11.994
 civ,sex_f,eco_sector_x,mts_aggregate_1,2016,15.512
 civ,sex_f,eco_sector_x,mts_aggregate_2,2016,59.822
@@ -390,6 +420,7 @@ civ,sex_m,eco_aggregate_agr,mts_aggregate_total,2012,1061.074
 civ,sex_m,eco_aggregate_agr,mts_aggregate_total,2013,2428.528
 civ,sex_m,eco_aggregate_agr,mts_aggregate_total,2016,2752.921
 civ,sex_m,eco_aggregate_agr,mts_aggregate_total,2017,2216.529
+civ,sex_m,eco_aggregate_agr,mts_aggregate_x,2012,0.459
 civ,sex_m,eco_aggregate_agr,mts_aggregate_x,2013,1.798
 civ,sex_m,eco_aggregate_agr,mts_details_mrd,2012,626.188
 civ,sex_m,eco_aggregate_agr,mts_details_mrd,2013,1654.545
@@ -412,6 +443,7 @@ civ,sex_m,eco_aggregate_agr,mts_details_wid,2012,17.192
 civ,sex_m,eco_aggregate_agr,mts_details_wid,2013,36.263
 civ,sex_m,eco_aggregate_agr,mts_details_wid,2016,30.759
 civ,sex_m,eco_aggregate_agr,mts_details_wid,2017,22.606
+civ,sex_m,eco_aggregate_agr,mts_details_x,2012,0.459
 civ,sex_m,eco_aggregate_agr,mts_details_x,2013,1.798
 civ,sex_m,eco_aggregate_con,mts_aggregate_1,2012,41.214
 civ,sex_m,eco_aggregate_con,mts_aggregate_1,2013,101.929
@@ -425,10 +457,12 @@ civ,sex_m,eco_aggregate_con,mts_aggregate_total,2012,80.167
 civ,sex_m,eco_aggregate_con,mts_aggregate_total,2013,201.291
 civ,sex_m,eco_aggregate_con,mts_aggregate_total,2016,161.078
 civ,sex_m,eco_aggregate_con,mts_aggregate_total,2017,211.398
+civ,sex_m,eco_aggregate_con,mts_aggregate_x,2012,0.523
 civ,sex_m,eco_aggregate_con,mts_details_mrd,2012,38.429
 civ,sex_m,eco_aggregate_con,mts_details_mrd,2013,98.516
 civ,sex_m,eco_aggregate_con,mts_details_mrd,2016,72.734
 civ,sex_m,eco_aggregate_con,mts_details_mrd,2017,120.732
+civ,sex_m,eco_aggregate_con,mts_details_sep,2012,1.35
 civ,sex_m,eco_aggregate_con,mts_details_sep,2016,5.934
 civ,sex_m,eco_aggregate_con,mts_details_sgle,2012,39.371
 civ,sex_m,eco_aggregate_con,mts_details_sgle,2013,97.045
@@ -439,7 +473,9 @@ civ,sex_m,eco_aggregate_con,mts_details_total,2013,201.291
 civ,sex_m,eco_aggregate_con,mts_details_total,2016,161.078
 civ,sex_m,eco_aggregate_con,mts_details_total,2017,211.398
 civ,sex_m,eco_aggregate_con,mts_details_union,2016,30.217
+civ,sex_m,eco_aggregate_con,mts_details_wid,2012,0.494
 civ,sex_m,eco_aggregate_con,mts_details_wid,2013,4.542
+civ,sex_m,eco_aggregate_con,mts_details_x,2012,0.523
 civ,sex_m,eco_aggregate_man,mts_aggregate_1,2012,109.548
 civ,sex_m,eco_aggregate_man,mts_aggregate_1,2013,170.39
 civ,sex_m,eco_aggregate_man,mts_aggregate_1,2016,154.225
@@ -456,6 +492,7 @@ civ,sex_m,eco_aggregate_man,mts_details_mrd,2012,70.62
 civ,sex_m,eco_aggregate_man,mts_details_mrd,2013,186.545
 civ,sex_m,eco_aggregate_man,mts_details_mrd,2016,161.76
 civ,sex_m,eco_aggregate_man,mts_details_mrd,2017,234.397
+civ,sex_m,eco_aggregate_man,mts_details_sep,2012,1.317
 civ,sex_m,eco_aggregate_man,mts_details_sep,2013,3.923
 civ,sex_m,eco_aggregate_man,mts_details_sep,2016,5.485
 civ,sex_m,eco_aggregate_man,mts_details_sgle,2012,106.856
@@ -467,6 +504,7 @@ civ,sex_m,eco_aggregate_man,mts_details_total,2013,356.944
 civ,sex_m,eco_aggregate_man,mts_details_total,2016,360.132
 civ,sex_m,eco_aggregate_man,mts_details_total,2017,392.777
 civ,sex_m,eco_aggregate_man,mts_details_union,2016,44.147
+civ,sex_m,eco_aggregate_man,mts_details_wid,2012,1.375
 civ,sex_m,eco_aggregate_man,mts_details_wid,2013,2.924
 civ,sex_m,eco_aggregate_man,mts_details_wid,2016,2.472
 civ,sex_m,eco_aggregate_man,mts_details_wid,2017,2.257
@@ -486,6 +524,7 @@ civ,sex_m,eco_aggregate_mel,mts_details_mrd,2012,6.524
 civ,sex_m,eco_aggregate_mel,mts_details_mrd,2013,28.769
 civ,sex_m,eco_aggregate_mel,mts_details_mrd,2016,4.079
 civ,sex_m,eco_aggregate_mel,mts_details_mrd,2017,26.41
+civ,sex_m,eco_aggregate_mel,mts_details_sep,2012,0.234
 civ,sex_m,eco_aggregate_mel,mts_details_sgle,2012,7.584
 civ,sex_m,eco_aggregate_mel,mts_details_sgle,2013,21.129
 civ,sex_m,eco_aggregate_mel,mts_details_sgle,2016,9.632
@@ -495,6 +534,7 @@ civ,sex_m,eco_aggregate_mel,mts_details_total,2013,51.958
 civ,sex_m,eco_aggregate_mel,mts_details_total,2016,18.334
 civ,sex_m,eco_aggregate_mel,mts_details_total,2017,39.618
 civ,sex_m,eco_aggregate_mel,mts_details_union,2016,4.323
+civ,sex_m,eco_aggregate_mel,mts_details_wid,2012,0.266
 civ,sex_m,eco_aggregate_mkt,mts_aggregate_1,2012,376.15
 civ,sex_m,eco_aggregate_mkt,mts_aggregate_1,2013,620.652
 civ,sex_m,eco_aggregate_mkt,mts_aggregate_1,2016,460.295
@@ -507,6 +547,7 @@ civ,sex_m,eco_aggregate_mkt,mts_aggregate_total,2012,792.617
 civ,sex_m,eco_aggregate_mkt,mts_aggregate_total,2013,1345.078
 civ,sex_m,eco_aggregate_mkt,mts_aggregate_total,2016,1330.028
 civ,sex_m,eco_aggregate_mkt,mts_aggregate_total,2017,1290.678
+civ,sex_m,eco_aggregate_mkt,mts_aggregate_x,2012,0.541
 civ,sex_m,eco_aggregate_mkt,mts_aggregate_x,2013,3.07
 civ,sex_m,eco_aggregate_mkt,mts_details_mrd,2012,415.926
 civ,sex_m,eco_aggregate_mkt,mts_details_mrd,2013,721.356
@@ -529,6 +570,7 @@ civ,sex_m,eco_aggregate_mkt,mts_details_wid,2012,4.576
 civ,sex_m,eco_aggregate_mkt,mts_details_wid,2013,16.396
 civ,sex_m,eco_aggregate_mkt,mts_details_wid,2016,8.428
 civ,sex_m,eco_aggregate_mkt,mts_details_wid,2017,10.644
+civ,sex_m,eco_aggregate_mkt,mts_details_x,2012,0.541
 civ,sex_m,eco_aggregate_mkt,mts_details_x,2013,3.07
 civ,sex_m,eco_aggregate_pub,mts_aggregate_1,2012,172.277
 civ,sex_m,eco_aggregate_pub,mts_aggregate_1,2013,257.67
@@ -574,6 +616,7 @@ civ,sex_m,eco_aggregate_total,mts_aggregate_total,2012,2482.931
 civ,sex_m,eco_aggregate_total,mts_aggregate_total,2013,4964.117
 civ,sex_m,eco_aggregate_total,mts_aggregate_total,2016,5059.967
 civ,sex_m,eco_aggregate_total,mts_aggregate_total,2017,4598.879
+civ,sex_m,eco_aggregate_total,mts_aggregate_x,2012,1.523
 civ,sex_m,eco_aggregate_total,mts_aggregate_x,2013,6.223
 civ,sex_m,eco_aggregate_total,mts_details_mrd,2012,1339.707
 civ,sex_m,eco_aggregate_total,mts_details_mrd,2013,3011.881
@@ -596,6 +639,7 @@ civ,sex_m,eco_aggregate_total,mts_details_wid,2012,25.878
 civ,sex_m,eco_aggregate_total,mts_details_wid,2013,69.019
 civ,sex_m,eco_aggregate_total,mts_details_wid,2016,43.029
 civ,sex_m,eco_aggregate_total,mts_details_wid,2017,41.049
+civ,sex_m,eco_aggregate_total,mts_details_x,2012,1.523
 civ,sex_m,eco_aggregate_total,mts_details_x,2013,6.223
 civ,sex_m,eco_aggregate_x,mts_aggregate_1,2016,7.739
 civ,sex_m,eco_aggregate_x,mts_aggregate_2,2016,21.869
@@ -615,6 +659,7 @@ civ,sex_m,eco_sector_agr,mts_aggregate_total,2012,1061.074
 civ,sex_m,eco_sector_agr,mts_aggregate_total,2013,2428.528
 civ,sex_m,eco_sector_agr,mts_aggregate_total,2016,2752.921
 civ,sex_m,eco_sector_agr,mts_aggregate_total,2017,2216.529
+civ,sex_m,eco_sector_agr,mts_aggregate_x,2012,0.459
 civ,sex_m,eco_sector_agr,mts_aggregate_x,2013,1.798
 civ,sex_m,eco_sector_agr,mts_details_mrd,2012,626.188
 civ,sex_m,eco_sector_agr,mts_details_mrd,2013,1654.545
@@ -637,6 +682,7 @@ civ,sex_m,eco_sector_agr,mts_details_wid,2012,17.192
 civ,sex_m,eco_sector_agr,mts_details_wid,2013,36.263
 civ,sex_m,eco_sector_agr,mts_details_wid,2016,30.759
 civ,sex_m,eco_sector_agr,mts_details_wid,2017,22.606
+civ,sex_m,eco_sector_agr,mts_details_x,2012,0.459
 civ,sex_m,eco_sector_agr,mts_details_x,2013,1.798
 civ,sex_m,eco_sector_ind,mts_aggregate_1,2012,158.847
 civ,sex_m,eco_sector_ind,mts_aggregate_1,2013,295.508
@@ -650,6 +696,7 @@ civ,sex_m,eco_sector_ind,mts_aggregate_total,2012,274.944
 civ,sex_m,eco_sector_ind,mts_aggregate_total,2013,610.193
 civ,sex_m,eco_sector_ind,mts_aggregate_total,2016,539.544
 civ,sex_m,eco_sector_ind,mts_aggregate_total,2017,643.793
+civ,sex_m,eco_sector_ind,mts_aggregate_x,2012,0.523
 civ,sex_m,eco_sector_ind,mts_details_mrd,2012,115.573
 civ,sex_m,eco_sector_ind,mts_details_mrd,2013,313.83
 civ,sex_m,eco_sector_ind,mts_details_mrd,2016,238.572
@@ -670,6 +717,7 @@ civ,sex_m,eco_sector_ind,mts_details_wid,2012,2.135
 civ,sex_m,eco_sector_ind,mts_details_wid,2013,8.794
 civ,sex_m,eco_sector_ind,mts_details_wid,2016,3.403
 civ,sex_m,eco_sector_ind,mts_details_wid,2017,3.662
+civ,sex_m,eco_sector_ind,mts_details_x,2012,0.523
 civ,sex_m,eco_sector_nag,mts_aggregate_1,2012,707.274
 civ,sex_m,eco_sector_nag,mts_aggregate_1,2013,1173.83
 civ,sex_m,eco_sector_nag,mts_aggregate_1,2016,805.035
@@ -682,6 +730,7 @@ civ,sex_m,eco_sector_nag,mts_aggregate_total,2012,1421.857
 civ,sex_m,eco_sector_nag,mts_aggregate_total,2013,2535.59
 civ,sex_m,eco_sector_nag,mts_aggregate_total,2016,2307.046
 civ,sex_m,eco_sector_nag,mts_aggregate_total,2017,2382.35
+civ,sex_m,eco_sector_nag,mts_aggregate_x,2012,1.064
 civ,sex_m,eco_sector_nag,mts_aggregate_x,2013,4.425
 civ,sex_m,eco_sector_nag,mts_details_mrd,2012,713.519
 civ,sex_m,eco_sector_nag,mts_details_mrd,2013,1357.335
@@ -704,6 +753,7 @@ civ,sex_m,eco_sector_nag,mts_details_wid,2012,8.686
 civ,sex_m,eco_sector_nag,mts_details_wid,2013,32.756
 civ,sex_m,eco_sector_nag,mts_details_wid,2016,12.271
 civ,sex_m,eco_sector_nag,mts_details_wid,2017,18.443
+civ,sex_m,eco_sector_nag,mts_details_x,2012,1.064
 civ,sex_m,eco_sector_nag,mts_details_x,2013,4.425
 civ,sex_m,eco_sector_ser,mts_aggregate_1,2012,548.427
 civ,sex_m,eco_sector_ser,mts_aggregate_1,2013,878.322
@@ -717,6 +767,7 @@ civ,sex_m,eco_sector_ser,mts_aggregate_total,2012,1146.914
 civ,sex_m,eco_sector_ser,mts_aggregate_total,2013,1925.397
 civ,sex_m,eco_sector_ser,mts_aggregate_total,2016,1737.894
 civ,sex_m,eco_sector_ser,mts_aggregate_total,2017,1738.558
+civ,sex_m,eco_sector_ser,mts_aggregate_x,2012,0.541
 civ,sex_m,eco_sector_ser,mts_aggregate_x,2013,3.57
 civ,sex_m,eco_sector_ser,mts_details_mrd,2012,597.946
 civ,sex_m,eco_sector_ser,mts_details_mrd,2013,1043.505
@@ -739,6 +790,7 @@ civ,sex_m,eco_sector_ser,mts_details_wid,2012,6.551
 civ,sex_m,eco_sector_ser,mts_details_wid,2013,23.962
 civ,sex_m,eco_sector_ser,mts_details_wid,2016,8.868
 civ,sex_m,eco_sector_ser,mts_details_wid,2017,14.782
+civ,sex_m,eco_sector_ser,mts_details_x,2012,0.541
 civ,sex_m,eco_sector_ser,mts_details_x,2013,3.57
 civ,sex_m,eco_sector_total,mts_aggregate_1,2012,1141.701
 civ,sex_m,eco_sector_total,mts_aggregate_1,2013,1946.014
@@ -752,6 +804,7 @@ civ,sex_m,eco_sector_total,mts_aggregate_total,2012,2482.931
 civ,sex_m,eco_sector_total,mts_aggregate_total,2013,4964.117
 civ,sex_m,eco_sector_total,mts_aggregate_total,2016,5059.967
 civ,sex_m,eco_sector_total,mts_aggregate_total,2017,4598.879
+civ,sex_m,eco_sector_total,mts_aggregate_x,2012,1.523
 civ,sex_m,eco_sector_total,mts_aggregate_x,2013,6.223
 civ,sex_m,eco_sector_total,mts_details_mrd,2012,1339.707
 civ,sex_m,eco_sector_total,mts_details_mrd,2013,3011.881
@@ -774,6 +827,7 @@ civ,sex_m,eco_sector_total,mts_details_wid,2012,25.878
 civ,sex_m,eco_sector_total,mts_details_wid,2013,69.019
 civ,sex_m,eco_sector_total,mts_details_wid,2016,43.029
 civ,sex_m,eco_sector_total,mts_details_wid,2017,41.049
+civ,sex_m,eco_sector_total,mts_details_x,2012,1.523
 civ,sex_m,eco_sector_total,mts_details_x,2013,6.223
 civ,sex_m,eco_sector_x,mts_aggregate_1,2016,7.739
 civ,sex_m,eco_sector_x,mts_aggregate_2,2016,21.869
@@ -793,6 +847,7 @@ civ,sex_t,eco_aggregate_agr,mts_aggregate_total,2012,1900.074
 civ,sex_t,eco_aggregate_agr,mts_aggregate_total,2013,4067.92
 civ,sex_t,eco_aggregate_agr,mts_aggregate_total,2016,4125.664
 civ,sex_t,eco_aggregate_agr,mts_aggregate_total,2017,3227.421
+civ,sex_t,eco_aggregate_agr,mts_aggregate_x,2012,0.986
 civ,sex_t,eco_aggregate_agr,mts_aggregate_x,2013,5.887
 civ,sex_t,eco_aggregate_agr,mts_details_mrd,2012,1217.111
 civ,sex_t,eco_aggregate_agr,mts_details_mrd,2013,2866.77
@@ -815,6 +870,7 @@ civ,sex_t,eco_aggregate_agr,mts_details_wid,2012,94.174
 civ,sex_t,eco_aggregate_agr,mts_details_wid,2013,187.117
 civ,sex_t,eco_aggregate_agr,mts_details_wid,2016,175.309
 civ,sex_t,eco_aggregate_agr,mts_details_wid,2017,93.434
+civ,sex_t,eco_aggregate_agr,mts_details_x,2012,0.986
 civ,sex_t,eco_aggregate_agr,mts_details_x,2013,5.887
 civ,sex_t,eco_aggregate_con,mts_aggregate_1,2012,42.727
 civ,sex_t,eco_aggregate_con,mts_aggregate_1,2013,103.807
@@ -828,10 +884,12 @@ civ,sex_t,eco_aggregate_con,mts_aggregate_total,2012,82.065
 civ,sex_t,eco_aggregate_con,mts_aggregate_total,2013,205.41
 civ,sex_t,eco_aggregate_con,mts_aggregate_total,2016,163.062
 civ,sex_t,eco_aggregate_con,mts_aggregate_total,2017,214.137
+civ,sex_t,eco_aggregate_con,mts_aggregate_x,2012,0.523
 civ,sex_t,eco_aggregate_con,mts_details_mrd,2012,38.814
 civ,sex_t,eco_aggregate_con,mts_details_mrd,2013,100.757
 civ,sex_t,eco_aggregate_con,mts_details_mrd,2016,72.734
 civ,sex_t,eco_aggregate_con,mts_details_mrd,2017,122.089
+civ,sex_t,eco_aggregate_con,mts_details_sep,2012,1.35
 civ,sex_t,eco_aggregate_con,mts_details_sep,2016,5.934
 civ,sex_t,eco_aggregate_con,mts_details_sgle,2012,40.582
 civ,sex_t,eco_aggregate_con,mts_details_sgle,2013,98.924
@@ -842,7 +900,9 @@ civ,sex_t,eco_aggregate_con,mts_details_total,2013,205.41
 civ,sex_t,eco_aggregate_con,mts_details_total,2016,163.062
 civ,sex_t,eco_aggregate_con,mts_details_total,2017,214.137
 civ,sex_t,eco_aggregate_con,mts_details_union,2016,30.217
+civ,sex_t,eco_aggregate_con,mts_details_wid,2012,0.796
 civ,sex_t,eco_aggregate_con,mts_details_wid,2013,4.542
+civ,sex_t,eco_aggregate_con,mts_details_x,2012,0.523
 civ,sex_t,eco_aggregate_man,mts_aggregate_1,2012,152.909
 civ,sex_t,eco_aggregate_man,mts_aggregate_1,2013,315.255
 civ,sex_t,eco_aggregate_man,mts_aggregate_1,2016,212.612
@@ -892,6 +952,7 @@ civ,sex_t,eco_aggregate_mel,mts_details_mrd,2012,8.032
 civ,sex_t,eco_aggregate_mel,mts_details_mrd,2013,85.934
 civ,sex_t,eco_aggregate_mel,mts_details_mrd,2016,8.108
 civ,sex_t,eco_aggregate_mel,mts_details_mrd,2017,31.86
+civ,sex_t,eco_aggregate_mel,mts_details_sep,2012,0.234
 civ,sex_t,eco_aggregate_mel,mts_details_sep,2013,1.458
 civ,sex_t,eco_aggregate_mel,mts_details_sgle,2012,8.838
 civ,sex_t,eco_aggregate_mel,mts_details_sgle,2013,41.48
@@ -902,6 +963,7 @@ civ,sex_t,eco_aggregate_mel,mts_details_total,2013,136.45
 civ,sex_t,eco_aggregate_mel,mts_details_total,2016,26.023
 civ,sex_t,eco_aggregate_mel,mts_details_total,2017,47.405
 civ,sex_t,eco_aggregate_mel,mts_details_union,2016,4.982
+civ,sex_t,eco_aggregate_mel,mts_details_wid,2012,0.266
 civ,sex_t,eco_aggregate_mel,mts_details_wid,2013,7.579
 civ,sex_t,eco_aggregate_mkt,mts_aggregate_1,2012,783.486
 civ,sex_t,eco_aggregate_mkt,mts_aggregate_1,2013,1229.195
@@ -915,6 +977,7 @@ civ,sex_t,eco_aggregate_mkt,mts_aggregate_total,2012,1702.167
 civ,sex_t,eco_aggregate_mkt,mts_aggregate_total,2013,2861.043
 civ,sex_t,eco_aggregate_mkt,mts_aggregate_total,2016,2839.347
 civ,sex_t,eco_aggregate_mkt,mts_aggregate_total,2017,2704.981
+civ,sex_t,eco_aggregate_mkt,mts_aggregate_x,2012,1.061
 civ,sex_t,eco_aggregate_mkt,mts_aggregate_x,2013,8.578
 civ,sex_t,eco_aggregate_mkt,mts_details_mrd,2012,917.62
 civ,sex_t,eco_aggregate_mkt,mts_details_mrd,2013,1623.269
@@ -937,6 +1000,7 @@ civ,sex_t,eco_aggregate_mkt,mts_details_wid,2012,63.851
 civ,sex_t,eco_aggregate_mkt,mts_details_wid,2013,125.134
 civ,sex_t,eco_aggregate_mkt,mts_details_wid,2016,105.035
 civ,sex_t,eco_aggregate_mkt,mts_details_wid,2017,85
+civ,sex_t,eco_aggregate_mkt,mts_details_x,2012,1.061
 civ,sex_t,eco_aggregate_mkt,mts_details_x,2013,8.578
 civ,sex_t,eco_aggregate_pub,mts_aggregate_1,2012,397.102
 civ,sex_t,eco_aggregate_pub,mts_aggregate_1,2013,518.107
@@ -950,6 +1014,7 @@ civ,sex_t,eco_aggregate_pub,mts_aggregate_total,2012,691.357
 civ,sex_t,eco_aggregate_pub,mts_aggregate_total,2013,1012.548
 civ,sex_t,eco_aggregate_pub,mts_aggregate_total,2016,750.6
 civ,sex_t,eco_aggregate_pub,mts_aggregate_total,2017,807.696
+civ,sex_t,eco_aggregate_pub,mts_aggregate_x,2012,0.763
 civ,sex_t,eco_aggregate_pub,mts_details_mrd,2012,293.493
 civ,sex_t,eco_aggregate_pub,mts_details_mrd,2013,491.545
 civ,sex_t,eco_aggregate_pub,mts_details_mrd,2016,355.49
@@ -971,6 +1036,7 @@ civ,sex_t,eco_aggregate_pub,mts_details_wid,2012,11.198
 civ,sex_t,eco_aggregate_pub,mts_details_wid,2013,25.619
 civ,sex_t,eco_aggregate_pub,mts_details_wid,2016,11.666
 civ,sex_t,eco_aggregate_pub,mts_details_wid,2017,15.982
+civ,sex_t,eco_aggregate_pub,mts_details_x,2012,0.763
 civ,sex_t,eco_aggregate_total,mts_aggregate_1,2012,2067.539
 civ,sex_t,eco_aggregate_total,mts_aggregate_1,2013,3412.144
 civ,sex_t,eco_aggregate_total,mts_aggregate_1,2016,2576.232
@@ -1029,6 +1095,7 @@ civ,sex_t,eco_sector_agr,mts_aggregate_total,2012,1900.074
 civ,sex_t,eco_sector_agr,mts_aggregate_total,2013,4067.92
 civ,sex_t,eco_sector_agr,mts_aggregate_total,2016,4125.664
 civ,sex_t,eco_sector_agr,mts_aggregate_total,2017,3227.421
+civ,sex_t,eco_sector_agr,mts_aggregate_x,2012,0.986
 civ,sex_t,eco_sector_agr,mts_aggregate_x,2013,5.887
 civ,sex_t,eco_sector_agr,mts_details_mrd,2012,1217.111
 civ,sex_t,eco_sector_agr,mts_details_mrd,2013,2866.77
@@ -1051,6 +1118,7 @@ civ,sex_t,eco_sector_agr,mts_details_wid,2012,94.174
 civ,sex_t,eco_sector_agr,mts_details_wid,2013,187.117
 civ,sex_t,eco_sector_agr,mts_details_wid,2016,175.309
 civ,sex_t,eco_sector_agr,mts_details_wid,2017,93.434
+civ,sex_t,eco_sector_agr,mts_details_x,2012,0.986
 civ,sex_t,eco_sector_agr,mts_details_x,2013,5.887
 civ,sex_t,eco_sector_ind,mts_aggregate_1,2012,204.974
 civ,sex_t,eco_sector_ind,mts_aggregate_1,2013,469.579
@@ -1064,6 +1132,7 @@ civ,sex_t,eco_sector_ind,mts_aggregate_total,2012,348.628
 civ,sex_t,eco_sector_ind,mts_aggregate_total,2013,1064.259
 civ,sex_t,eco_sector_ind,mts_aggregate_total,2016,663.141
 civ,sex_t,eco_sector_ind,mts_aggregate_total,2017,964.184
+civ,sex_t,eco_sector_ind,mts_aggregate_x,2012,0.523
 civ,sex_t,eco_sector_ind,mts_details_mrd,2012,143.131
 civ,sex_t,eco_sector_ind,mts_details_mrd,2013,593.825
 civ,sex_t,eco_sector_ind,mts_details_mrd,2016,283.381
@@ -1085,6 +1154,7 @@ civ,sex_t,eco_sector_ind,mts_details_wid,2012,4.501
 civ,sex_t,eco_sector_ind,mts_details_wid,2013,46.626
 civ,sex_t,eco_sector_ind,mts_details_wid,2016,12.184
 civ,sex_t,eco_sector_ind,mts_details_wid,2017,18.104
+civ,sex_t,eco_sector_ind,mts_details_x,2012,0.523
 civ,sex_t,eco_sector_nag,mts_aggregate_1,2012,1385.562
 civ,sex_t,eco_sector_nag,mts_aggregate_1,2013,2216.881
 civ,sex_t,eco_sector_nag,mts_aggregate_1,2016,1539.94
@@ -1097,6 +1167,7 @@ civ,sex_t,eco_sector_nag,mts_aggregate_total,2012,2742.153
 civ,sex_t,eco_sector_nag,mts_aggregate_total,2013,4937.85
 civ,sex_t,eco_sector_nag,mts_aggregate_total,2016,4358.03
 civ,sex_t,eco_sector_nag,mts_aggregate_total,2017,4476.86
+civ,sex_t,eco_sector_nag,mts_aggregate_x,2012,2.347
 civ,sex_t,eco_sector_nag,mts_aggregate_x,2013,12.33
 civ,sex_t,eco_sector_nag,mts_details_mrd,2012,1354.244
 civ,sex_t,eco_sector_nag,mts_details_mrd,2013,2708.639
@@ -1119,6 +1190,7 @@ civ,sex_t,eco_sector_nag,mts_details_wid,2012,79.55
 civ,sex_t,eco_sector_nag,mts_details_wid,2013,197.379
 civ,sex_t,eco_sector_nag,mts_details_wid,2016,131.132
 civ,sex_t,eco_sector_nag,mts_details_wid,2017,119.085
+civ,sex_t,eco_sector_nag,mts_details_x,2012,2.347
 civ,sex_t,eco_sector_nag,mts_details_x,2013,12.33
 civ,sex_t,eco_sector_ser,mts_aggregate_1,2012,1180.588
 civ,sex_t,eco_sector_ser,mts_aggregate_1,2013,1747.302
@@ -1132,6 +1204,7 @@ civ,sex_t,eco_sector_ser,mts_aggregate_total,2012,2393.525
 civ,sex_t,eco_sector_ser,mts_aggregate_total,2013,3873.591
 civ,sex_t,eco_sector_ser,mts_aggregate_total,2016,3589.947
 civ,sex_t,eco_sector_ser,mts_aggregate_total,2017,3512.677
+civ,sex_t,eco_sector_ser,mts_aggregate_x,2012,1.824
 civ,sex_t,eco_sector_ser,mts_aggregate_x,2013,11.475
 civ,sex_t,eco_sector_ser,mts_details_mrd,2012,1211.113
 civ,sex_t,eco_sector_ser,mts_details_mrd,2013,2114.814
@@ -1154,6 +1227,7 @@ civ,sex_t,eco_sector_ser,mts_details_wid,2012,75.049
 civ,sex_t,eco_sector_ser,mts_details_wid,2013,150.753
 civ,sex_t,eco_sector_ser,mts_details_wid,2016,116.701
 civ,sex_t,eco_sector_ser,mts_details_wid,2017,100.982
+civ,sex_t,eco_sector_ser,mts_details_x,2012,1.824
 civ,sex_t,eco_sector_ser,mts_details_x,2013,11.475
 civ,sex_t,eco_sector_total,mts_aggregate_1,2012,2067.539
 civ,sex_t,eco_sector_total,mts_aggregate_1,2013,3412.144

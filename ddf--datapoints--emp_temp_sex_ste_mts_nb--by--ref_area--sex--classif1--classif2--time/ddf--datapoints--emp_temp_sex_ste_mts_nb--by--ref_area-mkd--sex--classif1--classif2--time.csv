@@ -314,8 +314,10 @@ mkd,sex_f,ste_aggregate_x,mts_aggregate_total,2006,1.439
 mkd,sex_f,ste_aggregate_x,mts_aggregate_total,2009,0.163
 mkd,sex_f,ste_aggregate_x,mts_details_mrd,2006,1.252
 mkd,sex_f,ste_aggregate_x,mts_details_mrd,2009,0.121
+mkd,sex_f,ste_aggregate_x,mts_details_sgle,2006,0.163
 mkd,sex_f,ste_aggregate_x,mts_details_total,2006,1.439
 mkd,sex_f,ste_aggregate_x,mts_details_total,2009,0.163
+mkd,sex_f,ste_aggregate_x,mts_details_wid,2006,0.024
 mkd,sex_f,ste_icse93_1,mts_aggregate_1,2006,34.373
 mkd,sex_f,ste_icse93_1,mts_aggregate_1,2007,39.965
 mkd,sex_f,ste_icse93_1,mts_aggregate_1,2008,39.011
@@ -551,6 +553,7 @@ mkd,sex_f,ste_icse93_3,mts_details_mrd,2015,15.572
 mkd,sex_f,ste_icse93_3,mts_details_mrd,2016,17.411
 mkd,sex_f,ste_icse93_3,mts_details_mrd,2017,15.347
 mkd,sex_f,ste_icse93_3,mts_details_mrd,2019,17.783
+mkd,sex_f,ste_icse93_3,mts_details_sep,2006,0.214
 mkd,sex_f,ste_icse93_3,mts_details_sep,2009,0.313
 mkd,sex_f,ste_icse93_3,mts_details_sep,2010,0.183
 mkd,sex_f,ste_icse93_3,mts_details_sep,2012,0.236
@@ -685,8 +688,10 @@ mkd,sex_f,ste_icse93_6,mts_aggregate_total,2006,1.439
 mkd,sex_f,ste_icse93_6,mts_aggregate_total,2009,0.163
 mkd,sex_f,ste_icse93_6,mts_details_mrd,2006,1.252
 mkd,sex_f,ste_icse93_6,mts_details_mrd,2009,0.121
+mkd,sex_f,ste_icse93_6,mts_details_sgle,2006,0.163
 mkd,sex_f,ste_icse93_6,mts_details_total,2006,1.439
 mkd,sex_f,ste_icse93_6,mts_details_total,2009,0.163
+mkd,sex_f,ste_icse93_6,mts_details_wid,2006,0.024
 mkd,sex_f,ste_icse93_total,mts_aggregate_1,2006,43.65
 mkd,sex_f,ste_icse93_total,mts_aggregate_1,2007,47.646
 mkd,sex_f,ste_icse93_total,mts_aggregate_1,2008,47.31
@@ -1117,6 +1122,7 @@ mkd,sex_m,ste_aggregate_x,mts_details_mrd,2009,0.332
 mkd,sex_m,ste_aggregate_x,mts_details_sgle,2006,0.306
 mkd,sex_m,ste_aggregate_x,mts_details_total,2006,1.679
 mkd,sex_m,ste_aggregate_x,mts_details_total,2009,0.428
+mkd,sex_m,ste_aggregate_x,mts_details_union,2006,0.049
 mkd,sex_m,ste_icse93_1,mts_aggregate_1,2006,47.012
 mkd,sex_m,ste_icse93_1,mts_aggregate_1,2007,58.123
 mkd,sex_m,ste_icse93_1,mts_aggregate_1,2008,65.999
@@ -1274,6 +1280,7 @@ mkd,sex_m,ste_icse93_2,mts_details_mrd,2015,20.658
 mkd,sex_m,ste_icse93_2,mts_details_mrd,2016,21.377
 mkd,sex_m,ste_icse93_2,mts_details_mrd,2017,22.846
 mkd,sex_m,ste_icse93_2,mts_details_mrd,2019,19.584
+mkd,sex_m,ste_icse93_2,mts_details_sep,2006,0.172
 mkd,sex_m,ste_icse93_2,mts_details_sep,2007,0.254
 mkd,sex_m,ste_icse93_2,mts_details_sep,2009,0.186
 mkd,sex_m,ste_icse93_2,mts_details_sep,2010,0.266
@@ -1300,6 +1307,7 @@ mkd,sex_m,ste_icse93_2,mts_details_total,2015,22.822
 mkd,sex_m,ste_icse93_2,mts_details_total,2016,24.046
 mkd,sex_m,ste_icse93_2,mts_details_total,2017,25.769
 mkd,sex_m,ste_icse93_2,mts_details_total,2019,22.818
+mkd,sex_m,ste_icse93_2,mts_details_union,2006,0.05
 mkd,sex_m,ste_icse93_2,mts_details_wid,2006,0.281
 mkd,sex_m,ste_icse93_2,mts_details_wid,2007,0.324
 mkd,sex_m,ste_icse93_2,mts_details_wid,2009,0.213
@@ -1462,6 +1470,7 @@ mkd,sex_m,ste_icse93_5,mts_details_mrd,2015,8.215
 mkd,sex_m,ste_icse93_5,mts_details_mrd,2016,7.556
 mkd,sex_m,ste_icse93_5,mts_details_mrd,2017,6.138
 mkd,sex_m,ste_icse93_5,mts_details_mrd,2019,5.886
+mkd,sex_m,ste_icse93_5,mts_details_sep,2006,0.144
 mkd,sex_m,ste_icse93_5,mts_details_sgle,2006,13.634
 mkd,sex_m,ste_icse93_5,mts_details_sgle,2007,12.549
 mkd,sex_m,ste_icse93_5,mts_details_sgle,2009,13.801
@@ -1504,6 +1513,7 @@ mkd,sex_m,ste_icse93_6,mts_details_mrd,2009,0.332
 mkd,sex_m,ste_icse93_6,mts_details_sgle,2006,0.306
 mkd,sex_m,ste_icse93_6,mts_details_total,2006,1.679
 mkd,sex_m,ste_icse93_6,mts_details_total,2009,0.428
+mkd,sex_m,ste_icse93_6,mts_details_union,2006,0.049
 mkd,sex_m,ste_icse93_total,mts_aggregate_1,2006,70.617
 mkd,sex_m,ste_icse93_total,mts_aggregate_1,2007,81.366
 mkd,sex_m,ste_icse93_total,mts_aggregate_1,2008,89.321
@@ -1936,6 +1946,8 @@ mkd,sex_t,ste_aggregate_x,mts_details_sgle,2006,0.469
 mkd,sex_t,ste_aggregate_x,mts_details_sgle,2009,0.137
 mkd,sex_t,ste_aggregate_x,mts_details_total,2006,3.119
 mkd,sex_t,ste_aggregate_x,mts_details_total,2009,0.59
+mkd,sex_t,ste_aggregate_x,mts_details_union,2006,0.049
+mkd,sex_t,ste_aggregate_x,mts_details_wid,2006,0.024
 mkd,sex_t,ste_icse93_1,mts_aggregate_1,2006,81.385
 mkd,sex_t,ste_icse93_1,mts_aggregate_1,2007,98.088
 mkd,sex_t,ste_icse93_1,mts_aggregate_1,2008,105.01
@@ -2122,6 +2134,7 @@ mkd,sex_t,ste_icse93_2,mts_details_total,2015,30.378
 mkd,sex_t,ste_icse93_2,mts_details_total,2016,32.003
 mkd,sex_t,ste_icse93_2,mts_details_total,2017,33.239
 mkd,sex_t,ste_icse93_2,mts_details_total,2019,31.134
+mkd,sex_t,ste_icse93_2,mts_details_union,2006,0.05
 mkd,sex_t,ste_icse93_2,mts_details_wid,2006,0.454
 mkd,sex_t,ste_icse93_2,mts_details_wid,2007,0.417
 mkd,sex_t,ste_icse93_2,mts_details_wid,2009,0.291
@@ -2339,6 +2352,8 @@ mkd,sex_t,ste_icse93_6,mts_details_sgle,2006,0.469
 mkd,sex_t,ste_icse93_6,mts_details_sgle,2009,0.137
 mkd,sex_t,ste_icse93_6,mts_details_total,2006,3.119
 mkd,sex_t,ste_icse93_6,mts_details_total,2009,0.59
+mkd,sex_t,ste_icse93_6,mts_details_union,2006,0.049
+mkd,sex_t,ste_icse93_6,mts_details_wid,2006,0.024
 mkd,sex_t,ste_icse93_total,mts_aggregate_1,2006,114.266
 mkd,sex_t,ste_icse93_total,mts_aggregate_1,2007,129.012
 mkd,sex_t,ste_icse93_total,mts_aggregate_1,2008,136.631

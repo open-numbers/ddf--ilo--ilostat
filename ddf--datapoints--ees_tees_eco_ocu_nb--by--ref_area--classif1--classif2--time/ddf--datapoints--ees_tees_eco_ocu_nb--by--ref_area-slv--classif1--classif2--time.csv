@@ -77,7 +77,9 @@ slv,eco_aggregate_agr,ocu_isco08_total,2017,234.023
 slv,eco_aggregate_agr,ocu_isco08_total,2018,224.02
 slv,eco_aggregate_agr,ocu_isco08_total,2019,220.701
 slv,eco_aggregate_agr,ocu_isco08_x,2009,189.297
+slv,eco_aggregate_agr,ocu_isco88_1,2010,0.172
 slv,eco_aggregate_agr,ocu_isco88_1,2011,0.338
+slv,eco_aggregate_agr,ocu_isco88_2,2010,0.558
 slv,eco_aggregate_agr,ocu_isco88_2,2012,0.549
 slv,eco_aggregate_agr,ocu_isco88_3,2010,1.007
 slv,eco_aggregate_agr,ocu_isco88_3,2011,0.811
@@ -216,6 +218,7 @@ slv,eco_aggregate_con,ocu_isco08_total,2017,132.144
 slv,eco_aggregate_con,ocu_isco08_total,2018,144.814
 slv,eco_aggregate_con,ocu_isco08_total,2019,170.002
 slv,eco_aggregate_con,ocu_isco08_x,2009,53.404
+slv,eco_aggregate_con,ocu_isco88_1,2010,0.402
 slv,eco_aggregate_con,ocu_isco88_2,2010,2.531
 slv,eco_aggregate_con,ocu_isco88_2,2011,1.896
 slv,eco_aggregate_con,ocu_isco88_2,2012,2.992
@@ -225,6 +228,8 @@ slv,eco_aggregate_con,ocu_isco88_3,2012,1.129
 slv,eco_aggregate_con,ocu_isco88_4,2010,1.331
 slv,eco_aggregate_con,ocu_isco88_4,2011,1.65
 slv,eco_aggregate_con,ocu_isco88_4,2012,1.545
+slv,eco_aggregate_con,ocu_isco88_5,2010,0.021
+slv,eco_aggregate_con,ocu_isco88_6,2010,0.115
 slv,eco_aggregate_con,ocu_isco88_7,2010,36.92
 slv,eco_aggregate_con,ocu_isco88_7,2011,38.108
 slv,eco_aggregate_con,ocu_isco88_7,2012,42.37
@@ -372,6 +377,7 @@ slv,eco_aggregate_man,ocu_isco88_4,2012,12.292
 slv,eco_aggregate_man,ocu_isco88_5,2010,11.976
 slv,eco_aggregate_man,ocu_isco88_5,2011,12.751
 slv,eco_aggregate_man,ocu_isco88_5,2012,15.428
+slv,eco_aggregate_man,ocu_isco88_6,2010,0.123
 slv,eco_aggregate_man,ocu_isco88_7,2010,71.473
 slv,eco_aggregate_man,ocu_isco88_7,2011,73.16
 slv,eco_aggregate_man,ocu_isco88_7,2012,84.404
@@ -504,6 +510,8 @@ slv,eco_aggregate_mel,ocu_isco88_3,2012,1.498
 slv,eco_aggregate_mel,ocu_isco88_4,2010,1.667
 slv,eco_aggregate_mel,ocu_isco88_4,2011,1.864
 slv,eco_aggregate_mel,ocu_isco88_4,2012,2.181
+slv,eco_aggregate_mel,ocu_isco88_5,2010,0.112
+slv,eco_aggregate_mel,ocu_isco88_6,2010,0.046
 slv,eco_aggregate_mel,ocu_isco88_7,2010,1.535
 slv,eco_aggregate_mel,ocu_isco88_7,2011,2.113
 slv,eco_aggregate_mel,ocu_isco88_7,2012,2.802
@@ -1140,7 +1148,9 @@ slv,eco_isic4_a,ocu_isco08_total,2017,234.023
 slv,eco_isic4_a,ocu_isco08_total,2018,224.02
 slv,eco_isic4_a,ocu_isco08_total,2019,220.701
 slv,eco_isic4_a,ocu_isco08_x,2009,189.297
+slv,eco_isic4_a,ocu_isco88_1,2010,0.172
 slv,eco_isic4_a,ocu_isco88_1,2011,0.338
+slv,eco_isic4_a,ocu_isco88_2,2010,0.558
 slv,eco_isic4_a,ocu_isco88_2,2012,0.549
 slv,eco_isic4_a,ocu_isco88_3,2010,1.007
 slv,eco_isic4_a,ocu_isco88_3,2011,0.811
@@ -1236,6 +1246,9 @@ slv,eco_isic4_b,ocu_isco08_total,2017,0.81
 slv,eco_isic4_b,ocu_isco08_total,2018,0.832
 slv,eco_isic4_b,ocu_isco08_total,2019,1.049
 slv,eco_isic4_b,ocu_isco08_x,2009,0.69
+slv,eco_isic4_b,ocu_isco88_4,2010,0.043
+slv,eco_isic4_b,ocu_isco88_5,2010,0.072
+slv,eco_isic4_b,ocu_isco88_7,2010,0.034
 slv,eco_isic4_b,ocu_isco88_7,2011,0.145
 slv,eco_isic4_b,ocu_isco88_7,2012,0.241
 slv,eco_isic4_b,ocu_isco88_9,2010,0.936
@@ -1255,6 +1268,7 @@ slv,eco_isic4_b,ocu_skill_l1,2017,0.743
 slv,eco_isic4_b,ocu_skill_l1,2018,0.604
 slv,eco_isic4_b,ocu_skill_l1,2019,0.656
 slv,eco_isic4_b,ocu_skill_l2,2009,0.233
+slv,eco_isic4_b,ocu_skill_l2,2010,0.149
 slv,eco_isic4_b,ocu_skill_l2,2011,0.232
 slv,eco_isic4_b,ocu_skill_l2,2012,0.427
 slv,eco_isic4_b,ocu_skill_l2,2013,0.388
@@ -1368,6 +1382,7 @@ slv,eco_isic4_c,ocu_isco88_4,2012,12.292
 slv,eco_isic4_c,ocu_isco88_5,2010,11.976
 slv,eco_isic4_c,ocu_isco88_5,2011,12.751
 slv,eco_isic4_c,ocu_isco88_5,2012,15.428
+slv,eco_isic4_c,ocu_isco88_6,2010,0.123
 slv,eco_isic4_c,ocu_isco88_7,2010,71.473
 slv,eco_isic4_c,ocu_isco88_7,2011,73.16
 slv,eco_isic4_c,ocu_isco88_7,2012,84.404
@@ -1478,6 +1493,7 @@ slv,eco_isic4_d,ocu_isco08_total,2017,6.772
 slv,eco_isic4_d,ocu_isco08_total,2018,7.005
 slv,eco_isic4_d,ocu_isco08_total,2019,7.482
 slv,eco_isic4_d,ocu_isco08_x,2009,1.336
+slv,eco_isic4_d,ocu_isco88_2,2010,0.599
 slv,eco_isic4_d,ocu_isco88_2,2011,1.011
 slv,eco_isic4_d,ocu_isco88_2,2012,0.91
 slv,eco_isic4_d,ocu_isco88_3,2010,0.538
@@ -1486,6 +1502,7 @@ slv,eco_isic4_d,ocu_isco88_3,2012,0.387
 slv,eco_isic4_d,ocu_isco88_4,2010,1.167
 slv,eco_isic4_d,ocu_isco88_4,2011,1.367
 slv,eco_isic4_d,ocu_isco88_4,2012,0.702
+slv,eco_isic4_d,ocu_isco88_6,2010,0.046
 slv,eco_isic4_d,ocu_isco88_7,2010,0.66
 slv,eco_isic4_d,ocu_isco88_7,2011,1.012
 slv,eco_isic4_d,ocu_isco88_7,2012,1.286
@@ -1587,11 +1604,14 @@ slv,eco_isic4_e,ocu_isco08_total,2016,8.302
 slv,eco_isic4_e,ocu_isco08_total,2017,6.975
 slv,eco_isic4_e,ocu_isco08_total,2018,12.159
 slv,eco_isic4_e,ocu_isco08_total,2019,10.297
+slv,eco_isic4_e,ocu_isco88_2,2010,0.335
+slv,eco_isic4_e,ocu_isco88_3,2010,0.179
 slv,eco_isic4_e,ocu_isco88_3,2011,0.542
 slv,eco_isic4_e,ocu_isco88_3,2012,1.111
 slv,eco_isic4_e,ocu_isco88_4,2010,0.457
 slv,eco_isic4_e,ocu_isco88_4,2011,0.497
 slv,eco_isic4_e,ocu_isco88_4,2012,1.454
+slv,eco_isic4_e,ocu_isco88_5,2010,0.04
 slv,eco_isic4_e,ocu_isco88_7,2010,0.841
 slv,eco_isic4_e,ocu_isco88_7,2011,0.956
 slv,eco_isic4_e,ocu_isco88_7,2012,1.275
@@ -1715,6 +1735,7 @@ slv,eco_isic4_f,ocu_isco08_total,2017,132.144
 slv,eco_isic4_f,ocu_isco08_total,2018,144.814
 slv,eco_isic4_f,ocu_isco08_total,2019,170.002
 slv,eco_isic4_f,ocu_isco08_x,2009,53.404
+slv,eco_isic4_f,ocu_isco88_1,2010,0.402
 slv,eco_isic4_f,ocu_isco88_2,2010,2.531
 slv,eco_isic4_f,ocu_isco88_2,2011,1.896
 slv,eco_isic4_f,ocu_isco88_2,2012,2.992
@@ -1724,6 +1745,8 @@ slv,eco_isic4_f,ocu_isco88_3,2012,1.129
 slv,eco_isic4_f,ocu_isco88_4,2010,1.331
 slv,eco_isic4_f,ocu_isco88_4,2011,1.65
 slv,eco_isic4_f,ocu_isco88_4,2012,1.545
+slv,eco_isic4_f,ocu_isco88_5,2010,0.021
+slv,eco_isic4_f,ocu_isco88_6,2010,0.115
 slv,eco_isic4_f,ocu_isco88_7,2010,36.92
 slv,eco_isic4_f,ocu_isco88_7,2011,38.108
 slv,eco_isic4_f,ocu_isco88_7,2012,42.37
@@ -1996,6 +2019,7 @@ slv,eco_isic4_h,ocu_isco08_total,2017,65.864
 slv,eco_isic4_h,ocu_isco08_total,2018,64.607
 slv,eco_isic4_h,ocu_isco08_total,2019,76.719
 slv,eco_isic4_h,ocu_isco08_x,2009,12.129
+slv,eco_isic4_h,ocu_isco88_1,2010,0.279
 slv,eco_isic4_h,ocu_isco88_1,2011,0.474
 slv,eco_isic4_h,ocu_isco88_2,2010,0.702
 slv,eco_isic4_h,ocu_isco88_2,2011,1.293
@@ -2129,6 +2153,7 @@ slv,eco_isic4_i,ocu_isco08_total,2019,120.908
 slv,eco_isic4_i,ocu_isco88_1,2010,0.767
 slv,eco_isic4_i,ocu_isco88_1,2011,0.749
 slv,eco_isic4_i,ocu_isco88_1,2012,1.332
+slv,eco_isic4_i,ocu_isco88_2,2010,0.221
 slv,eco_isic4_i,ocu_isco88_3,2010,1.885
 slv,eco_isic4_i,ocu_isco88_3,2011,1.181
 slv,eco_isic4_i,ocu_isco88_3,2012,2.376
@@ -2249,6 +2274,7 @@ slv,eco_isic4_j,ocu_isco08_total,2016,23.007
 slv,eco_isic4_j,ocu_isco08_total,2017,21.03
 slv,eco_isic4_j,ocu_isco08_total,2018,23.018
 slv,eco_isic4_j,ocu_isco08_total,2019,22.358
+slv,eco_isic4_j,ocu_isco88_1,2010,0.533
 slv,eco_isic4_j,ocu_isco88_1,2011,1.989
 slv,eco_isic4_j,ocu_isco88_1,2012,1.539
 slv,eco_isic4_j,ocu_isco88_2,2010,3.971
@@ -2266,6 +2292,7 @@ slv,eco_isic4_j,ocu_isco88_5,2012,4.175
 slv,eco_isic4_j,ocu_isco88_7,2010,1.797
 slv,eco_isic4_j,ocu_isco88_7,2011,1.85
 slv,eco_isic4_j,ocu_isco88_7,2012,1.371
+slv,eco_isic4_j,ocu_isco88_8,2010,0.135
 slv,eco_isic4_j,ocu_isco88_9,2010,0.691
 slv,eco_isic4_j,ocu_isco88_9,2011,1.595
 slv,eco_isic4_j,ocu_isco88_9,2012,1.408
@@ -2376,6 +2403,7 @@ slv,eco_isic4_k,ocu_isco88_4,2011,9.669
 slv,eco_isic4_k,ocu_isco88_4,2012,5.759
 slv,eco_isic4_k,ocu_isco88_5,2010,0.451
 slv,eco_isic4_k,ocu_isco88_5,2012,0.834
+slv,eco_isic4_k,ocu_isco88_8,2010,0.313
 slv,eco_isic4_k,ocu_isco88_8,2012,0.801
 slv,eco_isic4_k,ocu_isco88_9,2010,1.983
 slv,eco_isic4_k,ocu_isco88_9,2011,2.685
@@ -2460,12 +2488,14 @@ slv,eco_isic4_l,ocu_isco08_total,2017,2.904
 slv,eco_isic4_l,ocu_isco08_total,2018,4.648
 slv,eco_isic4_l,ocu_isco08_total,2019,4.836
 slv,eco_isic4_l,ocu_isco08_x,2009,43.12
+slv,eco_isic4_l,ocu_isco88_2,2010,0.194
 slv,eco_isic4_l,ocu_isco88_3,2010,1.221
 slv,eco_isic4_l,ocu_isco88_3,2011,1.118
 slv,eco_isic4_l,ocu_isco88_3,2012,1.146
 slv,eco_isic4_l,ocu_isco88_4,2010,0.394
 slv,eco_isic4_l,ocu_isco88_4,2011,0.723
 slv,eco_isic4_l,ocu_isco88_4,2012,0.621
+slv,eco_isic4_l,ocu_isco88_8,2010,0.103
 slv,eco_isic4_l,ocu_isco88_9,2010,0.529
 slv,eco_isic4_l,ocu_isco88_9,2011,1.141
 slv,eco_isic4_l,ocu_isco88_9,2012,1.189
@@ -2580,6 +2610,7 @@ slv,eco_isic4_m,ocu_isco88_5,2012,0.361
 slv,eco_isic4_m,ocu_isco88_7,2010,1.094
 slv,eco_isic4_m,ocu_isco88_7,2011,0.586
 slv,eco_isic4_m,ocu_isco88_7,2012,0.979
+slv,eco_isic4_m,ocu_isco88_8,2010,0.167
 slv,eco_isic4_m,ocu_isco88_9,2010,2.043
 slv,eco_isic4_m,ocu_isco88_9,2011,2.097
 slv,eco_isic4_m,ocu_isco88_9,2012,1.738
@@ -2852,6 +2883,7 @@ slv,eco_isic4_o,ocu_isco88_4,2012,17.5
 slv,eco_isic4_o,ocu_isco88_5,2010,20.423
 slv,eco_isic4_o,ocu_isco88_5,2011,19.043
 slv,eco_isic4_o,ocu_isco88_5,2012,22.551
+slv,eco_isic4_o,ocu_isco88_6,2010,0.114
 slv,eco_isic4_o,ocu_isco88_7,2010,3.409
 slv,eco_isic4_o,ocu_isco88_7,2011,3.516
 slv,eco_isic4_o,ocu_isco88_7,2012,4.688
@@ -3235,6 +3267,8 @@ slv,eco_isic4_r,ocu_isco08_total,2016,8.983
 slv,eco_isic4_r,ocu_isco08_total,2017,10.272
 slv,eco_isic4_r,ocu_isco08_total,2018,10.734
 slv,eco_isic4_r,ocu_isco08_total,2019,8.313
+slv,eco_isic4_r,ocu_isco88_1,2010,0.072
+slv,eco_isic4_r,ocu_isco88_2,2010,0.539
 slv,eco_isic4_r,ocu_isco88_3,2010,5.023
 slv,eco_isic4_r,ocu_isco88_3,2011,3.265
 slv,eco_isic4_r,ocu_isco88_3,2012,2.601
@@ -3246,6 +3280,7 @@ slv,eco_isic4_r,ocu_isco88_5,2011,1.023
 slv,eco_isic4_r,ocu_isco88_5,2012,0.947
 slv,eco_isic4_r,ocu_isco88_7,2010,0.252
 slv,eco_isic4_r,ocu_isco88_7,2012,0.808
+slv,eco_isic4_r,ocu_isco88_8,2010,0.348
 slv,eco_isic4_r,ocu_isco88_9,2010,1.433
 slv,eco_isic4_r,ocu_isco88_9,2011,1.866
 slv,eco_isic4_r,ocu_isco88_9,2012,3.299
@@ -3355,6 +3390,7 @@ slv,eco_isic4_s,ocu_isco08_total,2016,41.852
 slv,eco_isic4_s,ocu_isco08_total,2017,40.255
 slv,eco_isic4_s,ocu_isco08_total,2018,41.052
 slv,eco_isic4_s,ocu_isco08_total,2019,47.806
+slv,eco_isic4_s,ocu_isco88_1,2010,0.107
 slv,eco_isic4_s,ocu_isco88_1,2012,0.311
 slv,eco_isic4_s,ocu_isco88_2,2010,1.178
 slv,eco_isic4_s,ocu_isco88_2,2011,2.012
@@ -3368,6 +3404,7 @@ slv,eco_isic4_s,ocu_isco88_4,2012,2.894
 slv,eco_isic4_s,ocu_isco88_5,2010,6.718
 slv,eco_isic4_s,ocu_isco88_5,2011,8.451
 slv,eco_isic4_s,ocu_isco88_5,2012,6.346
+slv,eco_isic4_s,ocu_isco88_6,2010,0.082
 slv,eco_isic4_s,ocu_isco88_7,2010,4.092
 slv,eco_isic4_s,ocu_isco88_7,2011,5.324
 slv,eco_isic4_s,ocu_isco88_7,2012,4.601
@@ -3457,6 +3494,7 @@ slv,eco_isic4_t,ocu_isco08_total,2019,141.786
 slv,eco_isic4_t,ocu_isco88_5,2010,3.631
 slv,eco_isic4_t,ocu_isco88_5,2011,3.902
 slv,eco_isic4_t,ocu_isco88_5,2012,4.604
+slv,eco_isic4_t,ocu_isco88_6,2010,0.356
 slv,eco_isic4_t,ocu_isco88_8,2010,1.112
 slv,eco_isic4_t,ocu_isco88_8,2011,1.475
 slv,eco_isic4_t,ocu_isco88_8,2012,1.386
@@ -3679,8 +3717,13 @@ slv,eco_isic4_u,ocu_isco08_total,2014,0.475
 slv,eco_isic4_u,ocu_isco08_total,2016,0.952
 slv,eco_isic4_u,ocu_isco08_total,2017,0.541
 slv,eco_isic4_u,ocu_isco08_total,2018,0.558
+slv,eco_isic4_u,ocu_isco88_1,2010,0.065
+slv,eco_isic4_u,ocu_isco88_2,2010,0.305
+slv,eco_isic4_u,ocu_isco88_3,2010,0.309
+slv,eco_isic4_u,ocu_isco88_9,2010,0.025
 slv,eco_isic4_u,ocu_isco88_total,2010,0.704
 slv,eco_isic4_u,ocu_isco88_total,2011,0.666
+slv,eco_isic4_u,ocu_skill_l1,2010,0.025
 slv,eco_isic4_u,ocu_skill_l3_4,2010,0.679
 slv,eco_isic4_u,ocu_skill_l3_4,2018,0.505
 slv,eco_isic4_u,ocu_skill_total,2010,0.704
@@ -3782,7 +3825,9 @@ slv,eco_sector_agr,ocu_isco08_total,2017,234.023
 slv,eco_sector_agr,ocu_isco08_total,2018,224.02
 slv,eco_sector_agr,ocu_isco08_total,2019,220.701
 slv,eco_sector_agr,ocu_isco08_x,2009,189.297
+slv,eco_sector_agr,ocu_isco88_1,2010,0.172
 slv,eco_sector_agr,ocu_isco88_1,2011,0.338
+slv,eco_sector_agr,ocu_isco88_2,2010,0.558
 slv,eco_sector_agr,ocu_isco88_2,2012,0.549
 slv,eco_sector_agr,ocu_isco88_3,2010,1.007
 slv,eco_sector_agr,ocu_isco88_3,2011,0.811
@@ -4079,7 +4124,9 @@ slv,eco_sector_nag,ocu_isco08_total,2017,1409.149
 slv,eco_sector_nag,ocu_isco08_total,2018,1496.608
 slv,eco_sector_nag,ocu_isco08_total,2019,1548.585
 slv,eco_sector_nag,ocu_isco08_x,2009,219.941
+slv,eco_sector_nag,ocu_isco88_1,2010,16.904
 slv,eco_sector_nag,ocu_isco88_1,2011,21.261
+slv,eco_sector_nag,ocu_isco88_2,2010,79.654
 slv,eco_sector_nag,ocu_isco88_2,2012,81.584
 slv,eco_sector_nag,ocu_isco88_3,2010,142.085
 slv,eco_sector_nag,ocu_isco88_3,2011,128.405

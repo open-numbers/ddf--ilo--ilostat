@@ -57,6 +57,7 @@ pse,sex_f,ste_aggregate_ees,eco_aggregate_man,2016,7.38
 pse,sex_f,ste_aggregate_ees,eco_aggregate_man,2017,7.766
 pse,sex_f,ste_aggregate_ees,eco_aggregate_man,2018,8.037
 pse,sex_f,ste_aggregate_ees,eco_aggregate_man,2019,5.938
+pse,sex_f,ste_aggregate_ees,eco_aggregate_mel,2000,0.022
 pse,sex_f,ste_aggregate_ees,eco_aggregate_mel,2009,0.094
 pse,sex_f,ste_aggregate_ees,eco_aggregate_mel,2013,0.42
 pse,sex_f,ste_aggregate_ees,eco_aggregate_mel,2014,0.342
@@ -387,6 +388,7 @@ pse,sex_f,ste_aggregate_slf,eco_aggregate_agr,2016,12.398
 pse,sex_f,ste_aggregate_slf,eco_aggregate_agr,2017,10.274
 pse,sex_f,ste_aggregate_slf,eco_aggregate_agr,2018,9.312
 pse,sex_f,ste_aggregate_slf,eco_aggregate_agr,2019,9.877
+pse,sex_f,ste_aggregate_slf,eco_aggregate_con,2000,0.022
 pse,sex_f,ste_aggregate_slf,eco_aggregate_con,2008,0.196
 pse,sex_f,ste_aggregate_slf,eco_aggregate_con,2009,0.106
 pse,sex_f,ste_aggregate_slf,eco_aggregate_con,2017,0.196
@@ -731,6 +733,7 @@ pse,sex_f,ste_aggregate_total,eco_aggregate_man,2016,16.161
 pse,sex_f,ste_aggregate_total,eco_aggregate_man,2017,15.137
 pse,sex_f,ste_aggregate_total,eco_aggregate_man,2018,13.327
 pse,sex_f,ste_aggregate_total,eco_aggregate_man,2019,11.115
+pse,sex_f,ste_aggregate_total,eco_aggregate_mel,2000,0.022
 pse,sex_f,ste_aggregate_total,eco_aggregate_mel,2009,0.094
 pse,sex_f,ste_aggregate_total,eco_aggregate_mel,2013,0.452
 pse,sex_f,ste_aggregate_total,eco_aggregate_mel,2014,0.342
@@ -1048,8 +1051,14 @@ pse,sex_f,ste_aggregate_total,eco_sector_total,2017,141.987
 pse,sex_f,ste_aggregate_total,eco_sector_total,2018,148.324
 pse,sex_f,ste_aggregate_total,eco_sector_total,2019,160.598
 pse,sex_f,ste_aggregate_total,eco_sector_x,2011,35.195
+pse,sex_f,ste_aggregate_x,eco_aggregate_agr,2000,0.022
+pse,sex_f,ste_aggregate_x,eco_aggregate_man,2000,0.021
+pse,sex_f,ste_aggregate_x,eco_aggregate_mkt,2000,0.075
 pse,sex_f,ste_aggregate_x,eco_aggregate_pub,2000,0.14
 pse,sex_f,ste_aggregate_x,eco_aggregate_total,2000,0.257
+pse,sex_f,ste_aggregate_x,eco_sector_agr,2000,0.022
+pse,sex_f,ste_aggregate_x,eco_sector_ind,2000,0.021
+pse,sex_f,ste_aggregate_x,eco_sector_nag,2000,0.235
 pse,sex_f,ste_aggregate_x,eco_sector_ser,2000,0.214
 pse,sex_f,ste_aggregate_x,eco_sector_total,2000,0.257
 pse,sex_f,ste_icse93_1,eco_aggregate_agr,2000,0.526
@@ -1110,6 +1119,7 @@ pse,sex_f,ste_icse93_1,eco_aggregate_man,2016,7.38
 pse,sex_f,ste_icse93_1,eco_aggregate_man,2017,7.766
 pse,sex_f,ste_icse93_1,eco_aggregate_man,2018,8.037
 pse,sex_f,ste_icse93_1,eco_aggregate_man,2019,5.938
+pse,sex_f,ste_icse93_1,eco_aggregate_mel,2000,0.022
 pse,sex_f,ste_icse93_1,eco_aggregate_mel,2009,0.094
 pse,sex_f,ste_icse93_1,eco_aggregate_mel,2013,0.42
 pse,sex_f,ste_icse93_1,eco_aggregate_mel,2014,0.342
@@ -1420,6 +1430,8 @@ pse,sex_f,ste_icse93_1,eco_sector_total,2017,104.84
 pse,sex_f,ste_icse93_1,eco_sector_total,2018,111.934
 pse,sex_f,ste_icse93_1,eco_sector_total,2019,124.114
 pse,sex_f,ste_icse93_1,eco_sector_x,2011,22.758
+pse,sex_f,ste_icse93_2,eco_aggregate_agr,2000,0.019
+pse,sex_f,ste_icse93_2,eco_aggregate_man,2000,0.033
 pse,sex_f,ste_icse93_2,eco_aggregate_man,2003,0.108
 pse,sex_f,ste_icse93_2,eco_aggregate_man,2009,0.179
 pse,sex_f,ste_icse93_2,eco_aggregate_man,2010,0.155
@@ -1534,6 +1546,8 @@ pse,sex_f,ste_icse93_2,eco_isic4_total,2016,3.619
 pse,sex_f,ste_icse93_2,eco_isic4_total,2017,2.712
 pse,sex_f,ste_icse93_2,eco_isic4_total,2018,3.6
 pse,sex_f,ste_icse93_2,eco_isic4_total,2019,4.385
+pse,sex_f,ste_icse93_2,eco_sector_agr,2000,0.019
+pse,sex_f,ste_icse93_2,eco_sector_ind,2000,0.033
 pse,sex_f,ste_icse93_2,eco_sector_ind,2003,0.108
 pse,sex_f,ste_icse93_2,eco_sector_ind,2009,0.231
 pse,sex_f,ste_icse93_2,eco_sector_ind,2010,0.155
@@ -1546,6 +1560,7 @@ pse,sex_f,ste_icse93_2,eco_sector_ind,2016,0.439
 pse,sex_f,ste_icse93_2,eco_sector_ind,2017,0.484
 pse,sex_f,ste_icse93_2,eco_sector_ind,2018,0.315
 pse,sex_f,ste_icse93_2,eco_sector_ind,2019,0.383
+pse,sex_f,ste_icse93_2,eco_sector_nag,2000,0.613
 pse,sex_f,ste_icse93_2,eco_sector_ser,2000,0.58
 pse,sex_f,ste_icse93_2,eco_sector_ser,2001,0.653
 pse,sex_f,ste_icse93_2,eco_sector_ser,2002,0.229
@@ -1895,6 +1910,7 @@ pse,sex_f,ste_icse93_5,eco_aggregate_agr,2016,10.477
 pse,sex_f,ste_icse93_5,eco_aggregate_agr,2017,8.264
 pse,sex_f,ste_icse93_5,eco_aggregate_agr,2018,7.732
 pse,sex_f,ste_icse93_5,eco_aggregate_agr,2019,8.207
+pse,sex_f,ste_icse93_5,eco_aggregate_con,2000,0.022
 pse,sex_f,ste_icse93_5,eco_aggregate_con,2008,0.196
 pse,sex_f,ste_icse93_5,eco_aggregate_man,2000,0.896
 pse,sex_f,ste_icse93_5,eco_aggregate_man,2001,0.428
@@ -2128,8 +2144,14 @@ pse,sex_f,ste_icse93_5,eco_sector_total,2017,14.09
 pse,sex_f,ste_icse93_5,eco_sector_total,2018,13.023
 pse,sex_f,ste_icse93_5,eco_sector_total,2019,13.272
 pse,sex_f,ste_icse93_5,eco_sector_x,2011,8.176
+pse,sex_f,ste_icse93_6,eco_aggregate_agr,2000,0.022
+pse,sex_f,ste_icse93_6,eco_aggregate_man,2000,0.021
+pse,sex_f,ste_icse93_6,eco_aggregate_mkt,2000,0.075
 pse,sex_f,ste_icse93_6,eco_aggregate_pub,2000,0.14
 pse,sex_f,ste_icse93_6,eco_aggregate_total,2000,0.257
+pse,sex_f,ste_icse93_6,eco_sector_agr,2000,0.022
+pse,sex_f,ste_icse93_6,eco_sector_ind,2000,0.021
+pse,sex_f,ste_icse93_6,eco_sector_nag,2000,0.235
 pse,sex_f,ste_icse93_6,eco_sector_ser,2000,0.214
 pse,sex_f,ste_icse93_6,eco_sector_total,2000,0.257
 pse,sex_f,ste_icse93_total,eco_aggregate_agr,2000,30.991
@@ -2192,6 +2214,7 @@ pse,sex_f,ste_icse93_total,eco_aggregate_man,2016,16.161
 pse,sex_f,ste_icse93_total,eco_aggregate_man,2017,15.137
 pse,sex_f,ste_icse93_total,eco_aggregate_man,2018,13.327
 pse,sex_f,ste_icse93_total,eco_aggregate_man,2019,11.115
+pse,sex_f,ste_icse93_total,eco_aggregate_mel,2000,0.022
 pse,sex_f,ste_icse93_total,eco_aggregate_mel,2009,0.094
 pse,sex_f,ste_icse93_total,eco_aggregate_mel,2013,0.452
 pse,sex_f,ste_icse93_total,eco_aggregate_mel,2014,0.342
@@ -3724,7 +3747,9 @@ pse,sex_m,ste_aggregate_total,eco_sector_total,2017,806.745
 pse,sex_m,ste_aggregate_total,eco_sector_total,2018,807.436
 pse,sex_m,ste_aggregate_total,eco_sector_total,2019,852.901
 pse,sex_m,ste_aggregate_total,eco_sector_x,2011,172.136
+pse,sex_m,ste_aggregate_x,eco_aggregate_agr,2000,0.045
 pse,sex_m,ste_aggregate_x,eco_aggregate_con,2000,0.112
+pse,sex_m,ste_aggregate_x,eco_aggregate_man,2000,0.025
 pse,sex_m,ste_aggregate_x,eco_aggregate_mkt,2000,0.354
 pse,sex_m,ste_aggregate_x,eco_aggregate_mkt,2001,0.099
 pse,sex_m,ste_aggregate_x,eco_aggregate_pub,2000,0.394
@@ -3732,7 +3757,9 @@ pse,sex_m,ste_aggregate_x,eco_aggregate_pub,2001,0.19
 pse,sex_m,ste_aggregate_x,eco_aggregate_total,2000,0.929
 pse,sex_m,ste_aggregate_x,eco_aggregate_total,2001,0.313
 pse,sex_m,ste_aggregate_x,eco_aggregate_total,2008,0.214
+pse,sex_m,ste_aggregate_x,eco_sector_agr,2000,0.045
 pse,sex_m,ste_aggregate_x,eco_sector_ind,2000,0.136
+pse,sex_m,ste_aggregate_x,eco_sector_nag,2000,0.884
 pse,sex_m,ste_aggregate_x,eco_sector_ser,2000,0.748
 pse,sex_m,ste_aggregate_x,eco_sector_ser,2001,0.289
 pse,sex_m,ste_aggregate_x,eco_sector_total,2000,0.929
@@ -5214,7 +5241,9 @@ pse,sex_m,ste_icse93_5,eco_sector_total,2017,28.677
 pse,sex_m,ste_icse93_5,eco_sector_total,2018,28.275
 pse,sex_m,ste_icse93_5,eco_sector_total,2019,26.127
 pse,sex_m,ste_icse93_5,eco_sector_x,2011,9.731
+pse,sex_m,ste_icse93_6,eco_aggregate_agr,2000,0.045
 pse,sex_m,ste_icse93_6,eco_aggregate_con,2000,0.112
+pse,sex_m,ste_icse93_6,eco_aggregate_man,2000,0.025
 pse,sex_m,ste_icse93_6,eco_aggregate_mkt,2000,0.354
 pse,sex_m,ste_icse93_6,eco_aggregate_mkt,2001,0.099
 pse,sex_m,ste_icse93_6,eco_aggregate_pub,2000,0.394
@@ -5222,7 +5251,9 @@ pse,sex_m,ste_icse93_6,eco_aggregate_pub,2001,0.19
 pse,sex_m,ste_icse93_6,eco_aggregate_total,2000,0.929
 pse,sex_m,ste_icse93_6,eco_aggregate_total,2001,0.313
 pse,sex_m,ste_icse93_6,eco_aggregate_total,2008,0.214
+pse,sex_m,ste_icse93_6,eco_sector_agr,2000,0.045
 pse,sex_m,ste_icse93_6,eco_sector_ind,2000,0.136
+pse,sex_m,ste_icse93_6,eco_sector_nag,2000,0.884
 pse,sex_m,ste_icse93_6,eco_sector_ser,2000,0.748
 pse,sex_m,ste_icse93_6,eco_sector_ser,2001,0.289
 pse,sex_m,ste_icse93_6,eco_sector_total,2000,0.929
@@ -6874,6 +6905,7 @@ pse,sex_t,ste_aggregate_total,eco_sector_total,2019,1013.5
 pse,sex_t,ste_aggregate_total,eco_sector_x,2011,207.33
 pse,sex_t,ste_aggregate_x,eco_aggregate_agr,2000,0.067
 pse,sex_t,ste_aggregate_x,eco_aggregate_con,2000,0.112
+pse,sex_t,ste_aggregate_x,eco_aggregate_man,2000,0.046
 pse,sex_t,ste_aggregate_x,eco_aggregate_mkt,2000,0.429
 pse,sex_t,ste_aggregate_x,eco_aggregate_mkt,2001,0.176
 pse,sex_t,ste_aggregate_x,eco_aggregate_pub,2000,0.533
@@ -8393,6 +8425,7 @@ pse,sex_t,ste_icse93_5,eco_sector_total,2019,39.4
 pse,sex_t,ste_icse93_5,eco_sector_x,2011,17.907
 pse,sex_t,ste_icse93_6,eco_aggregate_agr,2000,0.067
 pse,sex_t,ste_icse93_6,eco_aggregate_con,2000,0.112
+pse,sex_t,ste_icse93_6,eco_aggregate_man,2000,0.046
 pse,sex_t,ste_icse93_6,eco_aggregate_mkt,2000,0.429
 pse,sex_t,ste_icse93_6,eco_aggregate_mkt,2001,0.176
 pse,sex_t,ste_icse93_6,eco_aggregate_pub,2000,0.533

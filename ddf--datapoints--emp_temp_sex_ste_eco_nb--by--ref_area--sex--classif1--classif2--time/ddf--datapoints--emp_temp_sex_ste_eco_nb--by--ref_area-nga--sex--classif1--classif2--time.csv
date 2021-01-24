@@ -1,6 +1,7 @@
 ref_area,sex,classif1,classif2,time,emp_temp_sex_ste_eco_nb
 nga,sex_f,ste_aggregate_ees,eco_aggregate_agr,2011,666.968
 nga,sex_f,ste_aggregate_ees,eco_aggregate_agr,2013,251.702
+nga,sex_f,ste_aggregate_ees,eco_aggregate_con,2011,23.585
 nga,sex_f,ste_aggregate_ees,eco_aggregate_man,2011,209.122
 nga,sex_f,ste_aggregate_ees,eco_aggregate_man,2013,178.241
 nga,sex_f,ste_aggregate_ees,eco_aggregate_mel,2011,56.432
@@ -27,8 +28,10 @@ nga,sex_f,ste_aggregate_ees,eco_sector_x,2011,60.006
 nga,sex_f,ste_aggregate_ees,eco_sector_x,2013,135.9
 nga,sex_f,ste_aggregate_slf,eco_aggregate_agr,2011,6462.31
 nga,sex_f,ste_aggregate_slf,eco_aggregate_agr,2013,7791.911
+nga,sex_f,ste_aggregate_slf,eco_aggregate_con,2011,5.178
 nga,sex_f,ste_aggregate_slf,eco_aggregate_man,2011,2310.037
 nga,sex_f,ste_aggregate_slf,eco_aggregate_man,2013,3029.496
+nga,sex_f,ste_aggregate_slf,eco_aggregate_mel,2011,21.376
 nga,sex_f,ste_aggregate_slf,eco_aggregate_mel,2013,28.671
 nga,sex_f,ste_aggregate_slf,eco_aggregate_mkt,2011,9326.929
 nga,sex_f,ste_aggregate_slf,eco_aggregate_mkt,2013,11666.782
@@ -52,6 +55,7 @@ nga,sex_f,ste_aggregate_slf,eco_sector_x,2011,413.072
 nga,sex_f,ste_aggregate_slf,eco_sector_x,2013,56.025
 nga,sex_f,ste_aggregate_total,eco_aggregate_agr,2011,8509.067
 nga,sex_f,ste_aggregate_total,eco_aggregate_agr,2013,8246.193
+nga,sex_f,ste_aggregate_total,eco_aggregate_con,2011,28.763
 nga,sex_f,ste_aggregate_total,eco_aggregate_con,2013,86.31
 nga,sex_f,ste_aggregate_total,eco_aggregate_man,2011,2591.039
 nga,sex_f,ste_aggregate_total,eco_aggregate_man,2013,3242.633
@@ -189,6 +193,7 @@ nga,sex_m,ste_aggregate_x,eco_aggregate_agr,2011,1146.194
 nga,sex_m,ste_aggregate_x,eco_aggregate_agr,2013,195.495
 nga,sex_m,ste_aggregate_x,eco_aggregate_con,2011,76.443
 nga,sex_m,ste_aggregate_x,eco_aggregate_man,2011,53.833
+nga,sex_m,ste_aggregate_x,eco_aggregate_mel,2011,11.213
 nga,sex_m,ste_aggregate_x,eco_aggregate_mkt,2011,245.598
 nga,sex_m,ste_aggregate_x,eco_aggregate_mkt,2013,107.467
 nga,sex_m,ste_aggregate_x,eco_aggregate_pub,2011,102.908
@@ -297,6 +302,7 @@ nga,sex_t,ste_aggregate_x,eco_aggregate_agr,2013,398.075
 nga,sex_t,ste_aggregate_x,eco_aggregate_con,2011,76.443
 nga,sex_t,ste_aggregate_x,eco_aggregate_man,2011,125.713
 nga,sex_t,ste_aggregate_x,eco_aggregate_man,2013,34.896
+nga,sex_t,ste_aggregate_x,eco_aggregate_mel,2011,11.213
 nga,sex_t,ste_aggregate_x,eco_aggregate_mkt,2011,637.478
 nga,sex_t,ste_aggregate_x,eco_aggregate_mkt,2013,169.19
 nga,sex_t,ste_aggregate_x,eco_aggregate_pub,2011,217.996

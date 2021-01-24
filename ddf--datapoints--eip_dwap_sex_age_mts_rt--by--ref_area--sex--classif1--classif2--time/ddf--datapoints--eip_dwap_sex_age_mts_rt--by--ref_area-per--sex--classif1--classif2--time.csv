@@ -217,6 +217,7 @@ per,sex_f,age_10yrbands_y15_24,mts_aggregate_total,2016,42.73
 per,sex_f,age_10yrbands_y15_24,mts_aggregate_total,2017,42.14
 per,sex_f,age_10yrbands_y15_24,mts_aggregate_total,2018,42.22
 per,sex_f,age_10yrbands_y15_24,mts_aggregate_total,2019,42.21
+per,sex_f,age_10yrbands_y15_24,mts_aggregate_x,2002,33
 per,sex_f,age_10yrbands_y15_24,mts_details_mrd,2002,42.52
 per,sex_f,age_10yrbands_y15_24,mts_details_mrd,2003,33.64
 per,sex_f,age_10yrbands_y15_24,mts_details_mrd,2004,29.78
@@ -307,6 +308,8 @@ per,sex_f,age_10yrbands_y15_24,mts_details_union,2016,38.46
 per,sex_f,age_10yrbands_y15_24,mts_details_union,2017,39.97
 per,sex_f,age_10yrbands_y15_24,mts_details_union,2018,37.98
 per,sex_f,age_10yrbands_y15_24,mts_details_union,2019,40.53
+per,sex_f,age_10yrbands_y15_24,mts_details_wid,2002,11.55
+per,sex_f,age_10yrbands_y15_24,mts_details_x,2002,33
 per,sex_f,age_10yrbands_y25_34,mts_aggregate_1,2002,18.97
 per,sex_f,age_10yrbands_y25_34,mts_aggregate_1,2003,28.96
 per,sex_f,age_10yrbands_y25_34,mts_aggregate_1,2004,16.73
@@ -361,6 +364,7 @@ per,sex_f,age_10yrbands_y25_34,mts_aggregate_total,2016,23.3
 per,sex_f,age_10yrbands_y25_34,mts_aggregate_total,2017,23.84
 per,sex_f,age_10yrbands_y25_34,mts_aggregate_total,2018,21.67
 per,sex_f,age_10yrbands_y25_34,mts_aggregate_total,2019,23.94
+per,sex_f,age_10yrbands_y25_34,mts_aggregate_x,2002,17.51
 per,sex_f,age_10yrbands_y25_34,mts_details_mrd,2002,31.86
 per,sex_f,age_10yrbands_y25_34,mts_details_mrd,2003,35.79
 per,sex_f,age_10yrbands_y25_34,mts_details_mrd,2004,30.95
@@ -451,11 +455,13 @@ per,sex_f,age_10yrbands_y25_34,mts_details_union,2016,29.57
 per,sex_f,age_10yrbands_y25_34,mts_details_union,2017,30.11
 per,sex_f,age_10yrbands_y25_34,mts_details_union,2018,26.95
 per,sex_f,age_10yrbands_y25_34,mts_details_union,2019,28.97
+per,sex_f,age_10yrbands_y25_34,mts_details_wid,2002,5.93
 per,sex_f,age_10yrbands_y25_34,mts_details_wid,2005,24.2
 per,sex_f,age_10yrbands_y25_34,mts_details_wid,2009,13.73
 per,sex_f,age_10yrbands_y25_34,mts_details_wid,2010,13.15
 per,sex_f,age_10yrbands_y25_34,mts_details_wid,2014,17.59
 per,sex_f,age_10yrbands_y25_34,mts_details_wid,2017,6.71
+per,sex_f,age_10yrbands_y25_34,mts_details_x,2002,17.51
 per,sex_f,age_10yrbands_y35_44,mts_aggregate_1,2002,15.79
 per,sex_f,age_10yrbands_y35_44,mts_aggregate_1,2003,22.94
 per,sex_f,age_10yrbands_y35_44,mts_aggregate_1,2004,15.32
@@ -834,6 +840,7 @@ per,sex_f,age_10yrbands_y55_64,mts_aggregate_total,2016,30.86
 per,sex_f,age_10yrbands_y55_64,mts_aggregate_total,2017,28.6
 per,sex_f,age_10yrbands_y55_64,mts_aggregate_total,2018,29.45
 per,sex_f,age_10yrbands_y55_64,mts_aggregate_total,2019,26.09
+per,sex_f,age_10yrbands_y55_64,mts_aggregate_x,2002,26.07
 per,sex_f,age_10yrbands_y55_64,mts_details_mrd,2002,48.6
 per,sex_f,age_10yrbands_y55_64,mts_details_mrd,2003,49.85
 per,sex_f,age_10yrbands_y55_64,mts_details_mrd,2004,39.07
@@ -942,6 +949,7 @@ per,sex_f,age_10yrbands_y55_64,mts_details_wid,2016,31.07
 per,sex_f,age_10yrbands_y55_64,mts_details_wid,2017,26.61
 per,sex_f,age_10yrbands_y55_64,mts_details_wid,2018,30.44
 per,sex_f,age_10yrbands_y55_64,mts_details_wid,2019,25.63
+per,sex_f,age_10yrbands_y55_64,mts_details_x,2002,26.07
 per,sex_f,age_10yrbands_yge65,mts_aggregate_1,2002,65.88
 per,sex_f,age_10yrbands_yge65,mts_aggregate_1,2003,67.79
 per,sex_f,age_10yrbands_yge65,mts_aggregate_1,2004,66.71
@@ -996,6 +1004,7 @@ per,sex_f,age_10yrbands_yge65,mts_aggregate_total,2016,61.49
 per,sex_f,age_10yrbands_yge65,mts_aggregate_total,2017,60.64
 per,sex_f,age_10yrbands_yge65,mts_aggregate_total,2018,59.88
 per,sex_f,age_10yrbands_yge65,mts_aggregate_total,2019,58.64
+per,sex_f,age_10yrbands_yge65,mts_aggregate_x,2002,92.92
 per,sex_f,age_10yrbands_yge65,mts_details_mrd,2002,61.14
 per,sex_f,age_10yrbands_yge65,mts_details_mrd,2003,60.08
 per,sex_f,age_10yrbands_yge65,mts_details_mrd,2004,58.14
@@ -1104,6 +1113,7 @@ per,sex_f,age_10yrbands_yge65,mts_details_wid,2016,65.27
 per,sex_f,age_10yrbands_yge65,mts_details_wid,2017,67.03
 per,sex_f,age_10yrbands_yge65,mts_details_wid,2018,65.43
 per,sex_f,age_10yrbands_yge65,mts_details_wid,2019,65.99
+per,sex_f,age_10yrbands_yge65,mts_details_x,2002,92.92
 per,sex_f,age_aggregate_total,mts_aggregate_1,2002,27.2
 per,sex_f,age_aggregate_total,mts_aggregate_1,2003,38.92
 per,sex_f,age_aggregate_total,mts_aggregate_1,2004,32.36
@@ -1322,6 +1332,7 @@ per,sex_f,age_aggregate_y15_24,mts_aggregate_total,2016,42.73
 per,sex_f,age_aggregate_y15_24,mts_aggregate_total,2017,42.14
 per,sex_f,age_aggregate_y15_24,mts_aggregate_total,2018,42.22
 per,sex_f,age_aggregate_y15_24,mts_aggregate_total,2019,42.21
+per,sex_f,age_aggregate_y15_24,mts_aggregate_x,2002,33
 per,sex_f,age_aggregate_y15_24,mts_details_mrd,2002,42.52
 per,sex_f,age_aggregate_y15_24,mts_details_mrd,2003,33.64
 per,sex_f,age_aggregate_y15_24,mts_details_mrd,2004,29.78
@@ -1412,6 +1423,8 @@ per,sex_f,age_aggregate_y15_24,mts_details_union,2016,38.46
 per,sex_f,age_aggregate_y15_24,mts_details_union,2017,39.97
 per,sex_f,age_aggregate_y15_24,mts_details_union,2018,37.98
 per,sex_f,age_aggregate_y15_24,mts_details_union,2019,40.53
+per,sex_f,age_aggregate_y15_24,mts_details_wid,2002,11.55
+per,sex_f,age_aggregate_y15_24,mts_details_x,2002,33
 per,sex_f,age_aggregate_y25_54,mts_aggregate_1,2002,18.52
 per,sex_f,age_aggregate_y25_54,mts_aggregate_1,2003,27.35
 per,sex_f,age_aggregate_y25_54,mts_aggregate_1,2004,16.99
@@ -1466,6 +1479,7 @@ per,sex_f,age_aggregate_y25_54,mts_aggregate_total,2016,20.08
 per,sex_f,age_aggregate_y25_54,mts_aggregate_total,2017,20.34
 per,sex_f,age_aggregate_y25_54,mts_aggregate_total,2018,19.37
 per,sex_f,age_aggregate_y25_54,mts_aggregate_total,2019,20.03
+per,sex_f,age_aggregate_y25_54,mts_aggregate_x,2002,6.17
 per,sex_f,age_aggregate_y25_54,mts_details_mrd,2002,30.05
 per,sex_f,age_aggregate_y25_54,mts_details_mrd,2003,34.93
 per,sex_f,age_aggregate_y25_54,mts_details_mrd,2004,27.29
@@ -1574,6 +1588,7 @@ per,sex_f,age_aggregate_y25_54,mts_details_wid,2016,8.71
 per,sex_f,age_aggregate_y25_54,mts_details_wid,2017,11.54
 per,sex_f,age_aggregate_y25_54,mts_details_wid,2018,11.75
 per,sex_f,age_aggregate_y25_54,mts_details_wid,2019,10.02
+per,sex_f,age_aggregate_y25_54,mts_details_x,2002,6.17
 per,sex_f,age_aggregate_y55_64,mts_aggregate_1,2002,39.48
 per,sex_f,age_aggregate_y55_64,mts_aggregate_1,2003,44.74
 per,sex_f,age_aggregate_y55_64,mts_aggregate_1,2004,39.71
@@ -1628,6 +1643,7 @@ per,sex_f,age_aggregate_y55_64,mts_aggregate_total,2016,30.86
 per,sex_f,age_aggregate_y55_64,mts_aggregate_total,2017,28.6
 per,sex_f,age_aggregate_y55_64,mts_aggregate_total,2018,29.45
 per,sex_f,age_aggregate_y55_64,mts_aggregate_total,2019,26.09
+per,sex_f,age_aggregate_y55_64,mts_aggregate_x,2002,26.07
 per,sex_f,age_aggregate_y55_64,mts_details_mrd,2002,48.6
 per,sex_f,age_aggregate_y55_64,mts_details_mrd,2003,49.85
 per,sex_f,age_aggregate_y55_64,mts_details_mrd,2004,39.07
@@ -1736,6 +1752,7 @@ per,sex_f,age_aggregate_y55_64,mts_details_wid,2016,31.07
 per,sex_f,age_aggregate_y55_64,mts_details_wid,2017,26.61
 per,sex_f,age_aggregate_y55_64,mts_details_wid,2018,30.44
 per,sex_f,age_aggregate_y55_64,mts_details_wid,2019,25.63
+per,sex_f,age_aggregate_y55_64,mts_details_x,2002,26.07
 per,sex_f,age_aggregate_yge65,mts_aggregate_1,2002,65.88
 per,sex_f,age_aggregate_yge65,mts_aggregate_1,2003,67.79
 per,sex_f,age_aggregate_yge65,mts_aggregate_1,2004,66.71
@@ -1790,6 +1807,7 @@ per,sex_f,age_aggregate_yge65,mts_aggregate_total,2016,61.49
 per,sex_f,age_aggregate_yge65,mts_aggregate_total,2017,60.64
 per,sex_f,age_aggregate_yge65,mts_aggregate_total,2018,59.88
 per,sex_f,age_aggregate_yge65,mts_aggregate_total,2019,58.64
+per,sex_f,age_aggregate_yge65,mts_aggregate_x,2002,92.92
 per,sex_f,age_aggregate_yge65,mts_details_mrd,2002,61.14
 per,sex_f,age_aggregate_yge65,mts_details_mrd,2003,60.08
 per,sex_f,age_aggregate_yge65,mts_details_mrd,2004,58.14
@@ -1898,6 +1916,7 @@ per,sex_f,age_aggregate_yge65,mts_details_wid,2016,65.27
 per,sex_f,age_aggregate_yge65,mts_details_wid,2017,67.03
 per,sex_f,age_aggregate_yge65,mts_details_wid,2018,65.43
 per,sex_f,age_aggregate_yge65,mts_details_wid,2019,65.99
+per,sex_f,age_aggregate_yge65,mts_details_x,2002,92.92
 per,sex_f,age_ythadult_y15_24,mts_aggregate_1,2002,21.71
 per,sex_f,age_ythadult_y15_24,mts_aggregate_1,2003,39.51
 per,sex_f,age_ythadult_y15_24,mts_aggregate_1,2004,35.1
@@ -1952,6 +1971,7 @@ per,sex_f,age_ythadult_y15_24,mts_aggregate_total,2016,42.73
 per,sex_f,age_ythadult_y15_24,mts_aggregate_total,2017,42.14
 per,sex_f,age_ythadult_y15_24,mts_aggregate_total,2018,42.22
 per,sex_f,age_ythadult_y15_24,mts_aggregate_total,2019,42.21
+per,sex_f,age_ythadult_y15_24,mts_aggregate_x,2002,33
 per,sex_f,age_ythadult_y15_24,mts_details_mrd,2002,42.52
 per,sex_f,age_ythadult_y15_24,mts_details_mrd,2003,33.64
 per,sex_f,age_ythadult_y15_24,mts_details_mrd,2004,29.78
@@ -2042,6 +2062,8 @@ per,sex_f,age_ythadult_y15_24,mts_details_union,2016,38.46
 per,sex_f,age_ythadult_y15_24,mts_details_union,2017,39.97
 per,sex_f,age_ythadult_y15_24,mts_details_union,2018,37.98
 per,sex_f,age_ythadult_y15_24,mts_details_union,2019,40.53
+per,sex_f,age_ythadult_y15_24,mts_details_wid,2002,11.55
+per,sex_f,age_ythadult_y15_24,mts_details_x,2002,33
 per,sex_f,age_ythadult_y15_64,mts_aggregate_1,2002,21.71
 per,sex_f,age_ythadult_y15_64,mts_aggregate_1,2003,34.97
 per,sex_f,age_ythadult_y15_64,mts_aggregate_1,2004,28.34
@@ -2585,6 +2607,7 @@ per,sex_m,age_10yrbands_total,mts_aggregate_total,2016,15.3
 per,sex_m,age_10yrbands_total,mts_aggregate_total,2017,15.3
 per,sex_m,age_10yrbands_total,mts_aggregate_total,2018,15.4
 per,sex_m,age_10yrbands_total,mts_aggregate_total,2019,15.23
+per,sex_m,age_10yrbands_total,mts_aggregate_x,2002,3.59
 per,sex_m,age_10yrbands_total,mts_details_mrd,2002,10.67
 per,sex_m,age_10yrbands_total,mts_details_mrd,2003,17.49
 per,sex_m,age_10yrbands_total,mts_details_mrd,2004,9.51
@@ -2693,6 +2716,7 @@ per,sex_m,age_10yrbands_total,mts_details_wid,2016,36.98
 per,sex_m,age_10yrbands_total,mts_details_wid,2017,41.16
 per,sex_m,age_10yrbands_total,mts_details_wid,2018,38.96
 per,sex_m,age_10yrbands_total,mts_details_wid,2019,40.57
+per,sex_m,age_10yrbands_total,mts_details_x,2002,3.59
 per,sex_m,age_10yrbands_y15_24,mts_aggregate_1,2002,16.71
 per,sex_m,age_10yrbands_y15_24,mts_aggregate_1,2003,31.64
 per,sex_m,age_10yrbands_y15_24,mts_aggregate_1,2004,28.79
@@ -2747,6 +2771,8 @@ per,sex_m,age_10yrbands_y15_24,mts_aggregate_total,2016,33.65
 per,sex_m,age_10yrbands_y15_24,mts_aggregate_total,2017,33.59
 per,sex_m,age_10yrbands_y15_24,mts_aggregate_total,2018,33.77
 per,sex_m,age_10yrbands_y15_24,mts_aggregate_total,2019,33.52
+per,sex_m,age_10yrbands_y15_24,mts_aggregate_x,2002,3.1
+per,sex_m,age_10yrbands_y15_24,mts_details_mrd,2002,0.68
 per,sex_m,age_10yrbands_y15_24,mts_details_mrd,2004,3.26
 per,sex_m,age_10yrbands_y15_24,mts_details_mrd,2006,3.97
 per,sex_m,age_10yrbands_y15_24,mts_details_mrd,2007,6.05
@@ -2813,6 +2839,8 @@ per,sex_m,age_10yrbands_y15_24,mts_details_union,2016,3.91
 per,sex_m,age_10yrbands_y15_24,mts_details_union,2017,3.52
 per,sex_m,age_10yrbands_y15_24,mts_details_union,2018,2.25
 per,sex_m,age_10yrbands_y15_24,mts_details_union,2019,3.45
+per,sex_m,age_10yrbands_y15_24,mts_details_wid,2002,18.57
+per,sex_m,age_10yrbands_y15_24,mts_details_x,2002,3.1
 per,sex_m,age_10yrbands_y25_34,mts_aggregate_1,2002,10.2
 per,sex_m,age_10yrbands_y25_34,mts_aggregate_1,2003,22.77
 per,sex_m,age_10yrbands_y25_34,mts_aggregate_1,2004,10.82
@@ -2867,6 +2895,7 @@ per,sex_m,age_10yrbands_y25_34,mts_aggregate_total,2016,5.89
 per,sex_m,age_10yrbands_y25_34,mts_aggregate_total,2017,6.12
 per,sex_m,age_10yrbands_y25_34,mts_aggregate_total,2018,6.73
 per,sex_m,age_10yrbands_y25_34,mts_aggregate_total,2019,7.19
+per,sex_m,age_10yrbands_y25_34,mts_aggregate_x,2002,9.78
 per,sex_m,age_10yrbands_y25_34,mts_details_mrd,2002,0.95
 per,sex_m,age_10yrbands_y25_34,mts_details_mrd,2003,10.37
 per,sex_m,age_10yrbands_y25_34,mts_details_mrd,2004,1.42
@@ -2885,6 +2914,7 @@ per,sex_m,age_10yrbands_y25_34,mts_details_mrd,2016,1.33
 per,sex_m,age_10yrbands_y25_34,mts_details_mrd,2017,1.1
 per,sex_m,age_10yrbands_y25_34,mts_details_mrd,2018,2.18
 per,sex_m,age_10yrbands_y25_34,mts_details_mrd,2019,1.83
+per,sex_m,age_10yrbands_y25_34,mts_details_sep,2002,1.74
 per,sex_m,age_10yrbands_y25_34,mts_details_sep,2004,5.16
 per,sex_m,age_10yrbands_y25_34,mts_details_sep,2005,3.67
 per,sex_m,age_10yrbands_y25_34,mts_details_sep,2006,3.33
@@ -2954,6 +2984,7 @@ per,sex_m,age_10yrbands_y25_34,mts_details_union,2016,2.02
 per,sex_m,age_10yrbands_y25_34,mts_details_union,2017,2.01
 per,sex_m,age_10yrbands_y25_34,mts_details_union,2018,2.24
 per,sex_m,age_10yrbands_y25_34,mts_details_union,2019,1.57
+per,sex_m,age_10yrbands_y25_34,mts_details_x,2002,9.78
 per,sex_m,age_10yrbands_y35_44,mts_aggregate_1,2002,7.58
 per,sex_m,age_10yrbands_y35_44,mts_aggregate_1,2003,16.86
 per,sex_m,age_10yrbands_y35_44,mts_aggregate_1,2004,8.44
@@ -3026,6 +3057,7 @@ per,sex_m,age_10yrbands_y35_44,mts_details_mrd,2016,0.93
 per,sex_m,age_10yrbands_y35_44,mts_details_mrd,2017,1.31
 per,sex_m,age_10yrbands_y35_44,mts_details_mrd,2018,1.23
 per,sex_m,age_10yrbands_y35_44,mts_details_mrd,2019,2.32
+per,sex_m,age_10yrbands_y35_44,mts_details_sep,2002,0.63
 per,sex_m,age_10yrbands_y35_44,mts_details_sep,2003,15.26
 per,sex_m,age_10yrbands_y35_44,mts_details_sep,2004,3.15
 per,sex_m,age_10yrbands_y35_44,mts_details_sep,2005,9.08
@@ -3095,6 +3127,7 @@ per,sex_m,age_10yrbands_y35_44,mts_details_union,2016,1.19
 per,sex_m,age_10yrbands_y35_44,mts_details_union,2017,1.39
 per,sex_m,age_10yrbands_y35_44,mts_details_union,2018,1.26
 per,sex_m,age_10yrbands_y35_44,mts_details_union,2019,2.04
+per,sex_m,age_10yrbands_y35_44,mts_details_wid,2002,10.19
 per,sex_m,age_10yrbands_y45_54,mts_aggregate_1,2002,9.69
 per,sex_m,age_10yrbands_y45_54,mts_aggregate_1,2003,15.95
 per,sex_m,age_10yrbands_y45_54,mts_aggregate_1,2004,8.67
@@ -3459,6 +3492,7 @@ per,sex_m,age_10yrbands_yge65,mts_aggregate_total,2016,41.4
 per,sex_m,age_10yrbands_yge65,mts_aggregate_total,2017,42.21
 per,sex_m,age_10yrbands_yge65,mts_aggregate_total,2018,41.15
 per,sex_m,age_10yrbands_yge65,mts_aggregate_total,2019,39.84
+per,sex_m,age_10yrbands_yge65,mts_aggregate_x,2002,6.14
 per,sex_m,age_10yrbands_yge65,mts_details_mrd,2002,42.37
 per,sex_m,age_10yrbands_yge65,mts_details_mrd,2003,42.78
 per,sex_m,age_10yrbands_yge65,mts_details_mrd,2004,43.58
@@ -3567,6 +3601,7 @@ per,sex_m,age_10yrbands_yge65,mts_details_wid,2016,53.25
 per,sex_m,age_10yrbands_yge65,mts_details_wid,2017,59.69
 per,sex_m,age_10yrbands_yge65,mts_details_wid,2018,55
 per,sex_m,age_10yrbands_yge65,mts_details_wid,2019,55.61
+per,sex_m,age_10yrbands_yge65,mts_details_x,2002,6.14
 per,sex_m,age_aggregate_total,mts_aggregate_1,2002,16.79
 per,sex_m,age_aggregate_total,mts_aggregate_1,2003,28.89
 per,sex_m,age_aggregate_total,mts_aggregate_1,2004,22.71
@@ -3621,6 +3656,7 @@ per,sex_m,age_aggregate_total,mts_aggregate_total,2016,15.3
 per,sex_m,age_aggregate_total,mts_aggregate_total,2017,15.3
 per,sex_m,age_aggregate_total,mts_aggregate_total,2018,15.4
 per,sex_m,age_aggregate_total,mts_aggregate_total,2019,15.23
+per,sex_m,age_aggregate_total,mts_aggregate_x,2002,3.59
 per,sex_m,age_aggregate_total,mts_details_mrd,2002,10.67
 per,sex_m,age_aggregate_total,mts_details_mrd,2003,17.49
 per,sex_m,age_aggregate_total,mts_details_mrd,2004,9.51
@@ -3729,6 +3765,7 @@ per,sex_m,age_aggregate_total,mts_details_wid,2016,36.98
 per,sex_m,age_aggregate_total,mts_details_wid,2017,41.16
 per,sex_m,age_aggregate_total,mts_details_wid,2018,38.96
 per,sex_m,age_aggregate_total,mts_details_wid,2019,40.57
+per,sex_m,age_aggregate_total,mts_details_x,2002,3.59
 per,sex_m,age_aggregate_y15_24,mts_aggregate_1,2002,16.71
 per,sex_m,age_aggregate_y15_24,mts_aggregate_1,2003,31.64
 per,sex_m,age_aggregate_y15_24,mts_aggregate_1,2004,28.79
@@ -3783,6 +3820,8 @@ per,sex_m,age_aggregate_y15_24,mts_aggregate_total,2016,33.65
 per,sex_m,age_aggregate_y15_24,mts_aggregate_total,2017,33.59
 per,sex_m,age_aggregate_y15_24,mts_aggregate_total,2018,33.77
 per,sex_m,age_aggregate_y15_24,mts_aggregate_total,2019,33.52
+per,sex_m,age_aggregate_y15_24,mts_aggregate_x,2002,3.1
+per,sex_m,age_aggregate_y15_24,mts_details_mrd,2002,0.68
 per,sex_m,age_aggregate_y15_24,mts_details_mrd,2004,3.26
 per,sex_m,age_aggregate_y15_24,mts_details_mrd,2006,3.97
 per,sex_m,age_aggregate_y15_24,mts_details_mrd,2007,6.05
@@ -3849,6 +3888,8 @@ per,sex_m,age_aggregate_y15_24,mts_details_union,2016,3.91
 per,sex_m,age_aggregate_y15_24,mts_details_union,2017,3.52
 per,sex_m,age_aggregate_y15_24,mts_details_union,2018,2.25
 per,sex_m,age_aggregate_y15_24,mts_details_union,2019,3.45
+per,sex_m,age_aggregate_y15_24,mts_details_wid,2002,18.57
+per,sex_m,age_aggregate_y15_24,mts_details_x,2002,3.1
 per,sex_m,age_aggregate_y25_54,mts_aggregate_1,2002,9.5
 per,sex_m,age_aggregate_y25_54,mts_aggregate_1,2003,20.44
 per,sex_m,age_aggregate_y25_54,mts_aggregate_1,2004,9.99
@@ -3903,6 +3944,7 @@ per,sex_m,age_aggregate_y25_54,mts_aggregate_total,2016,3.97
 per,sex_m,age_aggregate_y25_54,mts_aggregate_total,2017,4.23
 per,sex_m,age_aggregate_y25_54,mts_aggregate_total,2018,4.59
 per,sex_m,age_aggregate_y25_54,mts_aggregate_total,2019,4.92
+per,sex_m,age_aggregate_y25_54,mts_aggregate_x,2002,1.9
 per,sex_m,age_aggregate_y25_54,mts_details_mrd,2002,1.9
 per,sex_m,age_aggregate_y25_54,mts_details_mrd,2003,9.83
 per,sex_m,age_aggregate_y25_54,mts_details_mrd,2004,1.74
@@ -3993,6 +4035,7 @@ per,sex_m,age_aggregate_y25_54,mts_details_union,2016,1.73
 per,sex_m,age_aggregate_y25_54,mts_details_union,2017,1.67
 per,sex_m,age_aggregate_y25_54,mts_details_union,2018,1.82
 per,sex_m,age_aggregate_y25_54,mts_details_union,2019,1.95
+per,sex_m,age_aggregate_y25_54,mts_details_wid,2002,2.88
 per,sex_m,age_aggregate_y25_54,mts_details_wid,2005,2.9
 per,sex_m,age_aggregate_y25_54,mts_details_wid,2006,4.73
 per,sex_m,age_aggregate_y25_54,mts_details_wid,2008,4.85
@@ -4002,6 +4045,7 @@ per,sex_m,age_aggregate_y25_54,mts_details_wid,2011,3.91
 per,sex_m,age_aggregate_y25_54,mts_details_wid,2014,2.11
 per,sex_m,age_aggregate_y25_54,mts_details_wid,2015,6.66
 per,sex_m,age_aggregate_y25_54,mts_details_wid,2018,4.83
+per,sex_m,age_aggregate_y25_54,mts_details_x,2002,1.9
 per,sex_m,age_aggregate_y55_64,mts_aggregate_1,2002,19.64
 per,sex_m,age_aggregate_y55_64,mts_aggregate_1,2003,20.76
 per,sex_m,age_aggregate_y55_64,mts_aggregate_1,2004,13.87
@@ -4218,6 +4262,7 @@ per,sex_m,age_aggregate_yge65,mts_aggregate_total,2016,41.4
 per,sex_m,age_aggregate_yge65,mts_aggregate_total,2017,42.21
 per,sex_m,age_aggregate_yge65,mts_aggregate_total,2018,41.15
 per,sex_m,age_aggregate_yge65,mts_aggregate_total,2019,39.84
+per,sex_m,age_aggregate_yge65,mts_aggregate_x,2002,6.14
 per,sex_m,age_aggregate_yge65,mts_details_mrd,2002,42.37
 per,sex_m,age_aggregate_yge65,mts_details_mrd,2003,42.78
 per,sex_m,age_aggregate_yge65,mts_details_mrd,2004,43.58
@@ -4326,6 +4371,7 @@ per,sex_m,age_aggregate_yge65,mts_details_wid,2016,53.25
 per,sex_m,age_aggregate_yge65,mts_details_wid,2017,59.69
 per,sex_m,age_aggregate_yge65,mts_details_wid,2018,55
 per,sex_m,age_aggregate_yge65,mts_details_wid,2019,55.61
+per,sex_m,age_aggregate_yge65,mts_details_x,2002,6.14
 per,sex_m,age_ythadult_y15_24,mts_aggregate_1,2002,16.71
 per,sex_m,age_ythadult_y15_24,mts_aggregate_1,2003,31.64
 per,sex_m,age_ythadult_y15_24,mts_aggregate_1,2004,28.79
@@ -4380,6 +4426,8 @@ per,sex_m,age_ythadult_y15_24,mts_aggregate_total,2016,33.65
 per,sex_m,age_ythadult_y15_24,mts_aggregate_total,2017,33.59
 per,sex_m,age_ythadult_y15_24,mts_aggregate_total,2018,33.77
 per,sex_m,age_ythadult_y15_24,mts_aggregate_total,2019,33.52
+per,sex_m,age_ythadult_y15_24,mts_aggregate_x,2002,3.1
+per,sex_m,age_ythadult_y15_24,mts_details_mrd,2002,0.68
 per,sex_m,age_ythadult_y15_24,mts_details_mrd,2004,3.26
 per,sex_m,age_ythadult_y15_24,mts_details_mrd,2006,3.97
 per,sex_m,age_ythadult_y15_24,mts_details_mrd,2007,6.05
@@ -4446,6 +4494,8 @@ per,sex_m,age_ythadult_y15_24,mts_details_union,2016,3.91
 per,sex_m,age_ythadult_y15_24,mts_details_union,2017,3.52
 per,sex_m,age_ythadult_y15_24,mts_details_union,2018,2.25
 per,sex_m,age_ythadult_y15_24,mts_details_union,2019,3.45
+per,sex_m,age_ythadult_y15_24,mts_details_wid,2002,18.57
+per,sex_m,age_ythadult_y15_24,mts_details_x,2002,3.1
 per,sex_m,age_ythadult_y15_64,mts_aggregate_1,2002,14.46
 per,sex_m,age_ythadult_y15_64,mts_aggregate_1,2003,27.4
 per,sex_m,age_ythadult_y15_64,mts_aggregate_1,2004,21.4
@@ -4646,6 +4696,7 @@ per,sex_m,age_ythadult_yge15,mts_aggregate_total,2016,15.3
 per,sex_m,age_ythadult_yge15,mts_aggregate_total,2017,15.3
 per,sex_m,age_ythadult_yge15,mts_aggregate_total,2018,15.4
 per,sex_m,age_ythadult_yge15,mts_aggregate_total,2019,15.23
+per,sex_m,age_ythadult_yge15,mts_aggregate_x,2002,3.59
 per,sex_m,age_ythadult_yge15,mts_details_mrd,2002,10.67
 per,sex_m,age_ythadult_yge15,mts_details_mrd,2003,17.49
 per,sex_m,age_ythadult_yge15,mts_details_mrd,2004,9.51
@@ -4754,6 +4805,7 @@ per,sex_m,age_ythadult_yge15,mts_details_wid,2016,36.98
 per,sex_m,age_ythadult_yge15,mts_details_wid,2017,41.16
 per,sex_m,age_ythadult_yge15,mts_details_wid,2018,38.96
 per,sex_m,age_ythadult_yge15,mts_details_wid,2019,40.57
+per,sex_m,age_ythadult_yge15,mts_details_x,2002,3.59
 per,sex_m,age_ythadult_yge25,mts_aggregate_1,2002,16.93
 per,sex_m,age_ythadult_yge25,mts_aggregate_1,2003,25
 per,sex_m,age_ythadult_yge25,mts_aggregate_1,2004,14.47
@@ -4808,6 +4860,7 @@ per,sex_m,age_ythadult_yge25,mts_aggregate_total,2016,8.8
 per,sex_m,age_ythadult_yge25,mts_aggregate_total,2017,9.14
 per,sex_m,age_ythadult_yge25,mts_aggregate_total,2018,9.37
 per,sex_m,age_ythadult_yge25,mts_aggregate_total,2019,9.39
+per,sex_m,age_ythadult_yge25,mts_aggregate_x,2002,4.27
 per,sex_m,age_ythadult_yge25,mts_details_mrd,2002,10.83
 per,sex_m,age_ythadult_yge25,mts_details_mrd,2003,17.65
 per,sex_m,age_ythadult_yge25,mts_details_mrd,2004,9.58
@@ -4916,6 +4969,7 @@ per,sex_m,age_ythadult_yge25,mts_details_wid,2016,36.98
 per,sex_m,age_ythadult_yge25,mts_details_wid,2017,41.16
 per,sex_m,age_ythadult_yge25,mts_details_wid,2018,38.96
 per,sex_m,age_ythadult_yge25,mts_details_wid,2019,40.6
+per,sex_m,age_ythadult_yge25,mts_details_x,2002,4.27
 per,sex_t,age_10yrbands_total,mts_aggregate_1,2002,22.28
 per,sex_t,age_10yrbands_total,mts_aggregate_1,2003,34.17
 per,sex_t,age_10yrbands_total,mts_aggregate_1,2004,27.62
@@ -5134,6 +5188,7 @@ per,sex_t,age_10yrbands_y15_24,mts_aggregate_total,2016,38.11
 per,sex_t,age_10yrbands_y15_24,mts_aggregate_total,2017,37.81
 per,sex_t,age_10yrbands_y15_24,mts_aggregate_total,2018,37.95
 per,sex_t,age_10yrbands_y15_24,mts_aggregate_total,2019,37.78
+per,sex_t,age_10yrbands_y15_24,mts_aggregate_x,2002,11.91
 per,sex_t,age_10yrbands_y15_24,mts_details_mrd,2002,31.46
 per,sex_t,age_10yrbands_y15_24,mts_details_mrd,2003,25.94
 per,sex_t,age_10yrbands_y15_24,mts_details_mrd,2004,23.27
@@ -5224,7 +5279,9 @@ per,sex_t,age_10yrbands_y15_24,mts_details_union,2016,26.8
 per,sex_t,age_10yrbands_y15_24,mts_details_union,2017,27.64
 per,sex_t,age_10yrbands_y15_24,mts_details_union,2018,25.5
 per,sex_t,age_10yrbands_y15_24,mts_details_union,2019,26.78
+per,sex_t,age_10yrbands_y15_24,mts_details_wid,2002,14.01
 per,sex_t,age_10yrbands_y15_24,mts_details_wid,2006,55.41
+per,sex_t,age_10yrbands_y15_24,mts_details_x,2002,11.91
 per,sex_t,age_10yrbands_y25_34,mts_aggregate_1,2002,14.59
 per,sex_t,age_10yrbands_y25_34,mts_aggregate_1,2003,25.89
 per,sex_t,age_10yrbands_y25_34,mts_aggregate_1,2004,13.49
@@ -5279,6 +5336,7 @@ per,sex_t,age_10yrbands_y25_34,mts_aggregate_total,2016,14.48
 per,sex_t,age_10yrbands_y25_34,mts_aggregate_total,2017,14.84
 per,sex_t,age_10yrbands_y25_34,mts_aggregate_total,2018,14
 per,sex_t,age_10yrbands_y25_34,mts_aggregate_total,2019,15.31
+per,sex_t,age_10yrbands_y25_34,mts_aggregate_x,2002,15.96
 per,sex_t,age_10yrbands_y25_34,mts_details_mrd,2002,18.83
 per,sex_t,age_10yrbands_y25_34,mts_details_mrd,2003,24.92
 per,sex_t,age_10yrbands_y25_34,mts_details_mrd,2004,18.12
@@ -5369,12 +5427,14 @@ per,sex_t,age_10yrbands_y25_34,mts_details_union,2016,15.92
 per,sex_t,age_10yrbands_y25_34,mts_details_union,2017,16.23
 per,sex_t,age_10yrbands_y25_34,mts_details_union,2018,14.69
 per,sex_t,age_10yrbands_y25_34,mts_details_union,2019,15.56
+per,sex_t,age_10yrbands_y25_34,mts_details_wid,2002,4.73
 per,sex_t,age_10yrbands_y25_34,mts_details_wid,2005,20.24
 per,sex_t,age_10yrbands_y25_34,mts_details_wid,2009,10.19
 per,sex_t,age_10yrbands_y25_34,mts_details_wid,2010,9.52
 per,sex_t,age_10yrbands_y25_34,mts_details_wid,2011,20.99
 per,sex_t,age_10yrbands_y25_34,mts_details_wid,2014,15.5
 per,sex_t,age_10yrbands_y25_34,mts_details_wid,2017,5.67
+per,sex_t,age_10yrbands_y25_34,mts_details_x,2002,15.96
 per,sex_t,age_10yrbands_y35_44,mts_aggregate_1,2002,12.49
 per,sex_t,age_10yrbands_y35_44,mts_aggregate_1,2003,20.2
 per,sex_t,age_10yrbands_y35_44,mts_aggregate_1,2004,12.27
@@ -5753,6 +5813,7 @@ per,sex_t,age_10yrbands_y55_64,mts_aggregate_total,2016,19.41
 per,sex_t,age_10yrbands_y55_64,mts_aggregate_total,2017,18.16
 per,sex_t,age_10yrbands_y55_64,mts_aggregate_total,2018,18.59
 per,sex_t,age_10yrbands_y55_64,mts_aggregate_total,2019,16.58
+per,sex_t,age_10yrbands_y55_64,mts_aggregate_x,2002,23.64
 per,sex_t,age_10yrbands_y55_64,mts_details_mrd,2002,29.82
 per,sex_t,age_10yrbands_y55_64,mts_details_mrd,2003,34.51
 per,sex_t,age_10yrbands_y55_64,mts_details_mrd,2004,24.43
@@ -5861,6 +5922,7 @@ per,sex_t,age_10yrbands_y55_64,mts_details_wid,2016,25.52
 per,sex_t,age_10yrbands_y55_64,mts_details_wid,2017,22.21
 per,sex_t,age_10yrbands_y55_64,mts_details_wid,2018,24.53
 per,sex_t,age_10yrbands_y55_64,mts_details_wid,2019,21.57
+per,sex_t,age_10yrbands_y55_64,mts_details_x,2002,23.64
 per,sex_t,age_10yrbands_yge65,mts_aggregate_1,2002,62.59
 per,sex_t,age_10yrbands_yge65,mts_aggregate_1,2003,63.7
 per,sex_t,age_10yrbands_yge65,mts_aggregate_1,2004,62.42
@@ -6243,6 +6305,7 @@ per,sex_t,age_aggregate_y15_24,mts_aggregate_total,2016,38.11
 per,sex_t,age_aggregate_y15_24,mts_aggregate_total,2017,37.81
 per,sex_t,age_aggregate_y15_24,mts_aggregate_total,2018,37.95
 per,sex_t,age_aggregate_y15_24,mts_aggregate_total,2019,37.78
+per,sex_t,age_aggregate_y15_24,mts_aggregate_x,2002,11.91
 per,sex_t,age_aggregate_y15_24,mts_details_mrd,2002,31.46
 per,sex_t,age_aggregate_y15_24,mts_details_mrd,2003,25.94
 per,sex_t,age_aggregate_y15_24,mts_details_mrd,2004,23.27
@@ -6333,7 +6396,9 @@ per,sex_t,age_aggregate_y15_24,mts_details_union,2016,26.8
 per,sex_t,age_aggregate_y15_24,mts_details_union,2017,27.64
 per,sex_t,age_aggregate_y15_24,mts_details_union,2018,25.5
 per,sex_t,age_aggregate_y15_24,mts_details_union,2019,26.78
+per,sex_t,age_aggregate_y15_24,mts_details_wid,2002,14.01
 per,sex_t,age_aggregate_y15_24,mts_details_wid,2006,55.41
+per,sex_t,age_aggregate_y15_24,mts_details_x,2002,11.91
 per,sex_t,age_aggregate_y25_54,mts_aggregate_1,2002,14.54
 per,sex_t,age_aggregate_y25_54,mts_aggregate_1,2003,24.23
 per,sex_t,age_aggregate_y25_54,mts_aggregate_1,2004,13.53
@@ -6388,6 +6453,7 @@ per,sex_t,age_aggregate_y25_54,mts_aggregate_total,2016,11.99
 per,sex_t,age_aggregate_y25_54,mts_aggregate_total,2017,12.27
 per,sex_t,age_aggregate_y25_54,mts_aggregate_total,2018,11.96
 per,sex_t,age_aggregate_y25_54,mts_aggregate_total,2019,12.44
+per,sex_t,age_aggregate_y25_54,mts_aggregate_x,2002,4.83
 per,sex_t,age_aggregate_y25_54,mts_details_mrd,2002,16.69
 per,sex_t,age_aggregate_y25_54,mts_details_mrd,2003,23.01
 per,sex_t,age_aggregate_y25_54,mts_details_mrd,2004,15.02
@@ -6496,6 +6562,7 @@ per,sex_t,age_aggregate_y25_54,mts_details_wid,2016,7.01
 per,sex_t,age_aggregate_y25_54,mts_details_wid,2017,8.69
 per,sex_t,age_aggregate_y25_54,mts_details_wid,2018,10.31
 per,sex_t,age_aggregate_y25_54,mts_details_wid,2019,8.29
+per,sex_t,age_aggregate_y25_54,mts_details_x,2002,4.83
 per,sex_t,age_aggregate_y55_64,mts_aggregate_1,2002,33.62
 per,sex_t,age_aggregate_y55_64,mts_aggregate_1,2003,38.05
 per,sex_t,age_aggregate_y55_64,mts_aggregate_1,2004,32.46
@@ -6550,6 +6617,7 @@ per,sex_t,age_aggregate_y55_64,mts_aggregate_total,2016,19.41
 per,sex_t,age_aggregate_y55_64,mts_aggregate_total,2017,18.16
 per,sex_t,age_aggregate_y55_64,mts_aggregate_total,2018,18.59
 per,sex_t,age_aggregate_y55_64,mts_aggregate_total,2019,16.58
+per,sex_t,age_aggregate_y55_64,mts_aggregate_x,2002,23.64
 per,sex_t,age_aggregate_y55_64,mts_details_mrd,2002,29.82
 per,sex_t,age_aggregate_y55_64,mts_details_mrd,2003,34.51
 per,sex_t,age_aggregate_y55_64,mts_details_mrd,2004,24.43
@@ -6658,6 +6726,7 @@ per,sex_t,age_aggregate_y55_64,mts_details_wid,2016,25.52
 per,sex_t,age_aggregate_y55_64,mts_details_wid,2017,22.21
 per,sex_t,age_aggregate_y55_64,mts_details_wid,2018,24.53
 per,sex_t,age_aggregate_y55_64,mts_details_wid,2019,21.57
+per,sex_t,age_aggregate_y55_64,mts_details_x,2002,23.64
 per,sex_t,age_aggregate_yge65,mts_aggregate_1,2002,62.59
 per,sex_t,age_aggregate_yge65,mts_aggregate_1,2003,63.7
 per,sex_t,age_aggregate_yge65,mts_aggregate_1,2004,62.42
@@ -6876,6 +6945,7 @@ per,sex_t,age_ythadult_y15_24,mts_aggregate_total,2016,38.11
 per,sex_t,age_ythadult_y15_24,mts_aggregate_total,2017,37.81
 per,sex_t,age_ythadult_y15_24,mts_aggregate_total,2018,37.95
 per,sex_t,age_ythadult_y15_24,mts_aggregate_total,2019,37.78
+per,sex_t,age_ythadult_y15_24,mts_aggregate_x,2002,11.91
 per,sex_t,age_ythadult_y15_24,mts_details_mrd,2002,31.46
 per,sex_t,age_ythadult_y15_24,mts_details_mrd,2003,25.94
 per,sex_t,age_ythadult_y15_24,mts_details_mrd,2004,23.27
@@ -6966,7 +7036,9 @@ per,sex_t,age_ythadult_y15_24,mts_details_union,2016,26.8
 per,sex_t,age_ythadult_y15_24,mts_details_union,2017,27.64
 per,sex_t,age_ythadult_y15_24,mts_details_union,2018,25.5
 per,sex_t,age_ythadult_y15_24,mts_details_union,2019,26.78
+per,sex_t,age_ythadult_y15_24,mts_details_wid,2002,14.01
 per,sex_t,age_ythadult_y15_24,mts_details_wid,2006,55.41
+per,sex_t,age_ythadult_y15_24,mts_details_x,2002,11.91
 per,sex_t,age_ythadult_y15_64,mts_aggregate_1,2002,18.15
 per,sex_t,age_ythadult_y15_64,mts_aggregate_1,2003,31.26
 per,sex_t,age_ythadult_y15_64,mts_aggregate_1,2004,24.82

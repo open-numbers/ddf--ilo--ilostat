@@ -220,6 +220,7 @@ geo,sex_f,age_10yrbands_y15_24,edu_isced11_total,2016,100
 geo,sex_f,age_10yrbands_y15_24,edu_isced11_total,2017,100
 geo,sex_f,age_10yrbands_y15_24,edu_isced11_total,2018,100
 geo,sex_f,age_10yrbands_y15_24,edu_isced11_total,2019,100
+geo,sex_f,age_10yrbands_y15_24,edu_isced11_x,2009,0.24
 geo,sex_f,age_10yrbands_y15_24,edu_isced11_x,2010,0.5
 geo,sex_f,age_10yrbands_y25_34,edu_aggregate_adv,2011,60.3
 geo,sex_f,age_10yrbands_y25_34,edu_aggregate_adv,2012,59.44
@@ -326,6 +327,7 @@ geo,sex_f,age_10yrbands_y25_34,edu_isced11_total,2016,100
 geo,sex_f,age_10yrbands_y25_34,edu_isced11_total,2017,100
 geo,sex_f,age_10yrbands_y25_34,edu_isced11_total,2018,100
 geo,sex_f,age_10yrbands_y25_34,edu_isced11_total,2019,100
+geo,sex_f,age_10yrbands_y25_34,edu_isced11_x,2009,0.07
 geo,sex_f,age_10yrbands_y25_34,edu_isced11_x,2010,0.84
 geo,sex_f,age_10yrbands_y35_44,edu_aggregate_adv,2011,45.01
 geo,sex_f,age_10yrbands_y35_44,edu_aggregate_adv,2012,49.96
@@ -425,6 +427,7 @@ geo,sex_f,age_10yrbands_y35_44,edu_isced11_total,2016,100
 geo,sex_f,age_10yrbands_y35_44,edu_isced11_total,2017,100
 geo,sex_f,age_10yrbands_y35_44,edu_isced11_total,2018,100
 geo,sex_f,age_10yrbands_y35_44,edu_isced11_total,2019,100
+geo,sex_f,age_10yrbands_y35_44,edu_isced11_x,2009,0.04
 geo,sex_f,age_10yrbands_y45_54,edu_aggregate_adv,2011,45.49
 geo,sex_f,age_10yrbands_y45_54,edu_aggregate_adv,2012,39.06
 geo,sex_f,age_10yrbands_y45_54,edu_aggregate_adv,2013,47.85
@@ -508,6 +511,7 @@ geo,sex_f,age_10yrbands_y45_54,edu_isced11_total,2016,100
 geo,sex_f,age_10yrbands_y45_54,edu_isced11_total,2017,100
 geo,sex_f,age_10yrbands_y45_54,edu_isced11_total,2018,100
 geo,sex_f,age_10yrbands_y45_54,edu_isced11_total,2019,100
+geo,sex_f,age_10yrbands_y45_54,edu_isced11_x,2009,0.05
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_adv,2011,32.02
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_adv,2012,46.33
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_adv,2013,40.82
@@ -532,6 +536,7 @@ geo,sex_f,age_10yrbands_y55_64,edu_aggregate_int,2016,63.46
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_int,2017,57.26
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_int,2018,56.41
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_int,2019,62.74
+geo,sex_f,age_10yrbands_y55_64,edu_aggregate_ltb,2009,1.21
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_ltb,2010,2.33
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_total,2009,100
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_total,2010,100
@@ -544,8 +549,10 @@ geo,sex_f,age_10yrbands_y55_64,edu_aggregate_total,2016,100
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_total,2017,100
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_total,2018,100
 geo,sex_f,age_10yrbands_y55_64,edu_aggregate_total,2019,100
+geo,sex_f,age_10yrbands_y55_64,edu_isced11_0,2009,1.21
 geo,sex_f,age_10yrbands_y55_64,edu_isced11_1,2009,31.46
 geo,sex_f,age_10yrbands_y55_64,edu_isced11_1,2010,24.98
+geo,sex_f,age_10yrbands_y55_64,edu_isced11_2,2009,1.28
 geo,sex_f,age_10yrbands_y55_64,edu_isced11_2,2010,3.1
 geo,sex_f,age_10yrbands_y55_64,edu_isced11_2,2013,7.43
 geo,sex_f,age_10yrbands_y55_64,edu_isced11_2,2018,3.39
@@ -602,6 +609,7 @@ geo,sex_f,age_10yrbands_yge65,edu_aggregate_int,2016,86.39
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_int,2017,47.89
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_int,2018,45.07
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_int,2019,36.18
+geo,sex_f,age_10yrbands_yge65,edu_aggregate_ltb,2009,9.86
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_total,2009,100
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_total,2010,100
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_total,2012,100
@@ -611,7 +619,9 @@ geo,sex_f,age_10yrbands_yge65,edu_aggregate_total,2016,100
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_total,2017,100
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_total,2018,100
 geo,sex_f,age_10yrbands_yge65,edu_aggregate_total,2019,100
+geo,sex_f,age_10yrbands_yge65,edu_isced11_0,2009,9.86
 geo,sex_f,age_10yrbands_yge65,edu_isced11_1,2009,27.86
+geo,sex_f,age_10yrbands_yge65,edu_isced11_3,2009,15.93
 geo,sex_f,age_10yrbands_yge65,edu_isced11_3,2017,20.21
 geo,sex_f,age_10yrbands_yge65,edu_isced11_3,2019,19.23
 geo,sex_f,age_10yrbands_yge65,edu_isced11_4,2009,46.36
@@ -980,6 +990,7 @@ geo,sex_f,age_aggregate_y15_24,edu_isced11_total,2016,100
 geo,sex_f,age_aggregate_y15_24,edu_isced11_total,2017,100
 geo,sex_f,age_aggregate_y15_24,edu_isced11_total,2018,100
 geo,sex_f,age_aggregate_y15_24,edu_isced11_total,2019,100
+geo,sex_f,age_aggregate_y15_24,edu_isced11_x,2009,0.24
 geo,sex_f,age_aggregate_y15_24,edu_isced11_x,2010,0.5
 geo,sex_f,age_aggregate_y25_54,edu_aggregate_adv,2011,51.6
 geo,sex_f,age_aggregate_y25_54,edu_aggregate_adv,2012,50.15
@@ -1087,6 +1098,7 @@ geo,sex_f,age_aggregate_y25_54,edu_isced11_total,2016,100
 geo,sex_f,age_aggregate_y25_54,edu_isced11_total,2017,100
 geo,sex_f,age_aggregate_y25_54,edu_isced11_total,2018,100
 geo,sex_f,age_aggregate_y25_54,edu_isced11_total,2019,100
+geo,sex_f,age_aggregate_y25_54,edu_isced11_x,2009,0.06
 geo,sex_f,age_aggregate_y25_54,edu_isced11_x,2010,0.38
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_adv,2011,32.02
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_adv,2012,46.33
@@ -1112,6 +1124,7 @@ geo,sex_f,age_aggregate_y55_64,edu_aggregate_int,2016,63.46
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_int,2017,57.26
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_int,2018,56.41
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_int,2019,62.74
+geo,sex_f,age_aggregate_y55_64,edu_aggregate_ltb,2009,1.21
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_ltb,2010,2.33
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_total,2009,100
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_total,2010,100
@@ -1124,8 +1137,10 @@ geo,sex_f,age_aggregate_y55_64,edu_aggregate_total,2016,100
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_total,2017,100
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_total,2018,100
 geo,sex_f,age_aggregate_y55_64,edu_aggregate_total,2019,100
+geo,sex_f,age_aggregate_y55_64,edu_isced11_0,2009,1.21
 geo,sex_f,age_aggregate_y55_64,edu_isced11_1,2009,31.46
 geo,sex_f,age_aggregate_y55_64,edu_isced11_1,2010,24.98
+geo,sex_f,age_aggregate_y55_64,edu_isced11_2,2009,1.28
 geo,sex_f,age_aggregate_y55_64,edu_isced11_2,2010,3.1
 geo,sex_f,age_aggregate_y55_64,edu_isced11_2,2013,7.43
 geo,sex_f,age_aggregate_y55_64,edu_isced11_2,2018,3.39
@@ -1182,6 +1197,7 @@ geo,sex_f,age_aggregate_yge65,edu_aggregate_int,2016,86.39
 geo,sex_f,age_aggregate_yge65,edu_aggregate_int,2017,47.89
 geo,sex_f,age_aggregate_yge65,edu_aggregate_int,2018,45.07
 geo,sex_f,age_aggregate_yge65,edu_aggregate_int,2019,36.18
+geo,sex_f,age_aggregate_yge65,edu_aggregate_ltb,2009,9.86
 geo,sex_f,age_aggregate_yge65,edu_aggregate_total,2009,100
 geo,sex_f,age_aggregate_yge65,edu_aggregate_total,2010,100
 geo,sex_f,age_aggregate_yge65,edu_aggregate_total,2012,100
@@ -1191,7 +1207,9 @@ geo,sex_f,age_aggregate_yge65,edu_aggregate_total,2016,100
 geo,sex_f,age_aggregate_yge65,edu_aggregate_total,2017,100
 geo,sex_f,age_aggregate_yge65,edu_aggregate_total,2018,100
 geo,sex_f,age_aggregate_yge65,edu_aggregate_total,2019,100
+geo,sex_f,age_aggregate_yge65,edu_isced11_0,2009,9.86
 geo,sex_f,age_aggregate_yge65,edu_isced11_1,2009,27.86
+geo,sex_f,age_aggregate_yge65,edu_isced11_3,2009,15.93
 geo,sex_f,age_aggregate_yge65,edu_isced11_3,2017,20.21
 geo,sex_f,age_aggregate_yge65,edu_isced11_3,2019,19.23
 geo,sex_f,age_aggregate_yge65,edu_isced11_4,2009,46.36
@@ -1319,6 +1337,7 @@ geo,sex_f,age_ythadult_y15_24,edu_isced11_total,2016,100
 geo,sex_f,age_ythadult_y15_24,edu_isced11_total,2017,100
 geo,sex_f,age_ythadult_y15_24,edu_isced11_total,2018,100
 geo,sex_f,age_ythadult_y15_24,edu_isced11_total,2019,100
+geo,sex_f,age_ythadult_y15_24,edu_isced11_x,2009,0.24
 geo,sex_f,age_ythadult_y15_24,edu_isced11_x,2010,0.5
 geo,sex_f,age_ythadult_y15_64,edu_aggregate_adv,2011,47.82
 geo,sex_f,age_ythadult_y15_64,edu_aggregate_adv,2012,46.29
@@ -1726,6 +1745,7 @@ geo,sex_f,age_ythadult_yge25,edu_isced11_total,2016,100
 geo,sex_f,age_ythadult_yge25,edu_isced11_total,2017,100
 geo,sex_f,age_ythadult_yge25,edu_isced11_total,2018,100
 geo,sex_f,age_ythadult_yge25,edu_isced11_total,2019,100
+geo,sex_f,age_ythadult_yge25,edu_isced11_x,2009,0.05
 geo,sex_f,age_ythadult_yge25,edu_isced11_x,2010,0.36
 geo,sex_m,age_10yrbands_total,edu_aggregate_adv,2011,38.31
 geo,sex_m,age_10yrbands_total,edu_aggregate_adv,2012,36.01
@@ -2076,6 +2096,7 @@ geo,sex_m,age_10yrbands_y25_34,edu_isced11_total,2016,100
 geo,sex_m,age_10yrbands_y25_34,edu_isced11_total,2017,100
 geo,sex_m,age_10yrbands_y25_34,edu_isced11_total,2018,100
 geo,sex_m,age_10yrbands_y25_34,edu_isced11_total,2019,100
+geo,sex_m,age_10yrbands_y25_34,edu_isced11_x,2009,0.05
 geo,sex_m,age_10yrbands_y25_34,edu_isced11_x,2010,0.37
 geo,sex_m,age_10yrbands_y35_44,edu_aggregate_adv,2011,30.25
 geo,sex_m,age_10yrbands_y35_44,edu_aggregate_adv,2012,38.02
@@ -2184,6 +2205,7 @@ geo,sex_m,age_10yrbands_y35_44,edu_isced11_total,2016,100
 geo,sex_m,age_10yrbands_y35_44,edu_isced11_total,2017,100
 geo,sex_m,age_10yrbands_y35_44,edu_isced11_total,2018,100
 geo,sex_m,age_10yrbands_y35_44,edu_isced11_total,2019,100
+geo,sex_m,age_10yrbands_y35_44,edu_isced11_x,2009,0.16
 geo,sex_m,age_10yrbands_y45_54,edu_aggregate_adv,2011,43.8
 geo,sex_m,age_10yrbands_y45_54,edu_aggregate_adv,2012,40.85
 geo,sex_m,age_10yrbands_y45_54,edu_aggregate_adv,2013,44.48
@@ -2367,6 +2389,7 @@ geo,sex_m,age_10yrbands_y55_64,edu_isced11_total,2016,100
 geo,sex_m,age_10yrbands_y55_64,edu_isced11_total,2017,100
 geo,sex_m,age_10yrbands_y55_64,edu_isced11_total,2018,100
 geo,sex_m,age_10yrbands_y55_64,edu_isced11_total,2019,100
+geo,sex_m,age_10yrbands_y55_64,edu_isced11_x,2009,0.07
 geo,sex_m,age_10yrbands_y55_64,edu_isced11_x,2010,0.84
 geo,sex_m,age_10yrbands_yge65,edu_aggregate_adv,2011,44.79
 geo,sex_m,age_10yrbands_yge65,edu_aggregate_adv,2012,55.96
@@ -2405,7 +2428,9 @@ geo,sex_m,age_10yrbands_yge65,edu_aggregate_total,2019,100
 geo,sex_m,age_10yrbands_yge65,edu_isced11_0,2009,10.09
 geo,sex_m,age_10yrbands_yge65,edu_isced11_1,2009,32.26
 geo,sex_m,age_10yrbands_yge65,edu_isced11_1,2010,22.27
+geo,sex_m,age_10yrbands_yge65,edu_isced11_2,2009,9.41
 geo,sex_m,age_10yrbands_yge65,edu_isced11_2,2010,17.94
+geo,sex_m,age_10yrbands_yge65,edu_isced11_3,2009,7.72
 geo,sex_m,age_10yrbands_yge65,edu_isced11_3,2011,30.25
 geo,sex_m,age_10yrbands_yge65,edu_isced11_3,2013,37.46
 geo,sex_m,age_10yrbands_yge65,edu_isced11_3,2014,53.56
@@ -2440,6 +2465,7 @@ geo,sex_m,age_10yrbands_yge65,edu_isced11_total,2016,100
 geo,sex_m,age_10yrbands_yge65,edu_isced11_total,2017,100
 geo,sex_m,age_10yrbands_yge65,edu_isced11_total,2018,100
 geo,sex_m,age_10yrbands_yge65,edu_isced11_total,2019,100
+geo,sex_m,age_10yrbands_yge65,edu_isced11_x,2009,1.35
 geo,sex_m,age_aggregate_total,edu_aggregate_adv,1998,29.67
 geo,sex_m,age_aggregate_total,edu_aggregate_adv,1999,34.5
 geo,sex_m,age_aggregate_total,edu_aggregate_adv,2000,34.45
@@ -2920,6 +2946,7 @@ geo,sex_m,age_aggregate_y25_54,edu_isced11_total,2016,100
 geo,sex_m,age_aggregate_y25_54,edu_isced11_total,2017,100
 geo,sex_m,age_aggregate_y25_54,edu_isced11_total,2018,100
 geo,sex_m,age_aggregate_y25_54,edu_isced11_total,2019,100
+geo,sex_m,age_aggregate_y25_54,edu_isced11_x,2009,0.07
 geo,sex_m,age_aggregate_y25_54,edu_isced11_x,2010,0.28
 geo,sex_m,age_aggregate_y55_64,edu_aggregate_adv,2011,57.76
 geo,sex_m,age_aggregate_y55_64,edu_aggregate_adv,2012,48.5
@@ -3011,6 +3038,7 @@ geo,sex_m,age_aggregate_y55_64,edu_isced11_total,2016,100
 geo,sex_m,age_aggregate_y55_64,edu_isced11_total,2017,100
 geo,sex_m,age_aggregate_y55_64,edu_isced11_total,2018,100
 geo,sex_m,age_aggregate_y55_64,edu_isced11_total,2019,100
+geo,sex_m,age_aggregate_y55_64,edu_isced11_x,2009,0.07
 geo,sex_m,age_aggregate_y55_64,edu_isced11_x,2010,0.84
 geo,sex_m,age_aggregate_yge65,edu_aggregate_adv,2011,44.79
 geo,sex_m,age_aggregate_yge65,edu_aggregate_adv,2012,55.96
@@ -3049,7 +3077,9 @@ geo,sex_m,age_aggregate_yge65,edu_aggregate_total,2019,100
 geo,sex_m,age_aggregate_yge65,edu_isced11_0,2009,10.09
 geo,sex_m,age_aggregate_yge65,edu_isced11_1,2009,32.26
 geo,sex_m,age_aggregate_yge65,edu_isced11_1,2010,22.27
+geo,sex_m,age_aggregate_yge65,edu_isced11_2,2009,9.41
 geo,sex_m,age_aggregate_yge65,edu_isced11_2,2010,17.94
+geo,sex_m,age_aggregate_yge65,edu_isced11_3,2009,7.72
 geo,sex_m,age_aggregate_yge65,edu_isced11_3,2011,30.25
 geo,sex_m,age_aggregate_yge65,edu_isced11_3,2013,37.46
 geo,sex_m,age_aggregate_yge65,edu_isced11_3,2014,53.56
@@ -3084,6 +3114,7 @@ geo,sex_m,age_aggregate_yge65,edu_isced11_total,2016,100
 geo,sex_m,age_aggregate_yge65,edu_isced11_total,2017,100
 geo,sex_m,age_aggregate_yge65,edu_isced11_total,2018,100
 geo,sex_m,age_aggregate_yge65,edu_isced11_total,2019,100
+geo,sex_m,age_aggregate_yge65,edu_isced11_x,2009,1.35
 geo,sex_m,age_ythadult_y15_24,edu_aggregate_adv,2011,23.25
 geo,sex_m,age_ythadult_y15_24,edu_aggregate_adv,2012,15.82
 geo,sex_m,age_ythadult_y15_24,edu_aggregate_adv,2013,18.9
@@ -3992,6 +4023,7 @@ geo,sex_t,age_10yrbands_y25_34,edu_isced11_total,2016,100
 geo,sex_t,age_10yrbands_y25_34,edu_isced11_total,2017,100
 geo,sex_t,age_10yrbands_y25_34,edu_isced11_total,2018,100
 geo,sex_t,age_10yrbands_y25_34,edu_isced11_total,2019,100
+geo,sex_t,age_10yrbands_y25_34,edu_isced11_x,2009,0.06
 geo,sex_t,age_10yrbands_y25_34,edu_isced11_x,2010,0.55
 geo,sex_t,age_10yrbands_y35_44,edu_aggregate_adv,2011,36.57
 geo,sex_t,age_10yrbands_y35_44,edu_aggregate_adv,2012,43.6
@@ -4101,6 +4133,7 @@ geo,sex_t,age_10yrbands_y35_44,edu_isced11_total,2016,100
 geo,sex_t,age_10yrbands_y35_44,edu_isced11_total,2017,100
 geo,sex_t,age_10yrbands_y35_44,edu_isced11_total,2018,100
 geo,sex_t,age_10yrbands_y35_44,edu_isced11_total,2019,100
+geo,sex_t,age_10yrbands_y35_44,edu_isced11_x,2009,0.11
 geo,sex_t,age_10yrbands_y45_54,edu_aggregate_adv,2011,44.5
 geo,sex_t,age_10yrbands_y45_54,edu_aggregate_adv,2012,39.93
 geo,sex_t,age_10yrbands_y45_54,edu_aggregate_adv,2013,45.96
@@ -4198,6 +4231,7 @@ geo,sex_t,age_10yrbands_y45_54,edu_isced11_total,2016,100
 geo,sex_t,age_10yrbands_y45_54,edu_isced11_total,2017,100
 geo,sex_t,age_10yrbands_y45_54,edu_isced11_total,2018,100
 geo,sex_t,age_10yrbands_y45_54,edu_isced11_total,2019,100
+geo,sex_t,age_10yrbands_y45_54,edu_isced11_x,2009,0.02
 geo,sex_t,age_10yrbands_y45_54,edu_isced11_x,2010,0.23
 geo,sex_t,age_10yrbands_y55_64,edu_aggregate_adv,2011,48.56
 geo,sex_t,age_10yrbands_y55_64,edu_aggregate_adv,2012,47.71
@@ -4295,6 +4329,7 @@ geo,sex_t,age_10yrbands_y55_64,edu_isced11_total,2016,100
 geo,sex_t,age_10yrbands_y55_64,edu_isced11_total,2017,100
 geo,sex_t,age_10yrbands_y55_64,edu_isced11_total,2018,100
 geo,sex_t,age_10yrbands_y55_64,edu_isced11_total,2019,100
+geo,sex_t,age_10yrbands_y55_64,edu_isced11_x,2009,0.04
 geo,sex_t,age_10yrbands_y55_64,edu_isced11_x,2010,0.64
 geo,sex_t,age_10yrbands_yge65,edu_aggregate_adv,2011,48.32
 geo,sex_t,age_10yrbands_yge65,edu_aggregate_adv,2012,52.54
@@ -4333,6 +4368,7 @@ geo,sex_t,age_10yrbands_yge65,edu_aggregate_total,2019,100
 geo,sex_t,age_10yrbands_yge65,edu_isced11_0,2009,10.02
 geo,sex_t,age_10yrbands_yge65,edu_isced11_1,2009,30.95
 geo,sex_t,age_10yrbands_yge65,edu_isced11_1,2010,28.09
+geo,sex_t,age_10yrbands_yge65,edu_isced11_2,2009,6.6
 geo,sex_t,age_10yrbands_yge65,edu_isced11_2,2010,14.1
 geo,sex_t,age_10yrbands_yge65,edu_isced11_3,2009,10.18
 geo,sex_t,age_10yrbands_yge65,edu_isced11_3,2010,13.13
@@ -4373,6 +4409,7 @@ geo,sex_t,age_10yrbands_yge65,edu_isced11_total,2016,100
 geo,sex_t,age_10yrbands_yge65,edu_isced11_total,2017,100
 geo,sex_t,age_10yrbands_yge65,edu_isced11_total,2018,100
 geo,sex_t,age_10yrbands_yge65,edu_isced11_total,2019,100
+geo,sex_t,age_10yrbands_yge65,edu_isced11_x,2009,0.94
 geo,sex_t,age_aggregate_total,edu_aggregate_adv,1998,30.34
 geo,sex_t,age_aggregate_total,edu_aggregate_adv,1999,35.5
 geo,sex_t,age_aggregate_total,edu_aggregate_adv,2000,33.08
@@ -4960,6 +4997,7 @@ geo,sex_t,age_aggregate_y55_64,edu_isced11_total,2016,100
 geo,sex_t,age_aggregate_y55_64,edu_isced11_total,2017,100
 geo,sex_t,age_aggregate_y55_64,edu_isced11_total,2018,100
 geo,sex_t,age_aggregate_y55_64,edu_isced11_total,2019,100
+geo,sex_t,age_aggregate_y55_64,edu_isced11_x,2009,0.04
 geo,sex_t,age_aggregate_y55_64,edu_isced11_x,2010,0.64
 geo,sex_t,age_aggregate_yge65,edu_aggregate_adv,2011,48.32
 geo,sex_t,age_aggregate_yge65,edu_aggregate_adv,2012,52.54
@@ -4998,6 +5036,7 @@ geo,sex_t,age_aggregate_yge65,edu_aggregate_total,2019,100
 geo,sex_t,age_aggregate_yge65,edu_isced11_0,2009,10.02
 geo,sex_t,age_aggregate_yge65,edu_isced11_1,2009,30.95
 geo,sex_t,age_aggregate_yge65,edu_isced11_1,2010,28.09
+geo,sex_t,age_aggregate_yge65,edu_isced11_2,2009,6.6
 geo,sex_t,age_aggregate_yge65,edu_isced11_2,2010,14.1
 geo,sex_t,age_aggregate_yge65,edu_isced11_3,2009,10.18
 geo,sex_t,age_aggregate_yge65,edu_isced11_3,2010,13.13
@@ -5038,6 +5077,7 @@ geo,sex_t,age_aggregate_yge65,edu_isced11_total,2016,100
 geo,sex_t,age_aggregate_yge65,edu_isced11_total,2017,100
 geo,sex_t,age_aggregate_yge65,edu_isced11_total,2018,100
 geo,sex_t,age_aggregate_yge65,edu_isced11_total,2019,100
+geo,sex_t,age_aggregate_yge65,edu_isced11_x,2009,0.94
 geo,sex_t,age_ythadult_y15_24,edu_aggregate_adv,2011,31.05
 geo,sex_t,age_ythadult_y15_24,edu_aggregate_adv,2012,21.92
 geo,sex_t,age_ythadult_y15_24,edu_aggregate_adv,2013,22.34

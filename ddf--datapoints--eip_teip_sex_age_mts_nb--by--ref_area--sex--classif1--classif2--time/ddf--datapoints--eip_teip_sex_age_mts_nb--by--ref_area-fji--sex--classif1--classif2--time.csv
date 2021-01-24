@@ -43,6 +43,7 @@ fji,sex_f,age_10yrbands_y15_24,mts_details_sgle,2016,38.822
 fji,sex_f,age_10yrbands_y15_24,mts_details_total,2005,60.442
 fji,sex_f,age_10yrbands_y15_24,mts_details_total,2011,50.399
 fji,sex_f,age_10yrbands_y15_24,mts_details_total,2016,49.816
+fji,sex_f,age_10yrbands_y15_24,mts_details_wid,2005,0.048
 fji,sex_f,age_10yrbands_y25_34,mts_aggregate_1,2005,5.113
 fji,sex_f,age_10yrbands_y25_34,mts_aggregate_1,2011,5.639
 fji,sex_f,age_10yrbands_y25_34,mts_aggregate_1,2016,3.989
@@ -150,6 +151,7 @@ fji,sex_f,age_10yrbands_yge65,mts_aggregate_total,2016,22.18
 fji,sex_f,age_10yrbands_yge65,mts_details_mrd,2005,4.229
 fji,sex_f,age_10yrbands_yge65,mts_details_mrd,2011,5.104
 fji,sex_f,age_10yrbands_yge65,mts_details_mrd,2016,7.123
+fji,sex_f,age_10yrbands_yge65,mts_details_sep,2005,0.125
 fji,sex_f,age_10yrbands_yge65,mts_details_sep,2016,0.52
 fji,sex_f,age_10yrbands_yge65,mts_details_sgle,2005,0.454
 fji,sex_f,age_10yrbands_yge65,mts_details_sgle,2011,0.348
@@ -204,6 +206,7 @@ fji,sex_f,age_aggregate_y15_24,mts_details_sgle,2016,38.822
 fji,sex_f,age_aggregate_y15_24,mts_details_total,2005,60.442
 fji,sex_f,age_aggregate_y15_24,mts_details_total,2011,50.399
 fji,sex_f,age_aggregate_y15_24,mts_details_total,2016,49.816
+fji,sex_f,age_aggregate_y15_24,mts_details_wid,2005,0.048
 fji,sex_f,age_aggregate_y25_54,mts_aggregate_1,2005,12.34
 fji,sex_f,age_aggregate_y25_54,mts_aggregate_1,2011,11.334
 fji,sex_f,age_aggregate_y25_54,mts_aggregate_1,2016,11.493
@@ -264,6 +267,7 @@ fji,sex_f,age_aggregate_yge65,mts_aggregate_total,2016,22.18
 fji,sex_f,age_aggregate_yge65,mts_details_mrd,2005,4.229
 fji,sex_f,age_aggregate_yge65,mts_details_mrd,2011,5.104
 fji,sex_f,age_aggregate_yge65,mts_details_mrd,2016,7.123
+fji,sex_f,age_aggregate_yge65,mts_details_sep,2005,0.125
 fji,sex_f,age_aggregate_yge65,mts_details_sep,2016,0.52
 fji,sex_f,age_aggregate_yge65,mts_details_sgle,2005,0.454
 fji,sex_f,age_aggregate_yge65,mts_details_sgle,2011,0.348
@@ -294,6 +298,7 @@ fji,sex_f,age_ythadult_y15_24,mts_details_sgle,2016,38.822
 fji,sex_f,age_ythadult_y15_24,mts_details_total,2005,60.442
 fji,sex_f,age_ythadult_y15_24,mts_details_total,2011,50.399
 fji,sex_f,age_ythadult_y15_24,mts_details_total,2016,49.816
+fji,sex_f,age_ythadult_y15_24,mts_details_wid,2005,0.048
 fji,sex_f,age_ythadult_y15_64,mts_aggregate_1,2005,66.18
 fji,sex_f,age_ythadult_y15_64,mts_aggregate_1,2011,58.855
 fji,sex_f,age_ythadult_y15_64,mts_aggregate_1,2016,60.325
@@ -438,12 +443,14 @@ fji,sex_m,age_10yrbands_y35_44,mts_aggregate_total,2016,2.571
 fji,sex_m,age_10yrbands_y35_44,mts_details_mrd,2005,0.963
 fji,sex_m,age_10yrbands_y35_44,mts_details_mrd,2011,1.088
 fji,sex_m,age_10yrbands_y35_44,mts_details_mrd,2016,1.679
+fji,sex_m,age_10yrbands_y35_44,mts_details_sep,2005,0.094
 fji,sex_m,age_10yrbands_y35_44,mts_details_sgle,2005,0.736
 fji,sex_m,age_10yrbands_y35_44,mts_details_sgle,2011,0.941
 fji,sex_m,age_10yrbands_y35_44,mts_details_sgle,2016,0.757
 fji,sex_m,age_10yrbands_y35_44,mts_details_total,2005,1.908
 fji,sex_m,age_10yrbands_y35_44,mts_details_total,2011,2.244
 fji,sex_m,age_10yrbands_y35_44,mts_details_total,2016,2.571
+fji,sex_m,age_10yrbands_y35_44,mts_details_wid,2005,0.114
 fji,sex_m,age_10yrbands_y45_54,mts_aggregate_1,2005,0.477
 fji,sex_m,age_10yrbands_y45_54,mts_aggregate_1,2011,0.789
 fji,sex_m,age_10yrbands_y45_54,mts_aggregate_1,2016,0.87
@@ -478,6 +485,7 @@ fji,sex_m,age_10yrbands_y55_64,mts_aggregate_total,2016,10.01
 fji,sex_m,age_10yrbands_y55_64,mts_details_mrd,2005,4.478
 fji,sex_m,age_10yrbands_y55_64,mts_details_mrd,2011,3.801
 fji,sex_m,age_10yrbands_y55_64,mts_details_mrd,2016,8.083
+fji,sex_m,age_10yrbands_y55_64,mts_details_sep,2005,0.051
 fji,sex_m,age_10yrbands_y55_64,mts_details_sep,2016,0.405
 fji,sex_m,age_10yrbands_y55_64,mts_details_sgle,2005,0.346
 fji,sex_m,age_10yrbands_y55_64,mts_details_sgle,2011,0.308
@@ -500,6 +508,7 @@ fji,sex_m,age_10yrbands_yge65,mts_aggregate_total,2016,12.477
 fji,sex_m,age_10yrbands_yge65,mts_details_mrd,2005,4.02
 fji,sex_m,age_10yrbands_yge65,mts_details_mrd,2011,5.598
 fji,sex_m,age_10yrbands_yge65,mts_details_mrd,2016,7.976
+fji,sex_m,age_10yrbands_yge65,mts_details_sep,2005,0.313
 fji,sex_m,age_10yrbands_yge65,mts_details_sgle,2005,0.368
 fji,sex_m,age_10yrbands_yge65,mts_details_sgle,2011,0.243
 fji,sex_m,age_10yrbands_yge65,mts_details_sgle,2016,0.328
@@ -563,6 +572,7 @@ fji,sex_m,age_aggregate_y25_54,mts_aggregate_total,2016,11.205
 fji,sex_m,age_aggregate_y25_54,mts_details_mrd,2005,4.209
 fji,sex_m,age_aggregate_y25_54,mts_details_mrd,2011,4.301
 fji,sex_m,age_aggregate_y25_54,mts_details_mrd,2016,6.623
+fji,sex_m,age_aggregate_y25_54,mts_details_sep,2005,0.094
 fji,sex_m,age_aggregate_y25_54,mts_details_sep,2011,0.306
 fji,sex_m,age_aggregate_y25_54,mts_details_sep,2016,0.352
 fji,sex_m,age_aggregate_y25_54,mts_details_sgle,2005,3.711
@@ -586,6 +596,7 @@ fji,sex_m,age_aggregate_y55_64,mts_aggregate_total,2016,10.01
 fji,sex_m,age_aggregate_y55_64,mts_details_mrd,2005,4.478
 fji,sex_m,age_aggregate_y55_64,mts_details_mrd,2011,3.801
 fji,sex_m,age_aggregate_y55_64,mts_details_mrd,2016,8.083
+fji,sex_m,age_aggregate_y55_64,mts_details_sep,2005,0.051
 fji,sex_m,age_aggregate_y55_64,mts_details_sep,2016,0.405
 fji,sex_m,age_aggregate_y55_64,mts_details_sgle,2005,0.346
 fji,sex_m,age_aggregate_y55_64,mts_details_sgle,2011,0.308
@@ -608,6 +619,7 @@ fji,sex_m,age_aggregate_yge65,mts_aggregate_total,2016,12.477
 fji,sex_m,age_aggregate_yge65,mts_details_mrd,2005,4.02
 fji,sex_m,age_aggregate_yge65,mts_details_mrd,2011,5.598
 fji,sex_m,age_aggregate_yge65,mts_details_mrd,2016,7.976
+fji,sex_m,age_aggregate_yge65,mts_details_sep,2005,0.313
 fji,sex_m,age_aggregate_yge65,mts_details_sgle,2005,0.368
 fji,sex_m,age_aggregate_yge65,mts_details_sgle,2011,0.243
 fji,sex_m,age_aggregate_yge65,mts_details_sgle,2016,0.328
@@ -745,6 +757,7 @@ fji,sex_t,age_10yrbands_y15_24,mts_details_sgle,2016,72.311
 fji,sex_t,age_10yrbands_y15_24,mts_details_total,2005,102.365
 fji,sex_t,age_10yrbands_y15_24,mts_details_total,2011,88.122
 fji,sex_t,age_10yrbands_y15_24,mts_details_total,2016,83.737
+fji,sex_t,age_10yrbands_y15_24,mts_details_wid,2005,0.048
 fji,sex_t,age_10yrbands_y25_34,mts_aggregate_1,2005,7.812
 fji,sex_t,age_10yrbands_y25_34,mts_aggregate_1,2011,8.226
 fji,sex_t,age_10yrbands_y25_34,mts_aggregate_1,2016,6.81
@@ -852,6 +865,7 @@ fji,sex_t,age_10yrbands_yge65,mts_aggregate_total,2016,34.657
 fji,sex_t,age_10yrbands_yge65,mts_details_mrd,2005,8.249
 fji,sex_t,age_10yrbands_yge65,mts_details_mrd,2011,10.702
 fji,sex_t,age_10yrbands_yge65,mts_details_mrd,2016,15.099
+fji,sex_t,age_10yrbands_yge65,mts_details_sep,2005,0.438
 fji,sex_t,age_10yrbands_yge65,mts_details_sep,2011,0.223
 fji,sex_t,age_10yrbands_yge65,mts_details_sep,2016,0.646
 fji,sex_t,age_10yrbands_yge65,mts_details_sgle,2005,0.821
@@ -907,6 +921,7 @@ fji,sex_t,age_aggregate_y15_24,mts_details_sgle,2016,72.311
 fji,sex_t,age_aggregate_y15_24,mts_details_total,2005,102.365
 fji,sex_t,age_aggregate_y15_24,mts_details_total,2011,88.122
 fji,sex_t,age_aggregate_y15_24,mts_details_total,2016,83.737
+fji,sex_t,age_aggregate_y15_24,mts_details_wid,2005,0.048
 fji,sex_t,age_aggregate_y25_54,mts_aggregate_1,2005,16.46
 fji,sex_t,age_aggregate_y25_54,mts_aggregate_1,2011,15.867
 fji,sex_t,age_aggregate_y25_54,mts_aggregate_1,2016,16.075
@@ -967,6 +982,7 @@ fji,sex_t,age_aggregate_yge65,mts_aggregate_total,2016,34.657
 fji,sex_t,age_aggregate_yge65,mts_details_mrd,2005,8.249
 fji,sex_t,age_aggregate_yge65,mts_details_mrd,2011,10.702
 fji,sex_t,age_aggregate_yge65,mts_details_mrd,2016,15.099
+fji,sex_t,age_aggregate_yge65,mts_details_sep,2005,0.438
 fji,sex_t,age_aggregate_yge65,mts_details_sep,2011,0.223
 fji,sex_t,age_aggregate_yge65,mts_details_sep,2016,0.646
 fji,sex_t,age_aggregate_yge65,mts_details_sgle,2005,0.821
@@ -998,6 +1014,7 @@ fji,sex_t,age_ythadult_y15_24,mts_details_sgle,2016,72.311
 fji,sex_t,age_ythadult_y15_24,mts_details_total,2005,102.365
 fji,sex_t,age_ythadult_y15_24,mts_details_total,2011,88.122
 fji,sex_t,age_ythadult_y15_24,mts_details_total,2016,83.737
+fji,sex_t,age_ythadult_y15_24,mts_details_wid,2005,0.048
 fji,sex_t,age_ythadult_y15_64,mts_aggregate_1,2005,113.202
 fji,sex_t,age_ythadult_y15_64,mts_aggregate_1,2011,101.96
 fji,sex_t,age_ythadult_y15_64,mts_aggregate_1,2016,100.324

@@ -22,6 +22,7 @@ brb,sex_f,eco_aggregate_agr,2000,0.3
 brb,sex_f,eco_aggregate_agr,2001,0.2
 brb,sex_f,eco_aggregate_agr,2002,0.2
 brb,sex_f,eco_aggregate_agr,2003,0.1
+brb,sex_f,eco_aggregate_agr,2015,0.057
 brb,sex_f,eco_aggregate_agr,2017,0.126
 brb,sex_f,eco_aggregate_con,1981,0.1
 brb,sex_f,eco_aggregate_con,1985,0.2
@@ -81,6 +82,7 @@ brb,sex_f,eco_aggregate_mel,1997,0.1
 brb,sex_f,eco_aggregate_mel,2001,0.1
 brb,sex_f,eco_aggregate_mel,2002,0.1
 brb,sex_f,eco_aggregate_mel,2003,0.1
+brb,sex_f,eco_aggregate_mel,2015,0.039
 brb,sex_f,eco_aggregate_mkt,1981,1.6
 brb,sex_f,eco_aggregate_mkt,1982,2.5
 brb,sex_f,eco_aggregate_mkt,1983,2.7
@@ -384,12 +386,14 @@ brb,sex_f,eco_isic2_total,2000,7.9
 brb,sex_f,eco_isic2_total,2001,8.3
 brb,sex_f,eco_isic2_total,2002,8.4
 brb,sex_f,eco_isic2_total,2003,8.9
+brb,sex_f,eco_isic4_a,2015,0.057
 brb,sex_f,eco_isic4_a,2017,0.126
 brb,sex_f,eco_isic4_c,2015,0.375
 brb,sex_f,eco_isic4_c,2016,0.263
 brb,sex_f,eco_isic4_c,2017,0.121
 brb,sex_f,eco_isic4_c,2018,0.313
 brb,sex_f,eco_isic4_c,2019,0.219
+brb,sex_f,eco_isic4_e,2015,0.039
 brb,sex_f,eco_isic4_f,2015,0.148
 brb,sex_f,eco_isic4_f,2016,0.087
 brb,sex_f,eco_isic4_f,2017,0.134
@@ -399,6 +403,7 @@ brb,sex_f,eco_isic4_g,2016,1.152
 brb,sex_f,eco_isic4_g,2017,1.172
 brb,sex_f,eco_isic4_g,2018,1.119
 brb,sex_f,eco_isic4_g,2019,0.644
+brb,sex_f,eco_isic4_h,2015,0.074
 brb,sex_f,eco_isic4_h,2019,0.164
 brb,sex_f,eco_isic4_i,2015,1.064
 brb,sex_f,eco_isic4_i,2016,1.239
@@ -414,6 +419,8 @@ brb,sex_f,eco_isic4_k,2016,0.259
 brb,sex_f,eco_isic4_k,2017,0.221
 brb,sex_f,eco_isic4_k,2018,0.232
 brb,sex_f,eco_isic4_k,2019,0.208
+brb,sex_f,eco_isic4_l,2015,0.036
+brb,sex_f,eco_isic4_m,2015,0.058
 brb,sex_f,eco_isic4_m,2016,0.144
 brb,sex_f,eco_isic4_m,2017,0.118
 brb,sex_f,eco_isic4_m,2018,0.113
@@ -482,6 +489,7 @@ brb,sex_f,eco_sector_agr,2000,0.3
 brb,sex_f,eco_sector_agr,2001,0.2
 brb,sex_f,eco_sector_agr,2002,0.2
 brb,sex_f,eco_sector_agr,2003,0.1
+brb,sex_f,eco_sector_agr,2015,0.057
 brb,sex_f,eco_sector_agr,2017,0.126
 brb,sex_f,eco_sector_ind,1981,2.2
 brb,sex_f,eco_sector_ind,1982,2
@@ -534,6 +542,7 @@ brb,sex_f,eco_sector_nag,2000,7.6
 brb,sex_f,eco_sector_nag,2001,8.1
 brb,sex_f,eco_sector_nag,2002,8.2
 brb,sex_f,eco_sector_nag,2003,8.8
+brb,sex_f,eco_sector_nag,2015,5.609
 brb,sex_f,eco_sector_nag,2017,5.343
 brb,sex_f,eco_sector_ser,1981,3.4
 brb,sex_f,eco_sector_ser,1982,4.9
@@ -1029,6 +1038,7 @@ brb,sex_m,eco_isic4_c,2016,0.279
 brb,sex_m,eco_isic4_c,2017,0.207
 brb,sex_m,eco_isic4_c,2018,0.197
 brb,sex_m,eco_isic4_c,2019,0.272
+brb,sex_m,eco_isic4_d,2015,0.042
 brb,sex_m,eco_isic4_e,2015,0.111
 brb,sex_m,eco_isic4_e,2019,0.125
 brb,sex_m,eco_isic4_f,2015,2.511
@@ -1059,21 +1069,27 @@ brb,sex_m,eco_isic4_k,2015,0.155
 brb,sex_m,eco_isic4_k,2016,0.112
 brb,sex_m,eco_isic4_k,2017,0.122
 brb,sex_m,eco_isic4_k,2018,0.106
+brb,sex_m,eco_isic4_l,2015,0.056
+brb,sex_m,eco_isic4_m,2015,0.057
 brb,sex_m,eco_isic4_m,2016,0.108
 brb,sex_m,eco_isic4_n,2015,0.536
 brb,sex_m,eco_isic4_n,2016,0.581
 brb,sex_m,eco_isic4_n,2017,0.35
 brb,sex_m,eco_isic4_n,2018,0.374
 brb,sex_m,eco_isic4_n,2019,0.501
+brb,sex_m,eco_isic4_o,2015,0.058
 brb,sex_m,eco_isic4_o,2016,0.094
 brb,sex_m,eco_isic4_o,2017,0.136
 brb,sex_m,eco_isic4_o,2019,0.153
+brb,sex_m,eco_isic4_p,2015,0.08
+brb,sex_m,eco_isic4_q,2015,0.02
 brb,sex_m,eco_isic4_q,2016,0.093
 brb,sex_m,eco_isic4_r,2015,0.111
 brb,sex_m,eco_isic4_r,2016,0.131
 brb,sex_m,eco_isic4_r,2017,0.093
 brb,sex_m,eco_isic4_r,2018,0.152
 brb,sex_m,eco_isic4_r,2019,0.196
+brb,sex_m,eco_isic4_s,2015,0.018
 brb,sex_m,eco_isic4_s,2018,0.125
 brb,sex_m,eco_isic4_s,2019,0.099
 brb,sex_m,eco_isic4_t,2015,0.111
@@ -1085,6 +1101,7 @@ brb,sex_m,eco_isic4_total,2016,5.013
 brb,sex_m,eco_isic4_total,2017,5.423
 brb,sex_m,eco_isic4_total,2018,5.084
 brb,sex_m,eco_isic4_total,2019,5.88
+brb,sex_m,eco_isic4_u,2015,0.02
 brb,sex_m,eco_isic4_u,2018,0.111
 brb,sex_m,eco_isic4_u,2019,0.287
 brb,sex_m,eco_isic4_x,2015,0.551
@@ -1688,6 +1705,7 @@ brb,sex_t,eco_isic4_c,2016,0.542
 brb,sex_t,eco_isic4_c,2017,0.328
 brb,sex_t,eco_isic4_c,2018,0.511
 brb,sex_t,eco_isic4_c,2019,0.491
+brb,sex_t,eco_isic4_d,2015,0.042
 brb,sex_t,eco_isic4_d,2017,0.096
 brb,sex_t,eco_isic4_d,2018,0.134
 brb,sex_t,eco_isic4_e,2015,0.15
@@ -1769,6 +1787,7 @@ brb,sex_t,eco_isic4_total,2016,10.599
 brb,sex_t,eco_isic4_total,2017,10.891
 brb,sex_t,eco_isic4_total,2018,10.386
 brb,sex_t,eco_isic4_total,2019,10.316
+brb,sex_t,eco_isic4_u,2015,0.02
 brb,sex_t,eco_isic4_u,2018,0.157
 brb,sex_t,eco_isic4_u,2019,0.622
 brb,sex_t,eco_isic4_x,2015,0.976

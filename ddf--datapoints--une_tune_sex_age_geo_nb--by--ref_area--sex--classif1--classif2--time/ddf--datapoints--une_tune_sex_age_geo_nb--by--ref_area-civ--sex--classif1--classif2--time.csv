@@ -39,6 +39,7 @@ civ,sex_f,age_10yrbands_y35_44,geo_cov_nat,2012,22.598
 civ,sex_f,age_10yrbands_y35_44,geo_cov_nat,2013,31.075
 civ,sex_f,age_10yrbands_y35_44,geo_cov_nat,2016,20.784
 civ,sex_f,age_10yrbands_y35_44,geo_cov_nat,2017,16.823
+civ,sex_f,age_10yrbands_y35_44,geo_cov_rur,2012,1.465
 civ,sex_f,age_10yrbands_y35_44,geo_cov_rur,2013,3.892
 civ,sex_f,age_10yrbands_y35_44,geo_cov_urb,2012,21.134
 civ,sex_f,age_10yrbands_y35_44,geo_cov_urb,2013,27.183
@@ -57,6 +58,8 @@ civ,sex_f,age_10yrbands_y55_64,geo_cov_nat,2012,2.576
 civ,sex_f,age_10yrbands_y55_64,geo_cov_nat,2013,7.591
 civ,sex_f,age_10yrbands_y55_64,geo_cov_urb,2012,2.576
 civ,sex_f,age_10yrbands_y55_64,geo_cov_urb,2013,6.863
+civ,sex_f,age_10yrbands_yge65,geo_cov_nat,2012,1.153
+civ,sex_f,age_10yrbands_yge65,geo_cov_urb,2012,1.153
 civ,sex_f,age_aggregate_total,geo_cov_nat,2012,170.771
 civ,sex_f,age_aggregate_total,geo_cov_nat,2013,217.551
 civ,sex_f,age_aggregate_total,geo_cov_nat,2016,119.061
@@ -97,6 +100,8 @@ civ,sex_f,age_aggregate_y55_64,geo_cov_nat,2012,2.576
 civ,sex_f,age_aggregate_y55_64,geo_cov_nat,2013,7.591
 civ,sex_f,age_aggregate_y55_64,geo_cov_urb,2012,2.576
 civ,sex_f,age_aggregate_y55_64,geo_cov_urb,2013,6.863
+civ,sex_f,age_aggregate_yge65,geo_cov_nat,2012,1.153
+civ,sex_f,age_aggregate_yge65,geo_cov_urb,2012,1.153
 civ,sex_f,age_ythadult_y15_24,geo_cov_nat,2012,72.151
 civ,sex_f,age_ythadult_y15_24,geo_cov_nat,2013,71.831
 civ,sex_f,age_ythadult_y15_24,geo_cov_nat,2016,37.153
@@ -193,6 +198,7 @@ civ,sex_m,age_10yrbands_y45_54,geo_cov_nat,2012,10.159
 civ,sex_m,age_10yrbands_y45_54,geo_cov_nat,2013,13.079
 civ,sex_m,age_10yrbands_y45_54,geo_cov_nat,2016,9.385
 civ,sex_m,age_10yrbands_y45_54,geo_cov_nat,2017,10.007
+civ,sex_m,age_10yrbands_y45_54,geo_cov_rur,2012,0.931
 civ,sex_m,age_10yrbands_y45_54,geo_cov_urb,2012,9.228
 civ,sex_m,age_10yrbands_y45_54,geo_cov_urb,2013,11.08
 civ,sex_m,age_10yrbands_y45_54,geo_cov_urb,2016,5.224
@@ -205,7 +211,9 @@ civ,sex_m,age_10yrbands_y55_64,geo_cov_urb,2012,3.308
 civ,sex_m,age_10yrbands_y55_64,geo_cov_urb,2013,9.66
 civ,sex_m,age_10yrbands_y55_64,geo_cov_urb,2016,4.73
 civ,sex_m,age_10yrbands_y55_64,geo_cov_urb,2017,4.235
+civ,sex_m,age_10yrbands_yge65,geo_cov_nat,2012,0.562
 civ,sex_m,age_10yrbands_yge65,geo_cov_nat,2013,2.691
+civ,sex_m,age_10yrbands_yge65,geo_cov_urb,2012,0.562
 civ,sex_m,age_10yrbands_yge65,geo_cov_urb,2013,2.691
 civ,sex_m,age_aggregate_total,geo_cov_nat,2012,190.639
 civ,sex_m,age_aggregate_total,geo_cov_nat,2013,182.627
@@ -251,7 +259,9 @@ civ,sex_m,age_aggregate_y55_64,geo_cov_urb,2012,3.308
 civ,sex_m,age_aggregate_y55_64,geo_cov_urb,2013,9.66
 civ,sex_m,age_aggregate_y55_64,geo_cov_urb,2016,4.73
 civ,sex_m,age_aggregate_y55_64,geo_cov_urb,2017,4.235
+civ,sex_m,age_aggregate_yge65,geo_cov_nat,2012,0.562
 civ,sex_m,age_aggregate_yge65,geo_cov_nat,2013,2.691
+civ,sex_m,age_aggregate_yge65,geo_cov_urb,2012,0.562
 civ,sex_m,age_aggregate_yge65,geo_cov_urb,2013,2.691
 civ,sex_m,age_ythadult_y15_24,geo_cov_nat,2012,70.691
 civ,sex_m,age_ythadult_y15_24,geo_cov_nat,2013,47.417
@@ -350,6 +360,7 @@ civ,sex_t,age_10yrbands_y45_54,geo_cov_nat,2012,14.278
 civ,sex_t,age_10yrbands_y45_54,geo_cov_nat,2013,25.357
 civ,sex_t,age_10yrbands_y45_54,geo_cov_nat,2016,15.293
 civ,sex_t,age_10yrbands_y45_54,geo_cov_nat,2017,14.299
+civ,sex_t,age_10yrbands_y45_54,geo_cov_rur,2012,0.931
 civ,sex_t,age_10yrbands_y45_54,geo_cov_rur,2013,6.775
 civ,sex_t,age_10yrbands_y45_54,geo_cov_rur,2016,6.203
 civ,sex_t,age_10yrbands_y45_54,geo_cov_rur,2017,1.679

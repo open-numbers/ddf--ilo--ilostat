@@ -5,6 +5,7 @@ cmr,sex_f,eco_aggregate_agr,mts_aggregate_2,2007,1617.177
 cmr,sex_f,eco_aggregate_agr,mts_aggregate_2,2014,1395.033
 cmr,sex_f,eco_aggregate_agr,mts_aggregate_total,2007,2641.199
 cmr,sex_f,eco_aggregate_agr,mts_aggregate_total,2014,2175.283
+cmr,sex_f,eco_aggregate_agr,mts_aggregate_x,2007,0.285
 cmr,sex_f,eco_aggregate_agr,mts_details_mrd,2007,1529.595
 cmr,sex_f,eco_aggregate_agr,mts_details_mrd,2014,1347.515
 cmr,sex_f,eco_aggregate_agr,mts_details_sep,2007,114.822
@@ -17,9 +18,14 @@ cmr,sex_f,eco_aggregate_agr,mts_details_union,2007,87.582
 cmr,sex_f,eco_aggregate_agr,mts_details_union,2014,47.517
 cmr,sex_f,eco_aggregate_agr,mts_details_wid,2007,399.19
 cmr,sex_f,eco_aggregate_agr,mts_details_wid,2014,339.648
+cmr,sex_f,eco_aggregate_agr,mts_details_x,2007,0.285
+cmr,sex_f,eco_aggregate_con,mts_aggregate_1,2007,0.418
 cmr,sex_f,eco_aggregate_con,mts_aggregate_1,2014,2.966
+cmr,sex_f,eco_aggregate_con,mts_aggregate_2,2007,0.034
 cmr,sex_f,eco_aggregate_con,mts_aggregate_total,2007,0.452
 cmr,sex_f,eco_aggregate_con,mts_aggregate_total,2014,4.016
+cmr,sex_f,eco_aggregate_con,mts_details_mrd,2007,0.034
+cmr,sex_f,eco_aggregate_con,mts_details_sgle,2007,0.418
 cmr,sex_f,eco_aggregate_con,mts_details_sgle,2014,2.103
 cmr,sex_f,eco_aggregate_con,mts_details_total,2007,0.452
 cmr,sex_f,eco_aggregate_con,mts_details_total,2014,4.016
@@ -29,6 +35,7 @@ cmr,sex_f,eco_aggregate_man,mts_aggregate_2,2007,198.993
 cmr,sex_f,eco_aggregate_man,mts_aggregate_2,2014,238.673
 cmr,sex_f,eco_aggregate_man,mts_aggregate_total,2007,376.035
 cmr,sex_f,eco_aggregate_man,mts_aggregate_total,2014,413.078
+cmr,sex_f,eco_aggregate_man,mts_aggregate_x,2007,0.6
 cmr,sex_f,eco_aggregate_man,mts_details_mrd,2007,183.934
 cmr,sex_f,eco_aggregate_man,mts_details_mrd,2014,215.381
 cmr,sex_f,eco_aggregate_man,mts_details_sep,2007,16.508
@@ -41,6 +48,7 @@ cmr,sex_f,eco_aggregate_man,mts_details_union,2007,15.059
 cmr,sex_f,eco_aggregate_man,mts_details_union,2014,23.292
 cmr,sex_f,eco_aggregate_man,mts_details_wid,2007,36.591
 cmr,sex_f,eco_aggregate_man,mts_details_wid,2014,38.336
+cmr,sex_f,eco_aggregate_man,mts_details_x,2007,0.6
 cmr,sex_f,eco_aggregate_mel,mts_aggregate_1,2007,0.572
 cmr,sex_f,eco_aggregate_mel,mts_aggregate_1,2014,5.275
 cmr,sex_f,eco_aggregate_mel,mts_aggregate_2,2007,2.406
@@ -53,6 +61,7 @@ cmr,sex_f,eco_aggregate_mel,mts_details_sgle,2007,0.572
 cmr,sex_f,eco_aggregate_mel,mts_details_sgle,2014,2.241
 cmr,sex_f,eco_aggregate_mel,mts_details_total,2007,2.978
 cmr,sex_f,eco_aggregate_mel,mts_details_total,2014,18.496
+cmr,sex_f,eco_aggregate_mel,mts_details_union,2007,0.137
 cmr,sex_f,eco_aggregate_mel,mts_details_wid,2014,3.034
 cmr,sex_f,eco_aggregate_mkt,mts_aggregate_1,2007,323.242
 cmr,sex_f,eco_aggregate_mkt,mts_aggregate_1,2014,461.813
@@ -96,6 +105,7 @@ cmr,sex_f,eco_aggregate_total,mts_aggregate_2,2007,2354.964
 cmr,sex_f,eco_aggregate_total,mts_aggregate_2,2014,2461.19
 cmr,sex_f,eco_aggregate_total,mts_aggregate_total,2007,4058.592
 cmr,sex_f,eco_aggregate_total,mts_aggregate_total,2014,4098.838
+cmr,sex_f,eco_aggregate_total,mts_aggregate_x,2007,0.885
 cmr,sex_f,eco_aggregate_total,mts_details_mrd,2007,2188.47
 cmr,sex_f,eco_aggregate_total,mts_details_mrd,2014,2261.121
 cmr,sex_f,eco_aggregate_total,mts_details_sep,2007,184.415
@@ -108,6 +118,7 @@ cmr,sex_f,eco_aggregate_total,mts_details_union,2007,166.494
 cmr,sex_f,eco_aggregate_total,mts_details_union,2014,200.069
 cmr,sex_f,eco_aggregate_total,mts_details_wid,2007,525.814
 cmr,sex_f,eco_aggregate_total,mts_details_wid,2014,518.519
+cmr,sex_f,eco_aggregate_total,mts_details_x,2007,0.885
 cmr,sex_f,eco_aggregate_x,mts_aggregate_1,2007,21.636
 cmr,sex_f,eco_aggregate_x,mts_aggregate_2,2007,27.724
 cmr,sex_f,eco_aggregate_x,mts_aggregate_2,2014,3.488
@@ -119,6 +130,7 @@ cmr,sex_f,eco_aggregate_x,mts_details_sep,2007,1.571
 cmr,sex_f,eco_aggregate_x,mts_details_sgle,2007,12.991
 cmr,sex_f,eco_aggregate_x,mts_details_total,2007,49.36
 cmr,sex_f,eco_aggregate_x,mts_details_total,2014,5.086
+cmr,sex_f,eco_aggregate_x,mts_details_union,2007,1.073
 cmr,sex_f,eco_aggregate_x,mts_details_wid,2007,7.074
 cmr,sex_f,eco_sector_agr,mts_aggregate_1,2007,1023.737
 cmr,sex_f,eco_sector_agr,mts_aggregate_1,2014,780.25
@@ -126,6 +138,7 @@ cmr,sex_f,eco_sector_agr,mts_aggregate_2,2007,1617.177
 cmr,sex_f,eco_sector_agr,mts_aggregate_2,2014,1395.033
 cmr,sex_f,eco_sector_agr,mts_aggregate_total,2007,2641.199
 cmr,sex_f,eco_sector_agr,mts_aggregate_total,2014,2175.283
+cmr,sex_f,eco_sector_agr,mts_aggregate_x,2007,0.285
 cmr,sex_f,eco_sector_agr,mts_details_mrd,2007,1529.595
 cmr,sex_f,eco_sector_agr,mts_details_mrd,2014,1347.515
 cmr,sex_f,eco_sector_agr,mts_details_sep,2007,114.822
@@ -138,12 +151,14 @@ cmr,sex_f,eco_sector_agr,mts_details_union,2007,87.582
 cmr,sex_f,eco_sector_agr,mts_details_union,2014,47.517
 cmr,sex_f,eco_sector_agr,mts_details_wid,2007,399.19
 cmr,sex_f,eco_sector_agr,mts_details_wid,2014,339.648
+cmr,sex_f,eco_sector_agr,mts_details_x,2007,0.285
 cmr,sex_f,eco_sector_ind,mts_aggregate_1,2007,177.432
 cmr,sex_f,eco_sector_ind,mts_aggregate_1,2014,182.646
 cmr,sex_f,eco_sector_ind,mts_aggregate_2,2007,201.433
 cmr,sex_f,eco_sector_ind,mts_aggregate_2,2014,252.945
 cmr,sex_f,eco_sector_ind,mts_aggregate_total,2007,379.465
 cmr,sex_f,eco_sector_ind,mts_aggregate_total,2014,435.59
+cmr,sex_f,eco_sector_ind,mts_aggregate_x,2007,0.6
 cmr,sex_f,eco_sector_ind,mts_details_mrd,2007,186.237
 cmr,sex_f,eco_sector_ind,mts_details_mrd,2014,227.995
 cmr,sex_f,eco_sector_ind,mts_details_sep,2007,16.508
@@ -156,12 +171,14 @@ cmr,sex_f,eco_sector_ind,mts_details_union,2007,15.196
 cmr,sex_f,eco_sector_ind,mts_details_union,2014,24.95
 cmr,sex_f,eco_sector_ind,mts_details_wid,2007,36.591
 cmr,sex_f,eco_sector_ind,mts_details_wid,2014,41.37
+cmr,sex_f,eco_sector_ind,mts_details_x,2007,0.6
 cmr,sex_f,eco_sector_nag,mts_aggregate_1,2007,679.006
 cmr,sex_f,eco_sector_nag,mts_aggregate_1,2014,857.398
 cmr,sex_f,eco_sector_nag,mts_aggregate_2,2007,737.787
 cmr,sex_f,eco_sector_nag,mts_aggregate_2,2014,1066.157
 cmr,sex_f,eco_sector_nag,mts_aggregate_total,2007,1417.393
 cmr,sex_f,eco_sector_nag,mts_aggregate_total,2014,1923.555
+cmr,sex_f,eco_sector_nag,mts_aggregate_x,2007,0.6
 cmr,sex_f,eco_sector_nag,mts_details_mrd,2007,658.875
 cmr,sex_f,eco_sector_nag,mts_details_mrd,2014,913.605
 cmr,sex_f,eco_sector_nag,mts_details_sep,2007,69.593
@@ -174,6 +191,7 @@ cmr,sex_f,eco_sector_nag,mts_details_union,2007,78.912
 cmr,sex_f,eco_sector_nag,mts_details_union,2014,152.552
 cmr,sex_f,eco_sector_nag,mts_details_wid,2007,126.624
 cmr,sex_f,eco_sector_nag,mts_details_wid,2014,178.872
+cmr,sex_f,eco_sector_nag,mts_details_x,2007,0.6
 cmr,sex_f,eco_sector_ser,mts_aggregate_1,2007,479.938
 cmr,sex_f,eco_sector_ser,mts_aggregate_1,2014,673.154
 cmr,sex_f,eco_sector_ser,mts_aggregate_2,2007,508.63
@@ -198,6 +216,7 @@ cmr,sex_f,eco_sector_total,mts_aggregate_2,2007,2354.964
 cmr,sex_f,eco_sector_total,mts_aggregate_2,2014,2461.19
 cmr,sex_f,eco_sector_total,mts_aggregate_total,2007,4058.592
 cmr,sex_f,eco_sector_total,mts_aggregate_total,2014,4098.838
+cmr,sex_f,eco_sector_total,mts_aggregate_x,2007,0.885
 cmr,sex_f,eco_sector_total,mts_details_mrd,2007,2188.47
 cmr,sex_f,eco_sector_total,mts_details_mrd,2014,2261.121
 cmr,sex_f,eco_sector_total,mts_details_sep,2007,184.415
@@ -210,6 +229,7 @@ cmr,sex_f,eco_sector_total,mts_details_union,2007,166.494
 cmr,sex_f,eco_sector_total,mts_details_union,2014,200.069
 cmr,sex_f,eco_sector_total,mts_details_wid,2007,525.814
 cmr,sex_f,eco_sector_total,mts_details_wid,2014,518.519
+cmr,sex_f,eco_sector_total,mts_details_x,2007,0.885
 cmr,sex_f,eco_sector_x,mts_aggregate_1,2007,21.636
 cmr,sex_f,eco_sector_x,mts_aggregate_2,2007,27.724
 cmr,sex_f,eco_sector_x,mts_aggregate_2,2014,3.488
@@ -221,6 +241,7 @@ cmr,sex_f,eco_sector_x,mts_details_sep,2007,1.571
 cmr,sex_f,eco_sector_x,mts_details_sgle,2007,12.991
 cmr,sex_f,eco_sector_x,mts_details_total,2007,49.36
 cmr,sex_f,eco_sector_x,mts_details_total,2014,5.086
+cmr,sex_f,eco_sector_x,mts_details_union,2007,1.073
 cmr,sex_f,eco_sector_x,mts_details_wid,2007,7.074
 cmr,sex_m,eco_aggregate_agr,mts_aggregate_1,2007,946.082
 cmr,sex_m,eco_aggregate_agr,mts_aggregate_1,2014,627.614
@@ -228,6 +249,7 @@ cmr,sex_m,eco_aggregate_agr,mts_aggregate_2,2007,1222.186
 cmr,sex_m,eco_aggregate_agr,mts_aggregate_2,2014,1207.689
 cmr,sex_m,eco_aggregate_agr,mts_aggregate_total,2007,2168.847
 cmr,sex_m,eco_aggregate_agr,mts_aggregate_total,2014,1835.302
+cmr,sex_m,eco_aggregate_agr,mts_aggregate_x,2007,0.579
 cmr,sex_m,eco_aggregate_agr,mts_details_mrd,2007,1146.098
 cmr,sex_m,eco_aggregate_agr,mts_details_mrd,2014,1154.892
 cmr,sex_m,eco_aggregate_agr,mts_details_sep,2007,60.653
@@ -240,6 +262,7 @@ cmr,sex_m,eco_aggregate_agr,mts_details_union,2007,76.088
 cmr,sex_m,eco_aggregate_agr,mts_details_union,2014,52.796
 cmr,sex_m,eco_aggregate_agr,mts_details_wid,2007,42.796
 cmr,sex_m,eco_aggregate_agr,mts_details_wid,2014,29.609
+cmr,sex_m,eco_aggregate_agr,mts_details_x,2007,0.579
 cmr,sex_m,eco_aggregate_con,mts_aggregate_1,2007,69.346
 cmr,sex_m,eco_aggregate_con,mts_aggregate_1,2014,120.147
 cmr,sex_m,eco_aggregate_con,mts_aggregate_2,2007,92.787
@@ -284,12 +307,14 @@ cmr,sex_m,eco_aggregate_mel,mts_aggregate_total,2007,31.046
 cmr,sex_m,eco_aggregate_mel,mts_aggregate_total,2014,62.54
 cmr,sex_m,eco_aggregate_mel,mts_details_mrd,2007,16.591
 cmr,sex_m,eco_aggregate_mel,mts_details_mrd,2014,31.988
+cmr,sex_m,eco_aggregate_mel,mts_details_sep,2007,0.53
 cmr,sex_m,eco_aggregate_mel,mts_details_sgle,2007,10.292
 cmr,sex_m,eco_aggregate_mel,mts_details_sgle,2014,22.519
 cmr,sex_m,eco_aggregate_mel,mts_details_total,2007,31.046
 cmr,sex_m,eco_aggregate_mel,mts_details_total,2014,62.54
 cmr,sex_m,eco_aggregate_mel,mts_details_union,2007,3.317
 cmr,sex_m,eco_aggregate_mel,mts_details_union,2014,6.489
+cmr,sex_m,eco_aggregate_mel,mts_details_wid,2007,0.316
 cmr,sex_m,eco_aggregate_mkt,mts_aggregate_1,2007,444.581
 cmr,sex_m,eco_aggregate_mkt,mts_aggregate_1,2014,513.482
 cmr,sex_m,eco_aggregate_mkt,mts_aggregate_2,2007,446.155
@@ -332,6 +357,7 @@ cmr,sex_m,eco_aggregate_total,mts_aggregate_2,2007,2297.364
 cmr,sex_m,eco_aggregate_total,mts_aggregate_2,2014,2650.17
 cmr,sex_m,eco_aggregate_total,mts_aggregate_total,2007,4135.291
 cmr,sex_m,eco_aggregate_total,mts_aggregate_total,2014,4335.923
+cmr,sex_m,eco_aggregate_total,mts_aggregate_x,2007,0.579
 cmr,sex_m,eco_aggregate_total,mts_details_mrd,2007,2075.973
 cmr,sex_m,eco_aggregate_total,mts_details_mrd,2014,2349.448
 cmr,sex_m,eco_aggregate_total,mts_details_sep,2007,94.513
@@ -344,6 +370,7 @@ cmr,sex_m,eco_aggregate_total,mts_details_union,2007,221.391
 cmr,sex_m,eco_aggregate_total,mts_details_union,2014,300.722
 cmr,sex_m,eco_aggregate_total,mts_details_wid,2007,59.697
 cmr,sex_m,eco_aggregate_total,mts_details_wid,2014,57.915
+cmr,sex_m,eco_aggregate_total,mts_details_x,2007,0.579
 cmr,sex_m,eco_aggregate_x,mts_aggregate_1,2007,46.632
 cmr,sex_m,eco_aggregate_x,mts_aggregate_1,2014,2.761
 cmr,sex_m,eco_aggregate_x,mts_aggregate_2,2007,58.013
@@ -358,12 +385,14 @@ cmr,sex_m,eco_aggregate_x,mts_details_sgle,2014,2.669
 cmr,sex_m,eco_aggregate_x,mts_details_total,2007,104.645
 cmr,sex_m,eco_aggregate_x,mts_details_total,2014,6.382
 cmr,sex_m,eco_aggregate_x,mts_details_union,2007,3.845
+cmr,sex_m,eco_aggregate_x,mts_details_wid,2007,0.658
 cmr,sex_m,eco_sector_agr,mts_aggregate_1,2007,946.082
 cmr,sex_m,eco_sector_agr,mts_aggregate_1,2014,627.614
 cmr,sex_m,eco_sector_agr,mts_aggregate_2,2007,1222.186
 cmr,sex_m,eco_sector_agr,mts_aggregate_2,2014,1207.689
 cmr,sex_m,eco_sector_agr,mts_aggregate_total,2007,2168.847
 cmr,sex_m,eco_sector_agr,mts_aggregate_total,2014,1835.302
+cmr,sex_m,eco_sector_agr,mts_aggregate_x,2007,0.579
 cmr,sex_m,eco_sector_agr,mts_details_mrd,2007,1146.098
 cmr,sex_m,eco_sector_agr,mts_details_mrd,2014,1154.892
 cmr,sex_m,eco_sector_agr,mts_details_sep,2007,60.653
@@ -376,6 +405,7 @@ cmr,sex_m,eco_sector_agr,mts_details_union,2007,76.088
 cmr,sex_m,eco_sector_agr,mts_details_union,2014,52.796
 cmr,sex_m,eco_sector_agr,mts_details_wid,2007,42.796
 cmr,sex_m,eco_sector_agr,mts_details_wid,2014,29.609
+cmr,sex_m,eco_sector_agr,mts_details_x,2007,0.579
 cmr,sex_m,eco_sector_ind,mts_aggregate_1,2007,236.637
 cmr,sex_m,eco_sector_ind,mts_aggregate_1,2014,349.361
 cmr,sex_m,eco_sector_ind,mts_aggregate_2,2007,281.863
@@ -400,6 +430,7 @@ cmr,sex_m,eco_sector_nag,mts_aggregate_2,2007,1075.178
 cmr,sex_m,eco_sector_nag,mts_aggregate_2,2014,1442.481
 cmr,sex_m,eco_sector_nag,mts_aggregate_total,2007,1966.444
 cmr,sex_m,eco_sector_nag,mts_aggregate_total,2014,2500.62
+cmr,sex_m,eco_sector_nag,mts_aggregate_x,2007,0
 cmr,sex_m,eco_sector_nag,mts_details_mrd,2007,929.875
 cmr,sex_m,eco_sector_nag,mts_details_mrd,2014,1194.556
 cmr,sex_m,eco_sector_nag,mts_details_sep,2007,33.86
@@ -412,6 +443,7 @@ cmr,sex_m,eco_sector_nag,mts_details_union,2007,145.303
 cmr,sex_m,eco_sector_nag,mts_details_union,2014,247.926
 cmr,sex_m,eco_sector_nag,mts_details_wid,2007,16.901
 cmr,sex_m,eco_sector_nag,mts_details_wid,2014,28.306
+cmr,sex_m,eco_sector_nag,mts_details_x,2007,0
 cmr,sex_m,eco_sector_ser,mts_aggregate_1,2007,607.997
 cmr,sex_m,eco_sector_ser,mts_aggregate_1,2014,706.017
 cmr,sex_m,eco_sector_ser,mts_aggregate_2,2007,735.302
@@ -436,6 +468,7 @@ cmr,sex_m,eco_sector_total,mts_aggregate_2,2007,2297.364
 cmr,sex_m,eco_sector_total,mts_aggregate_2,2014,2650.17
 cmr,sex_m,eco_sector_total,mts_aggregate_total,2007,4135.291
 cmr,sex_m,eco_sector_total,mts_aggregate_total,2014,4335.923
+cmr,sex_m,eco_sector_total,mts_aggregate_x,2007,0.579
 cmr,sex_m,eco_sector_total,mts_details_mrd,2007,2075.973
 cmr,sex_m,eco_sector_total,mts_details_mrd,2014,2349.448
 cmr,sex_m,eco_sector_total,mts_details_sep,2007,94.513
@@ -448,6 +481,7 @@ cmr,sex_m,eco_sector_total,mts_details_union,2007,221.391
 cmr,sex_m,eco_sector_total,mts_details_union,2014,300.722
 cmr,sex_m,eco_sector_total,mts_details_wid,2007,59.697
 cmr,sex_m,eco_sector_total,mts_details_wid,2014,57.915
+cmr,sex_m,eco_sector_total,mts_details_x,2007,0.579
 cmr,sex_m,eco_sector_x,mts_aggregate_1,2007,46.632
 cmr,sex_m,eco_sector_x,mts_aggregate_1,2014,2.761
 cmr,sex_m,eco_sector_x,mts_aggregate_2,2007,58.013
@@ -462,12 +496,14 @@ cmr,sex_m,eco_sector_x,mts_details_sgle,2014,2.669
 cmr,sex_m,eco_sector_x,mts_details_total,2007,104.645
 cmr,sex_m,eco_sector_x,mts_details_total,2014,6.382
 cmr,sex_m,eco_sector_x,mts_details_union,2007,3.845
+cmr,sex_m,eco_sector_x,mts_details_wid,2007,0.658
 cmr,sex_t,eco_aggregate_agr,mts_aggregate_1,2007,1969.819
 cmr,sex_t,eco_aggregate_agr,mts_aggregate_1,2014,1407.864
 cmr,sex_t,eco_aggregate_agr,mts_aggregate_2,2007,2839.363
 cmr,sex_t,eco_aggregate_agr,mts_aggregate_2,2014,2602.722
 cmr,sex_t,eco_aggregate_agr,mts_aggregate_total,2007,4810.046
 cmr,sex_t,eco_aggregate_agr,mts_aggregate_total,2014,4010.586
+cmr,sex_t,eco_aggregate_agr,mts_aggregate_x,2007,0.864
 cmr,sex_t,eco_aggregate_agr,mts_details_mrd,2007,2675.693
 cmr,sex_t,eco_aggregate_agr,mts_details_mrd,2014,2502.408
 cmr,sex_t,eco_aggregate_agr,mts_details_sep,2007,175.475
@@ -480,6 +516,7 @@ cmr,sex_t,eco_aggregate_agr,mts_details_union,2007,163.67
 cmr,sex_t,eco_aggregate_agr,mts_details_union,2014,100.314
 cmr,sex_t,eco_aggregate_agr,mts_details_wid,2007,441.986
 cmr,sex_t,eco_aggregate_agr,mts_details_wid,2014,369.257
+cmr,sex_t,eco_aggregate_agr,mts_details_x,2007,0.864
 cmr,sex_t,eco_aggregate_con,mts_aggregate_1,2007,69.764
 cmr,sex_t,eco_aggregate_con,mts_aggregate_1,2014,123.113
 cmr,sex_t,eco_aggregate_con,mts_aggregate_2,2007,92.821
@@ -504,6 +541,7 @@ cmr,sex_t,eco_aggregate_man,mts_aggregate_2,2007,368.161
 cmr,sex_t,eco_aggregate_man,mts_aggregate_2,2014,486.661
 cmr,sex_t,eco_aggregate_man,mts_aggregate_total,2007,701.356
 cmr,sex_t,eco_aggregate_man,mts_aggregate_total,2014,866.216
+cmr,sex_t,eco_aggregate_man,mts_aggregate_x,2007,0.6
 cmr,sex_t,eco_aggregate_man,mts_details_mrd,2007,327.204
 cmr,sex_t,eco_aggregate_man,mts_details_mrd,2014,423.917
 cmr,sex_t,eco_aggregate_man,mts_details_sep,2007,23.165
@@ -516,6 +554,7 @@ cmr,sex_t,eco_aggregate_man,mts_details_union,2007,40.957
 cmr,sex_t,eco_aggregate_man,mts_details_union,2014,62.743
 cmr,sex_t,eco_aggregate_man,mts_details_wid,2007,40.775
 cmr,sex_t,eco_aggregate_man,mts_details_wid,2014,45.805
+cmr,sex_t,eco_aggregate_man,mts_details_x,2007,0.6
 cmr,sex_t,eco_aggregate_mel,mts_aggregate_1,2007,11.71
 cmr,sex_t,eco_aggregate_mel,mts_aggregate_1,2014,29.338
 cmr,sex_t,eco_aggregate_mel,mts_aggregate_2,2007,22.314
@@ -524,12 +563,14 @@ cmr,sex_t,eco_aggregate_mel,mts_aggregate_total,2007,34.024
 cmr,sex_t,eco_aggregate_mel,mts_aggregate_total,2014,81.036
 cmr,sex_t,eco_aggregate_mel,mts_details_mrd,2007,18.86
 cmr,sex_t,eco_aggregate_mel,mts_details_mrd,2014,44.067
+cmr,sex_t,eco_aggregate_mel,mts_details_sep,2007,0.53
 cmr,sex_t,eco_aggregate_mel,mts_details_sgle,2007,10.864
 cmr,sex_t,eco_aggregate_mel,mts_details_sgle,2014,24.759
 cmr,sex_t,eco_aggregate_mel,mts_details_total,2007,34.024
 cmr,sex_t,eco_aggregate_mel,mts_details_total,2014,81.036
 cmr,sex_t,eco_aggregate_mel,mts_details_union,2007,3.454
 cmr,sex_t,eco_aggregate_mel,mts_details_union,2014,7.631
+cmr,sex_t,eco_aggregate_mel,mts_details_wid,2007,0.316
 cmr,sex_t,eco_aggregate_mel,mts_details_wid,2014,3.267
 cmr,sex_t,eco_aggregate_mkt,mts_aggregate_1,2007,767.823
 cmr,sex_t,eco_aggregate_mkt,mts_aggregate_1,2014,975.295
@@ -608,6 +649,7 @@ cmr,sex_t,eco_sector_agr,mts_aggregate_2,2007,2839.363
 cmr,sex_t,eco_sector_agr,mts_aggregate_2,2014,2602.722
 cmr,sex_t,eco_sector_agr,mts_aggregate_total,2007,4810.046
 cmr,sex_t,eco_sector_agr,mts_aggregate_total,2014,4010.586
+cmr,sex_t,eco_sector_agr,mts_aggregate_x,2007,0.864
 cmr,sex_t,eco_sector_agr,mts_details_mrd,2007,2675.693
 cmr,sex_t,eco_sector_agr,mts_details_mrd,2014,2502.408
 cmr,sex_t,eco_sector_agr,mts_details_sep,2007,175.475
@@ -620,12 +662,14 @@ cmr,sex_t,eco_sector_agr,mts_details_union,2007,163.67
 cmr,sex_t,eco_sector_agr,mts_details_union,2014,100.314
 cmr,sex_t,eco_sector_agr,mts_details_wid,2007,441.986
 cmr,sex_t,eco_sector_agr,mts_details_wid,2014,369.257
+cmr,sex_t,eco_sector_agr,mts_details_x,2007,0.864
 cmr,sex_t,eco_sector_ind,mts_aggregate_1,2007,414.069
 cmr,sex_t,eco_sector_ind,mts_aggregate_1,2014,532.007
 cmr,sex_t,eco_sector_ind,mts_aggregate_2,2007,483.296
 cmr,sex_t,eco_sector_ind,mts_aggregate_2,2014,653.806
 cmr,sex_t,eco_sector_ind,mts_aggregate_total,2007,897.965
 cmr,sex_t,eco_sector_ind,mts_aggregate_total,2014,1185.813
+cmr,sex_t,eco_sector_ind,mts_aggregate_x,2007,0.6
 cmr,sex_t,eco_sector_ind,mts_details_mrd,2007,423.288
 cmr,sex_t,eco_sector_ind,mts_details_mrd,2014,560.808
 cmr,sex_t,eco_sector_ind,mts_details_sep,2007,26.019
@@ -638,12 +682,14 @@ cmr,sex_t,eco_sector_ind,mts_details_union,2007,60.008
 cmr,sex_t,eco_sector_ind,mts_details_union,2014,92.998
 cmr,sex_t,eco_sector_ind,mts_details_wid,2007,43.103
 cmr,sex_t,eco_sector_ind,mts_details_wid,2014,51.98
+cmr,sex_t,eco_sector_ind,mts_details_x,2007,0.6
 cmr,sex_t,eco_sector_nag,mts_aggregate_1,2007,1570.272
 cmr,sex_t,eco_sector_nag,mts_aggregate_1,2014,1915.537
 cmr,sex_t,eco_sector_nag,mts_aggregate_2,2007,1812.965
 cmr,sex_t,eco_sector_nag,mts_aggregate_2,2014,2508.638
 cmr,sex_t,eco_sector_nag,mts_aggregate_total,2007,3383.837
 cmr,sex_t,eco_sector_nag,mts_aggregate_total,2014,4424.175
+cmr,sex_t,eco_sector_nag,mts_aggregate_x,2007,0.6
 cmr,sex_t,eco_sector_nag,mts_details_mrd,2007,1588.75
 cmr,sex_t,eco_sector_nag,mts_details_mrd,2014,2108.161
 cmr,sex_t,eco_sector_nag,mts_details_sep,2007,103.453
@@ -656,6 +702,7 @@ cmr,sex_t,eco_sector_nag,mts_details_union,2007,224.215
 cmr,sex_t,eco_sector_nag,mts_details_union,2014,400.477
 cmr,sex_t,eco_sector_nag,mts_details_wid,2007,143.525
 cmr,sex_t,eco_sector_nag,mts_details_wid,2014,207.178
+cmr,sex_t,eco_sector_nag,mts_details_x,2007,0.6
 cmr,sex_t,eco_sector_ser,mts_aggregate_1,2007,1087.935
 cmr,sex_t,eco_sector_ser,mts_aggregate_1,2014,1379.171
 cmr,sex_t,eco_sector_ser,mts_aggregate_2,2007,1243.932

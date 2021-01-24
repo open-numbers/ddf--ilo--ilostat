@@ -142,6 +142,7 @@ egy,sex_f,age_10yrbands_y45_54,geo_cov_nat,2015,33.635
 egy,sex_f,age_10yrbands_y45_54,geo_cov_nat,2016,24.708
 egy,sex_f,age_10yrbands_y45_54,geo_cov_nat,2017,21.886
 egy,sex_f,age_10yrbands_y45_54,geo_cov_nat,2018,15.037
+egy,sex_f,age_10yrbands_y45_54,geo_cov_rur,2008,0.666
 egy,sex_f,age_10yrbands_y45_54,geo_cov_rur,2009,51.059
 egy,sex_f,age_10yrbands_y45_54,geo_cov_rur,2010,5.184
 egy,sex_f,age_10yrbands_y45_54,geo_cov_rur,2011,12.743
@@ -163,13 +164,16 @@ egy,sex_f,age_10yrbands_y45_54,geo_cov_urb,2015,22.022
 egy,sex_f,age_10yrbands_y45_54,geo_cov_urb,2016,16.542
 egy,sex_f,age_10yrbands_y45_54,geo_cov_urb,2017,16.054
 egy,sex_f,age_10yrbands_y45_54,geo_cov_urb,2018,11.677
+egy,sex_f,age_10yrbands_y55_64,geo_cov_nat,2008,0.436
 egy,sex_f,age_10yrbands_y55_64,geo_cov_nat,2009,9.792
 egy,sex_f,age_10yrbands_y55_64,geo_cov_nat,2010,1.568
 egy,sex_f,age_10yrbands_y55_64,geo_cov_nat,2011,10.749
 egy,sex_f,age_10yrbands_y55_64,geo_cov_nat,2014,3.237
 egy,sex_f,age_10yrbands_y55_64,geo_cov_nat,2016,6.752
 egy,sex_f,age_10yrbands_y55_64,geo_cov_nat,2018,1.577
+egy,sex_f,age_10yrbands_y55_64,geo_cov_rur,2008,0.215
 egy,sex_f,age_10yrbands_y55_64,geo_cov_rur,2009,4.518
+egy,sex_f,age_10yrbands_y55_64,geo_cov_urb,2008,0.221
 egy,sex_f,age_10yrbands_y55_64,geo_cov_urb,2009,5.274
 egy,sex_f,age_10yrbands_y55_64,geo_cov_urb,2010,1.156
 egy,sex_f,age_10yrbands_y55_64,geo_cov_urb,2011,10.528
@@ -274,13 +278,16 @@ egy,sex_f,age_aggregate_y25_54,geo_cov_urb,2015,473.276
 egy,sex_f,age_aggregate_y25_54,geo_cov_urb,2016,464.063
 egy,sex_f,age_aggregate_y25_54,geo_cov_urb,2017,460.027
 egy,sex_f,age_aggregate_y25_54,geo_cov_urb,2018,385.858
+egy,sex_f,age_aggregate_y55_64,geo_cov_nat,2008,0.436
 egy,sex_f,age_aggregate_y55_64,geo_cov_nat,2009,9.792
 egy,sex_f,age_aggregate_y55_64,geo_cov_nat,2010,1.568
 egy,sex_f,age_aggregate_y55_64,geo_cov_nat,2011,10.749
 egy,sex_f,age_aggregate_y55_64,geo_cov_nat,2014,3.237
 egy,sex_f,age_aggregate_y55_64,geo_cov_nat,2016,6.752
 egy,sex_f,age_aggregate_y55_64,geo_cov_nat,2018,1.577
+egy,sex_f,age_aggregate_y55_64,geo_cov_rur,2008,0.215
 egy,sex_f,age_aggregate_y55_64,geo_cov_rur,2009,4.518
+egy,sex_f,age_aggregate_y55_64,geo_cov_urb,2008,0.221
 egy,sex_f,age_aggregate_y55_64,geo_cov_urb,2009,5.274
 egy,sex_f,age_aggregate_y55_64,geo_cov_urb,2010,1.156
 egy,sex_f,age_aggregate_y55_64,geo_cov_urb,2011,10.528
@@ -589,6 +596,7 @@ egy,sex_m,age_10yrbands_y55_64,geo_cov_nat,2015,14.329
 egy,sex_m,age_10yrbands_y55_64,geo_cov_nat,2016,22.827
 egy,sex_m,age_10yrbands_y55_64,geo_cov_nat,2017,8.83
 egy,sex_m,age_10yrbands_y55_64,geo_cov_nat,2018,19.325
+egy,sex_m,age_10yrbands_y55_64,geo_cov_rur,2008,0.388
 egy,sex_m,age_10yrbands_y55_64,geo_cov_rur,2010,1.357
 egy,sex_m,age_10yrbands_y55_64,geo_cov_rur,2011,7.136
 egy,sex_m,age_10yrbands_y55_64,geo_cov_rur,2013,4.386
@@ -718,6 +726,7 @@ egy,sex_m,age_aggregate_y55_64,geo_cov_nat,2015,14.329
 egy,sex_m,age_aggregate_y55_64,geo_cov_nat,2016,22.827
 egy,sex_m,age_aggregate_y55_64,geo_cov_nat,2017,8.83
 egy,sex_m,age_aggregate_y55_64,geo_cov_nat,2018,19.325
+egy,sex_m,age_aggregate_y55_64,geo_cov_rur,2008,0.388
 egy,sex_m,age_aggregate_y55_64,geo_cov_rur,2010,1.357
 egy,sex_m,age_aggregate_y55_64,geo_cov_rur,2011,7.136
 egy,sex_m,age_aggregate_y55_64,geo_cov_rur,2013,4.386
@@ -1045,6 +1054,7 @@ egy,sex_t,age_10yrbands_y55_64,geo_cov_nat,2015,14.801
 egy,sex_t,age_10yrbands_y55_64,geo_cov_nat,2016,29.578
 egy,sex_t,age_10yrbands_y55_64,geo_cov_nat,2017,9.153
 egy,sex_t,age_10yrbands_y55_64,geo_cov_nat,2018,20.902
+egy,sex_t,age_10yrbands_y55_64,geo_cov_rur,2008,0.603
 egy,sex_t,age_10yrbands_y55_64,geo_cov_rur,2009,4.714
 egy,sex_t,age_10yrbands_y55_64,geo_cov_rur,2010,1.769
 egy,sex_t,age_10yrbands_y55_64,geo_cov_rur,2011,7.357
@@ -1176,6 +1186,7 @@ egy,sex_t,age_aggregate_y55_64,geo_cov_nat,2015,14.801
 egy,sex_t,age_aggregate_y55_64,geo_cov_nat,2016,29.578
 egy,sex_t,age_aggregate_y55_64,geo_cov_nat,2017,9.153
 egy,sex_t,age_aggregate_y55_64,geo_cov_nat,2018,20.902
+egy,sex_t,age_aggregate_y55_64,geo_cov_rur,2008,0.603
 egy,sex_t,age_aggregate_y55_64,geo_cov_rur,2009,4.714
 egy,sex_t,age_aggregate_y55_64,geo_cov_rur,2010,1.769
 egy,sex_t,age_aggregate_y55_64,geo_cov_rur,2011,7.357

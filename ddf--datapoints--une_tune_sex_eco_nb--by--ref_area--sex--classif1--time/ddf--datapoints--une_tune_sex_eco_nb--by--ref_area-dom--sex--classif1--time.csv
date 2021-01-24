@@ -123,6 +123,7 @@ dom,sex_f,eco_aggregate_total,2016,163.911
 dom,sex_f,eco_aggregate_total,2017,124.233
 dom,sex_f,eco_aggregate_total,2018,147.086
 dom,sex_f,eco_aggregate_total,2019,159.455
+dom,sex_f,eco_aggregate_x,2015,0.092
 dom,sex_f,eco_isic3_a,1996,2
 dom,sex_f,eco_isic3_a,1997,4
 dom,sex_f,eco_isic3_a,1998,2.8
@@ -355,11 +356,14 @@ dom,sex_f,eco_isic4_a,2015,0.601
 dom,sex_f,eco_isic4_a,2016,0.697
 dom,sex_f,eco_isic4_a,2017,0.489
 dom,sex_f,eco_isic4_a,2018,0.921
+dom,sex_f,eco_isic4_b,2015,0.101
 dom,sex_f,eco_isic4_c,2015,14.462
 dom,sex_f,eco_isic4_c,2016,14.059
 dom,sex_f,eco_isic4_c,2017,8.782
 dom,sex_f,eco_isic4_c,2018,13.998
 dom,sex_f,eco_isic4_c,2019,15.492
+dom,sex_f,eco_isic4_d,2015,0.434
+dom,sex_f,eco_isic4_e,2015,0.349
 dom,sex_f,eco_isic4_e,2016,0.669
 dom,sex_f,eco_isic4_f,2015,2.531
 dom,sex_f,eco_isic4_f,2016,1.358
@@ -435,6 +439,7 @@ dom,sex_f,eco_isic4_total,2016,163.911
 dom,sex_f,eco_isic4_total,2017,124.233
 dom,sex_f,eco_isic4_total,2018,147.086
 dom,sex_f,eco_isic4_total,2019,159.455
+dom,sex_f,eco_isic4_x,2015,0.092
 dom,sex_f,eco_sector_agr,1996,2
 dom,sex_f,eco_sector_agr,1997,4
 dom,sex_f,eco_sector_agr,1998,2.8
@@ -529,6 +534,7 @@ dom,sex_f,eco_sector_total,2016,163.911
 dom,sex_f,eco_sector_total,2017,124.233
 dom,sex_f,eco_sector_total,2018,147.086
 dom,sex_f,eco_sector_total,2019,159.455
+dom,sex_f,eco_sector_x,2015,0.092
 dom,sex_m,eco_aggregate_agr,1996,21.1
 dom,sex_m,eco_aggregate_agr,1997,11.4
 dom,sex_m,eco_aggregate_agr,1998,15
@@ -952,6 +958,7 @@ dom,sex_m,eco_isic4_a,2016,5.304
 dom,sex_m,eco_isic4_a,2017,4.451
 dom,sex_m,eco_isic4_a,2018,3.557
 dom,sex_m,eco_isic4_a,2019,2.615
+dom,sex_m,eco_isic4_b,2015,0.444
 dom,sex_m,eco_isic4_b,2016,0.315
 dom,sex_m,eco_isic4_b,2019,0.712
 dom,sex_m,eco_isic4_c,2015,24.297
@@ -994,6 +1001,7 @@ dom,sex_m,eco_isic4_k,2016,5.167
 dom,sex_m,eco_isic4_k,2017,1.876
 dom,sex_m,eco_isic4_k,2018,2.57
 dom,sex_m,eco_isic4_k,2019,1.738
+dom,sex_m,eco_isic4_l,2015,0.246
 dom,sex_m,eco_isic4_m,2015,2.073
 dom,sex_m,eco_isic4_m,2016,2.747
 dom,sex_m,eco_isic4_m,2017,2.493
@@ -1029,6 +1037,7 @@ dom,sex_m,eco_isic4_s,2016,3.105
 dom,sex_m,eco_isic4_s,2017,3.759
 dom,sex_m,eco_isic4_s,2018,3.827
 dom,sex_m,eco_isic4_s,2019,2.705
+dom,sex_m,eco_isic4_t,2015,0.311
 dom,sex_m,eco_isic4_t,2016,0.654
 dom,sex_m,eco_isic4_t,2017,1.129
 dom,sex_m,eco_isic4_total,2015,127.545
@@ -1324,6 +1333,7 @@ dom,sex_t,eco_aggregate_total,2016,284.197
 dom,sex_t,eco_aggregate_total,2017,228.447
 dom,sex_t,eco_aggregate_total,2018,237.893
 dom,sex_t,eco_aggregate_total,2019,260.983
+dom,sex_t,eco_aggregate_x,2015,0.092
 dom,sex_t,eco_isic3_a,1996,23.1
 dom,sex_t,eco_isic3_a,1997,15.8
 dom,sex_t,eco_isic3_a,1998,17.8
@@ -1605,6 +1615,7 @@ dom,sex_t,eco_isic4_a,2016,6.001
 dom,sex_t,eco_isic4_a,2017,4.941
 dom,sex_t,eco_isic4_a,2018,4.477
 dom,sex_t,eco_isic4_a,2019,2.759
+dom,sex_t,eco_isic4_b,2015,0.544
 dom,sex_t,eco_isic4_b,2016,0.315
 dom,sex_t,eco_isic4_b,2019,0.712
 dom,sex_t,eco_isic4_c,2015,38.759
@@ -1616,6 +1627,7 @@ dom,sex_t,eco_isic4_d,2015,1.936
 dom,sex_t,eco_isic4_d,2016,1.415
 dom,sex_t,eco_isic4_d,2017,0.75
 dom,sex_t,eco_isic4_d,2019,0.738
+dom,sex_t,eco_isic4_e,2015,0.349
 dom,sex_t,eco_isic4_e,2016,1.439
 dom,sex_t,eco_isic4_e,2017,0.796
 dom,sex_t,eco_isic4_e,2018,0.671
@@ -1650,6 +1662,7 @@ dom,sex_t,eco_isic4_k,2016,8.45
 dom,sex_t,eco_isic4_k,2017,3.327
 dom,sex_t,eco_isic4_k,2018,5.493
 dom,sex_t,eco_isic4_k,2019,4.569
+dom,sex_t,eco_isic4_l,2015,0.246
 dom,sex_t,eco_isic4_m,2015,7.45
 dom,sex_t,eco_isic4_m,2016,7.032
 dom,sex_t,eco_isic4_m,2017,5.41
@@ -1695,6 +1708,7 @@ dom,sex_t,eco_isic4_total,2016,284.197
 dom,sex_t,eco_isic4_total,2017,228.447
 dom,sex_t,eco_isic4_total,2018,237.893
 dom,sex_t,eco_isic4_total,2019,260.983
+dom,sex_t,eco_isic4_x,2015,0.092
 dom,sex_t,eco_sector_agr,1996,23.1
 dom,sex_t,eco_sector_agr,1997,15.8
 dom,sex_t,eco_sector_agr,1998,17.8
@@ -1815,3 +1829,4 @@ dom,sex_t,eco_sector_total,2016,284.197
 dom,sex_t,eco_sector_total,2017,228.447
 dom,sex_t,eco_sector_total,2018,237.893
 dom,sex_t,eco_sector_total,2019,260.983
+dom,sex_t,eco_sector_x,2015,0.092

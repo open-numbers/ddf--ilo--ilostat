@@ -19,8 +19,11 @@ tgo,sex_f,age_10yrbands_y35_44,2011,3.659
 tgo,sex_f,age_10yrbands_y35_44,2017,2.93
 tgo,sex_f,age_10yrbands_y45_54,2006,3.37
 tgo,sex_f,age_10yrbands_y45_54,2011,2.164
+tgo,sex_f,age_10yrbands_y45_54,2017,0.591
 tgo,sex_f,age_10yrbands_y55_64,2006,0.884
 tgo,sex_f,age_10yrbands_y55_64,2011,0.351
+tgo,sex_f,age_10yrbands_y55_64,2017,0.608
+tgo,sex_f,age_10yrbands_yge65,2006,0.503
 tgo,sex_f,age_5yrbands_total,2006,54.199
 tgo,sex_f,age_5yrbands_total,2011,23.32
 tgo,sex_f,age_5yrbands_total,2014,38.735
@@ -53,10 +56,17 @@ tgo,sex_f,age_5yrbands_y40_44,2011,1.048
 tgo,sex_f,age_5yrbands_y40_44,2017,1.119
 tgo,sex_f,age_5yrbands_y45_49,2006,1.693
 tgo,sex_f,age_5yrbands_y45_49,2011,1.812
+tgo,sex_f,age_5yrbands_y45_49,2017,0.341
 tgo,sex_f,age_5yrbands_y50_54,2006,1.677
 tgo,sex_f,age_5yrbands_y50_54,2011,0.352
+tgo,sex_f,age_5yrbands_y50_54,2017,0.25
+tgo,sex_f,age_5yrbands_y55_59,2006,0.618
 tgo,sex_f,age_5yrbands_y55_59,2011,0.034
+tgo,sex_f,age_5yrbands_y55_59,2017,0.379
+tgo,sex_f,age_5yrbands_y60_64,2006,0.266
 tgo,sex_f,age_5yrbands_y60_64,2011,0.317
+tgo,sex_f,age_5yrbands_y60_64,2017,0.228
+tgo,sex_f,age_5yrbands_yge65,2006,0.503
 tgo,sex_f,age_aggregate_total,2006,54.199
 tgo,sex_f,age_aggregate_total,2011,23.32
 tgo,sex_f,age_aggregate_total,2014,38.735
@@ -74,6 +84,8 @@ tgo,sex_f,age_aggregate_y25_54,2015,11.344
 tgo,sex_f,age_aggregate_y25_54,2017,19.857
 tgo,sex_f,age_aggregate_y55_64,2006,0.884
 tgo,sex_f,age_aggregate_y55_64,2011,0.351
+tgo,sex_f,age_aggregate_y55_64,2017,0.608
+tgo,sex_f,age_aggregate_yge65,2006,0.503
 tgo,sex_f,age_ythadult_y15_24,2006,25.034
 tgo,sex_f,age_ythadult_y15_24,2011,8.77
 tgo,sex_f,age_ythadult_y15_24,2014,15.666
@@ -121,6 +133,7 @@ tgo,sex_m,age_10yrbands_y55_64,2011,1.27
 tgo,sex_m,age_10yrbands_y55_64,2017,0.815
 tgo,sex_m,age_10yrbands_yge65,2006,1.29
 tgo,sex_m,age_10yrbands_yge65,2011,0.272
+tgo,sex_m,age_10yrbands_yge65,2017,0.187
 tgo,sex_m,age_5yrbands_total,2006,52.014
 tgo,sex_m,age_5yrbands_total,2011,30.696
 tgo,sex_m,age_5yrbands_total,2014,41.782
@@ -162,10 +175,13 @@ tgo,sex_m,age_5yrbands_y50_54,2011,1.73
 tgo,sex_m,age_5yrbands_y50_54,2017,1.645
 tgo,sex_m,age_5yrbands_y55_59,2006,1.217
 tgo,sex_m,age_5yrbands_y55_59,2011,0.989
+tgo,sex_m,age_5yrbands_y55_59,2017,0.683
 tgo,sex_m,age_5yrbands_y60_64,2006,0.811
 tgo,sex_m,age_5yrbands_y60_64,2011,0.281
+tgo,sex_m,age_5yrbands_y60_64,2017,0.132
 tgo,sex_m,age_5yrbands_yge65,2006,1.29
 tgo,sex_m,age_5yrbands_yge65,2011,0.272
+tgo,sex_m,age_5yrbands_yge65,2017,0.187
 tgo,sex_m,age_aggregate_total,2006,52.014
 tgo,sex_m,age_aggregate_total,2011,30.696
 tgo,sex_m,age_aggregate_total,2014,41.782
@@ -186,6 +202,7 @@ tgo,sex_m,age_aggregate_y55_64,2011,1.27
 tgo,sex_m,age_aggregate_y55_64,2017,0.815
 tgo,sex_m,age_aggregate_yge65,2006,1.29
 tgo,sex_m,age_aggregate_yge65,2011,0.272
+tgo,sex_m,age_aggregate_yge65,2017,0.187
 tgo,sex_m,age_ythadult_y15_24,2006,19.718
 tgo,sex_m,age_ythadult_y15_24,2011,13.118
 tgo,sex_m,age_ythadult_y15_24,2014,23.104
@@ -232,6 +249,7 @@ tgo,sex_t,age_10yrbands_y55_64,2011,1.621
 tgo,sex_t,age_10yrbands_y55_64,2017,1.422
 tgo,sex_t,age_10yrbands_yge65,2006,1.793
 tgo,sex_t,age_10yrbands_yge65,2011,0.272
+tgo,sex_t,age_10yrbands_yge65,2017,0.187
 tgo,sex_t,age_5yrbands_total,2006,106.214
 tgo,sex_t,age_5yrbands_total,2011,54.015
 tgo,sex_t,age_5yrbands_total,2014,80.517
@@ -277,8 +295,10 @@ tgo,sex_t,age_5yrbands_y55_59,2011,1.023
 tgo,sex_t,age_5yrbands_y55_59,2017,1.062
 tgo,sex_t,age_5yrbands_y60_64,2006,1.077
 tgo,sex_t,age_5yrbands_y60_64,2011,0.598
+tgo,sex_t,age_5yrbands_y60_64,2017,0.36
 tgo,sex_t,age_5yrbands_yge65,2006,1.793
 tgo,sex_t,age_5yrbands_yge65,2011,0.272
+tgo,sex_t,age_5yrbands_yge65,2017,0.187
 tgo,sex_t,age_aggregate_total,2006,106.214
 tgo,sex_t,age_aggregate_total,2011,54.015
 tgo,sex_t,age_aggregate_total,2014,80.517
@@ -299,6 +319,7 @@ tgo,sex_t,age_aggregate_y55_64,2011,1.621
 tgo,sex_t,age_aggregate_y55_64,2017,1.422
 tgo,sex_t,age_aggregate_yge65,2006,1.793
 tgo,sex_t,age_aggregate_yge65,2011,0.272
+tgo,sex_t,age_aggregate_yge65,2017,0.187
 tgo,sex_t,age_ythadult_y15_24,2006,44.752
 tgo,sex_t,age_ythadult_y15_24,2011,21.888
 tgo,sex_t,age_ythadult_y15_24,2014,38.77

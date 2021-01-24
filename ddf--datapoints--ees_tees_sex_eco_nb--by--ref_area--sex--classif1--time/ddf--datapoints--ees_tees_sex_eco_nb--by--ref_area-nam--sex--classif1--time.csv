@@ -34,6 +34,7 @@ nam,sex_f,eco_aggregate_total,2013,186.424
 nam,sex_f,eco_aggregate_total,2014,197.619
 nam,sex_f,eco_aggregate_total,2016,204.599
 nam,sex_f,eco_aggregate_total,2018,206.955
+nam,sex_f,eco_aggregate_x,2012,0.054
 nam,sex_f,eco_aggregate_x,2013,1.384
 nam,sex_f,eco_isic4_a,2012,7.265
 nam,sex_f,eco_isic4_a,2013,10.769
@@ -138,9 +139,11 @@ nam,sex_f,eco_isic4_total,2013,186.424
 nam,sex_f,eco_isic4_total,2014,197.619
 nam,sex_f,eco_isic4_total,2016,204.599
 nam,sex_f,eco_isic4_total,2018,206.955
+nam,sex_f,eco_isic4_u,2012,0.185
 nam,sex_f,eco_isic4_u,2013,0.429
 nam,sex_f,eco_isic4_u,2016,0.42
 nam,sex_f,eco_isic4_u,2018,0.301
+nam,sex_f,eco_isic4_x,2012,0.054
 nam,sex_f,eco_isic4_x,2013,1.384
 nam,sex_f,eco_sector_agr,2012,7.265
 nam,sex_f,eco_sector_agr,2013,10.769
@@ -167,6 +170,7 @@ nam,sex_f,eco_sector_total,2013,186.424
 nam,sex_f,eco_sector_total,2014,197.619
 nam,sex_f,eco_sector_total,2016,204.599
 nam,sex_f,eco_sector_total,2018,206.955
+nam,sex_f,eco_sector_x,2012,0.054
 nam,sex_f,eco_sector_x,2013,1.384
 nam,sex_m,eco_aggregate_agr,2012,36.266
 nam,sex_m,eco_aggregate_agr,2013,51.944
@@ -203,6 +207,7 @@ nam,sex_m,eco_aggregate_total,2013,246.525
 nam,sex_m,eco_aggregate_total,2014,265.238
 nam,sex_m,eco_aggregate_total,2016,257.017
 nam,sex_m,eco_aggregate_total,2018,244.367
+nam,sex_m,eco_aggregate_x,2012,0.047
 nam,sex_m,eco_aggregate_x,2013,1.445
 nam,sex_m,eco_isic4_a,2012,36.266
 nam,sex_m,eco_isic4_a,2013,51.944
@@ -259,6 +264,7 @@ nam,sex_m,eco_isic4_k,2013,4.459
 nam,sex_m,eco_isic4_k,2014,5.017
 nam,sex_m,eco_isic4_k,2016,5.434
 nam,sex_m,eco_isic4_k,2018,4.387
+nam,sex_m,eco_isic4_l,2012,0.164
 nam,sex_m,eco_isic4_l,2016,0.339
 nam,sex_m,eco_isic4_m,2012,2.971
 nam,sex_m,eco_isic4_m,2013,2.773
@@ -308,6 +314,7 @@ nam,sex_m,eco_isic4_total,2018,244.367
 nam,sex_m,eco_isic4_u,2012,0.273
 nam,sex_m,eco_isic4_u,2016,0.738
 nam,sex_m,eco_isic4_u,2018,0.598
+nam,sex_m,eco_isic4_x,2012,0.047
 nam,sex_m,eco_isic4_x,2013,1.445
 nam,sex_m,eco_sector_agr,2012,36.266
 nam,sex_m,eco_sector_agr,2013,51.944
@@ -334,6 +341,7 @@ nam,sex_m,eco_sector_total,2013,246.525
 nam,sex_m,eco_sector_total,2014,265.238
 nam,sex_m,eco_sector_total,2016,257.017
 nam,sex_m,eco_sector_total,2018,244.367
+nam,sex_m,eco_sector_x,2012,0.047
 nam,sex_m,eco_sector_x,2013,1.445
 nam,sex_t,eco_aggregate_agr,2012,43.53
 nam,sex_t,eco_aggregate_agr,2013,62.713
@@ -370,6 +378,7 @@ nam,sex_t,eco_aggregate_total,2013,432.949
 nam,sex_t,eco_aggregate_total,2014,462.857
 nam,sex_t,eco_aggregate_total,2016,461.616
 nam,sex_t,eco_aggregate_total,2018,451.323
+nam,sex_t,eco_aggregate_x,2012,0.101
 nam,sex_t,eco_aggregate_x,2013,2.829
 nam,sex_t,eco_isic4_a,2012,43.53
 nam,sex_t,eco_isic4_a,2013,62.713
@@ -480,6 +489,7 @@ nam,sex_t,eco_isic4_u,2012,0.458
 nam,sex_t,eco_isic4_u,2013,0.511
 nam,sex_t,eco_isic4_u,2016,1.158
 nam,sex_t,eco_isic4_u,2018,0.899
+nam,sex_t,eco_isic4_x,2012,0.101
 nam,sex_t,eco_isic4_x,2013,2.829
 nam,sex_t,eco_sector_agr,2012,43.53
 nam,sex_t,eco_sector_agr,2013,62.713
@@ -506,4 +516,5 @@ nam,sex_t,eco_sector_total,2013,432.949
 nam,sex_t,eco_sector_total,2014,462.857
 nam,sex_t,eco_sector_total,2016,461.616
 nam,sex_t,eco_sector_total,2018,451.323
+nam,sex_t,eco_sector_x,2012,0.101
 nam,sex_t,eco_sector_x,2013,2.829

@@ -1,4 +1,5 @@
 ref_area,sex,classif1,classif2,time,eip_dwap_sex_edu_mts_rt
+bih,sex_f,edu_aggregate_adv,mts_aggregate_1,2006,68.7
 bih,sex_f,edu_aggregate_adv,mts_aggregate_1,2007,16.2
 bih,sex_f,edu_aggregate_adv,mts_aggregate_1,2008,14.7
 bih,sex_f,edu_aggregate_adv,mts_aggregate_1,2009,18.5
@@ -25,6 +26,7 @@ bih,sex_f,edu_aggregate_adv,mts_aggregate_2,2016,17.2
 bih,sex_f,edu_aggregate_adv,mts_aggregate_2,2017,20.6
 bih,sex_f,edu_aggregate_adv,mts_aggregate_2,2018,21.8
 bih,sex_f,edu_aggregate_adv,mts_aggregate_2,2019,21.9
+bih,sex_f,edu_aggregate_adv,mts_aggregate_total,2006,40.7
 bih,sex_f,edu_aggregate_adv,mts_aggregate_total,2007,16.7
 bih,sex_f,edu_aggregate_adv,mts_aggregate_total,2008,14.9
 bih,sex_f,edu_aggregate_adv,mts_aggregate_total,2009,14.7
@@ -53,6 +55,7 @@ bih,sex_f,edu_aggregate_adv,mts_details_mrd,2018,21.8
 bih,sex_f,edu_aggregate_adv,mts_details_mrd,2019,21.9
 bih,sex_f,edu_aggregate_adv,mts_details_sep,2017,29.2
 bih,sex_f,edu_aggregate_adv,mts_details_sep,2018,21.3
+bih,sex_f,edu_aggregate_adv,mts_details_sgle,2006,100
 bih,sex_f,edu_aggregate_adv,mts_details_sgle,2007,9.9
 bih,sex_f,edu_aggregate_adv,mts_details_sgle,2008,11.4
 bih,sex_f,edu_aggregate_adv,mts_details_sgle,2009,14.3
@@ -66,6 +69,7 @@ bih,sex_f,edu_aggregate_adv,mts_details_sgle,2016,17.2
 bih,sex_f,edu_aggregate_adv,mts_details_sgle,2017,21.4
 bih,sex_f,edu_aggregate_adv,mts_details_sgle,2018,14.8
 bih,sex_f,edu_aggregate_adv,mts_details_sgle,2019,21.8
+bih,sex_f,edu_aggregate_adv,mts_details_total,2006,40.7
 bih,sex_f,edu_aggregate_adv,mts_details_total,2007,16.7
 bih,sex_f,edu_aggregate_adv,mts_details_total,2008,14.9
 bih,sex_f,edu_aggregate_adv,mts_details_total,2009,14.7
@@ -134,6 +138,7 @@ bih,sex_f,edu_aggregate_bas,mts_aggregate_total,2016,82.8
 bih,sex_f,edu_aggregate_bas,mts_aggregate_total,2017,81.5
 bih,sex_f,edu_aggregate_bas,mts_aggregate_total,2018,85.8
 bih,sex_f,edu_aggregate_bas,mts_aggregate_total,2019,83.4
+bih,sex_f,edu_aggregate_bas,mts_aggregate_x,2006,34.6
 bih,sex_f,edu_aggregate_bas,mts_aggregate_x,2007,67.5
 bih,sex_f,edu_aggregate_bas,mts_aggregate_x,2008,50.9
 bih,sex_f,edu_aggregate_bas,mts_aggregate_x,2009,70.4
@@ -217,6 +222,7 @@ bih,sex_f,edu_aggregate_bas,mts_details_wid,2016,93.1
 bih,sex_f,edu_aggregate_bas,mts_details_wid,2017,91.2
 bih,sex_f,edu_aggregate_bas,mts_details_wid,2018,93.6
 bih,sex_f,edu_aggregate_bas,mts_details_wid,2019,91.3
+bih,sex_f,edu_aggregate_bas,mts_details_x,2006,34.6
 bih,sex_f,edu_aggregate_bas,mts_details_x,2007,67.5
 bih,sex_f,edu_aggregate_bas,mts_details_x,2008,50.9
 bih,sex_f,edu_aggregate_bas,mts_details_x,2009,70.4
@@ -1114,6 +1120,7 @@ bih,sex_f,edu_isced97_1,mts_aggregate_total,2011,81.1
 bih,sex_f,edu_isced97_1,mts_aggregate_total,2012,80.1
 bih,sex_f,edu_isced97_1,mts_aggregate_total,2013,80.8
 bih,sex_f,edu_isced97_1,mts_aggregate_total,2014,81.3
+bih,sex_f,edu_isced97_1,mts_aggregate_x,2006,34.6
 bih,sex_f,edu_isced97_1,mts_aggregate_x,2007,67.5
 bih,sex_f,edu_isced97_1,mts_aggregate_x,2008,50.9
 bih,sex_f,edu_isced97_1,mts_aggregate_x,2009,70.4
@@ -1167,6 +1174,7 @@ bih,sex_f,edu_isced97_1,mts_details_wid,2011,88.5
 bih,sex_f,edu_isced97_1,mts_details_wid,2012,92
 bih,sex_f,edu_isced97_1,mts_details_wid,2013,91.9
 bih,sex_f,edu_isced97_1,mts_details_wid,2014,91.1
+bih,sex_f,edu_isced97_1,mts_details_x,2006,34.6
 bih,sex_f,edu_isced97_1,mts_details_x,2007,67.5
 bih,sex_f,edu_isced97_1,mts_details_x,2008,50.9
 bih,sex_f,edu_isced97_1,mts_details_x,2009,70.4
@@ -1265,6 +1273,7 @@ bih,sex_f,edu_isced97_3,mts_details_x,2011,36.2
 bih,sex_f,edu_isced97_3,mts_details_x,2012,52.7
 bih,sex_f,edu_isced97_3,mts_details_x,2013,63
 bih,sex_f,edu_isced97_3,mts_details_x,2014,34.8
+bih,sex_f,edu_isced97_5,mts_aggregate_1,2006,68.7
 bih,sex_f,edu_isced97_5,mts_aggregate_1,2007,16.4
 bih,sex_f,edu_isced97_5,mts_aggregate_1,2008,14.7
 bih,sex_f,edu_isced97_5,mts_aggregate_1,2009,19.1
@@ -1281,6 +1290,7 @@ bih,sex_f,edu_isced97_5,mts_aggregate_2,2011,10.7
 bih,sex_f,edu_isced97_5,mts_aggregate_2,2012,13.7
 bih,sex_f,edu_isced97_5,mts_aggregate_2,2013,17.2
 bih,sex_f,edu_isced97_5,mts_aggregate_2,2014,18.2
+bih,sex_f,edu_isced97_5,mts_aggregate_total,2006,40.7
 bih,sex_f,edu_isced97_5,mts_aggregate_total,2007,16.5
 bih,sex_f,edu_isced97_5,mts_aggregate_total,2008,14.5
 bih,sex_f,edu_isced97_5,mts_aggregate_total,2009,15.2
@@ -1297,6 +1307,7 @@ bih,sex_f,edu_isced97_5,mts_details_mrd,2011,10.7
 bih,sex_f,edu_isced97_5,mts_details_mrd,2012,13.7
 bih,sex_f,edu_isced97_5,mts_details_mrd,2013,17.2
 bih,sex_f,edu_isced97_5,mts_details_mrd,2014,18.2
+bih,sex_f,edu_isced97_5,mts_details_sgle,2006,100
 bih,sex_f,edu_isced97_5,mts_details_sgle,2007,10
 bih,sex_f,edu_isced97_5,mts_details_sgle,2008,11.8
 bih,sex_f,edu_isced97_5,mts_details_sgle,2009,14.7
@@ -1305,6 +1316,7 @@ bih,sex_f,edu_isced97_5,mts_details_sgle,2011,14.2
 bih,sex_f,edu_isced97_5,mts_details_sgle,2012,12.4
 bih,sex_f,edu_isced97_5,mts_details_sgle,2013,14.4
 bih,sex_f,edu_isced97_5,mts_details_sgle,2014,11.3
+bih,sex_f,edu_isced97_5,mts_details_total,2006,40.7
 bih,sex_f,edu_isced97_5,mts_details_total,2007,16.5
 bih,sex_f,edu_isced97_5,mts_details_total,2008,14.5
 bih,sex_f,edu_isced97_5,mts_details_total,2009,15.2
@@ -1499,6 +1511,7 @@ bih,sex_f,edu_isced97_x,mts_details_x,2008,96.3
 bih,sex_f,edu_isced97_x,mts_details_x,2009,74
 bih,sex_f,edu_isced97_x,mts_details_x,2010,83
 bih,sex_f,edu_isced97_x,mts_details_x,2012,100
+bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2006,55.3
 bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2007,23.1
 bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2008,25.2
 bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2009,18.7
@@ -1512,6 +1525,7 @@ bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2016,20.8
 bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2017,19.9
 bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2018,22.6
 bih,sex_m,edu_aggregate_adv,mts_aggregate_1,2019,27.7
+bih,sex_m,edu_aggregate_adv,mts_aggregate_2,2006,16.5
 bih,sex_m,edu_aggregate_adv,mts_aggregate_2,2007,23.3
 bih,sex_m,edu_aggregate_adv,mts_aggregate_2,2008,22.7
 bih,sex_m,edu_aggregate_adv,mts_aggregate_2,2009,23.3
@@ -1539,6 +1553,7 @@ bih,sex_m,edu_aggregate_adv,mts_aggregate_total,2016,23.2
 bih,sex_m,edu_aggregate_adv,mts_aggregate_total,2017,22.1
 bih,sex_m,edu_aggregate_adv,mts_aggregate_total,2018,26.8
 bih,sex_m,edu_aggregate_adv,mts_aggregate_total,2019,27.9
+bih,sex_m,edu_aggregate_adv,mts_details_mrd,2006,16.5
 bih,sex_m,edu_aggregate_adv,mts_details_mrd,2007,23.3
 bih,sex_m,edu_aggregate_adv,mts_details_mrd,2008,22.7
 bih,sex_m,edu_aggregate_adv,mts_details_mrd,2009,23.3
@@ -1557,6 +1572,7 @@ bih,sex_m,edu_aggregate_adv,mts_details_sep,2013,57.6
 bih,sex_m,edu_aggregate_adv,mts_details_sep,2017,77.4
 bih,sex_m,edu_aggregate_adv,mts_details_sep,2018,52.8
 bih,sex_m,edu_aggregate_adv,mts_details_sep,2019,51
+bih,sex_m,edu_aggregate_adv,mts_details_sgle,2006,28.5
 bih,sex_m,edu_aggregate_adv,mts_details_sgle,2007,12
 bih,sex_m,edu_aggregate_adv,mts_details_sgle,2008,13.8
 bih,sex_m,edu_aggregate_adv,mts_details_sgle,2009,12.7
@@ -1584,6 +1600,7 @@ bih,sex_m,edu_aggregate_adv,mts_details_total,2016,23.2
 bih,sex_m,edu_aggregate_adv,mts_details_total,2017,22.1
 bih,sex_m,edu_aggregate_adv,mts_details_total,2018,26.8
 bih,sex_m,edu_aggregate_adv,mts_details_total,2019,27.9
+bih,sex_m,edu_aggregate_adv,mts_details_wid,2006,100
 bih,sex_m,edu_aggregate_adv,mts_details_wid,2007,79.3
 bih,sex_m,edu_aggregate_adv,mts_details_wid,2008,78.3
 bih,sex_m,edu_aggregate_adv,mts_details_wid,2009,60.4
@@ -1639,6 +1656,7 @@ bih,sex_m,edu_aggregate_bas,mts_aggregate_total,2016,65.8
 bih,sex_m,edu_aggregate_bas,mts_aggregate_total,2017,68.7
 bih,sex_m,edu_aggregate_bas,mts_aggregate_total,2018,68.9
 bih,sex_m,edu_aggregate_bas,mts_aggregate_total,2019,70.1
+bih,sex_m,edu_aggregate_bas,mts_aggregate_x,2006,16.2
 bih,sex_m,edu_aggregate_bas,mts_aggregate_x,2008,38.1
 bih,sex_m,edu_aggregate_bas,mts_aggregate_x,2010,27.2
 bih,sex_m,edu_aggregate_bas,mts_aggregate_x,2016,24.3
@@ -1713,6 +1731,7 @@ bih,sex_m,edu_aggregate_bas,mts_details_wid,2016,90.3
 bih,sex_m,edu_aggregate_bas,mts_details_wid,2017,92.3
 bih,sex_m,edu_aggregate_bas,mts_details_wid,2018,91.4
 bih,sex_m,edu_aggregate_bas,mts_details_wid,2019,91.5
+bih,sex_m,edu_aggregate_bas,mts_details_x,2006,16.2
 bih,sex_m,edu_aggregate_bas,mts_details_x,2008,38.1
 bih,sex_m,edu_aggregate_bas,mts_details_x,2010,27.2
 bih,sex_m,edu_aggregate_bas,mts_details_x,2016,24.3
@@ -1759,6 +1778,7 @@ bih,sex_m,edu_aggregate_int,mts_aggregate_total,2016,37.5
 bih,sex_m,edu_aggregate_int,mts_aggregate_total,2017,39.2
 bih,sex_m,edu_aggregate_int,mts_aggregate_total,2018,39
 bih,sex_m,edu_aggregate_int,mts_aggregate_total,2019,41.6
+bih,sex_m,edu_aggregate_int,mts_aggregate_x,2006,20.8
 bih,sex_m,edu_aggregate_int,mts_aggregate_x,2007,27.4
 bih,sex_m,edu_aggregate_int,mts_aggregate_x,2008,35.3
 bih,sex_m,edu_aggregate_int,mts_aggregate_x,2009,33.9
@@ -1842,6 +1862,7 @@ bih,sex_m,edu_aggregate_int,mts_details_wid,2016,83.3
 bih,sex_m,edu_aggregate_int,mts_details_wid,2017,80.2
 bih,sex_m,edu_aggregate_int,mts_details_wid,2018,82.8
 bih,sex_m,edu_aggregate_int,mts_details_wid,2019,81.5
+bih,sex_m,edu_aggregate_int,mts_details_x,2006,20.8
 bih,sex_m,edu_aggregate_int,mts_details_x,2007,27.4
 bih,sex_m,edu_aggregate_int,mts_details_x,2008,35.3
 bih,sex_m,edu_aggregate_int,mts_details_x,2009,33.9
@@ -2576,6 +2597,7 @@ bih,sex_m,edu_isced97_1,mts_aggregate_total,2011,61
 bih,sex_m,edu_isced97_1,mts_aggregate_total,2012,61.7
 bih,sex_m,edu_isced97_1,mts_aggregate_total,2013,62.4
 bih,sex_m,edu_isced97_1,mts_aggregate_total,2014,65.4
+bih,sex_m,edu_isced97_1,mts_aggregate_x,2006,16.2
 bih,sex_m,edu_isced97_1,mts_aggregate_x,2008,38.1
 bih,sex_m,edu_isced97_1,mts_aggregate_x,2010,27.2
 bih,sex_m,edu_isced97_1,mts_details_mrd,2006,31.8
@@ -2623,6 +2645,7 @@ bih,sex_m,edu_isced97_1,mts_details_wid,2011,87
 bih,sex_m,edu_isced97_1,mts_details_wid,2012,86.9
 bih,sex_m,edu_isced97_1,mts_details_wid,2013,92.6
 bih,sex_m,edu_isced97_1,mts_details_wid,2014,85.2
+bih,sex_m,edu_isced97_1,mts_details_x,2006,16.2
 bih,sex_m,edu_isced97_1,mts_details_x,2008,38.1
 bih,sex_m,edu_isced97_1,mts_details_x,2010,27.2
 bih,sex_m,edu_isced97_3,mts_aggregate_1,2006,44.5
@@ -2652,6 +2675,7 @@ bih,sex_m,edu_isced97_3,mts_aggregate_total,2011,35.6
 bih,sex_m,edu_isced97_3,mts_aggregate_total,2012,34.2
 bih,sex_m,edu_isced97_3,mts_aggregate_total,2013,36.8
 bih,sex_m,edu_isced97_3,mts_aggregate_total,2014,36.2
+bih,sex_m,edu_isced97_3,mts_aggregate_x,2006,20.8
 bih,sex_m,edu_isced97_3,mts_aggregate_x,2007,27.4
 bih,sex_m,edu_isced97_3,mts_aggregate_x,2008,35.3
 bih,sex_m,edu_isced97_3,mts_aggregate_x,2009,33.9
@@ -2705,6 +2729,7 @@ bih,sex_m,edu_isced97_3,mts_details_wid,2011,82.2
 bih,sex_m,edu_isced97_3,mts_details_wid,2012,73.4
 bih,sex_m,edu_isced97_3,mts_details_wid,2013,79.9
 bih,sex_m,edu_isced97_3,mts_details_wid,2014,82.7
+bih,sex_m,edu_isced97_3,mts_details_x,2006,20.8
 bih,sex_m,edu_isced97_3,mts_details_x,2007,27.4
 bih,sex_m,edu_isced97_3,mts_details_x,2008,35.3
 bih,sex_m,edu_isced97_3,mts_details_x,2009,33.9
@@ -2713,6 +2738,7 @@ bih,sex_m,edu_isced97_3,mts_details_x,2011,24.9
 bih,sex_m,edu_isced97_3,mts_details_x,2012,28.7
 bih,sex_m,edu_isced97_3,mts_details_x,2013,30.2
 bih,sex_m,edu_isced97_3,mts_details_x,2014,20
+bih,sex_m,edu_isced97_5,mts_aggregate_1,2006,55.3
 bih,sex_m,edu_isced97_5,mts_aggregate_1,2007,22.4
 bih,sex_m,edu_isced97_5,mts_aggregate_1,2008,25.7
 bih,sex_m,edu_isced97_5,mts_aggregate_1,2009,18.1
@@ -2721,6 +2747,7 @@ bih,sex_m,edu_isced97_5,mts_aggregate_1,2011,14.8
 bih,sex_m,edu_isced97_5,mts_aggregate_1,2012,22
 bih,sex_m,edu_isced97_5,mts_aggregate_1,2013,17.7
 bih,sex_m,edu_isced97_5,mts_aggregate_1,2014,19.2
+bih,sex_m,edu_isced97_5,mts_aggregate_2,2006,16.5
 bih,sex_m,edu_isced97_5,mts_aggregate_2,2007,23
 bih,sex_m,edu_isced97_5,mts_aggregate_2,2008,22.6
 bih,sex_m,edu_isced97_5,mts_aggregate_2,2009,23.2
@@ -2738,6 +2765,7 @@ bih,sex_m,edu_isced97_5,mts_aggregate_total,2011,19.3
 bih,sex_m,edu_isced97_5,mts_aggregate_total,2012,24.5
 bih,sex_m,edu_isced97_5,mts_aggregate_total,2013,21.8
 bih,sex_m,edu_isced97_5,mts_aggregate_total,2014,21.6
+bih,sex_m,edu_isced97_5,mts_details_mrd,2006,16.5
 bih,sex_m,edu_isced97_5,mts_details_mrd,2007,23
 bih,sex_m,edu_isced97_5,mts_details_mrd,2008,22.6
 bih,sex_m,edu_isced97_5,mts_details_mrd,2009,23.2
@@ -2747,6 +2775,7 @@ bih,sex_m,edu_isced97_5,mts_details_mrd,2012,25.5
 bih,sex_m,edu_isced97_5,mts_details_mrd,2013,24.4
 bih,sex_m,edu_isced97_5,mts_details_mrd,2014,22.9
 bih,sex_m,edu_isced97_5,mts_details_sep,2013,57.6
+bih,sex_m,edu_isced97_5,mts_details_sgle,2006,28.5
 bih,sex_m,edu_isced97_5,mts_details_sgle,2007,12.2
 bih,sex_m,edu_isced97_5,mts_details_sgle,2008,14
 bih,sex_m,edu_isced97_5,mts_details_sgle,2009,12.5
@@ -2764,6 +2793,7 @@ bih,sex_m,edu_isced97_5,mts_details_total,2011,19.3
 bih,sex_m,edu_isced97_5,mts_details_total,2012,24.5
 bih,sex_m,edu_isced97_5,mts_details_total,2013,21.8
 bih,sex_m,edu_isced97_5,mts_details_total,2014,21.6
+bih,sex_m,edu_isced97_5,mts_details_wid,2006,100
 bih,sex_m,edu_isced97_5,mts_details_wid,2007,77
 bih,sex_m,edu_isced97_5,mts_details_wid,2008,82.4
 bih,sex_m,edu_isced97_5,mts_details_wid,2009,59.7
@@ -2972,6 +3002,7 @@ bih,sex_t,edu_aggregate_adv,mts_aggregate_1,2016,20.9
 bih,sex_t,edu_aggregate_adv,mts_aggregate_1,2017,23.1
 bih,sex_t,edu_aggregate_adv,mts_aggregate_1,2018,20.2
 bih,sex_t,edu_aggregate_adv,mts_aggregate_1,2019,25.8
+bih,sex_t,edu_aggregate_adv,mts_aggregate_2,2006,15
 bih,sex_t,edu_aggregate_adv,mts_aggregate_2,2007,21
 bih,sex_t,edu_aggregate_adv,mts_aggregate_2,2008,19.7
 bih,sex_t,edu_aggregate_adv,mts_aggregate_2,2009,18.9
@@ -2999,6 +3030,7 @@ bih,sex_t,edu_aggregate_adv,mts_aggregate_total,2016,21.1
 bih,sex_t,edu_aggregate_adv,mts_aggregate_total,2017,22.5
 bih,sex_t,edu_aggregate_adv,mts_aggregate_total,2018,23.4
 bih,sex_t,edu_aggregate_adv,mts_aggregate_total,2019,25.4
+bih,sex_t,edu_aggregate_adv,mts_details_mrd,2006,15
 bih,sex_t,edu_aggregate_adv,mts_details_mrd,2007,21
 bih,sex_t,edu_aggregate_adv,mts_details_mrd,2008,19.7
 bih,sex_t,edu_aggregate_adv,mts_details_mrd,2009,18.9
@@ -3021,6 +3053,7 @@ bih,sex_t,edu_aggregate_adv,mts_details_sep,2016,18.3
 bih,sex_t,edu_aggregate_adv,mts_details_sep,2017,42.4
 bih,sex_t,edu_aggregate_adv,mts_details_sep,2018,28.2
 bih,sex_t,edu_aggregate_adv,mts_details_sep,2019,19
+bih,sex_t,edu_aggregate_adv,mts_details_sgle,2006,56
 bih,sex_t,edu_aggregate_adv,mts_details_sgle,2007,10.7
 bih,sex_t,edu_aggregate_adv,mts_details_sgle,2008,12.4
 bih,sex_t,edu_aggregate_adv,mts_details_sgle,2009,13.5
@@ -3048,6 +3081,7 @@ bih,sex_t,edu_aggregate_adv,mts_details_total,2016,21.1
 bih,sex_t,edu_aggregate_adv,mts_details_total,2017,22.5
 bih,sex_t,edu_aggregate_adv,mts_details_total,2018,23.4
 bih,sex_t,edu_aggregate_adv,mts_details_total,2019,25.4
+bih,sex_t,edu_aggregate_adv,mts_details_wid,2006,67.7
 bih,sex_t,edu_aggregate_adv,mts_details_wid,2007,64.4
 bih,sex_t,edu_aggregate_adv,mts_details_wid,2008,63.3
 bih,sex_t,edu_aggregate_adv,mts_details_wid,2009,50.6
@@ -4283,6 +4317,7 @@ bih,sex_t,edu_isced97_5,mts_aggregate_1,2011,15.3
 bih,sex_t,edu_isced97_5,mts_aggregate_1,2012,19
 bih,sex_t,edu_isced97_5,mts_aggregate_1,2013,16.3
 bih,sex_t,edu_isced97_5,mts_aggregate_1,2014,16.1
+bih,sex_t,edu_isced97_5,mts_aggregate_2,2006,15
 bih,sex_t,edu_isced97_5,mts_aggregate_2,2007,20.6
 bih,sex_t,edu_isced97_5,mts_aggregate_2,2008,19.2
 bih,sex_t,edu_isced97_5,mts_aggregate_2,2009,18.9
@@ -4300,6 +4335,7 @@ bih,sex_t,edu_isced97_5,mts_aggregate_total,2011,16.2
 bih,sex_t,edu_isced97_5,mts_aggregate_total,2012,20
 bih,sex_t,edu_isced97_5,mts_aggregate_total,2013,19.1
 bih,sex_t,edu_isced97_5,mts_aggregate_total,2014,18.8
+bih,sex_t,edu_isced97_5,mts_details_mrd,2006,15
 bih,sex_t,edu_isced97_5,mts_details_mrd,2007,20.6
 bih,sex_t,edu_isced97_5,mts_details_mrd,2008,19.2
 bih,sex_t,edu_isced97_5,mts_details_mrd,2009,18.9
@@ -4312,6 +4348,7 @@ bih,sex_t,edu_isced97_5,mts_details_sep,2007,25.8
 bih,sex_t,edu_isced97_5,mts_details_sep,2010,30.6
 bih,sex_t,edu_isced97_5,mts_details_sep,2013,14.8
 bih,sex_t,edu_isced97_5,mts_details_sep,2014,11.8
+bih,sex_t,edu_isced97_5,mts_details_sgle,2006,56
 bih,sex_t,edu_isced97_5,mts_details_sgle,2007,10.9
 bih,sex_t,edu_isced97_5,mts_details_sgle,2008,12.7
 bih,sex_t,edu_isced97_5,mts_details_sgle,2009,13.7
@@ -4329,6 +4366,7 @@ bih,sex_t,edu_isced97_5,mts_details_total,2011,16.2
 bih,sex_t,edu_isced97_5,mts_details_total,2012,20
 bih,sex_t,edu_isced97_5,mts_details_total,2013,19.1
 bih,sex_t,edu_isced97_5,mts_details_total,2014,18.8
+bih,sex_t,edu_isced97_5,mts_details_wid,2006,67.7
 bih,sex_t,edu_isced97_5,mts_details_wid,2007,62.8
 bih,sex_t,edu_isced97_5,mts_details_wid,2008,67
 bih,sex_t,edu_isced97_5,mts_details_wid,2009,51

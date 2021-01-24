@@ -4328,6 +4328,7 @@ bol,sex_f,how_bands_total,2000,406.284
 bol,sex_f,how_bands_total,2001,445.697
 bol,sex_f,how_bands_total,2002,407.15
 bol,sex_f,how_bands_total,2009,740.739
+bol,sex_f,how_bands_x,1999,0.288
 bol,sex_f,how_bands_x,2002,1.981
 bol,sex_m,how_bands_h00,2001,9.5
 bol,sex_m,how_bands_h00,2009,2.636
@@ -4366,6 +4367,7 @@ bol,sex_m,how_bands_total,2000,718.312
 bol,sex_m,how_bands_total,2001,785.784
 bol,sex_m,how_bands_total,2002,767.879
 bol,sex_m,how_bands_total,2009,1289.513
+bol,sex_m,how_bands_x,1999,1.534
 bol,sex_m,how_bands_x,2002,3.717
 bol,sex_t,how_bands_h00,2001,11.217
 bol,sex_t,how_bands_h00,2009,3.386
@@ -7217,6 +7219,7 @@ cok,sex_f,how_bands_total,2016,2.973
 cok,sex_f,how_bands_total,2019,2.972
 cok,sex_f,how_bands_x,2019,0.153
 cok,sex_m,how_bands_h01_14,2016,0.051
+cok,sex_m,how_bands_h01_14,2019,0.012
 cok,sex_m,how_bands_h15_29,2016,0.287
 cok,sex_m,how_bands_h15_29,2019,0.244
 cok,sex_m,how_bands_h30_34,2016,0.167
@@ -7389,6 +7392,7 @@ col,sex_f,how_bands_total,2016,4674.629
 col,sex_f,how_bands_total,2017,4752.209
 col,sex_f,how_bands_total,2018,4743.937
 col,sex_f,how_bands_total,2019,4722.597
+col,sex_f,how_bands_x,2002,0.076
 col,sex_f,how_bands_x,2004,1.205
 col,sex_m,how_bands_h00,2002,151.376
 col,sex_m,how_bands_h00,2003,160.852
@@ -16019,6 +16023,7 @@ gha,sex_f,how_bands_x,2017,89.091
 gha,sex_m,how_bands_h00,2006,42.229
 gha,sex_m,how_bands_h00,2013,8.546
 gha,sex_m,how_bands_h00,2015,78.576
+gha,sex_m,how_bands_h00,2017,0.19
 gha,sex_m,how_bands_h01_14,2006,38.82
 gha,sex_m,how_bands_h01_14,2013,71.103
 gha,sex_m,how_bands_h01_14,2015,60.177
@@ -16052,6 +16057,7 @@ gha,sex_m,how_bands_x,2017,170.565
 gha,sex_t,how_bands_h00,2006,68.425
 gha,sex_t,how_bands_h00,2013,10.442
 gha,sex_t,how_bands_h00,2015,122.78
+gha,sex_t,how_bands_h00,2017,0.19
 gha,sex_t,how_bands_h01_14,2006,57.839
 gha,sex_t,how_bands_h01_14,2013,110.388
 gha,sex_t,how_bands_h01_14,2015,90.911
@@ -19123,31 +19129,57 @@ idn,sex_t,how_bands_total,2017,59928.063
 idn,sex_t,how_bands_total,2018,60376.973
 idn,sex_t,how_bands_total,2019,62532.8
 ind,sex_f,how_bands_h00,2018,274.888
+ind,sex_f,how_bands_h00,2019,339.071
 ind,sex_f,how_bands_h01_14,2018,134.788
+ind,sex_f,how_bands_h01_14,2019,107.584
 ind,sex_f,how_bands_h15_29,2018,1003.087
+ind,sex_f,how_bands_h15_29,2019,1095.447
 ind,sex_f,how_bands_h30_34,2018,230.337
+ind,sex_f,how_bands_h30_34,2019,159.543
 ind,sex_f,how_bands_h35_39,2018,1047.508
+ind,sex_f,how_bands_h35_39,2019,1115.649
 ind,sex_f,how_bands_h40_48,2018,2711.865
+ind,sex_f,how_bands_h40_48,2019,2712.837
 ind,sex_f,how_bands_hge49,2018,12657.023
+ind,sex_f,how_bands_hge49,2019,14401.852
 ind,sex_f,how_bands_total,2018,18059.496
+ind,sex_f,how_bands_total,2019,19931.983
 ind,sex_m,how_bands_h00,2018,575.753
+ind,sex_m,how_bands_h00,2019,745.605
 ind,sex_m,how_bands_h01_14,2018,32.771
+ind,sex_m,how_bands_h01_14,2019,31.772
 ind,sex_m,how_bands_h15_29,2018,272.704
+ind,sex_m,how_bands_h15_29,2019,348.946
 ind,sex_m,how_bands_h30_34,2018,123.567
+ind,sex_m,how_bands_h30_34,2019,118.627
 ind,sex_m,how_bands_h35_39,2018,493.957
+ind,sex_m,how_bands_h35_39,2019,467.918
 ind,sex_m,how_bands_h40_48,2018,3450.12
+ind,sex_m,how_bands_h40_48,2019,2674.237
 ind,sex_m,how_bands_hge49,2018,61547.457
+ind,sex_m,how_bands_hge49,2019,65273.465
 ind,sex_m,how_bands_total,2018,66496.328
+ind,sex_m,how_bands_total,2019,69660.569
 ind,sex_o,how_bands_hge49,2018,24.52
+ind,sex_o,how_bands_hge49,2019,8.166
 ind,sex_o,how_bands_total,2018,27.06
+ind,sex_o,how_bands_total,2019,10.391
 ind,sex_t,how_bands_h00,2018,850.641
+ind,sex_t,how_bands_h00,2019,1084.676
 ind,sex_t,how_bands_h01_14,2018,167.559
+ind,sex_t,how_bands_h01_14,2019,139.356
 ind,sex_t,how_bands_h15_29,2018,1275.791
+ind,sex_t,how_bands_h15_29,2019,1444.696
 ind,sex_t,how_bands_h30_34,2018,353.904
+ind,sex_t,how_bands_h30_34,2019,278.169
 ind,sex_t,how_bands_h35_39,2018,1541.466
+ind,sex_t,how_bands_h35_39,2019,1583.567
 ind,sex_t,how_bands_h40_48,2018,6164.525
+ind,sex_t,how_bands_h40_48,2019,5388.997
 ind,sex_t,how_bands_hge49,2018,74228.999
+ind,sex_t,how_bands_hge49,2019,79683.482
 ind,sex_t,how_bands_total,2018,84582.885
+ind,sex_t,how_bands_total,2019,89602.943
 irl,sex_f,how_bands_h00,1983,13.918
 irl,sex_f,how_bands_h00,1984,21.51
 irl,sex_f,how_bands_h00,1985,13.407
@@ -22891,6 +22923,7 @@ kor,sex_f,how_bands_h00,2016,231.59
 kor,sex_f,how_bands_h00,2017,223.706
 kor,sex_f,how_bands_h00,2018,221.379
 kor,sex_f,how_bands_h00,2019,220.854
+kor,sex_f,how_bands_h00,2020,425.334
 kor,sex_f,how_bands_h01_14,2009,280
 kor,sex_f,how_bands_h01_14,2010,338.5
 kor,sex_f,how_bands_h01_14,2011,371.5
@@ -22902,6 +22935,7 @@ kor,sex_f,how_bands_h01_14,2016,461.37
 kor,sex_f,how_bands_h01_14,2017,498.293
 kor,sex_f,how_bands_h01_14,2018,587.124
 kor,sex_f,how_bands_h01_14,2019,725.398
+kor,sex_f,how_bands_h01_14,2020,679.985
 kor,sex_f,how_bands_h15_29,2009,583.9
 kor,sex_f,how_bands_h15_29,2010,685.6
 kor,sex_f,how_bands_h15_29,2011,911.7
@@ -22913,6 +22947,7 @@ kor,sex_f,how_bands_h15_29,2016,882.94
 kor,sex_f,how_bands_h15_29,2017,947.432
 kor,sex_f,how_bands_h15_29,2018,972.452
 kor,sex_f,how_bands_h15_29,2019,1149.223
+kor,sex_f,how_bands_h15_29,2020,1230.258
 kor,sex_f,how_bands_h30_34,2009,261.1
 kor,sex_f,how_bands_h30_34,2010,382.9
 kor,sex_f,how_bands_h30_34,2011,438.8
@@ -22924,6 +22959,7 @@ kor,sex_f,how_bands_h30_34,2016,640.778
 kor,sex_f,how_bands_h30_34,2017,523.343
 kor,sex_f,how_bands_h30_34,2018,744.014
 kor,sex_f,how_bands_h30_34,2019,625.238
+kor,sex_f,how_bands_h30_34,2020,704.487
 kor,sex_f,how_bands_h35_39,2009,395.1
 kor,sex_f,how_bands_h35_39,2010,442.8
 kor,sex_f,how_bands_h35_39,2011,456.5
@@ -22935,6 +22971,7 @@ kor,sex_f,how_bands_h35_39,2016,579.391
 kor,sex_f,how_bands_h35_39,2017,499.368
 kor,sex_f,how_bands_h35_39,2018,559.586
 kor,sex_f,how_bands_h35_39,2019,503.889
+kor,sex_f,how_bands_h35_39,2020,545.693
 kor,sex_f,how_bands_h40_48,2009,3399.8
 kor,sex_f,how_bands_h40_48,2010,3427.3
 kor,sex_f,how_bands_h40_48,2011,3397
@@ -22946,6 +22983,7 @@ kor,sex_f,how_bands_h40_48,2016,4411.393
 kor,sex_f,how_bands_h40_48,2017,4743.861
 kor,sex_f,how_bands_h40_48,2018,4688.71
 kor,sex_f,how_bands_h40_48,2019,4917.986
+kor,sex_f,how_bands_h40_48,2020,4714.812
 kor,sex_f,how_bands_hge49,2009,1874.1
 kor,sex_f,how_bands_hge49,2010,1778.1
 kor,sex_f,how_bands_hge49,2011,1643.7
@@ -22957,6 +22995,7 @@ kor,sex_f,how_bands_hge49,2016,1414.804
 kor,sex_f,how_bands_hge49,2017,1326.669
 kor,sex_f,how_bands_hge49,2018,1084.462
 kor,sex_f,how_bands_hge49,2019,942.146
+kor,sex_f,how_bands_hge49,2020,727.201
 kor,sex_f,how_bands_total,2009,6955.3
 kor,sex_f,how_bands_total,2010,7230.4
 kor,sex_f,how_bands_total,2011,7427.5
@@ -22968,6 +23007,7 @@ kor,sex_f,how_bands_total,2016,8622.266
 kor,sex_f,how_bands_total,2017,8762.672
 kor,sex_f,how_bands_total,2018,8857.727
 kor,sex_f,how_bands_total,2019,9084.734
+kor,sex_f,how_bands_total,2020,9027.77
 kor,sex_m,how_bands_h00,2009,114
 kor,sex_m,how_bands_h00,2010,96.2
 kor,sex_m,how_bands_h00,2011,109.2
@@ -22979,6 +23019,7 @@ kor,sex_m,how_bands_h00,2016,99.645
 kor,sex_m,how_bands_h00,2017,93.464
 kor,sex_m,how_bands_h00,2018,109.529
 kor,sex_m,how_bands_h00,2019,115.01
+kor,sex_m,how_bands_h00,2020,243.202
 kor,sex_m,how_bands_h01_14,2009,138.4
 kor,sex_m,how_bands_h01_14,2010,142.3
 kor,sex_m,how_bands_h01_14,2011,175.8
@@ -22990,6 +23031,7 @@ kor,sex_m,how_bands_h01_14,2016,197.489
 kor,sex_m,how_bands_h01_14,2017,227.938
 kor,sex_m,how_bands_h01_14,2018,251.803
 kor,sex_m,how_bands_h01_14,2019,316.855
+kor,sex_m,how_bands_h01_14,2020,304.089
 kor,sex_m,how_bands_h15_29,2009,329.1
 kor,sex_m,how_bands_h15_29,2010,371.1
 kor,sex_m,how_bands_h15_29,2011,699.6
@@ -23001,6 +23043,7 @@ kor,sex_m,how_bands_h15_29,2016,428.752
 kor,sex_m,how_bands_h15_29,2017,481.322
 kor,sex_m,how_bands_h15_29,2018,512.342
 kor,sex_m,how_bands_h15_29,2019,585.628
+kor,sex_m,how_bands_h15_29,2020,690.952
 kor,sex_m,how_bands_h30_34,2009,168.3
 kor,sex_m,how_bands_h30_34,2010,319.9
 kor,sex_m,how_bands_h30_34,2011,409
@@ -23012,6 +23055,7 @@ kor,sex_m,how_bands_h30_34,2016,525.454
 kor,sex_m,how_bands_h30_34,2017,382.428
 kor,sex_m,how_bands_h30_34,2018,665.185
 kor,sex_m,how_bands_h30_34,2019,471.673
+kor,sex_m,how_bands_h30_34,2020,577.799
 kor,sex_m,how_bands_h35_39,2009,258.1
 kor,sex_m,how_bands_h35_39,2010,335.6
 kor,sex_m,how_bands_h35_39,2011,349.5
@@ -23023,6 +23067,7 @@ kor,sex_m,how_bands_h35_39,2016,431.846
 kor,sex_m,how_bands_h35_39,2017,343.449
 kor,sex_m,how_bands_h35_39,2018,436.191
 kor,sex_m,how_bands_h35_39,2019,368.51
+kor,sex_m,how_bands_h35_39,2020,412.078
 kor,sex_m,how_bands_h40_48,2009,4578.1
 kor,sex_m,how_bands_h40_48,2010,4518.6
 kor,sex_m,how_bands_h40_48,2011,4475
@@ -23034,6 +23079,7 @@ kor,sex_m,how_bands_h40_48,2016,5977.251
 kor,sex_m,how_bands_h40_48,2017,6369.444
 kor,sex_m,how_bands_h40_48,2018,6506.25
 kor,sex_m,how_bands_h40_48,2019,6990.408
+kor,sex_m,how_bands_h40_48,2020,6967.292
 kor,sex_m,how_bands_hge49,2009,3912.4
 kor,sex_m,how_bands_hge49,2010,3956.6
 kor,sex_m,how_bands_hge49,2011,3751.4
@@ -23045,6 +23091,7 @@ kor,sex_m,how_bands_hge49,2016,3386.573
 kor,sex_m,how_bands_hge49,2017,3273.14
 kor,sex_m,how_bands_hge49,2018,2744.46
 kor,sex_m,how_bands_hge49,2019,2507.201
+kor,sex_m,how_bands_hge49,2020,2108.633
 kor,sex_m,how_bands_total,2009,9498.3
 kor,sex_m,how_bands_total,2010,9740.2
 kor,sex_m,how_bands_total,2011,9969.6
@@ -23056,6 +23103,7 @@ kor,sex_m,how_bands_total,2016,11047.009
 kor,sex_m,how_bands_total,2017,11171.185
 kor,sex_m,how_bands_total,2018,11225.759
 kor,sex_m,how_bands_total,2019,11355.285
+kor,sex_m,how_bands_total,2020,11304.044
 kor,sex_t,how_bands_h00,2009,275.3
 kor,sex_t,how_bands_h00,2010,271.4
 kor,sex_t,how_bands_h00,2011,317.5
@@ -23067,6 +23115,7 @@ kor,sex_t,how_bands_h00,2016,331.235
 kor,sex_t,how_bands_h00,2017,317.17
 kor,sex_t,how_bands_h00,2018,330.908
 kor,sex_t,how_bands_h00,2019,335.864
+kor,sex_t,how_bands_h00,2020,668.536
 kor,sex_t,how_bands_h01_14,2009,418.4
 kor,sex_t,how_bands_h01_14,2010,480.7
 kor,sex_t,how_bands_h01_14,2011,547.3
@@ -23078,6 +23127,7 @@ kor,sex_t,how_bands_h01_14,2016,658.859
 kor,sex_t,how_bands_h01_14,2017,726.231
 kor,sex_t,how_bands_h01_14,2018,838.927
 kor,sex_t,how_bands_h01_14,2019,1042.253
+kor,sex_t,how_bands_h01_14,2020,984.074
 kor,sex_t,how_bands_h15_29,2009,913
 kor,sex_t,how_bands_h15_29,2010,1056.7
 kor,sex_t,how_bands_h15_29,2011,1611.3
@@ -23089,6 +23139,7 @@ kor,sex_t,how_bands_h15_29,2016,1311.692
 kor,sex_t,how_bands_h15_29,2017,1428.754
 kor,sex_t,how_bands_h15_29,2018,1484.793
 kor,sex_t,how_bands_h15_29,2019,1734.851
+kor,sex_t,how_bands_h15_29,2020,1921.209
 kor,sex_t,how_bands_h30_34,2009,429.4
 kor,sex_t,how_bands_h30_34,2010,702.8
 kor,sex_t,how_bands_h30_34,2011,847.8
@@ -23100,6 +23151,7 @@ kor,sex_t,how_bands_h30_34,2016,1166.232
 kor,sex_t,how_bands_h30_34,2017,905.771
 kor,sex_t,how_bands_h30_34,2018,1409.199
 kor,sex_t,how_bands_h30_34,2019,1096.912
+kor,sex_t,how_bands_h30_34,2020,1282.286
 kor,sex_t,how_bands_h35_39,2009,653.2
 kor,sex_t,how_bands_h35_39,2010,778.3
 kor,sex_t,how_bands_h35_39,2011,806
@@ -23111,6 +23163,7 @@ kor,sex_t,how_bands_h35_39,2016,1011.236
 kor,sex_t,how_bands_h35_39,2017,842.817
 kor,sex_t,how_bands_h35_39,2018,995.778
 kor,sex_t,how_bands_h35_39,2019,872.399
+kor,sex_t,how_bands_h35_39,2020,957.771
 kor,sex_t,how_bands_h40_48,2009,7977.9
 kor,sex_t,how_bands_h40_48,2010,7945.9
 kor,sex_t,how_bands_h40_48,2011,7872
@@ -23122,6 +23175,7 @@ kor,sex_t,how_bands_h40_48,2016,10388.643
 kor,sex_t,how_bands_h40_48,2017,11113.305
 kor,sex_t,how_bands_h40_48,2018,11194.96
 kor,sex_t,how_bands_h40_48,2019,11908.393
+kor,sex_t,how_bands_h40_48,2020,11682.104
 kor,sex_t,how_bands_hge49,2009,5786.5
 kor,sex_t,how_bands_hge49,2010,5734.7
 kor,sex_t,how_bands_hge49,2011,5395.1
@@ -23133,6 +23187,7 @@ kor,sex_t,how_bands_hge49,2016,4801.377
 kor,sex_t,how_bands_hge49,2017,4599.81
 kor,sex_t,how_bands_hge49,2018,3828.922
 kor,sex_t,how_bands_hge49,2019,3449.347
+kor,sex_t,how_bands_hge49,2020,2835.834
 kor,sex_t,how_bands_total,2009,16453.7
 kor,sex_t,how_bands_total,2010,16970.6
 kor,sex_t,how_bands_total,2011,17397.1
@@ -23144,6 +23199,7 @@ kor,sex_t,how_bands_total,2016,19669.275
 kor,sex_t,how_bands_total,2017,19933.858
 kor,sex_t,how_bands_total,2018,20083.486
 kor,sex_t,how_bands_total,2019,20440.018
+kor,sex_t,how_bands_total,2020,20331.814
 kos,sex_f,how_bands_h00,2012,4.724
 kos,sex_f,how_bands_h00,2014,2.401
 kos,sex_f,how_bands_h00,2019,5.205
@@ -23175,6 +23231,7 @@ kos,sex_f,how_bands_total,2012,56.337
 kos,sex_f,how_bands_total,2014,59.464
 kos,sex_f,how_bands_total,2015,51.209
 kos,sex_f,how_bands_total,2019,69.298
+kos,sex_f,how_bands_x,2012,0.037
 kos,sex_m,how_bands_h00,2012,8.888
 kos,sex_m,how_bands_h00,2014,4.557
 kos,sex_m,how_bands_h00,2019,6.041
@@ -23206,6 +23263,7 @@ kos,sex_m,how_bands_total,2012,179.434
 kos,sex_m,how_bands_total,2014,162.189
 kos,sex_m,how_bands_total,2015,155.489
 kos,sex_m,how_bands_total,2019,197.488
+kos,sex_m,how_bands_x,2019,0.026
 kos,sex_t,how_bands_h00,2012,13.612
 kos,sex_t,how_bands_h00,2014,6.958
 kos,sex_t,how_bands_h00,2019,11.246
@@ -23237,6 +23295,9 @@ kos,sex_t,how_bands_total,2012,235.772
 kos,sex_t,how_bands_total,2014,221.653
 kos,sex_t,how_bands_total,2015,206.698
 kos,sex_t,how_bands_total,2019,266.786
+kos,sex_t,how_bands_x,2012,0.037
+kos,sex_t,how_bands_x,2019,0.026
+lao,sex_f,how_bands_h00,2017,0.252
 lao,sex_f,how_bands_h01_14,2010,2.737
 lao,sex_f,how_bands_h01_14,2017,12.103
 lao,sex_f,how_bands_h15_29,2010,7.417
@@ -26295,6 +26356,7 @@ mdv,sex_f,how_bands_h35_39,2016,3.547
 mdv,sex_f,how_bands_h40_48,2016,15.872
 mdv,sex_f,how_bands_hge49,2016,9.679
 mdv,sex_f,how_bands_total,2016,36.357
+mdv,sex_f,how_bands_x,2016,0.008
 mdv,sex_m,how_bands_h01_14,2016,1.14
 mdv,sex_m,how_bands_h15_29,2016,2.688
 mdv,sex_m,how_bands_h30_34,2016,2.262
@@ -26302,6 +26364,7 @@ mdv,sex_m,how_bands_h35_39,2016,3.057
 mdv,sex_m,how_bands_h40_48,2016,20.058
 mdv,sex_m,how_bands_hge49,2016,33.548
 mdv,sex_m,how_bands_total,2016,62.818
+mdv,sex_m,how_bands_x,2016,0.066
 mdv,sex_t,how_bands_h01_14,2016,2.11
 mdv,sex_t,how_bands_h15_29,2016,5.462
 mdv,sex_t,how_bands_h30_34,2016,5.768
@@ -26309,6 +26372,7 @@ mdv,sex_t,how_bands_h35_39,2016,6.604
 mdv,sex_t,how_bands_h40_48,2016,35.93
 mdv,sex_t,how_bands_hge49,2016,43.227
 mdv,sex_t,how_bands_total,2016,99.175
+mdv,sex_t,how_bands_x,2016,0.075
 mex,sex_f,how_bands_h00,2002,363.958
 mex,sex_f,how_bands_h00,2003,412.292
 mex,sex_f,how_bands_h00,2004,455.298
@@ -29001,6 +29065,7 @@ ner,sex_t,how_bands_h35_39,2017,37.865
 ner,sex_t,how_bands_h40_48,2017,163.006
 ner,sex_t,how_bands_hge49,2017,119.777
 ner,sex_t,how_bands_total,2017,458.006
+nga,sex_f,how_bands_h00,2011,6.641
 nga,sex_f,how_bands_h01_14,2011,69.199
 nga,sex_f,how_bands_h01_14,2013,109.337
 nga,sex_f,how_bands_h15_29,2011,194.321
@@ -29015,6 +29080,8 @@ nga,sex_f,how_bands_hge49,2011,894.47
 nga,sex_f,how_bands_hge49,2013,883.053
 nga,sex_f,how_bands_total,2011,3795.911
 nga,sex_f,how_bands_total,2013,3747.741
+nga,sex_f,how_bands_x,2011,3.596
+nga,sex_m,how_bands_h00,2011,18.32
 nga,sex_m,how_bands_h01_14,2011,141.249
 nga,sex_m,how_bands_h01_14,2013,160.173
 nga,sex_m,how_bands_h15_29,2011,218.639
@@ -29029,6 +29096,7 @@ nga,sex_m,how_bands_hge49,2011,2254.859
 nga,sex_m,how_bands_hge49,2013,2279.133
 nga,sex_m,how_bands_total,2011,6532.547
 nga,sex_m,how_bands_total,2013,6817.261
+nga,sex_m,how_bands_x,2011,14.744
 nga,sex_t,how_bands_h00,2011,24.961
 nga,sex_t,how_bands_h01_14,2011,210.447
 nga,sex_t,how_bands_h01_14,2013,269.51
@@ -29090,6 +29158,7 @@ nic,sex_m,how_bands_hge49,2012,218.723
 nic,sex_m,how_bands_total,2001,641.782
 nic,sex_m,how_bands_total,2005,672.038
 nic,sex_m,how_bands_total,2012,796.159
+nic,sex_m,how_bands_x,2001,0.416
 nic,sex_t,how_bands_h00,2012,40.91
 nic,sex_t,how_bands_h01_14,2001,20.978
 nic,sex_t,how_bands_h01_14,2005,14.887
@@ -29112,6 +29181,7 @@ nic,sex_t,how_bands_hge49,2012,322.005
 nic,sex_t,how_bands_total,2001,961.049
 nic,sex_t,how_bands_total,2005,1010.948
 nic,sex_t,how_bands_total,2012,1281.256
+nic,sex_t,how_bands_x,2001,0.416
 nic,sex_t,how_bands_x,2012,0.041
 nld,sex_f,how_bands_h00,1983,91.341
 nld,sex_f,how_bands_h00,1985,108.71
@@ -31190,6 +31260,7 @@ pak,sex_t,how_bands_total,2014,21598.888
 pak,sex_t,how_bands_total,2015,21769.381
 pak,sex_t,how_bands_total,2018,25680.955
 pak,sex_t,how_bands_x,2018,144.881
+pan,sex_f,how_bands_h00,1997,0.308
 pan,sex_f,how_bands_h00,2014,0
 pan,sex_f,how_bands_h01_14,1997,35.934
 pan,sex_f,how_bands_h01_14,2003,14.068
@@ -31248,6 +31319,7 @@ pan,sex_f,how_bands_total,2011,436.203
 pan,sex_f,how_bands_total,2012,450.943
 pan,sex_f,how_bands_total,2014,478.359
 pan,sex_f,how_bands_x,2014,0
+pan,sex_m,how_bands_h00,1997,0.254
 pan,sex_m,how_bands_h00,2014,0
 pan,sex_m,how_bands_h01_14,1997,45.512
 pan,sex_m,how_bands_h01_14,2003,15.029
@@ -31305,8 +31377,10 @@ pan,sex_m,how_bands_total,2010,577.17
 pan,sex_m,how_bands_total,2011,609.393
 pan,sex_m,how_bands_total,2012,648.359
 pan,sex_m,how_bands_total,2014,662.816
+pan,sex_m,how_bands_x,1997,0.191
 pan,sex_m,how_bands_x,2003,0.831
 pan,sex_m,how_bands_x,2014,0
+pan,sex_t,how_bands_h00,1997,0.562
 pan,sex_t,how_bands_h00,2014,0
 pan,sex_t,how_bands_h01_14,1997,81.445
 pan,sex_t,how_bands_h01_14,2003,29.097
@@ -31364,6 +31438,7 @@ pan,sex_t,how_bands_total,2010,958.903
 pan,sex_t,how_bands_total,2011,1045.596
 pan,sex_t,how_bands_total,2012,1099.302
 pan,sex_t,how_bands_total,2014,1141.175
+pan,sex_t,how_bands_x,1997,0.191
 pan,sex_t,how_bands_x,2003,1.929
 pan,sex_t,how_bands_x,2014,0
 per,sex_f,how_bands_h00,2002,31.362
@@ -31510,6 +31585,7 @@ per,sex_f,how_bands_total,2016,3226.064
 per,sex_f,how_bands_total,2017,3285.327
 per,sex_f,how_bands_total,2018,3330.285
 per,sex_f,how_bands_total,2019,3372.624
+per,sex_f,how_bands_x,2002,2.444
 per,sex_f,how_bands_x,2004,155.772
 per,sex_f,how_bands_x,2005,196.433
 per,sex_f,how_bands_x,2006,98.687
@@ -37808,7 +37884,6 @@ syc,sex_m,how_bands_total,2017,17.909
 syc,sex_m,how_bands_total,2018,18.238
 syc,sex_m,how_bands_total,2019,19.143
 syc,sex_m,how_bands_x,2014,0.227
-syc,sex_m,how_bands_x,2016,0.023
 syc,sex_m,how_bands_x,2018,0.81
 syc,sex_m,how_bands_x,2019,0.511
 syc,sex_t,how_bands_h00,2014,1.609
@@ -37860,7 +37935,6 @@ syc,sex_t,how_bands_total,2017,38.831
 syc,sex_t,how_bands_total,2018,40.772
 syc,sex_t,how_bands_total,2019,41.499
 syc,sex_t,how_bands_x,2014,0.414
-syc,sex_t,how_bands_x,2016,0.031
 syc,sex_t,how_bands_x,2018,1.184
 syc,sex_t,how_bands_x,2019,0.88
 tgo,sex_f,how_bands_h00,2014,4.744
@@ -38173,6 +38247,8 @@ tls,sex_f,how_bands_hge49,2016,6.244
 tls,sex_f,how_bands_total,2010,15.839
 tls,sex_f,how_bands_total,2013,18.401
 tls,sex_f,how_bands_total,2016,32.942
+tls,sex_f,how_bands_x,2013,0.077
+tls,sex_m,how_bands_h00,2010,0.004
 tls,sex_m,how_bands_h00,2013,4.415
 tls,sex_m,how_bands_h00,2016,0.554
 tls,sex_m,how_bands_h01_14,2010,1.111
@@ -38197,6 +38273,7 @@ tls,sex_m,how_bands_total,2010,55.623
 tls,sex_m,how_bands_total,2013,60.572
 tls,sex_m,how_bands_total,2016,94.316
 tls,sex_m,how_bands_x,2013,0.501
+tls,sex_t,how_bands_h00,2010,0.004
 tls,sex_t,how_bands_h00,2013,6.438
 tls,sex_t,how_bands_h00,2016,0.96
 tls,sex_t,how_bands_h01_14,2010,1.584
@@ -39196,6 +39273,7 @@ usa,sex_f,how_bands_h00,2016,2806.892
 usa,sex_f,how_bands_h00,2017,2975.42
 usa,sex_f,how_bands_h00,2018,2803.777
 usa,sex_f,how_bands_h00,2019,2795.391
+usa,sex_f,how_bands_h00,2020,3378.527
 usa,sex_f,how_bands_h01_14,1994,3436.331
 usa,sex_f,how_bands_h01_14,1995,3408.161
 usa,sex_f,how_bands_h01_14,1996,3515.292
@@ -39222,6 +39300,7 @@ usa,sex_f,how_bands_h01_14,2016,3707.295
 usa,sex_f,how_bands_h01_14,2017,3702.258
 usa,sex_f,how_bands_h01_14,2018,3695.968
 usa,sex_f,how_bands_h01_14,2019,3733.263
+usa,sex_f,how_bands_h01_14,2020,3659.989
 usa,sex_f,how_bands_h15_29,1994,8973.135
 usa,sex_f,how_bands_h15_29,1995,9113.476
 usa,sex_f,how_bands_h15_29,1996,9247.405
@@ -39248,6 +39327,7 @@ usa,sex_f,how_bands_h15_29,2016,10211.345
 usa,sex_f,how_bands_h15_29,2017,10191.996
 usa,sex_f,how_bands_h15_29,2018,10074.077
 usa,sex_f,how_bands_h15_29,2019,9901.637
+usa,sex_f,how_bands_h15_29,2020,9138.063
 usa,sex_f,how_bands_h30_34,1994,5266.787
 usa,sex_f,how_bands_h30_34,1995,5240.711
 usa,sex_f,how_bands_h30_34,1996,5224.453
@@ -39274,6 +39354,7 @@ usa,sex_f,how_bands_h30_34,2016,5865.513
 usa,sex_f,how_bands_h30_34,2017,6107.757
 usa,sex_f,how_bands_h30_34,2018,5723.265
 usa,sex_f,how_bands_h30_34,2019,5610.755
+usa,sex_f,how_bands_h30_34,2020,5892.465
 usa,sex_f,how_bands_h35_39,1994,5160.71
 usa,sex_f,how_bands_h35_39,1995,5170.064
 usa,sex_f,how_bands_h35_39,1996,5075.215
@@ -39300,6 +39381,7 @@ usa,sex_f,how_bands_h35_39,2016,5595.552
 usa,sex_f,how_bands_h35_39,2017,5513.437
 usa,sex_f,how_bands_h35_39,2018,5464.122
 usa,sex_f,how_bands_h35_39,2019,5485.359
+usa,sex_f,how_bands_h35_39,2020,4895.797
 usa,sex_f,how_bands_h40_48,1994,22832.483
 usa,sex_f,how_bands_h40_48,1995,23518.819
 usa,sex_f,how_bands_h40_48,1996,24008.301
@@ -39326,6 +39408,7 @@ usa,sex_f,how_bands_h40_48,2016,33605.446
 usa,sex_f,how_bands_h40_48,2017,34195.528
 usa,sex_f,how_bands_h40_48,2018,35911.048
 usa,sex_f,how_bands_h40_48,2019,37062.747
+usa,sex_f,how_bands_h40_48,2020,33362.663
 usa,sex_f,how_bands_hge49,1994,4130.193
 usa,sex_f,how_bands_hge49,1995,4224.071
 usa,sex_f,how_bands_hge49,1996,4433.773
@@ -39352,6 +39435,7 @@ usa,sex_f,how_bands_hge49,2016,5404.68
 usa,sex_f,how_bands_hge49,2017,5441.398
 usa,sex_f,how_bands_hge49,2018,5600.911
 usa,sex_f,how_bands_hge49,2019,5714.736
+usa,sex_f,how_bands_hge49,2020,5113.386
 usa,sex_f,how_bands_total,1994,52639.859
 usa,sex_f,how_bands_total,1995,53574.944
 usa,sex_f,how_bands_total,1996,54519.325
@@ -39378,6 +39462,7 @@ usa,sex_f,how_bands_total,2016,67196.723
 usa,sex_f,how_bands_total,2017,68127.795
 usa,sex_f,how_bands_total,2018,69273.167
 usa,sex_f,how_bands_total,2019,70303.888
+usa,sex_f,how_bands_total,2020,65440.89
 usa,sex_m,how_bands_h00,1994,2121.211
 usa,sex_m,how_bands_h00,1995,2077.724
 usa,sex_m,how_bands_h00,1996,2159.01
@@ -39404,6 +39489,7 @@ usa,sex_m,how_bands_h00,2016,1991.06
 usa,sex_m,how_bands_h00,2017,2161.85
 usa,sex_m,how_bands_h00,2018,2073.382
 usa,sex_m,how_bands_h00,2019,2043.678
+usa,sex_m,how_bands_h00,2020,2543.636
 usa,sex_m,how_bands_h01_14,1994,1893.508
 usa,sex_m,how_bands_h01_14,1995,1906.974
 usa,sex_m,how_bands_h01_14,1996,1913.596
@@ -39430,6 +39516,7 @@ usa,sex_m,how_bands_h01_14,2016,2175.459
 usa,sex_m,how_bands_h01_14,2017,2255.24
 usa,sex_m,how_bands_h01_14,2018,2225.273
 usa,sex_m,how_bands_h01_14,2019,2227.398
+usa,sex_m,how_bands_h01_14,2020,2311.054
 usa,sex_m,how_bands_h15_29,1994,5115.459
 usa,sex_m,how_bands_h15_29,1995,5091.433
 usa,sex_m,how_bands_h15_29,1996,5254.824
@@ -39456,6 +39543,7 @@ usa,sex_m,how_bands_h15_29,2016,6277.838
 usa,sex_m,how_bands_h15_29,2017,6291.839
 usa,sex_m,how_bands_h15_29,2018,6083.298
 usa,sex_m,how_bands_h15_29,2019,6156.147
+usa,sex_m,how_bands_h15_29,2020,6185.232
 usa,sex_m,how_bands_h30_34,1994,3817.442
 usa,sex_m,how_bands_h30_34,1995,3707.216
 usa,sex_m,how_bands_h30_34,1996,3740.133
@@ -39482,6 +39570,7 @@ usa,sex_m,how_bands_h30_34,2016,4372.959
 usa,sex_m,how_bands_h30_34,2017,4471.572
 usa,sex_m,how_bands_h30_34,2018,4197.066
 usa,sex_m,how_bands_h30_34,2019,4026.955
+usa,sex_m,how_bands_h30_34,2020,4944.515
 usa,sex_m,how_bands_h35_39,1994,3147.302
 usa,sex_m,how_bands_h35_39,1995,3235.393
 usa,sex_m,how_bands_h35_39,1996,3173.588
@@ -39508,6 +39597,7 @@ usa,sex_m,how_bands_h35_39,2016,3618.501
 usa,sex_m,how_bands_h35_39,2017,3554.104
 usa,sex_m,how_bands_h35_39,2018,3492.341
 usa,sex_m,how_bands_h35_39,2019,3599.406
+usa,sex_m,how_bands_h35_39,2020,3269.939
 usa,sex_m,how_bands_h40_48,1994,30317.443
 usa,sex_m,how_bands_h40_48,1995,31127.886
 usa,sex_m,how_bands_h40_48,1996,31416.415
@@ -39534,6 +39624,7 @@ usa,sex_m,how_bands_h40_48,2016,42300.699
 usa,sex_m,how_bands_h40_48,2017,43085.331
 usa,sex_m,how_bands_h40_48,2018,44537.315
 usa,sex_m,how_bands_h40_48,2019,45452.055
+usa,sex_m,how_bands_h40_48,2020,41900.328
 usa,sex_m,how_bands_hge49,1994,13274.403
 usa,sex_m,how_bands_hge49,1995,13585.674
 usa,sex_m,how_bands_hge49,1996,13934.754
@@ -39560,6 +39651,7 @@ usa,sex_m,how_bands_hge49,2016,13830.936
 usa,sex_m,how_bands_hge49,2017,13802.602
 usa,sex_m,how_bands_hge49,2018,14095.835
 usa,sex_m,how_bands_hge49,2019,14128.362
+usa,sex_m,how_bands_hge49,2020,11876.125
 usa,sex_m,how_bands_total,1994,59686.769
 usa,sex_m,how_bands_total,1995,60732.301
 usa,sex_m,how_bands_total,1996,61592.32
@@ -39586,6 +39678,7 @@ usa,sex_m,how_bands_total,2016,74567.45
 usa,sex_m,how_bands_total,2017,75622.538
 usa,sex_m,how_bands_total,2018,76704.509
 usa,sex_m,how_bands_total,2019,77634
+usa,sex_m,how_bands_total,2020,73030.828
 usa,sex_t,how_bands_h00,1994,4961.431
 usa,sex_t,how_bands_h00,1995,4977.366
 usa,sex_t,how_bands_h00,1996,5173.897
@@ -39612,6 +39705,7 @@ usa,sex_t,how_bands_h00,2016,4797.952
 usa,sex_t,how_bands_h00,2017,5137.27
 usa,sex_t,how_bands_h00,2018,4877.158
 usa,sex_t,how_bands_h00,2019,4839.068
+usa,sex_t,how_bands_h00,2020,5922.163
 usa,sex_t,how_bands_h01_14,1994,5329.839
 usa,sex_t,how_bands_h01_14,1995,5315.135
 usa,sex_t,how_bands_h01_14,1996,5428.888
@@ -39638,6 +39732,7 @@ usa,sex_t,how_bands_h01_14,2016,5882.754
 usa,sex_t,how_bands_h01_14,2017,5957.498
 usa,sex_t,how_bands_h01_14,2018,5921.24
 usa,sex_t,how_bands_h01_14,2019,5960.66
+usa,sex_t,how_bands_h01_14,2020,5971.043
 usa,sex_t,how_bands_h15_29,1994,14088.594
 usa,sex_t,how_bands_h15_29,1995,14204.91
 usa,sex_t,how_bands_h15_29,1996,14502.229
@@ -39664,6 +39759,7 @@ usa,sex_t,how_bands_h15_29,2016,16489.183
 usa,sex_t,how_bands_h15_29,2017,16483.835
 usa,sex_t,how_bands_h15_29,2018,16157.375
 usa,sex_t,how_bands_h15_29,2019,16057.784
+usa,sex_t,how_bands_h15_29,2020,15323.295
 usa,sex_t,how_bands_h30_34,1994,9084.229
 usa,sex_t,how_bands_h30_34,1995,8947.927
 usa,sex_t,how_bands_h30_34,1996,8964.585
@@ -39690,6 +39786,7 @@ usa,sex_t,how_bands_h30_34,2016,10238.471
 usa,sex_t,how_bands_h30_34,2017,10579.329
 usa,sex_t,how_bands_h30_34,2018,9920.331
 usa,sex_t,how_bands_h30_34,2019,9637.71
+usa,sex_t,how_bands_h30_34,2020,10836.98
 usa,sex_t,how_bands_h35_39,1994,8308.012
 usa,sex_t,how_bands_h35_39,1995,8405.458
 usa,sex_t,how_bands_h35_39,1996,8248.802
@@ -39716,6 +39813,7 @@ usa,sex_t,how_bands_h35_39,2016,9214.053
 usa,sex_t,how_bands_h35_39,2017,9067.541
 usa,sex_t,how_bands_h35_39,2018,8956.463
 usa,sex_t,how_bands_h35_39,2019,9084.764
+usa,sex_t,how_bands_h35_39,2020,8165.736
 usa,sex_t,how_bands_h40_48,1994,53149.926
 usa,sex_t,how_bands_h40_48,1995,54646.705
 usa,sex_t,how_bands_h40_48,1996,55424.716
@@ -39742,6 +39840,7 @@ usa,sex_t,how_bands_h40_48,2016,75906.145
 usa,sex_t,how_bands_h40_48,2017,77280.86
 usa,sex_t,how_bands_h40_48,2018,80448.363
 usa,sex_t,how_bands_h40_48,2019,82514.803
+usa,sex_t,how_bands_h40_48,2020,75262.991
 usa,sex_t,how_bands_hge49,1994,17404.596
 usa,sex_t,how_bands_hge49,1995,17809.745
 usa,sex_t,how_bands_hge49,1996,18368.527
@@ -39768,6 +39867,7 @@ usa,sex_t,how_bands_hge49,2016,19235.616
 usa,sex_t,how_bands_hge49,2017,19244
 usa,sex_t,how_bands_hge49,2018,19696.746
 usa,sex_t,how_bands_hge49,2019,19843.098
+usa,sex_t,how_bands_hge49,2020,16989.511
 usa,sex_t,how_bands_total,1994,112326.627
 usa,sex_t,how_bands_total,1995,114307.245
 usa,sex_t,how_bands_total,1996,116111.645
@@ -39794,6 +39894,7 @@ usa,sex_t,how_bands_total,2016,141764.173
 usa,sex_t,how_bands_total,2017,143750.333
 usa,sex_t,how_bands_total,2018,145977.676
 usa,sex_t,how_bands_total,2019,147937.888
+usa,sex_t,how_bands_total,2020,138471.717
 ven,sex_f,how_bands_h00,2005,0.237
 ven,sex_f,how_bands_h00,2009,0.933
 ven,sex_f,how_bands_h00,2010,1.164
@@ -40051,6 +40152,7 @@ vnm,sex_f,how_bands_h00,2016,132.893
 vnm,sex_f,how_bands_h00,2017,267.5
 vnm,sex_f,how_bands_h00,2018,206.324
 vnm,sex_f,how_bands_h00,2019,174.316
+vnm,sex_f,how_bands_h00,2020,260.265
 vnm,sex_f,how_bands_h01_14,2007,28.494
 vnm,sex_f,how_bands_h01_14,2009,103.445
 vnm,sex_f,how_bands_h01_14,2011,42.108
@@ -40062,6 +40164,7 @@ vnm,sex_f,how_bands_h01_14,2016,60.777
 vnm,sex_f,how_bands_h01_14,2017,119.231
 vnm,sex_f,how_bands_h01_14,2018,71.645
 vnm,sex_f,how_bands_h01_14,2019,359.591
+vnm,sex_f,how_bands_h01_14,2020,162.899
 vnm,sex_f,how_bands_h15_29,2007,196.775
 vnm,sex_f,how_bands_h15_29,2009,460.148
 vnm,sex_f,how_bands_h15_29,2011,303.072
@@ -40073,6 +40176,7 @@ vnm,sex_f,how_bands_h15_29,2016,446.081
 vnm,sex_f,how_bands_h15_29,2017,718.292
 vnm,sex_f,how_bands_h15_29,2018,482.489
 vnm,sex_f,how_bands_h15_29,2019,616.986
+vnm,sex_f,how_bands_h15_29,2020,699.919
 vnm,sex_f,how_bands_h30_34,2007,87.48
 vnm,sex_f,how_bands_h30_34,2009,190.454
 vnm,sex_f,how_bands_h30_34,2011,232.459
@@ -40084,6 +40188,7 @@ vnm,sex_f,how_bands_h30_34,2016,486.604
 vnm,sex_f,how_bands_h30_34,2017,610.469
 vnm,sex_f,how_bands_h30_34,2018,566.479
 vnm,sex_f,how_bands_h30_34,2019,488.923
+vnm,sex_f,how_bands_h30_34,2020,567.762
 vnm,sex_f,how_bands_h35_39,2007,247.796
 vnm,sex_f,how_bands_h35_39,2009,167.788
 vnm,sex_f,how_bands_h35_39,2011,207.69
@@ -40095,6 +40200,7 @@ vnm,sex_f,how_bands_h35_39,2016,244.105
 vnm,sex_f,how_bands_h35_39,2017,320.156
 vnm,sex_f,how_bands_h35_39,2018,320.876
 vnm,sex_f,how_bands_h35_39,2019,281.34
+vnm,sex_f,how_bands_h35_39,2020,277.765
 vnm,sex_f,how_bands_h40_48,2007,3134.176
 vnm,sex_f,how_bands_h40_48,2009,3100.199
 vnm,sex_f,how_bands_h40_48,2011,3908.823
@@ -40106,6 +40212,7 @@ vnm,sex_f,how_bands_h40_48,2016,5436.427
 vnm,sex_f,how_bands_h40_48,2017,5371.953
 vnm,sex_f,how_bands_h40_48,2018,5870.774
 vnm,sex_f,how_bands_h40_48,2019,6183.264
+vnm,sex_f,how_bands_h40_48,2020,6417.451
 vnm,sex_f,how_bands_hge49,2007,1973.484
 vnm,sex_f,how_bands_hge49,2009,2312.05
 vnm,sex_f,how_bands_hge49,2011,2361.027
@@ -40117,6 +40224,7 @@ vnm,sex_f,how_bands_hge49,2016,2444.052
 vnm,sex_f,how_bands_hge49,2017,2350.838
 vnm,sex_f,how_bands_hge49,2018,2687.796
 vnm,sex_f,how_bands_hge49,2019,3112.659
+vnm,sex_f,how_bands_hge49,2020,2811.622
 vnm,sex_f,how_bands_total,2007,5675.655
 vnm,sex_f,how_bands_total,2009,6424.616
 vnm,sex_f,how_bands_total,2011,7062.674
@@ -40128,6 +40236,7 @@ vnm,sex_f,how_bands_total,2016,9250.939
 vnm,sex_f,how_bands_total,2017,9763.148
 vnm,sex_f,how_bands_total,2018,10206.384
 vnm,sex_f,how_bands_total,2019,11217.078
+vnm,sex_f,how_bands_total,2020,11198.71
 vnm,sex_f,how_bands_x,2007,7.45
 vnm,sex_f,how_bands_x,2009,90.533
 vnm,sex_f,how_bands_x,2011,7.494
@@ -40136,11 +40245,13 @@ vnm,sex_f,how_bands_x,2013,6.66
 vnm,sex_f,how_bands_x,2014,10.891
 vnm,sex_f,how_bands_x,2015,0.629
 vnm,sex_f,how_bands_x,2017,4.709
+vnm,sex_f,how_bands_x,2020,1.027
 vnm,sex_m,how_bands_h00,2015,101.711
 vnm,sex_m,how_bands_h00,2016,77.19
 vnm,sex_m,how_bands_h00,2017,227.714
 vnm,sex_m,how_bands_h00,2018,126.596
 vnm,sex_m,how_bands_h00,2019,163.833
+vnm,sex_m,how_bands_h00,2020,208.444
 vnm,sex_m,how_bands_h01_14,2007,29.128
 vnm,sex_m,how_bands_h01_14,2009,122.754
 vnm,sex_m,how_bands_h01_14,2011,43.146
@@ -40152,6 +40263,7 @@ vnm,sex_m,how_bands_h01_14,2016,70.26
 vnm,sex_m,how_bands_h01_14,2017,133.704
 vnm,sex_m,how_bands_h01_14,2018,64.374
 vnm,sex_m,how_bands_h01_14,2019,515.633
+vnm,sex_m,how_bands_h01_14,2020,168.065
 vnm,sex_m,how_bands_h15_29,2007,220.906
 vnm,sex_m,how_bands_h15_29,2009,591.484
 vnm,sex_m,how_bands_h15_29,2011,348.778
@@ -40163,6 +40275,7 @@ vnm,sex_m,how_bands_h15_29,2016,523.348
 vnm,sex_m,how_bands_h15_29,2017,868.042
 vnm,sex_m,how_bands_h15_29,2018,542.309
 vnm,sex_m,how_bands_h15_29,2019,773.815
+vnm,sex_m,how_bands_h15_29,2020,816.254
 vnm,sex_m,how_bands_h30_34,2007,126.183
 vnm,sex_m,how_bands_h30_34,2009,324.669
 vnm,sex_m,how_bands_h30_34,2011,322.761
@@ -40174,6 +40287,7 @@ vnm,sex_m,how_bands_h30_34,2016,610.186
 vnm,sex_m,how_bands_h30_34,2017,760.328
 vnm,sex_m,how_bands_h30_34,2018,715.023
 vnm,sex_m,how_bands_h30_34,2019,617.764
+vnm,sex_m,how_bands_h30_34,2020,753.468
 vnm,sex_m,how_bands_h35_39,2007,317.974
 vnm,sex_m,how_bands_h35_39,2009,257.944
 vnm,sex_m,how_bands_h35_39,2011,244.733
@@ -40185,6 +40299,7 @@ vnm,sex_m,how_bands_h35_39,2016,339.785
 vnm,sex_m,how_bands_h35_39,2017,402.398
 vnm,sex_m,how_bands_h35_39,2018,391.858
 vnm,sex_m,how_bands_h35_39,2019,349.959
+vnm,sex_m,how_bands_h35_39,2020,364.286
 vnm,sex_m,how_bands_h40_48,2007,4186.847
 vnm,sex_m,how_bands_h40_48,2009,4067.296
 vnm,sex_m,how_bands_h40_48,2011,5384.474
@@ -40196,6 +40311,7 @@ vnm,sex_m,how_bands_h40_48,2016,6840.454
 vnm,sex_m,how_bands_h40_48,2017,6773.919
 vnm,sex_m,how_bands_h40_48,2018,7370.68
 vnm,sex_m,how_bands_h40_48,2019,7506.837
+vnm,sex_m,how_bands_h40_48,2020,7816.624
 vnm,sex_m,how_bands_hge49,2007,3477.673
 vnm,sex_m,how_bands_hge49,2009,4170.078
 vnm,sex_m,how_bands_hge49,2011,4201.426
@@ -40207,6 +40323,7 @@ vnm,sex_m,how_bands_hge49,2016,4244.297
 vnm,sex_m,how_bands_hge49,2017,4061.386
 vnm,sex_m,how_bands_hge49,2018,4418.124
 vnm,sex_m,how_bands_hge49,2019,4811.165
+vnm,sex_m,how_bands_hge49,2020,4634.717
 vnm,sex_m,how_bands_total,2007,8367.653
 vnm,sex_m,how_bands_total,2009,9610.349
 vnm,sex_m,how_bands_total,2011,10553.412
@@ -40218,6 +40335,7 @@ vnm,sex_m,how_bands_total,2016,12705.52
 vnm,sex_m,how_bands_total,2017,13237.688
 vnm,sex_m,how_bands_total,2018,13628.965
 vnm,sex_m,how_bands_total,2019,14739.005
+vnm,sex_m,how_bands_total,2020,14762.835
 vnm,sex_m,how_bands_x,2007,8.942
 vnm,sex_m,how_bands_x,2009,76.124
 vnm,sex_m,how_bands_x,2011,8.094
@@ -40226,11 +40344,13 @@ vnm,sex_m,how_bands_x,2013,1.612
 vnm,sex_m,how_bands_x,2014,9.739
 vnm,sex_m,how_bands_x,2015,0.774
 vnm,sex_m,how_bands_x,2017,10.197
+vnm,sex_m,how_bands_x,2020,0.978
 vnm,sex_t,how_bands_h00,2015,248.879
 vnm,sex_t,how_bands_h00,2016,210.082
 vnm,sex_t,how_bands_h00,2017,495.214
 vnm,sex_t,how_bands_h00,2018,332.921
 vnm,sex_t,how_bands_h00,2019,338.149
+vnm,sex_t,how_bands_h00,2020,468.709
 vnm,sex_t,how_bands_h01_14,2007,57.622
 vnm,sex_t,how_bands_h01_14,2009,226.199
 vnm,sex_t,how_bands_h01_14,2011,85.254
@@ -40242,6 +40362,7 @@ vnm,sex_t,how_bands_h01_14,2016,131.037
 vnm,sex_t,how_bands_h01_14,2017,252.935
 vnm,sex_t,how_bands_h01_14,2018,136.02
 vnm,sex_t,how_bands_h01_14,2019,875.224
+vnm,sex_t,how_bands_h01_14,2020,330.964
 vnm,sex_t,how_bands_h15_29,2007,417.681
 vnm,sex_t,how_bands_h15_29,2009,1051.632
 vnm,sex_t,how_bands_h15_29,2011,651.85
@@ -40253,6 +40374,7 @@ vnm,sex_t,how_bands_h15_29,2016,969.429
 vnm,sex_t,how_bands_h15_29,2017,1586.334
 vnm,sex_t,how_bands_h15_29,2018,1024.798
 vnm,sex_t,how_bands_h15_29,2019,1390.801
+vnm,sex_t,how_bands_h15_29,2020,1516.173
 vnm,sex_t,how_bands_h30_34,2007,213.663
 vnm,sex_t,how_bands_h30_34,2009,515.123
 vnm,sex_t,how_bands_h30_34,2011,555.221
@@ -40264,6 +40386,7 @@ vnm,sex_t,how_bands_h30_34,2016,1096.79
 vnm,sex_t,how_bands_h30_34,2017,1370.797
 vnm,sex_t,how_bands_h30_34,2018,1281.502
 vnm,sex_t,how_bands_h30_34,2019,1106.687
+vnm,sex_t,how_bands_h30_34,2020,1321.23
 vnm,sex_t,how_bands_h35_39,2007,565.77
 vnm,sex_t,how_bands_h35_39,2009,425.732
 vnm,sex_t,how_bands_h35_39,2011,452.424
@@ -40275,6 +40398,7 @@ vnm,sex_t,how_bands_h35_39,2016,583.89
 vnm,sex_t,how_bands_h35_39,2017,722.554
 vnm,sex_t,how_bands_h35_39,2018,712.735
 vnm,sex_t,how_bands_h35_39,2019,631.298
+vnm,sex_t,how_bands_h35_39,2020,642.051
 vnm,sex_t,how_bands_h40_48,2007,7321.023
 vnm,sex_t,how_bands_h40_48,2009,7167.495
 vnm,sex_t,how_bands_h40_48,2011,9293.297
@@ -40286,6 +40410,7 @@ vnm,sex_t,how_bands_h40_48,2016,12276.881
 vnm,sex_t,how_bands_h40_48,2017,12145.872
 vnm,sex_t,how_bands_h40_48,2018,13241.454
 vnm,sex_t,how_bands_h40_48,2019,13690.101
+vnm,sex_t,how_bands_h40_48,2020,14234.075
 vnm,sex_t,how_bands_hge49,2007,5451.158
 vnm,sex_t,how_bands_hge49,2009,6482.128
 vnm,sex_t,how_bands_hge49,2011,6562.453
@@ -40297,6 +40422,7 @@ vnm,sex_t,how_bands_hge49,2016,6688.349
 vnm,sex_t,how_bands_hge49,2017,6412.224
 vnm,sex_t,how_bands_hge49,2018,7105.92
 vnm,sex_t,how_bands_hge49,2019,7923.824
+vnm,sex_t,how_bands_hge49,2020,7446.339
 vnm,sex_t,how_bands_total,2007,14043.308
 vnm,sex_t,how_bands_total,2009,16034.966
 vnm,sex_t,how_bands_total,2011,17616.086
@@ -40308,6 +40434,7 @@ vnm,sex_t,how_bands_total,2016,21956.459
 vnm,sex_t,how_bands_total,2017,23000.836
 vnm,sex_t,how_bands_total,2018,23835.348
 vnm,sex_t,how_bands_total,2019,25956.083
+vnm,sex_t,how_bands_total,2020,25961.545
 vnm,sex_t,how_bands_x,2007,16.392
 vnm,sex_t,how_bands_x,2009,166.657
 vnm,sex_t,how_bands_x,2011,15.588
@@ -40316,6 +40443,7 @@ vnm,sex_t,how_bands_x,2013,8.271
 vnm,sex_t,how_bands_x,2014,20.63
 vnm,sex_t,how_bands_x,2015,1.403
 vnm,sex_t,how_bands_x,2017,14.906
+vnm,sex_t,how_bands_x,2020,2.005
 vut,sex_f,how_bands_h01_14,2006,1.374
 vut,sex_f,how_bands_h01_14,2010,1.964
 vut,sex_f,how_bands_h15_29,2006,0.717
@@ -40998,6 +41126,7 @@ zmb,sex_m,how_bands_hge49,2017,339.855
 zmb,sex_m,how_bands_hge49,2018,331.936
 zmb,sex_m,how_bands_total,2017,885.658
 zmb,sex_m,how_bands_total,2018,977.946
+zmb,sex_m,how_bands_x,2018,0.516
 zmb,sex_t,how_bands_h00,2017,39.389
 zmb,sex_t,how_bands_h00,2018,36.882
 zmb,sex_t,how_bands_h01_14,2017,36.592
@@ -41014,6 +41143,7 @@ zmb,sex_t,how_bands_hge49,2017,416.917
 zmb,sex_t,how_bands_hge49,2018,417.87
 zmb,sex_t,how_bands_total,2017,1246.123
 zmb,sex_t,how_bands_total,2018,1357.815
+zmb,sex_t,how_bands_x,2018,0.516
 zwe,sex_f,how_bands_h00,2014,36.483
 zwe,sex_f,how_bands_h00,2019,19.658
 zwe,sex_f,how_bands_h01_14,2011,46.266

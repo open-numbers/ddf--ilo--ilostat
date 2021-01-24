@@ -503,6 +503,7 @@ per,sex_f,ste_aggregate_slf,eco_aggregate_agr,2016,1696.191
 per,sex_f,ste_aggregate_slf,eco_aggregate_agr,2017,1628.431
 per,sex_f,ste_aggregate_slf,eco_aggregate_agr,2018,1631.367
 per,sex_f,ste_aggregate_slf,eco_aggregate_agr,2019,1650.604
+per,sex_f,ste_aggregate_slf,eco_aggregate_con,2002,2.625
 per,sex_f,ste_aggregate_slf,eco_aggregate_con,2007,3.48
 per,sex_f,ste_aggregate_slf,eco_aggregate_con,2008,1.036
 per,sex_f,ste_aggregate_slf,eco_aggregate_con,2009,3.269
@@ -2245,6 +2246,7 @@ per,sex_f,ste_icse93_2,eco_aggregate_man,2016,23.55
 per,sex_f,ste_icse93_2,eco_aggregate_man,2017,18.509
 per,sex_f,ste_icse93_2,eco_aggregate_man,2018,23.346
 per,sex_f,ste_icse93_2,eco_aggregate_man,2019,13.658
+per,sex_f,ste_icse93_2,eco_aggregate_mel,2002,0.036
 per,sex_f,ste_icse93_2,eco_aggregate_mel,2008,1.714
 per,sex_f,ste_icse93_2,eco_aggregate_mel,2011,0.854
 per,sex_f,ste_icse93_2,eco_aggregate_mel,2015,1.472
@@ -2979,6 +2981,7 @@ per,sex_f,ste_icse93_5,eco_aggregate_agr,2016,1208.501
 per,sex_f,ste_icse93_5,eco_aggregate_agr,2017,1141.791
 per,sex_f,ste_icse93_5,eco_aggregate_agr,2018,1119.788
 per,sex_f,ste_icse93_5,eco_aggregate_agr,2019,1111.025
+per,sex_f,ste_icse93_5,eco_aggregate_con,2002,2.625
 per,sex_f,ste_icse93_5,eco_aggregate_con,2007,1.553
 per,sex_f,ste_icse93_5,eco_aggregate_con,2009,1.777
 per,sex_f,ste_icse93_5,eco_aggregate_con,2011,2.435
@@ -5651,9 +5654,11 @@ per,sex_m,ste_aggregate_x,eco_aggregate_agr,2016,10.073
 per,sex_m,ste_aggregate_x,eco_aggregate_agr,2017,15.007
 per,sex_m,ste_aggregate_x,eco_aggregate_agr,2018,13.362
 per,sex_m,ste_aggregate_x,eco_aggregate_agr,2019,12.658
+per,sex_m,ste_aggregate_x,eco_aggregate_con,2002,0.73
 per,sex_m,ste_aggregate_x,eco_aggregate_con,2011,2.921
 per,sex_m,ste_aggregate_x,eco_aggregate_con,2013,2.263
 per,sex_m,ste_aggregate_x,eco_aggregate_con,2016,1.855
+per,sex_m,ste_aggregate_x,eco_aggregate_man,2002,0.965
 per,sex_m,ste_aggregate_x,eco_aggregate_man,2006,2.833
 per,sex_m,ste_aggregate_x,eco_aggregate_man,2007,1.319
 per,sex_m,ste_aggregate_x,eco_aggregate_man,2008,1.059
@@ -5686,6 +5691,7 @@ per,sex_m,ste_aggregate_x,eco_aggregate_mkt,2016,5.994
 per,sex_m,ste_aggregate_x,eco_aggregate_mkt,2017,7.887
 per,sex_m,ste_aggregate_x,eco_aggregate_mkt,2018,6.07
 per,sex_m,ste_aggregate_x,eco_aggregate_mkt,2019,7.553
+per,sex_m,ste_aggregate_x,eco_aggregate_pub,2002,0.259
 per,sex_m,ste_aggregate_x,eco_aggregate_total,2002,478.755
 per,sex_m,ste_aggregate_x,eco_aggregate_total,2003,228.039
 per,sex_m,ste_aggregate_x,eco_aggregate_total,2004,99.303
@@ -7637,9 +7643,11 @@ per,sex_m,ste_icse93_6,eco_aggregate_agr,2016,10.073
 per,sex_m,ste_icse93_6,eco_aggregate_agr,2017,15.007
 per,sex_m,ste_icse93_6,eco_aggregate_agr,2018,13.362
 per,sex_m,ste_icse93_6,eco_aggregate_agr,2019,12.658
+per,sex_m,ste_icse93_6,eco_aggregate_con,2002,0.73
 per,sex_m,ste_icse93_6,eco_aggregate_con,2011,2.921
 per,sex_m,ste_icse93_6,eco_aggregate_con,2013,2.263
 per,sex_m,ste_icse93_6,eco_aggregate_con,2016,1.855
+per,sex_m,ste_icse93_6,eco_aggregate_man,2002,0.965
 per,sex_m,ste_icse93_6,eco_aggregate_man,2006,2.833
 per,sex_m,ste_icse93_6,eco_aggregate_man,2007,1.319
 per,sex_m,ste_icse93_6,eco_aggregate_man,2008,1.059
@@ -7672,6 +7680,7 @@ per,sex_m,ste_icse93_6,eco_aggregate_mkt,2016,5.994
 per,sex_m,ste_icse93_6,eco_aggregate_mkt,2017,7.887
 per,sex_m,ste_icse93_6,eco_aggregate_mkt,2018,6.07
 per,sex_m,ste_icse93_6,eco_aggregate_mkt,2019,7.553
+per,sex_m,ste_icse93_6,eco_aggregate_pub,2002,0.259
 per,sex_m,ste_icse93_6,eco_aggregate_total,2002,478.755
 per,sex_m,ste_icse93_6,eco_aggregate_total,2003,228.039
 per,sex_m,ste_icse93_6,eco_aggregate_total,2004,99.303
@@ -9931,6 +9940,7 @@ per,sex_t,ste_aggregate_x,eco_aggregate_agr,2016,26.125
 per,sex_t,ste_aggregate_x,eco_aggregate_agr,2017,31.751
 per,sex_t,ste_aggregate_x,eco_aggregate_agr,2018,22.977
 per,sex_t,ste_aggregate_x,eco_aggregate_agr,2019,29.413
+per,sex_t,ste_aggregate_x,eco_aggregate_con,2002,0.73
 per,sex_t,ste_aggregate_x,eco_aggregate_con,2011,2.921
 per,sex_t,ste_aggregate_x,eco_aggregate_con,2013,2.669
 per,sex_t,ste_aggregate_x,eco_aggregate_con,2016,1.855
@@ -11995,6 +12005,7 @@ per,sex_t,ste_icse93_6,eco_aggregate_agr,2016,26.125
 per,sex_t,ste_icse93_6,eco_aggregate_agr,2017,31.751
 per,sex_t,ste_icse93_6,eco_aggregate_agr,2018,22.977
 per,sex_t,ste_icse93_6,eco_aggregate_agr,2019,29.413
+per,sex_t,ste_icse93_6,eco_aggregate_con,2002,0.73
 per,sex_t,ste_icse93_6,eco_aggregate_con,2011,2.921
 per,sex_t,ste_icse93_6,eco_aggregate_con,2013,2.669
 per,sex_t,ste_icse93_6,eco_aggregate_con,2016,1.855

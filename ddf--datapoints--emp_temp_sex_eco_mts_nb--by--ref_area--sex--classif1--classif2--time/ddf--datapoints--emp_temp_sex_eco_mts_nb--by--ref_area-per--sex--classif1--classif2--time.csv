@@ -276,6 +276,7 @@ per,sex_f,eco_aggregate_con,mts_details_total,2016,51.168
 per,sex_f,eco_aggregate_con,mts_details_total,2017,35.847
 per,sex_f,eco_aggregate_con,mts_details_total,2018,37.513
 per,sex_f,eco_aggregate_con,mts_details_total,2019,45.609
+per,sex_f,eco_aggregate_con,mts_details_union,2002,0.502
 per,sex_f,eco_aggregate_con,mts_details_union,2005,1.674
 per,sex_f,eco_aggregate_con,mts_details_union,2007,3.034
 per,sex_f,eco_aggregate_con,mts_details_union,2008,2.867
@@ -290,6 +291,7 @@ per,sex_f,eco_aggregate_con,mts_details_union,2016,12.12
 per,sex_f,eco_aggregate_con,mts_details_union,2017,6.665
 per,sex_f,eco_aggregate_con,mts_details_union,2018,6.094
 per,sex_f,eco_aggregate_con,mts_details_union,2019,10.306
+per,sex_f,eco_aggregate_con,mts_details_wid,2002,0.533
 per,sex_f,eco_aggregate_man,mts_aggregate_1,2002,230.973
 per,sex_f,eco_aggregate_man,mts_aggregate_1,2003,207.264
 per,sex_f,eco_aggregate_man,mts_aggregate_1,2004,224.862
@@ -344,6 +346,7 @@ per,sex_f,eco_aggregate_man,mts_aggregate_total,2016,642.324
 per,sex_f,eco_aggregate_man,mts_aggregate_total,2017,655.939
 per,sex_f,eco_aggregate_man,mts_aggregate_total,2018,661.622
 per,sex_f,eco_aggregate_man,mts_aggregate_total,2019,631.048
+per,sex_f,eco_aggregate_man,mts_aggregate_x,2002,0.776
 per,sex_f,eco_aggregate_man,mts_details_mrd,2002,163.268
 per,sex_f,eco_aggregate_man,mts_details_mrd,2003,110.568
 per,sex_f,eco_aggregate_man,mts_details_mrd,2004,163.861
@@ -452,6 +455,7 @@ per,sex_f,eco_aggregate_man,mts_details_wid,2016,19.756
 per,sex_f,eco_aggregate_man,mts_details_wid,2017,19.688
 per,sex_f,eco_aggregate_man,mts_details_wid,2018,26.991
 per,sex_f,eco_aggregate_man,mts_details_wid,2019,22.114
+per,sex_f,eco_aggregate_man,mts_details_x,2002,0.776
 per,sex_f,eco_aggregate_mel,mts_aggregate_1,2002,3.708
 per,sex_f,eco_aggregate_mel,mts_aggregate_1,2003,4.12
 per,sex_f,eco_aggregate_mel,mts_aggregate_1,2004,6.944
@@ -523,6 +527,7 @@ per,sex_f,eco_aggregate_mel,mts_details_mrd,2016,9.874
 per,sex_f,eco_aggregate_mel,mts_details_mrd,2017,8.556
 per,sex_f,eco_aggregate_mel,mts_details_mrd,2018,9.206
 per,sex_f,eco_aggregate_mel,mts_details_mrd,2019,9.993
+per,sex_f,eco_aggregate_mel,mts_details_sep,2002,0.304
 per,sex_f,eco_aggregate_mel,mts_details_sep,2004,2.14
 per,sex_f,eco_aggregate_mel,mts_details_sep,2007,1.911
 per,sex_f,eco_aggregate_mel,mts_details_sep,2008,1.243
@@ -591,6 +596,7 @@ per,sex_f,eco_aggregate_mel,mts_details_union,2016,5.09
 per,sex_f,eco_aggregate_mel,mts_details_union,2017,11.693
 per,sex_f,eco_aggregate_mel,mts_details_union,2018,14
 per,sex_f,eco_aggregate_mel,mts_details_union,2019,12.605
+per,sex_f,eco_aggregate_mel,mts_details_wid,2002,0.378
 per,sex_f,eco_aggregate_mel,mts_details_wid,2009,2.633
 per,sex_f,eco_aggregate_mel,mts_details_wid,2010,2.397
 per,sex_f,eco_aggregate_mel,mts_details_wid,2011,1.496
@@ -1139,7 +1145,9 @@ per,sex_f,eco_aggregate_x,mts_aggregate_total,2016,24.186
 per,sex_f,eco_aggregate_x,mts_aggregate_total,2017,25.75
 per,sex_f,eco_aggregate_x,mts_aggregate_total,2018,22.677
 per,sex_f,eco_aggregate_x,mts_aggregate_total,2019,18.047
+per,sex_f,eco_aggregate_x,mts_aggregate_x,2002,2.476
 per,sex_f,eco_aggregate_x,mts_details_mrd,2002,1.498
+per,sex_f,eco_aggregate_x,mts_details_sep,2002,1.095
 per,sex_f,eco_aggregate_x,mts_details_sgle,2002,504.289
 per,sex_f,eco_aggregate_x,mts_details_sgle,2003,186.112
 per,sex_f,eco_aggregate_x,mts_details_sgle,2004,75.688
@@ -1185,6 +1193,7 @@ per,sex_f,eco_aggregate_x,mts_details_union,2014,1.339
 per,sex_f,eco_aggregate_x,mts_details_union,2015,1.526
 per,sex_f,eco_aggregate_x,mts_details_union,2018,0.88
 per,sex_f,eco_aggregate_x,mts_details_union,2019,1.006
+per,sex_f,eco_aggregate_x,mts_details_x,2002,2.476
 per,sex_f,eco_sector_agr,mts_aggregate_1,2002,677.047
 per,sex_f,eco_sector_agr,mts_aggregate_1,2003,753.117
 per,sex_f,eco_sector_agr,mts_aggregate_1,2004,696.22
@@ -1403,6 +1412,7 @@ per,sex_f,eco_sector_ind,mts_aggregate_total,2016,737.999
 per,sex_f,eco_sector_ind,mts_aggregate_total,2017,731.756
 per,sex_f,eco_sector_ind,mts_aggregate_total,2018,743.499
 per,sex_f,eco_sector_ind,mts_aggregate_total,2019,724.429
+per,sex_f,eco_sector_ind,mts_aggregate_x,2002,0.776
 per,sex_f,eco_sector_ind,mts_details_mrd,2002,172.286
 per,sex_f,eco_sector_ind,mts_details_mrd,2003,122.354
 per,sex_f,eco_sector_ind,mts_details_mrd,2004,167.057
@@ -1511,6 +1521,7 @@ per,sex_f,eco_sector_ind,mts_details_wid,2016,23.162
 per,sex_f,eco_sector_ind,mts_details_wid,2017,23.804
 per,sex_f,eco_sector_ind,mts_details_wid,2018,32.826
 per,sex_f,eco_sector_ind,mts_details_wid,2019,28.417
+per,sex_f,eco_sector_ind,mts_details_x,2002,0.776
 per,sex_f,eco_sector_nag,mts_aggregate_1,2002,2346.642
 per,sex_f,eco_sector_nag,mts_aggregate_1,2003,2202.184
 per,sex_f,eco_sector_nag,mts_aggregate_1,2004,2105.716
@@ -2048,7 +2059,9 @@ per,sex_f,eco_sector_x,mts_aggregate_total,2016,24.186
 per,sex_f,eco_sector_x,mts_aggregate_total,2017,25.75
 per,sex_f,eco_sector_x,mts_aggregate_total,2018,22.677
 per,sex_f,eco_sector_x,mts_aggregate_total,2019,18.047
+per,sex_f,eco_sector_x,mts_aggregate_x,2002,2.476
 per,sex_f,eco_sector_x,mts_details_mrd,2002,1.498
+per,sex_f,eco_sector_x,mts_details_sep,2002,1.095
 per,sex_f,eco_sector_x,mts_details_sgle,2002,504.289
 per,sex_f,eco_sector_x,mts_details_sgle,2003,186.112
 per,sex_f,eco_sector_x,mts_details_sgle,2004,75.688
@@ -2094,6 +2107,7 @@ per,sex_f,eco_sector_x,mts_details_union,2014,1.339
 per,sex_f,eco_sector_x,mts_details_union,2015,1.526
 per,sex_f,eco_sector_x,mts_details_union,2018,0.88
 per,sex_f,eco_sector_x,mts_details_union,2019,1.006
+per,sex_f,eco_sector_x,mts_details_x,2002,2.476
 per,sex_m,eco_aggregate_agr,mts_aggregate_1,2002,955.982
 per,sex_m,eco_aggregate_agr,mts_aggregate_1,2003,1062.31
 per,sex_m,eco_aggregate_agr,mts_aggregate_1,2004,1020.631
@@ -2312,6 +2326,7 @@ per,sex_m,eco_aggregate_con,mts_aggregate_total,2016,979.912
 per,sex_m,eco_aggregate_con,mts_aggregate_total,2017,948.317
 per,sex_m,eco_aggregate_con,mts_aggregate_total,2018,990.855
 per,sex_m,eco_aggregate_con,mts_aggregate_total,2019,1026.499
+per,sex_m,eco_aggregate_con,mts_aggregate_x,2002,0.227
 per,sex_m,eco_aggregate_con,mts_details_mrd,2002,152.94
 per,sex_m,eco_aggregate_con,mts_details_mrd,2003,198.246
 per,sex_m,eco_aggregate_con,mts_details_mrd,2004,150.008
@@ -2420,6 +2435,7 @@ per,sex_m,eco_aggregate_con,mts_details_wid,2016,11.832
 per,sex_m,eco_aggregate_con,mts_details_wid,2017,12.477
 per,sex_m,eco_aggregate_con,mts_details_wid,2018,7.913
 per,sex_m,eco_aggregate_con,mts_details_wid,2019,12.423
+per,sex_m,eco_aggregate_con,mts_details_x,2002,0.227
 per,sex_m,eco_aggregate_man,mts_aggregate_1,2002,289.798
 per,sex_m,eco_aggregate_man,mts_aggregate_1,2003,256.88
 per,sex_m,eco_aggregate_man,mts_aggregate_1,2004,349.472
@@ -2474,6 +2490,7 @@ per,sex_m,eco_aggregate_man,mts_aggregate_total,2016,966.89
 per,sex_m,eco_aggregate_man,mts_aggregate_total,2017,946.025
 per,sex_m,eco_aggregate_man,mts_aggregate_total,2018,914.951
 per,sex_m,eco_aggregate_man,mts_aggregate_total,2019,938.827
+per,sex_m,eco_aggregate_man,mts_aggregate_x,2002,0.988
 per,sex_m,eco_aggregate_man,mts_details_mrd,2002,262.078
 per,sex_m,eco_aggregate_man,mts_details_mrd,2003,266.64
 per,sex_m,eco_aggregate_man,mts_details_mrd,2004,284.59
@@ -2582,6 +2599,7 @@ per,sex_m,eco_aggregate_man,mts_details_wid,2016,10.558
 per,sex_m,eco_aggregate_man,mts_details_wid,2017,14.363
 per,sex_m,eco_aggregate_man,mts_details_wid,2018,10.954
 per,sex_m,eco_aggregate_man,mts_details_wid,2019,15.825
+per,sex_m,eco_aggregate_man,mts_details_x,2002,0.988
 per,sex_m,eco_aggregate_mel,mts_aggregate_1,2002,21.176
 per,sex_m,eco_aggregate_mel,mts_aggregate_1,2003,34.522
 per,sex_m,eco_aggregate_mel,mts_aggregate_1,2004,36.668
@@ -2636,6 +2654,7 @@ per,sex_m,eco_aggregate_mel,mts_aggregate_total,2016,242.274
 per,sex_m,eco_aggregate_mel,mts_aggregate_total,2017,232.957
 per,sex_m,eco_aggregate_mel,mts_aggregate_total,2018,245.503
 per,sex_m,eco_aggregate_mel,mts_aggregate_total,2019,246.221
+per,sex_m,eco_aggregate_mel,mts_aggregate_x,2002,1.749
 per,sex_m,eco_aggregate_mel,mts_details_mrd,2002,61.861
 per,sex_m,eco_aggregate_mel,mts_details_mrd,2003,53.13
 per,sex_m,eco_aggregate_mel,mts_details_mrd,2004,60.635
@@ -2740,6 +2759,7 @@ per,sex_m,eco_aggregate_mel,mts_details_wid,2016,2.885
 per,sex_m,eco_aggregate_mel,mts_details_wid,2017,2.122
 per,sex_m,eco_aggregate_mel,mts_details_wid,2018,2.591
 per,sex_m,eco_aggregate_mel,mts_details_wid,2019,3.79
+per,sex_m,eco_aggregate_mel,mts_details_x,2002,1.749
 per,sex_m,eco_aggregate_mkt,mts_aggregate_1,2002,875.644
 per,sex_m,eco_aggregate_mkt,mts_aggregate_1,2003,1022.925
 per,sex_m,eco_aggregate_mkt,mts_aggregate_1,2004,1070.484
@@ -2794,6 +2814,7 @@ per,sex_m,eco_aggregate_mkt,mts_aggregate_total,2016,3323.541
 per,sex_m,eco_aggregate_mkt,mts_aggregate_total,2017,3451.55
 per,sex_m,eco_aggregate_mkt,mts_aggregate_total,2018,3539.815
 per,sex_m,eco_aggregate_mkt,mts_aggregate_total,2019,3646.048
+per,sex_m,eco_aggregate_mkt,mts_aggregate_x,2002,2.01
 per,sex_m,eco_aggregate_mkt,mts_details_mrd,2002,756.213
 per,sex_m,eco_aggregate_mkt,mts_details_mrd,2003,757.917
 per,sex_m,eco_aggregate_mkt,mts_details_mrd,2004,754.315
@@ -2902,6 +2923,7 @@ per,sex_m,eco_aggregate_mkt,mts_details_wid,2016,40.913
 per,sex_m,eco_aggregate_mkt,mts_details_wid,2017,42.715
 per,sex_m,eco_aggregate_mkt,mts_details_wid,2018,45.261
 per,sex_m,eco_aggregate_mkt,mts_details_wid,2019,41.878
+per,sex_m,eco_aggregate_mkt,mts_details_x,2002,2.01
 per,sex_m,eco_aggregate_pub,mts_aggregate_1,2002,290.197
 per,sex_m,eco_aggregate_pub,mts_aggregate_1,2003,296.908
 per,sex_m,eco_aggregate_pub,mts_aggregate_1,2004,360.266
@@ -3250,6 +3272,7 @@ per,sex_m,eco_aggregate_x,mts_aggregate_1,2016,46.786
 per,sex_m,eco_aggregate_x,mts_aggregate_1,2017,37.365
 per,sex_m,eco_aggregate_x,mts_aggregate_1,2018,27.508
 per,sex_m,eco_aggregate_x,mts_aggregate_1,2019,30.838
+per,sex_m,eco_aggregate_x,mts_aggregate_2,2002,0.84
 per,sex_m,eco_aggregate_x,mts_aggregate_total,2002,460.142
 per,sex_m,eco_aggregate_x,mts_aggregate_total,2003,192.376
 per,sex_m,eco_aggregate_x,mts_aggregate_total,2004,60.152
@@ -3268,6 +3291,8 @@ per,sex_m,eco_aggregate_x,mts_aggregate_total,2016,46.786
 per,sex_m,eco_aggregate_x,mts_aggregate_total,2017,37.365
 per,sex_m,eco_aggregate_x,mts_aggregate_total,2018,27.508
 per,sex_m,eco_aggregate_x,mts_aggregate_total,2019,30.838
+per,sex_m,eco_aggregate_x,mts_aggregate_x,2002,3.717
+per,sex_m,eco_aggregate_x,mts_details_mrd,2002,0.447
 per,sex_m,eco_aggregate_x,mts_details_sgle,2002,455.36
 per,sex_m,eco_aggregate_x,mts_details_sgle,2003,191.437
 per,sex_m,eco_aggregate_x,mts_details_sgle,2004,57.952
@@ -3304,6 +3329,9 @@ per,sex_m,eco_aggregate_x,mts_details_total,2016,46.786
 per,sex_m,eco_aggregate_x,mts_details_total,2017,37.365
 per,sex_m,eco_aggregate_x,mts_details_total,2018,27.508
 per,sex_m,eco_aggregate_x,mts_details_total,2019,30.838
+per,sex_m,eco_aggregate_x,mts_details_union,2002,0.393
+per,sex_m,eco_aggregate_x,mts_details_wid,2002,0.225
+per,sex_m,eco_aggregate_x,mts_details_x,2002,3.717
 per,sex_m,eco_sector_agr,mts_aggregate_1,2002,955.982
 per,sex_m,eco_sector_agr,mts_aggregate_1,2003,1062.31
 per,sex_m,eco_sector_agr,mts_aggregate_1,2004,1020.631
@@ -3522,6 +3550,7 @@ per,sex_m,eco_sector_ind,mts_aggregate_total,2016,2189.076
 per,sex_m,eco_sector_ind,mts_aggregate_total,2017,2127.299
 per,sex_m,eco_sector_ind,mts_aggregate_total,2018,2151.309
 per,sex_m,eco_sector_ind,mts_aggregate_total,2019,2211.547
+per,sex_m,eco_sector_ind,mts_aggregate_x,2002,2.964
 per,sex_m,eco_sector_ind,mts_details_mrd,2002,476.879
 per,sex_m,eco_sector_ind,mts_details_mrd,2003,518.016
 per,sex_m,eco_sector_ind,mts_details_mrd,2004,495.232
@@ -3630,6 +3659,7 @@ per,sex_m,eco_sector_ind,mts_details_wid,2016,25.275
 per,sex_m,eco_sector_ind,mts_details_wid,2017,28.962
 per,sex_m,eco_sector_ind,mts_details_wid,2018,21.457
 per,sex_m,eco_sector_ind,mts_details_wid,2019,32.039
+per,sex_m,eco_sector_ind,mts_details_x,2002,2.964
 per,sex_m,eco_sector_nag,mts_aggregate_1,2002,2086.787
 per,sex_m,eco_sector_nag,mts_aggregate_1,2003,1966.435
 per,sex_m,eco_sector_nag,mts_aggregate_1,2004,2053.064
@@ -3848,6 +3878,7 @@ per,sex_m,eco_sector_ser,mts_aggregate_total,2016,4610.908
 per,sex_m,eco_sector_ser,mts_aggregate_total,2017,4749.2
 per,sex_m,eco_sector_ser,mts_aggregate_total,2018,4835.585
 per,sex_m,eco_sector_ser,mts_aggregate_total,2019,4984.088
+per,sex_m,eco_sector_ser,mts_aggregate_x,2002,2.01
 per,sex_m,eco_sector_ser,mts_aggregate_x,2004,2.799
 per,sex_m,eco_sector_ser,mts_details_mrd,2002,1175.526
 per,sex_m,eco_sector_ser,mts_details_mrd,2003,1176.33
@@ -3957,6 +3988,7 @@ per,sex_m,eco_sector_ser,mts_details_wid,2016,55.536
 per,sex_m,eco_sector_ser,mts_details_wid,2017,56.755
 per,sex_m,eco_sector_ser,mts_details_wid,2018,56.94
 per,sex_m,eco_sector_ser,mts_details_wid,2019,55.184
+per,sex_m,eco_sector_ser,mts_details_x,2002,2.01
 per,sex_m,eco_sector_ser,mts_details_x,2004,2.799
 per,sex_m,eco_sector_total,mts_aggregate_1,2002,3042.769
 per,sex_m,eco_sector_total,mts_aggregate_1,2003,3028.745
@@ -4144,6 +4176,7 @@ per,sex_m,eco_sector_x,mts_aggregate_1,2016,46.786
 per,sex_m,eco_sector_x,mts_aggregate_1,2017,37.365
 per,sex_m,eco_sector_x,mts_aggregate_1,2018,27.508
 per,sex_m,eco_sector_x,mts_aggregate_1,2019,30.838
+per,sex_m,eco_sector_x,mts_aggregate_2,2002,0.84
 per,sex_m,eco_sector_x,mts_aggregate_total,2002,460.142
 per,sex_m,eco_sector_x,mts_aggregate_total,2003,192.376
 per,sex_m,eco_sector_x,mts_aggregate_total,2004,60.152
@@ -4162,6 +4195,8 @@ per,sex_m,eco_sector_x,mts_aggregate_total,2016,46.786
 per,sex_m,eco_sector_x,mts_aggregate_total,2017,37.365
 per,sex_m,eco_sector_x,mts_aggregate_total,2018,27.508
 per,sex_m,eco_sector_x,mts_aggregate_total,2019,30.838
+per,sex_m,eco_sector_x,mts_aggregate_x,2002,3.717
+per,sex_m,eco_sector_x,mts_details_mrd,2002,0.447
 per,sex_m,eco_sector_x,mts_details_sgle,2002,455.36
 per,sex_m,eco_sector_x,mts_details_sgle,2003,191.437
 per,sex_m,eco_sector_x,mts_details_sgle,2004,57.952
@@ -4198,6 +4233,9 @@ per,sex_m,eco_sector_x,mts_details_total,2016,46.786
 per,sex_m,eco_sector_x,mts_details_total,2017,37.365
 per,sex_m,eco_sector_x,mts_details_total,2018,27.508
 per,sex_m,eco_sector_x,mts_details_total,2019,30.838
+per,sex_m,eco_sector_x,mts_details_union,2002,0.393
+per,sex_m,eco_sector_x,mts_details_wid,2002,0.225
+per,sex_m,eco_sector_x,mts_details_x,2002,3.717
 per,sex_t,eco_aggregate_agr,mts_aggregate_1,2002,1633.028
 per,sex_t,eco_aggregate_agr,mts_aggregate_1,2003,1815.427
 per,sex_t,eco_aggregate_agr,mts_aggregate_1,2004,1716.851
@@ -4418,6 +4456,7 @@ per,sex_t,eco_aggregate_con,mts_aggregate_total,2016,1031.08
 per,sex_t,eco_aggregate_con,mts_aggregate_total,2017,984.164
 per,sex_t,eco_aggregate_con,mts_aggregate_total,2018,1028.368
 per,sex_t,eco_aggregate_con,mts_aggregate_total,2019,1072.108
+per,sex_t,eco_aggregate_con,mts_aggregate_x,2002,0.227
 per,sex_t,eco_aggregate_con,mts_details_mrd,2002,161.173
 per,sex_t,eco_aggregate_con,mts_details_mrd,2003,207.971
 per,sex_t,eco_aggregate_con,mts_details_mrd,2004,151.675
@@ -4526,6 +4565,7 @@ per,sex_t,eco_aggregate_con,mts_details_wid,2016,12.336
 per,sex_t,eco_aggregate_con,mts_details_wid,2017,12.746
 per,sex_t,eco_aggregate_con,mts_details_wid,2018,8.141
 per,sex_t,eco_aggregate_con,mts_details_wid,2019,12.958
+per,sex_t,eco_aggregate_con,mts_details_x,2002,0.227
 per,sex_t,eco_aggregate_man,mts_aggregate_1,2002,520.771
 per,sex_t,eco_aggregate_man,mts_aggregate_1,2003,464.144
 per,sex_t,eco_aggregate_man,mts_aggregate_1,2004,574.334
@@ -4580,6 +4620,7 @@ per,sex_t,eco_aggregate_man,mts_aggregate_total,2016,1609.214
 per,sex_t,eco_aggregate_man,mts_aggregate_total,2017,1601.964
 per,sex_t,eco_aggregate_man,mts_aggregate_total,2018,1576.573
 per,sex_t,eco_aggregate_man,mts_aggregate_total,2019,1569.875
+per,sex_t,eco_aggregate_man,mts_aggregate_x,2002,1.765
 per,sex_t,eco_aggregate_man,mts_details_mrd,2002,425.346
 per,sex_t,eco_aggregate_man,mts_details_mrd,2003,377.208
 per,sex_t,eco_aggregate_man,mts_details_mrd,2004,448.451
@@ -4688,6 +4729,7 @@ per,sex_t,eco_aggregate_man,mts_details_wid,2016,30.314
 per,sex_t,eco_aggregate_man,mts_details_wid,2017,34.051
 per,sex_t,eco_aggregate_man,mts_details_wid,2018,37.945
 per,sex_t,eco_aggregate_man,mts_details_wid,2019,37.94
+per,sex_t,eco_aggregate_man,mts_details_x,2002,1.765
 per,sex_t,eco_aggregate_mel,mts_aggregate_1,2002,24.885
 per,sex_t,eco_aggregate_mel,mts_aggregate_1,2003,38.642
 per,sex_t,eco_aggregate_mel,mts_aggregate_1,2004,43.611
@@ -4742,6 +4784,7 @@ per,sex_t,eco_aggregate_mel,mts_aggregate_total,2016,286.781
 per,sex_t,eco_aggregate_mel,mts_aggregate_total,2017,272.927
 per,sex_t,eco_aggregate_mel,mts_aggregate_total,2018,289.868
 per,sex_t,eco_aggregate_mel,mts_aggregate_total,2019,293.993
+per,sex_t,eco_aggregate_mel,mts_aggregate_x,2002,1.749
 per,sex_t,eco_aggregate_mel,mts_details_mrd,2002,62.647
 per,sex_t,eco_aggregate_mel,mts_details_mrd,2003,55.191
 per,sex_t,eco_aggregate_mel,mts_details_mrd,2004,62.163
@@ -4850,6 +4893,7 @@ per,sex_t,eco_aggregate_mel,mts_details_wid,2016,5.787
 per,sex_t,eco_aggregate_mel,mts_details_wid,2017,5.969
 per,sex_t,eco_aggregate_mel,mts_details_wid,2018,8.198
 per,sex_t,eco_aggregate_mel,mts_details_wid,2019,9.558
+per,sex_t,eco_aggregate_mel,mts_details_x,2002,1.749
 per,sex_t,eco_aggregate_mkt,mts_aggregate_1,2002,1764.89
 per,sex_t,eco_aggregate_mkt,mts_aggregate_1,2003,2069.833
 per,sex_t,eco_aggregate_mkt,mts_aggregate_1,2004,2116.194
@@ -5396,6 +5440,7 @@ per,sex_t,eco_aggregate_x,mts_aggregate_total,2018,50.184
 per,sex_t,eco_aggregate_x,mts_aggregate_total,2019,48.884
 per,sex_t,eco_aggregate_x,mts_aggregate_x,2002,6.193
 per,sex_t,eco_aggregate_x,mts_details_mrd,2002,1.944
+per,sex_t,eco_aggregate_x,mts_details_sep,2002,1.095
 per,sex_t,eco_aggregate_x,mts_details_sgle,2002,959.649
 per,sex_t,eco_aggregate_x,mts_details_sgle,2003,377.55
 per,sex_t,eco_aggregate_x,mts_details_sgle,2004,133.64
@@ -5442,6 +5487,7 @@ per,sex_t,eco_aggregate_x,mts_details_union,2014,1.651
 per,sex_t,eco_aggregate_x,mts_details_union,2015,1.526
 per,sex_t,eco_aggregate_x,mts_details_union,2018,0.88
 per,sex_t,eco_aggregate_x,mts_details_union,2019,1.006
+per,sex_t,eco_aggregate_x,mts_details_wid,2002,0.225
 per,sex_t,eco_aggregate_x,mts_details_x,2002,6.193
 per,sex_t,eco_sector_agr,mts_aggregate_1,2002,1633.028
 per,sex_t,eco_sector_agr,mts_aggregate_1,2003,1815.427
@@ -5663,6 +5709,7 @@ per,sex_t,eco_sector_ind,mts_aggregate_total,2016,2927.075
 per,sex_t,eco_sector_ind,mts_aggregate_total,2017,2859.054
 per,sex_t,eco_sector_ind,mts_aggregate_total,2018,2894.809
 per,sex_t,eco_sector_ind,mts_aggregate_total,2019,2935.975
+per,sex_t,eco_sector_ind,mts_aggregate_x,2002,3.74
 per,sex_t,eco_sector_ind,mts_details_mrd,2002,649.165
 per,sex_t,eco_sector_ind,mts_details_mrd,2003,640.369
 per,sex_t,eco_sector_ind,mts_details_mrd,2004,662.289
@@ -5771,6 +5818,7 @@ per,sex_t,eco_sector_ind,mts_details_wid,2016,48.437
 per,sex_t,eco_sector_ind,mts_details_wid,2017,52.766
 per,sex_t,eco_sector_ind,mts_details_wid,2018,54.283
 per,sex_t,eco_sector_ind,mts_details_wid,2019,60.455
+per,sex_t,eco_sector_ind,mts_details_x,2002,3.74
 per,sex_t,eco_sector_nag,mts_aggregate_1,2002,4433.429
 per,sex_t,eco_sector_nag,mts_aggregate_1,2003,4168.62
 per,sex_t,eco_sector_nag,mts_aggregate_1,2004,4158.78
@@ -6319,6 +6367,7 @@ per,sex_t,eco_sector_x,mts_aggregate_total,2018,50.184
 per,sex_t,eco_sector_x,mts_aggregate_total,2019,48.884
 per,sex_t,eco_sector_x,mts_aggregate_x,2002,6.193
 per,sex_t,eco_sector_x,mts_details_mrd,2002,1.944
+per,sex_t,eco_sector_x,mts_details_sep,2002,1.095
 per,sex_t,eco_sector_x,mts_details_sgle,2002,959.649
 per,sex_t,eco_sector_x,mts_details_sgle,2003,377.55
 per,sex_t,eco_sector_x,mts_details_sgle,2004,133.64
@@ -6365,4 +6414,5 @@ per,sex_t,eco_sector_x,mts_details_union,2014,1.651
 per,sex_t,eco_sector_x,mts_details_union,2015,1.526
 per,sex_t,eco_sector_x,mts_details_union,2018,0.88
 per,sex_t,eco_sector_x,mts_details_union,2019,1.006
+per,sex_t,eco_sector_x,mts_details_wid,2002,0.225
 per,sex_t,eco_sector_x,mts_details_x,2002,6.193

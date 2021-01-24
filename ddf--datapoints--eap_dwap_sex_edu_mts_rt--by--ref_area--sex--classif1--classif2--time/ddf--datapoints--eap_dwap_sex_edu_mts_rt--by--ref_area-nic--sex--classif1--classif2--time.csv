@@ -31,6 +31,7 @@ nic,sex_f,edu_aggregate_adv,mts_details_union,2001,57.5
 nic,sex_f,edu_aggregate_adv,mts_details_union,2005,83.1
 nic,sex_f,edu_aggregate_adv,mts_details_union,2012,85.6
 nic,sex_f,edu_aggregate_adv,mts_details_union,2014,82.3
+nic,sex_f,edu_aggregate_adv,mts_details_wid,2001,100
 nic,sex_f,edu_aggregate_adv,mts_details_wid,2012,78.6
 nic,sex_f,edu_aggregate_adv,mts_details_wid,2014,60.9
 nic,sex_f,edu_aggregate_bas,mts_aggregate_1,2001,41.2
@@ -417,6 +418,7 @@ nic,sex_f,edu_isced97_5,mts_details_union,2001,57.5
 nic,sex_f,edu_isced97_5,mts_details_union,2005,79.9
 nic,sex_f,edu_isced97_5,mts_details_union,2012,84.5
 nic,sex_f,edu_isced97_5,mts_details_union,2014,82.1
+nic,sex_f,edu_isced97_5,mts_details_wid,2001,100
 nic,sex_f,edu_isced97_5,mts_details_wid,2012,76.5
 nic,sex_f,edu_isced97_5,mts_details_wid,2014,61.2
 nic,sex_f,edu_isced97_6,mts_aggregate_1,2005,100
@@ -588,6 +590,7 @@ nic,sex_m,edu_aggregate_adv,mts_details_union,2001,93.9
 nic,sex_m,edu_aggregate_adv,mts_details_union,2005,95.1
 nic,sex_m,edu_aggregate_adv,mts_details_union,2012,96.4
 nic,sex_m,edu_aggregate_adv,mts_details_union,2014,95.8
+nic,sex_m,edu_aggregate_adv,mts_details_wid,2001,100
 nic,sex_m,edu_aggregate_adv,mts_details_wid,2012,62.8
 nic,sex_m,edu_aggregate_adv,mts_details_wid,2014,37.5
 nic,sex_m,edu_aggregate_bas,mts_aggregate_1,2001,58.5
@@ -658,6 +661,7 @@ nic,sex_m,edu_aggregate_int,mts_details_union,2001,94.1
 nic,sex_m,edu_aggregate_int,mts_details_union,2005,95.1
 nic,sex_m,edu_aggregate_int,mts_details_union,2012,95.8
 nic,sex_m,edu_aggregate_int,mts_details_union,2014,97.8
+nic,sex_m,edu_aggregate_int,mts_details_wid,2001,52.7
 nic,sex_m,edu_aggregate_int,mts_details_wid,2012,66.4
 nic,sex_m,edu_aggregate_int,mts_details_wid,2014,60.1
 nic,sex_m,edu_aggregate_ltb,mts_aggregate_1,2001,80.6
@@ -841,6 +845,7 @@ nic,sex_m,edu_isced97_1,mts_details_union,2001,94.7
 nic,sex_m,edu_isced97_1,mts_details_union,2005,95.9
 nic,sex_m,edu_isced97_1,mts_details_union,2012,95.7
 nic,sex_m,edu_isced97_1,mts_details_union,2014,95.7
+nic,sex_m,edu_isced97_1,mts_details_wid,2001,11.3
 nic,sex_m,edu_isced97_1,mts_details_wid,2005,87.3
 nic,sex_m,edu_isced97_1,mts_details_wid,2012,62.6
 nic,sex_m,edu_isced97_1,mts_details_wid,2014,60.8
@@ -876,6 +881,7 @@ nic,sex_m,edu_isced97_2,mts_details_union,2001,92.5
 nic,sex_m,edu_isced97_2,mts_details_union,2005,90.5
 nic,sex_m,edu_isced97_2,mts_details_union,2012,97.3
 nic,sex_m,edu_isced97_2,mts_details_union,2014,96.9
+nic,sex_m,edu_isced97_2,mts_details_wid,2001,100
 nic,sex_m,edu_isced97_2,mts_details_wid,2005,79.9
 nic,sex_m,edu_isced97_2,mts_details_wid,2012,46.8
 nic,sex_m,edu_isced97_2,mts_details_wid,2014,100
@@ -911,11 +917,14 @@ nic,sex_m,edu_isced97_3,mts_details_union,2001,94.1
 nic,sex_m,edu_isced97_3,mts_details_union,2005,94.9
 nic,sex_m,edu_isced97_3,mts_details_union,2012,96
 nic,sex_m,edu_isced97_3,mts_details_union,2014,97.7
+nic,sex_m,edu_isced97_3,mts_details_wid,2001,52.7
 nic,sex_m,edu_isced97_3,mts_details_wid,2012,66.4
 nic,sex_m,edu_isced97_3,mts_details_wid,2014,100
+nic,sex_m,edu_isced97_4,mts_aggregate_1,2001,38.4
 nic,sex_m,edu_isced97_4,mts_aggregate_1,2005,93.5
 nic,sex_m,edu_isced97_4,mts_aggregate_1,2012,93.5
 nic,sex_m,edu_isced97_4,mts_aggregate_1,2014,61.9
+nic,sex_m,edu_isced97_4,mts_aggregate_2,2001,100
 nic,sex_m,edu_isced97_4,mts_aggregate_2,2005,100
 nic,sex_m,edu_isced97_4,mts_aggregate_2,2012,92.6
 nic,sex_m,edu_isced97_4,mts_aggregate_2,2014,96.1
@@ -923,12 +932,14 @@ nic,sex_m,edu_isced97_4,mts_aggregate_total,2001,67.1
 nic,sex_m,edu_isced97_4,mts_aggregate_total,2005,98.1
 nic,sex_m,edu_isced97_4,mts_aggregate_total,2012,92.8
 nic,sex_m,edu_isced97_4,mts_aggregate_total,2014,84.5
+nic,sex_m,edu_isced97_4,mts_details_mrd,2001,100
 nic,sex_m,edu_isced97_4,mts_details_mrd,2005,100
 nic,sex_m,edu_isced97_4,mts_details_mrd,2012,95
 nic,sex_m,edu_isced97_4,mts_details_mrd,2014,94.2
 nic,sex_m,edu_isced97_4,mts_details_sep,2005,100
 nic,sex_m,edu_isced97_4,mts_details_sep,2012,85.9
 nic,sex_m,edu_isced97_4,mts_details_sep,2014,83.1
+nic,sex_m,edu_isced97_4,mts_details_sgle,2001,38.4
 nic,sex_m,edu_isced97_4,mts_details_sgle,2005,91.7
 nic,sex_m,edu_isced97_4,mts_details_sgle,2012,100
 nic,sex_m,edu_isced97_4,mts_details_sgle,2014,80.9
@@ -972,8 +983,10 @@ nic,sex_m,edu_isced97_5,mts_details_union,2001,93.8
 nic,sex_m,edu_isced97_5,mts_details_union,2005,94.7
 nic,sex_m,edu_isced97_5,mts_details_union,2012,96.1
 nic,sex_m,edu_isced97_5,mts_details_union,2014,95.6
+nic,sex_m,edu_isced97_5,mts_details_wid,2001,100
 nic,sex_m,edu_isced97_5,mts_details_wid,2012,62.8
 nic,sex_m,edu_isced97_5,mts_details_wid,2014,37.5
+nic,sex_m,edu_isced97_6,mts_aggregate_1,2001,100
 nic,sex_m,edu_isced97_6,mts_aggregate_1,2012,96.7
 nic,sex_m,edu_isced97_6,mts_aggregate_1,2014,100
 nic,sex_m,edu_isced97_6,mts_aggregate_2,2001,85.4
@@ -988,6 +1001,7 @@ nic,sex_m,edu_isced97_6,mts_details_mrd,2001,84.7
 nic,sex_m,edu_isced97_6,mts_details_mrd,2005,100
 nic,sex_m,edu_isced97_6,mts_details_mrd,2012,94.7
 nic,sex_m,edu_isced97_6,mts_details_mrd,2014,90.8
+nic,sex_m,edu_isced97_6,mts_details_sep,2001,100
 nic,sex_m,edu_isced97_6,mts_details_sep,2012,95.9
 nic,sex_m,edu_isced97_6,mts_details_sep,2014,100
 nic,sex_m,edu_isced97_6,mts_details_sgle,2012,97.3
@@ -996,6 +1010,7 @@ nic,sex_m,edu_isced97_6,mts_details_total,2001,87.4
 nic,sex_m,edu_isced97_6,mts_details_total,2005,95.5
 nic,sex_m,edu_isced97_6,mts_details_total,2012,95.9
 nic,sex_m,edu_isced97_6,mts_details_total,2014,93.2
+nic,sex_m,edu_isced97_6,mts_details_union,2001,100
 nic,sex_m,edu_isced97_6,mts_details_union,2005,100
 nic,sex_m,edu_isced97_6,mts_details_union,2012,100
 nic,sex_m,edu_isced97_6,mts_details_union,2014,100
@@ -1140,6 +1155,7 @@ nic,sex_t,edu_aggregate_adv,mts_details_union,2001,82.7
 nic,sex_t,edu_aggregate_adv,mts_details_union,2005,90.5
 nic,sex_t,edu_aggregate_adv,mts_details_union,2012,91.6
 nic,sex_t,edu_aggregate_adv,mts_details_union,2014,89.5
+nic,sex_t,edu_aggregate_adv,mts_details_wid,2001,100
 nic,sex_t,edu_aggregate_adv,mts_details_wid,2012,75.7
 nic,sex_t,edu_aggregate_adv,mts_details_wid,2014,57.1
 nic,sex_t,edu_aggregate_bas,mts_aggregate_1,2001,49.9
@@ -1472,9 +1488,11 @@ nic,sex_t,edu_isced97_3,mts_details_wid,2001,56.2
 nic,sex_t,edu_isced97_3,mts_details_wid,2005,62.6
 nic,sex_t,edu_isced97_3,mts_details_wid,2012,65
 nic,sex_t,edu_isced97_3,mts_details_wid,2014,46.6
+nic,sex_t,edu_isced97_4,mts_aggregate_1,2001,30.9
 nic,sex_t,edu_isced97_4,mts_aggregate_1,2005,92.7
 nic,sex_t,edu_isced97_4,mts_aggregate_1,2012,77.3
 nic,sex_t,edu_isced97_4,mts_aggregate_1,2014,80.5
+nic,sex_t,edu_isced97_4,mts_aggregate_2,2001,100
 nic,sex_t,edu_isced97_4,mts_aggregate_2,2005,86.1
 nic,sex_t,edu_isced97_4,mts_aggregate_2,2012,88.8
 nic,sex_t,edu_isced97_4,mts_aggregate_2,2014,88.6
@@ -1482,12 +1500,14 @@ nic,sex_t,edu_isced97_4,mts_aggregate_total,2001,59.4
 nic,sex_t,edu_isced97_4,mts_aggregate_total,2005,88.8
 nic,sex_t,edu_isced97_4,mts_aggregate_total,2012,84
 nic,sex_t,edu_isced97_4,mts_aggregate_total,2014,85.4
+nic,sex_t,edu_isced97_4,mts_details_mrd,2001,100
 nic,sex_t,edu_isced97_4,mts_details_mrd,2005,83.9
 nic,sex_t,edu_isced97_4,mts_details_mrd,2012,90.7
 nic,sex_t,edu_isced97_4,mts_details_mrd,2014,81.5
 nic,sex_t,edu_isced97_4,mts_details_sep,2005,89.8
 nic,sex_t,edu_isced97_4,mts_details_sep,2012,78.1
 nic,sex_t,edu_isced97_4,mts_details_sep,2014,85
+nic,sex_t,edu_isced97_4,mts_details_sgle,2001,30.9
 nic,sex_t,edu_isced97_4,mts_details_sgle,2005,95.3
 nic,sex_t,edu_isced97_4,mts_details_sgle,2012,82.3
 nic,sex_t,edu_isced97_4,mts_details_sgle,2014,92.1
@@ -1532,8 +1552,10 @@ nic,sex_t,edu_isced97_5,mts_details_union,2001,82.6
 nic,sex_t,edu_isced97_5,mts_details_union,2005,89.3
 nic,sex_t,edu_isced97_5,mts_details_union,2012,91
 nic,sex_t,edu_isced97_5,mts_details_union,2014,89.2
+nic,sex_t,edu_isced97_5,mts_details_wid,2001,100
 nic,sex_t,edu_isced97_5,mts_details_wid,2012,73.8
 nic,sex_t,edu_isced97_5,mts_details_wid,2014,57
+nic,sex_t,edu_isced97_6,mts_aggregate_1,2001,100
 nic,sex_t,edu_isced97_6,mts_aggregate_1,2005,87.8
 nic,sex_t,edu_isced97_6,mts_aggregate_1,2012,94.7
 nic,sex_t,edu_isced97_6,mts_aggregate_1,2014,95.2
@@ -1549,6 +1571,7 @@ nic,sex_t,edu_isced97_6,mts_details_mrd,2001,91.6
 nic,sex_t,edu_isced97_6,mts_details_mrd,2005,100
 nic,sex_t,edu_isced97_6,mts_details_mrd,2012,95.7
 nic,sex_t,edu_isced97_6,mts_details_mrd,2014,90.5
+nic,sex_t,edu_isced97_6,mts_details_sep,2001,100
 nic,sex_t,edu_isced97_6,mts_details_sep,2005,100
 nic,sex_t,edu_isced97_6,mts_details_sep,2012,91.4
 nic,sex_t,edu_isced97_6,mts_details_sep,2014,100
@@ -1558,6 +1581,7 @@ nic,sex_t,edu_isced97_6,mts_details_total,2001,92.5
 nic,sex_t,edu_isced97_6,mts_details_total,2005,97.1
 nic,sex_t,edu_isced97_6,mts_details_total,2012,96.1
 nic,sex_t,edu_isced97_6,mts_details_total,2014,92.9
+nic,sex_t,edu_isced97_6,mts_details_union,2001,100
 nic,sex_t,edu_isced97_6,mts_details_union,2005,100
 nic,sex_t,edu_isced97_6,mts_details_union,2012,100
 nic,sex_t,edu_isced97_6,mts_details_union,2014,100

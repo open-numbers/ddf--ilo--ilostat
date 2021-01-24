@@ -1,15 +1,20 @@
 ref_area,sex,classif1,classif2,time,emp_temp_sex_ocu_mts_nb
+mdv,sex_f,ocu_isco08_0,mts_aggregate_1,2016,0.059
 mdv,sex_f,ocu_isco08_0,mts_aggregate_2,2016,0.325
 mdv,sex_f,ocu_isco08_0,mts_aggregate_total,2016,0.384
 mdv,sex_f,ocu_isco08_0,mts_details_mrd,2016,0.325
+mdv,sex_f,ocu_isco08_0,mts_details_sgle,2016,0.059
 mdv,sex_f,ocu_isco08_0,mts_details_total,2016,0.384
 mdv,sex_f,ocu_isco08_1,mts_aggregate_1,2016,0.534
 mdv,sex_f,ocu_isco08_1,mts_aggregate_2,2016,2.087
 mdv,sex_f,ocu_isco08_1,mts_aggregate_total,2016,2.68
+mdv,sex_f,ocu_isco08_1,mts_aggregate_x,2016,0.059
 mdv,sex_f,ocu_isco08_1,mts_details_mrd,2016,2.087
 mdv,sex_f,ocu_isco08_1,mts_details_sep,2016,0.249
 mdv,sex_f,ocu_isco08_1,mts_details_sgle,2016,0.246
 mdv,sex_f,ocu_isco08_1,mts_details_total,2016,2.68
+mdv,sex_f,ocu_isco08_1,mts_details_wid,2016,0.039
+mdv,sex_f,ocu_isco08_1,mts_details_x,2016,0.059
 mdv,sex_f,ocu_isco08_2,mts_aggregate_1,2016,3.403
 mdv,sex_f,ocu_isco08_2,mts_aggregate_2,2016,8.844
 mdv,sex_f,ocu_isco08_2,mts_aggregate_total,2016,12.511
@@ -18,6 +23,7 @@ mdv,sex_f,ocu_isco08_2,mts_details_mrd,2016,8.844
 mdv,sex_f,ocu_isco08_2,mts_details_sep,2016,0.601
 mdv,sex_f,ocu_isco08_2,mts_details_sgle,2016,2.708
 mdv,sex_f,ocu_isco08_2,mts_details_total,2016,12.511
+mdv,sex_f,ocu_isco08_2,mts_details_wid,2016,0.095
 mdv,sex_f,ocu_isco08_2,mts_details_x,2016,0.264
 mdv,sex_f,ocu_isco08_3,mts_aggregate_1,2016,1.581
 mdv,sex_f,ocu_isco08_3,mts_aggregate_2,2016,4.153
@@ -46,12 +52,18 @@ mdv,sex_f,ocu_isco08_5,mts_details_mrd,2016,3.679
 mdv,sex_f,ocu_isco08_5,mts_details_sep,2016,0.937
 mdv,sex_f,ocu_isco08_5,mts_details_sgle,2016,2.873
 mdv,sex_f,ocu_isco08_5,mts_details_total,2016,7.75
+mdv,sex_f,ocu_isco08_5,mts_details_wid,2016,0.024
 mdv,sex_f,ocu_isco08_5,mts_details_x,2016,0.237
 mdv,sex_f,ocu_isco08_6,mts_aggregate_1,2016,0.063
 mdv,sex_f,ocu_isco08_6,mts_aggregate_2,2016,1.015
 mdv,sex_f,ocu_isco08_6,mts_aggregate_total,2016,1.104
+mdv,sex_f,ocu_isco08_6,mts_aggregate_x,2016,0.026
 mdv,sex_f,ocu_isco08_6,mts_details_mrd,2016,1.015
+mdv,sex_f,ocu_isco08_6,mts_details_sep,2016,0.036
+mdv,sex_f,ocu_isco08_6,mts_details_sgle,2016,0.004
 mdv,sex_f,ocu_isco08_6,mts_details_total,2016,1.104
+mdv,sex_f,ocu_isco08_6,mts_details_wid,2016,0.023
+mdv,sex_f,ocu_isco08_6,mts_details_x,2016,0.026
 mdv,sex_f,ocu_isco08_7,mts_aggregate_1,2016,1.845
 mdv,sex_f,ocu_isco08_7,mts_aggregate_2,2016,8.199
 mdv,sex_f,ocu_isco08_7,mts_aggregate_total,2016,10.263
@@ -62,10 +74,13 @@ mdv,sex_f,ocu_isco08_7,mts_details_sgle,2016,0.322
 mdv,sex_f,ocu_isco08_7,mts_details_total,2016,10.263
 mdv,sex_f,ocu_isco08_7,mts_details_wid,2016,0.719
 mdv,sex_f,ocu_isco08_7,mts_details_x,2016,0.22
+mdv,sex_f,ocu_isco08_8,mts_aggregate_1,2016,0.019
 mdv,sex_f,ocu_isco08_8,mts_aggregate_2,2016,0.135
 mdv,sex_f,ocu_isco08_8,mts_aggregate_total,2016,0.154
 mdv,sex_f,ocu_isco08_8,mts_details_mrd,2016,0.135
+mdv,sex_f,ocu_isco08_8,mts_details_sgle,2016,0.003
 mdv,sex_f,ocu_isco08_8,mts_details_total,2016,0.154
+mdv,sex_f,ocu_isco08_8,mts_details_wid,2016,0.016
 mdv,sex_f,ocu_isco08_9,mts_aggregate_1,2016,1.623
 mdv,sex_f,ocu_isco08_9,mts_aggregate_2,2016,4.553
 mdv,sex_f,ocu_isco08_9,mts_aggregate_total,2016,6.272
@@ -94,6 +109,7 @@ mdv,sex_f,ocu_isco08_x,mts_details_mrd,2016,0.744
 mdv,sex_f,ocu_isco08_x,mts_details_sep,2016,0.103
 mdv,sex_f,ocu_isco08_x,mts_details_sgle,2016,0.185
 mdv,sex_f,ocu_isco08_x,mts_details_total,2016,1.249
+mdv,sex_f,ocu_isco08_x,mts_details_wid,2016,0.007
 mdv,sex_f,ocu_isco08_x,mts_details_x,2016,0.21
 mdv,sex_f,ocu_isco88_1,mts_aggregate_1,2009,0.289
 mdv,sex_f,ocu_isco88_1,mts_aggregate_2,2009,0.805
@@ -263,6 +279,7 @@ mdv,sex_f,ocu_skill_x,mts_details_sep,2016,0.103
 mdv,sex_f,ocu_skill_x,mts_details_sgle,2016,0.244
 mdv,sex_f,ocu_skill_x,mts_details_total,2009,1.125
 mdv,sex_f,ocu_skill_x,mts_details_total,2016,1.633
+mdv,sex_f,ocu_skill_x,mts_details_wid,2016,0.007
 mdv,sex_f,ocu_skill_x,mts_details_x,2016,0.21
 mdv,sex_m,ocu_isco08_0,mts_aggregate_1,2016,0.254
 mdv,sex_m,ocu_isco08_0,mts_aggregate_2,2016,1.705
@@ -280,6 +297,7 @@ mdv,sex_m,ocu_isco08_1,mts_details_mrd,2016,9.764
 mdv,sex_m,ocu_isco08_1,mts_details_sep,2016,0.256
 mdv,sex_m,ocu_isco08_1,mts_details_sgle,2016,0.725
 mdv,sex_m,ocu_isco08_1,mts_details_total,2016,11.008
+mdv,sex_m,ocu_isco08_1,mts_details_wid,2016,0.064
 mdv,sex_m,ocu_isco08_1,mts_details_x,2016,0.2
 mdv,sex_m,ocu_isco08_2,mts_aggregate_1,2016,1.275
 mdv,sex_m,ocu_isco08_2,mts_aggregate_2,2016,4.155
@@ -289,6 +307,7 @@ mdv,sex_m,ocu_isco08_2,mts_details_mrd,2016,4.155
 mdv,sex_m,ocu_isco08_2,mts_details_sep,2016,0.119
 mdv,sex_m,ocu_isco08_2,mts_details_sgle,2016,1.13
 mdv,sex_m,ocu_isco08_2,mts_details_total,2016,5.593
+mdv,sex_m,ocu_isco08_2,mts_details_wid,2016,0.026
 mdv,sex_m,ocu_isco08_2,mts_details_x,2016,0.164
 mdv,sex_m,ocu_isco08_3,mts_aggregate_1,2016,3.598
 mdv,sex_m,ocu_isco08_3,mts_aggregate_2,2016,9.36
@@ -298,6 +317,7 @@ mdv,sex_m,ocu_isco08_3,mts_details_mrd,2016,9.36
 mdv,sex_m,ocu_isco08_3,mts_details_sep,2016,0.387
 mdv,sex_m,ocu_isco08_3,mts_details_sgle,2016,3.202
 mdv,sex_m,ocu_isco08_3,mts_details_total,2016,13.259
+mdv,sex_m,ocu_isco08_3,mts_details_wid,2016,0.009
 mdv,sex_m,ocu_isco08_3,mts_details_x,2016,0.301
 mdv,sex_m,ocu_isco08_4,mts_aggregate_1,2016,2.807
 mdv,sex_m,ocu_isco08_4,mts_aggregate_2,2016,3.744
@@ -316,6 +336,7 @@ mdv,sex_m,ocu_isco08_5,mts_details_mrd,2016,8.085
 mdv,sex_m,ocu_isco08_5,mts_details_sep,2016,0.572
 mdv,sex_m,ocu_isco08_5,mts_details_sgle,2016,3.825
 mdv,sex_m,ocu_isco08_5,mts_details_total,2016,12.839
+mdv,sex_m,ocu_isco08_5,mts_details_wid,2016,0.04
 mdv,sex_m,ocu_isco08_5,mts_details_x,2016,0.318
 mdv,sex_m,ocu_isco08_6,mts_aggregate_1,2016,1.925
 mdv,sex_m,ocu_isco08_6,mts_aggregate_2,2016,8.333
@@ -335,6 +356,7 @@ mdv,sex_m,ocu_isco08_7,mts_details_mrd,2016,6.187
 mdv,sex_m,ocu_isco08_7,mts_details_sep,2016,0.452
 mdv,sex_m,ocu_isco08_7,mts_details_sgle,2016,1.536
 mdv,sex_m,ocu_isco08_7,mts_details_total,2016,8.471
+mdv,sex_m,ocu_isco08_7,mts_details_wid,2016,0.012
 mdv,sex_m,ocu_isco08_7,mts_details_x,2016,0.285
 mdv,sex_m,ocu_isco08_8,mts_aggregate_1,2016,0.902
 mdv,sex_m,ocu_isco08_8,mts_aggregate_2,2016,4.247
@@ -344,6 +366,7 @@ mdv,sex_m,ocu_isco08_8,mts_details_mrd,2016,4.247
 mdv,sex_m,ocu_isco08_8,mts_details_sep,2016,0.135
 mdv,sex_m,ocu_isco08_8,mts_details_sgle,2016,0.754
 mdv,sex_m,ocu_isco08_8,mts_details_total,2016,5.368
+mdv,sex_m,ocu_isco08_8,mts_details_wid,2016,0.013
 mdv,sex_m,ocu_isco08_8,mts_details_x,2016,0.219
 mdv,sex_m,ocu_isco08_9,mts_aggregate_1,2016,2.427
 mdv,sex_m,ocu_isco08_9,mts_aggregate_2,2016,5.958
@@ -353,6 +376,7 @@ mdv,sex_m,ocu_isco08_9,mts_details_mrd,2016,5.958
 mdv,sex_m,ocu_isco08_9,mts_details_sep,2016,0.384
 mdv,sex_m,ocu_isco08_9,mts_details_sgle,2016,2.012
 mdv,sex_m,ocu_isco08_9,mts_details_total,2016,8.707
+mdv,sex_m,ocu_isco08_9,mts_details_wid,2016,0.031
 mdv,sex_m,ocu_isco08_9,mts_details_x,2016,0.322
 mdv,sex_m,ocu_isco08_total,mts_aggregate_1,2016,21.366
 mdv,sex_m,ocu_isco08_total,mts_aggregate_2,2016,62.453
@@ -369,8 +393,10 @@ mdv,sex_m,ocu_isco08_x,mts_aggregate_2,2016,0.915
 mdv,sex_m,ocu_isco08_x,mts_aggregate_total,2016,2.025
 mdv,sex_m,ocu_isco08_x,mts_aggregate_x,2016,0.413
 mdv,sex_m,ocu_isco08_x,mts_details_mrd,2016,0.915
+mdv,sex_m,ocu_isco08_x,mts_details_sep,2016,0.065
 mdv,sex_m,ocu_isco08_x,mts_details_sgle,2016,0.616
 mdv,sex_m,ocu_isco08_x,mts_details_total,2016,2.025
+mdv,sex_m,ocu_isco08_x,mts_details_wid,2016,0.016
 mdv,sex_m,ocu_isco08_x,mts_details_x,2016,0.413
 mdv,sex_m,ocu_isco88_0,mts_aggregate_1,2009,0.503
 mdv,sex_m,ocu_isco88_0,mts_aggregate_2,2009,1.684
@@ -471,6 +497,7 @@ mdv,sex_m,ocu_skill_l1,mts_details_sgle,2009,0.472
 mdv,sex_m,ocu_skill_l1,mts_details_sgle,2016,2.012
 mdv,sex_m,ocu_skill_l1,mts_details_total,2009,4.899
 mdv,sex_m,ocu_skill_l1,mts_details_total,2016,8.707
+mdv,sex_m,ocu_skill_l1,mts_details_wid,2016,0.031
 mdv,sex_m,ocu_skill_l1,mts_details_x,2016,0.322
 mdv,sex_m,ocu_skill_l2,mts_aggregate_1,2009,7.578
 mdv,sex_m,ocu_skill_l2,mts_aggregate_1,2016,12.07
@@ -538,10 +565,12 @@ mdv,sex_m,ocu_skill_x,mts_aggregate_x,2016,0.565
 mdv,sex_m,ocu_skill_x,mts_details_mrd,2009,2.681
 mdv,sex_m,ocu_skill_x,mts_details_mrd,2016,2.621
 mdv,sex_m,ocu_skill_x,mts_details_sep,2009,0.233
+mdv,sex_m,ocu_skill_x,mts_details_sep,2016,0.065
 mdv,sex_m,ocu_skill_x,mts_details_sgle,2009,0.786
 mdv,sex_m,ocu_skill_x,mts_details_sgle,2016,0.871
 mdv,sex_m,ocu_skill_x,mts_details_total,2009,3.845
 mdv,sex_m,ocu_skill_x,mts_details_total,2016,4.137
+mdv,sex_m,ocu_skill_x,mts_details_wid,2016,0.016
 mdv,sex_m,ocu_skill_x,mts_details_x,2016,0.565
 mdv,sex_t,ocu_isco08_0,mts_aggregate_1,2016,0.313
 mdv,sex_t,ocu_isco08_0,mts_aggregate_2,2016,2.031
@@ -559,6 +588,7 @@ mdv,sex_t,ocu_isco08_1,mts_details_mrd,2016,11.851
 mdv,sex_t,ocu_isco08_1,mts_details_sep,2016,0.505
 mdv,sex_t,ocu_isco08_1,mts_details_sgle,2016,0.971
 mdv,sex_t,ocu_isco08_1,mts_details_total,2016,13.688
+mdv,sex_t,ocu_isco08_1,mts_details_wid,2016,0.103
 mdv,sex_t,ocu_isco08_1,mts_details_x,2016,0.259
 mdv,sex_t,ocu_isco08_2,mts_aggregate_1,2016,4.678
 mdv,sex_t,ocu_isco08_2,mts_aggregate_2,2016,12.999
@@ -627,6 +657,7 @@ mdv,sex_t,ocu_isco08_8,mts_details_mrd,2016,4.381
 mdv,sex_t,ocu_isco08_8,mts_details_sep,2016,0.135
 mdv,sex_t,ocu_isco08_8,mts_details_sgle,2016,0.757
 mdv,sex_t,ocu_isco08_8,mts_details_total,2016,5.522
+mdv,sex_t,ocu_isco08_8,mts_details_wid,2016,0.03
 mdv,sex_t,ocu_isco08_8,mts_details_x,2016,0.219
 mdv,sex_t,ocu_isco08_9,mts_aggregate_1,2016,4.05
 mdv,sex_t,ocu_isco08_9,mts_aggregate_2,2016,10.511
@@ -656,6 +687,7 @@ mdv,sex_t,ocu_isco08_x,mts_details_mrd,2016,1.659
 mdv,sex_t,ocu_isco08_x,mts_details_sep,2016,0.168
 mdv,sex_t,ocu_isco08_x,mts_details_sgle,2016,0.802
 mdv,sex_t,ocu_isco08_x,mts_details_total,2016,3.275
+mdv,sex_t,ocu_isco08_x,mts_details_wid,2016,0.023
 mdv,sex_t,ocu_isco08_x,mts_details_x,2016,0.623
 mdv,sex_t,ocu_isco88_0,mts_aggregate_1,2009,0.536
 mdv,sex_t,ocu_isco88_0,mts_aggregate_2,2009,1.775
@@ -841,4 +873,5 @@ mdv,sex_t,ocu_skill_x,mts_details_sgle,2009,1.028
 mdv,sex_t,ocu_skill_x,mts_details_sgle,2016,1.115
 mdv,sex_t,ocu_skill_x,mts_details_total,2009,4.97
 mdv,sex_t,ocu_skill_x,mts_details_total,2016,5.771
+mdv,sex_t,ocu_skill_x,mts_details_wid,2016,0.023
 mdv,sex_t,ocu_skill_x,mts_details_x,2016,0.776

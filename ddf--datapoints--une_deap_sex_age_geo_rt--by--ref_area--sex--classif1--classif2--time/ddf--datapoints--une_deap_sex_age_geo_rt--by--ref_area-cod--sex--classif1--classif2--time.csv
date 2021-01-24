@@ -31,9 +31,15 @@ cod,sex_f,age_10yrbands_y45_54,geo_cov_urb,2005,3.39
 cod,sex_f,age_10yrbands_y45_54,geo_cov_urb,2012,2.42
 cod,sex_f,age_10yrbands_y55_64,geo_cov_nat,2005,0.63
 cod,sex_f,age_10yrbands_y55_64,geo_cov_nat,2012,1.09
+cod,sex_f,age_10yrbands_y55_64,geo_cov_rur,2005,0.27
 cod,sex_f,age_10yrbands_y55_64,geo_cov_urb,2005,3.57
 cod,sex_f,age_10yrbands_y55_64,geo_cov_urb,2012,3.65
 cod,sex_f,age_10yrbands_yge65,geo_cov_nat,2005,0.56
+cod,sex_f,age_10yrbands_yge65,geo_cov_nat,2012,0.99
+cod,sex_f,age_10yrbands_yge65,geo_cov_rur,2005,0
+cod,sex_f,age_10yrbands_yge65,geo_cov_rur,2012,0.14
+cod,sex_f,age_10yrbands_yge65,geo_cov_urb,2005,4.14
+cod,sex_f,age_10yrbands_yge65,geo_cov_urb,2012,3.62
 cod,sex_f,age_aggregate_total,geo_cov_nat,2005,2.2
 cod,sex_f,age_aggregate_total,geo_cov_nat,2012,3.62
 cod,sex_f,age_aggregate_total,geo_cov_rur,2005,0.99
@@ -54,9 +60,15 @@ cod,sex_f,age_aggregate_y25_54,geo_cov_urb,2005,8.69
 cod,sex_f,age_aggregate_y25_54,geo_cov_urb,2012,8.49
 cod,sex_f,age_aggregate_y55_64,geo_cov_nat,2005,0.63
 cod,sex_f,age_aggregate_y55_64,geo_cov_nat,2012,1.09
+cod,sex_f,age_aggregate_y55_64,geo_cov_rur,2005,0.27
 cod,sex_f,age_aggregate_y55_64,geo_cov_urb,2005,3.57
 cod,sex_f,age_aggregate_y55_64,geo_cov_urb,2012,3.65
 cod,sex_f,age_aggregate_yge65,geo_cov_nat,2005,0.56
+cod,sex_f,age_aggregate_yge65,geo_cov_nat,2012,0.99
+cod,sex_f,age_aggregate_yge65,geo_cov_rur,2005,0
+cod,sex_f,age_aggregate_yge65,geo_cov_rur,2012,0.14
+cod,sex_f,age_aggregate_yge65,geo_cov_urb,2005,4.14
+cod,sex_f,age_aggregate_yge65,geo_cov_urb,2012,3.62
 cod,sex_f,age_ythadult_y15_24,geo_cov_nat,2005,3.61
 cod,sex_f,age_ythadult_y15_24,geo_cov_nat,2012,6.76
 cod,sex_f,age_ythadult_y15_24,geo_cov_rur,2005,1.82
@@ -118,6 +130,8 @@ cod,sex_m,age_10yrbands_y55_64,geo_cov_urb,2005,10.72
 cod,sex_m,age_10yrbands_y55_64,geo_cov_urb,2012,4.09
 cod,sex_m,age_10yrbands_yge65,geo_cov_nat,2005,0.93
 cod,sex_m,age_10yrbands_yge65,geo_cov_nat,2012,2.93
+cod,sex_m,age_10yrbands_yge65,geo_cov_rur,2005,0
+cod,sex_m,age_10yrbands_yge65,geo_cov_rur,2012,0.66
 cod,sex_m,age_10yrbands_yge65,geo_cov_urb,2005,6.86
 cod,sex_m,age_10yrbands_yge65,geo_cov_urb,2012,7.43
 cod,sex_m,age_aggregate_total,geo_cov_nat,2005,3.51
@@ -146,6 +160,8 @@ cod,sex_m,age_aggregate_y55_64,geo_cov_urb,2005,10.72
 cod,sex_m,age_aggregate_y55_64,geo_cov_urb,2012,4.09
 cod,sex_m,age_aggregate_yge65,geo_cov_nat,2005,0.93
 cod,sex_m,age_aggregate_yge65,geo_cov_nat,2012,2.93
+cod,sex_m,age_aggregate_yge65,geo_cov_rur,2005,0
+cod,sex_m,age_aggregate_yge65,geo_cov_rur,2012,0.66
 cod,sex_m,age_aggregate_yge65,geo_cov_urb,2005,6.86
 cod,sex_m,age_aggregate_yge65,geo_cov_urb,2012,7.43
 cod,sex_m,age_ythadult_y15_24,geo_cov_nat,2005,6.32
@@ -210,6 +226,8 @@ cod,sex_t,age_10yrbands_y55_64,geo_cov_urb,2005,8.43
 cod,sex_t,age_10yrbands_y55_64,geo_cov_urb,2012,3.91
 cod,sex_t,age_10yrbands_yge65,geo_cov_nat,2005,0.77
 cod,sex_t,age_10yrbands_yge65,geo_cov_nat,2012,2.09
+cod,sex_t,age_10yrbands_yge65,geo_cov_rur,2005,0
+cod,sex_t,age_10yrbands_yge65,geo_cov_rur,2012,0.42
 cod,sex_t,age_10yrbands_yge65,geo_cov_urb,2005,5.76
 cod,sex_t,age_10yrbands_yge65,geo_cov_urb,2012,6.06
 cod,sex_t,age_aggregate_total,geo_cov_nat,2005,2.85
@@ -238,6 +256,8 @@ cod,sex_t,age_aggregate_y55_64,geo_cov_urb,2005,8.43
 cod,sex_t,age_aggregate_y55_64,geo_cov_urb,2012,3.91
 cod,sex_t,age_aggregate_yge65,geo_cov_nat,2005,0.77
 cod,sex_t,age_aggregate_yge65,geo_cov_nat,2012,2.09
+cod,sex_t,age_aggregate_yge65,geo_cov_rur,2005,0
+cod,sex_t,age_aggregate_yge65,geo_cov_rur,2012,0.42
 cod,sex_t,age_aggregate_yge65,geo_cov_urb,2005,5.76
 cod,sex_t,age_aggregate_yge65,geo_cov_urb,2012,6.06
 cod,sex_t,age_ythadult_y15_24,geo_cov_nat,2005,4.76

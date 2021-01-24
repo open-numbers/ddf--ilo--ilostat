@@ -1,4 +1,5 @@
 ref_area,sex,classif1,classif2,time,emp_temp_sex_ste_ocu_nb
+ven,sex_f,ste_aggregate_ees,ocu_skill_l1,2005,0.199
 ven,sex_f,ste_aggregate_ees,ocu_skill_l1,2006,1.04
 ven,sex_f,ste_aggregate_ees,ocu_skill_l1,2007,0.942
 ven,sex_f,ste_aggregate_ees,ocu_skill_l1,2008,0.801
@@ -48,6 +49,7 @@ ven,sex_f,ste_aggregate_ees,ocu_skill_x,2011,9.2
 ven,sex_f,ste_aggregate_ees,ocu_skill_x,2012,13.332
 ven,sex_f,ste_aggregate_ees,ocu_skill_x,2016,12.437
 ven,sex_f,ste_aggregate_ees,ocu_skill_x,2017,40.301
+ven,sex_f,ste_aggregate_slf,ocu_skill_l1,2005,0.08
 ven,sex_f,ste_aggregate_slf,ocu_skill_l1,2011,0.78
 ven,sex_f,ste_aggregate_slf,ocu_skill_l1,2012,0.897
 ven,sex_f,ste_aggregate_slf,ocu_skill_l2,2005,1484.25
@@ -90,6 +92,7 @@ ven,sex_f,ste_aggregate_slf,ocu_skill_x,2011,0.86
 ven,sex_f,ste_aggregate_slf,ocu_skill_x,2012,1.238
 ven,sex_f,ste_aggregate_slf,ocu_skill_x,2016,67.072
 ven,sex_f,ste_aggregate_slf,ocu_skill_x,2017,26.331
+ven,sex_f,ste_aggregate_total,ocu_skill_l1,2005,0.279
 ven,sex_f,ste_aggregate_total,ocu_skill_l1,2006,1.283
 ven,sex_f,ste_aggregate_total,ocu_skill_l1,2007,1.031
 ven,sex_f,ste_aggregate_total,ocu_skill_l1,2008,0.801
@@ -141,6 +144,7 @@ ven,sex_f,ste_aggregate_total,ocu_skill_x,2016,80.899
 ven,sex_f,ste_aggregate_total,ocu_skill_x,2017,67.626
 ven,sex_f,ste_aggregate_x,ocu_skill_l2,2017,55.248
 ven,sex_f,ste_aggregate_x,ocu_skill_l3_4,2017,5.426
+ven,sex_f,ste_aggregate_x,ocu_skill_total,2005,0.303
 ven,sex_f,ste_aggregate_x,ocu_skill_total,2006,12.423
 ven,sex_f,ste_aggregate_x,ocu_skill_total,2007,29.385
 ven,sex_f,ste_aggregate_x,ocu_skill_total,2008,2.624
@@ -148,11 +152,13 @@ ven,sex_f,ste_aggregate_x,ocu_skill_total,2009,0.386
 ven,sex_f,ste_aggregate_x,ocu_skill_total,2010,14.952
 ven,sex_f,ste_aggregate_x,ocu_skill_total,2016,1.39
 ven,sex_f,ste_aggregate_x,ocu_skill_total,2017,61.668
+ven,sex_f,ste_aggregate_x,ocu_skill_x,2005,0.303
 ven,sex_f,ste_aggregate_x,ocu_skill_x,2006,12.423
 ven,sex_f,ste_aggregate_x,ocu_skill_x,2007,29.385
 ven,sex_f,ste_aggregate_x,ocu_skill_x,2008,2.353
 ven,sex_f,ste_aggregate_x,ocu_skill_x,2010,14.893
 ven,sex_f,ste_aggregate_x,ocu_skill_x,2016,1.39
+ven,sex_f,ste_icse93_1,ocu_skill_l1,2005,0.199
 ven,sex_f,ste_icse93_1,ocu_skill_l1,2006,1.04
 ven,sex_f,ste_icse93_1,ocu_skill_l1,2007,0.942
 ven,sex_f,ste_icse93_1,ocu_skill_l1,2008,0.801
@@ -232,7 +238,9 @@ ven,sex_f,ste_icse93_2,ocu_skill_total,2011,76.878
 ven,sex_f,ste_icse93_2,ocu_skill_total,2012,75.321
 ven,sex_f,ste_icse93_2,ocu_skill_total,2016,112.443
 ven,sex_f,ste_icse93_2,ocu_skill_total,2017,103.458
+ven,sex_f,ste_icse93_2,ocu_skill_x,2005,0.161
 ven,sex_f,ste_icse93_2,ocu_skill_x,2009,0.67
+ven,sex_f,ste_icse93_3,ocu_skill_l1,2005,0.08
 ven,sex_f,ste_icse93_3,ocu_skill_l1,2011,0.596
 ven,sex_f,ste_icse93_3,ocu_skill_l2,2005,1149.999
 ven,sex_f,ste_icse93_3,ocu_skill_l2,2006,1248.097
@@ -342,6 +350,7 @@ ven,sex_f,ste_icse93_5,ocu_skill_x,2016,56.649
 ven,sex_f,ste_icse93_5,ocu_skill_x,2017,18.193
 ven,sex_f,ste_icse93_6,ocu_skill_l2,2017,55.248
 ven,sex_f,ste_icse93_6,ocu_skill_l3_4,2017,5.426
+ven,sex_f,ste_icse93_6,ocu_skill_total,2005,0.303
 ven,sex_f,ste_icse93_6,ocu_skill_total,2006,12.423
 ven,sex_f,ste_icse93_6,ocu_skill_total,2007,29.385
 ven,sex_f,ste_icse93_6,ocu_skill_total,2008,2.624
@@ -349,11 +358,13 @@ ven,sex_f,ste_icse93_6,ocu_skill_total,2009,0.386
 ven,sex_f,ste_icse93_6,ocu_skill_total,2010,14.952
 ven,sex_f,ste_icse93_6,ocu_skill_total,2016,1.39
 ven,sex_f,ste_icse93_6,ocu_skill_total,2017,61.668
+ven,sex_f,ste_icse93_6,ocu_skill_x,2005,0.303
 ven,sex_f,ste_icse93_6,ocu_skill_x,2006,12.423
 ven,sex_f,ste_icse93_6,ocu_skill_x,2007,29.385
 ven,sex_f,ste_icse93_6,ocu_skill_x,2008,2.353
 ven,sex_f,ste_icse93_6,ocu_skill_x,2010,14.893
 ven,sex_f,ste_icse93_6,ocu_skill_x,2016,1.39
+ven,sex_f,ste_icse93_total,ocu_skill_l1,2005,0.279
 ven,sex_f,ste_icse93_total,ocu_skill_l1,2006,1.283
 ven,sex_f,ste_icse93_total,ocu_skill_l1,2007,1.031
 ven,sex_f,ste_icse93_total,ocu_skill_l1,2008,0.801
@@ -615,6 +626,7 @@ ven,sex_m,ste_icse93_1,ocu_skill_x,2011,60.725
 ven,sex_m,ste_icse93_1,ocu_skill_x,2012,63.567
 ven,sex_m,ste_icse93_1,ocu_skill_x,2016,91.539
 ven,sex_m,ste_icse93_1,ocu_skill_x,2017,131.054
+ven,sex_m,ste_icse93_2,ocu_skill_l1,2005,0.047
 ven,sex_m,ste_icse93_2,ocu_skill_l1,2009,0.876
 ven,sex_m,ste_icse93_2,ocu_skill_l2,2005,333.443
 ven,sex_m,ste_icse93_2,ocu_skill_l2,2006,331.988
@@ -994,6 +1006,7 @@ ven,sex_t,ste_aggregate_total,ocu_skill_x,2016,216.964
 ven,sex_t,ste_aggregate_total,ocu_skill_x,2017,245.923
 ven,sex_t,ste_aggregate_x,ocu_skill_l2,2017,78.905
 ven,sex_t,ste_aggregate_x,ocu_skill_l3_4,2017,6.173
+ven,sex_t,ste_aggregate_x,ocu_skill_total,2005,0.303
 ven,sex_t,ste_aggregate_x,ocu_skill_total,2006,20.221
 ven,sex_t,ste_aggregate_x,ocu_skill_total,2007,45.288
 ven,sex_t,ste_aggregate_x,ocu_skill_total,2008,3.737
@@ -1001,6 +1014,7 @@ ven,sex_t,ste_aggregate_x,ocu_skill_total,2009,0.421
 ven,sex_t,ste_aggregate_x,ocu_skill_total,2010,21.424
 ven,sex_t,ste_aggregate_x,ocu_skill_total,2016,2.852
 ven,sex_t,ste_aggregate_x,ocu_skill_total,2017,86.466
+ven,sex_t,ste_aggregate_x,ocu_skill_x,2005,0.303
 ven,sex_t,ste_aggregate_x,ocu_skill_x,2006,20.221
 ven,sex_t,ste_aggregate_x,ocu_skill_x,2007,45.288
 ven,sex_t,ste_aggregate_x,ocu_skill_x,2008,3.467
@@ -1058,6 +1072,7 @@ ven,sex_t,ste_icse93_1,ocu_skill_x,2011,69.925
 ven,sex_t,ste_icse93_1,ocu_skill_x,2012,76.899
 ven,sex_t,ste_icse93_1,ocu_skill_x,2016,103.976
 ven,sex_t,ste_icse93_1,ocu_skill_x,2017,171.355
+ven,sex_t,ste_icse93_2,ocu_skill_l1,2005,0.047
 ven,sex_t,ste_icse93_2,ocu_skill_l1,2009,0.876
 ven,sex_t,ste_icse93_2,ocu_skill_l2,2005,401.36
 ven,sex_t,ste_icse93_2,ocu_skill_l2,2006,388.647
@@ -1226,6 +1241,7 @@ ven,sex_t,ste_icse93_5,ocu_skill_x,2016,87.091
 ven,sex_t,ste_icse93_5,ocu_skill_x,2017,37.499
 ven,sex_t,ste_icse93_6,ocu_skill_l2,2017,78.905
 ven,sex_t,ste_icse93_6,ocu_skill_l3_4,2017,6.173
+ven,sex_t,ste_icse93_6,ocu_skill_total,2005,0.303
 ven,sex_t,ste_icse93_6,ocu_skill_total,2006,20.221
 ven,sex_t,ste_icse93_6,ocu_skill_total,2007,45.288
 ven,sex_t,ste_icse93_6,ocu_skill_total,2008,3.737
@@ -1233,6 +1249,7 @@ ven,sex_t,ste_icse93_6,ocu_skill_total,2009,0.421
 ven,sex_t,ste_icse93_6,ocu_skill_total,2010,21.424
 ven,sex_t,ste_icse93_6,ocu_skill_total,2016,2.852
 ven,sex_t,ste_icse93_6,ocu_skill_total,2017,86.466
+ven,sex_t,ste_icse93_6,ocu_skill_x,2005,0.303
 ven,sex_t,ste_icse93_6,ocu_skill_x,2006,20.221
 ven,sex_t,ste_icse93_6,ocu_skill_x,2007,45.288
 ven,sex_t,ste_icse93_6,ocu_skill_x,2008,3.467

@@ -1006,6 +1006,7 @@ cri,eco_aggregate_pub,ocu_isco88_total,2007,464.108
 cri,eco_aggregate_pub,ocu_isco88_total,2008,469.367
 cri,eco_aggregate_pub,ocu_isco88_total,2009,498.406
 cri,eco_aggregate_pub,ocu_isco88_total,2010,513.174
+cri,eco_aggregate_pub,ocu_isco88_x,2001,0.423
 cri,eco_aggregate_pub,ocu_isco88_x,2002,1.234
 cri,eco_aggregate_pub,ocu_isco88_x,2009,0.076
 cri,eco_aggregate_pub,ocu_skill_l1,2001,88.328
@@ -1084,6 +1085,7 @@ cri,eco_aggregate_pub,ocu_skill_total,2016,419.575
 cri,eco_aggregate_pub,ocu_skill_total,2017,550.421
 cri,eco_aggregate_pub,ocu_skill_total,2018,555.964
 cri,eco_aggregate_pub,ocu_skill_total,2019,607.717
+cri,eco_aggregate_pub,ocu_skill_x,2001,0.423
 cri,eco_aggregate_pub,ocu_skill_x,2002,1.234
 cri,eco_aggregate_pub,ocu_skill_x,2009,0.076
 cri,eco_aggregate_pub,ocu_skill_x,2011,0.68
@@ -1297,8 +1299,10 @@ cri,eco_aggregate_total,ocu_skill_x,2016,5.333
 cri,eco_aggregate_total,ocu_skill_x,2017,18.736
 cri,eco_aggregate_total,ocu_skill_x,2018,16.198
 cri,eco_aggregate_total,ocu_skill_x,2019,10.674
+cri,eco_aggregate_x,ocu_isco88_1,2001,0.15
 cri,eco_aggregate_x,ocu_isco88_1,2004,0.757
 cri,eco_aggregate_x,ocu_isco88_1,2009,0.661
+cri,eco_aggregate_x,ocu_isco88_2,2001,0.311
 cri,eco_aggregate_x,ocu_isco88_2,2003,1.204
 cri,eco_aggregate_x,ocu_isco88_2,2005,0.782
 cri,eco_aggregate_x,ocu_isco88_2,2007,1.143
@@ -1319,7 +1323,9 @@ cri,eco_aggregate_x,ocu_isco88_4,2007,1.367
 cri,eco_aggregate_x,ocu_isco88_4,2008,1.51
 cri,eco_aggregate_x,ocu_isco88_4,2009,1.78
 cri,eco_aggregate_x,ocu_isco88_4,2010,1.084
+cri,eco_aggregate_x,ocu_isco88_5,2001,0.192
 cri,eco_aggregate_x,ocu_isco88_5,2009,0.185
+cri,eco_aggregate_x,ocu_isco88_7,2001,0.236
 cri,eco_aggregate_x,ocu_isco88_7,2008,0.349
 cri,eco_aggregate_x,ocu_isco88_7,2009,0.076
 cri,eco_aggregate_x,ocu_isco88_8,2005,1.034
@@ -1543,6 +1549,7 @@ cri,eco_isic3_a,ocu_isco88_total,2007,239.338
 cri,eco_isic3_a,ocu_isco88_total,2008,233.548
 cri,eco_isic3_a,ocu_isco88_total,2009,222.397
 cri,eco_isic3_a,ocu_isco88_total,2010,225.046
+cri,eco_isic3_a,ocu_isco88_x,2001,0.263
 cri,eco_isic3_a,ocu_isco88_x,2009,0.067
 cri,eco_isic3_a,ocu_skill_l1,2001,146.075
 cri,eco_isic3_a,ocu_skill_l1,2002,147.955
@@ -1584,15 +1591,21 @@ cri,eco_isic3_a,ocu_skill_total,2007,239.338
 cri,eco_isic3_a,ocu_skill_total,2008,233.548
 cri,eco_isic3_a,ocu_skill_total,2009,222.397
 cri,eco_isic3_a,ocu_skill_total,2010,225.046
+cri,eco_isic3_a,ocu_skill_x,2001,0.263
 cri,eco_isic3_a,ocu_skill_x,2009,0.067
+cri,eco_isic3_b,ocu_isco88_1,2001,0.134
 cri,eco_isic3_b,ocu_isco88_1,2007,0.483
 cri,eco_isic3_b,ocu_isco88_1,2009,0.174
+cri,eco_isic3_b,ocu_isco88_2,2001,0.081
 cri,eco_isic3_b,ocu_isco88_2,2009,0.642
+cri,eco_isic3_b,ocu_isco88_3,2001,0.147
 cri,eco_isic3_b,ocu_isco88_3,2002,0.415
 cri,eco_isic3_b,ocu_isco88_3,2004,0.322
 cri,eco_isic3_b,ocu_isco88_3,2005,0.53
 cri,eco_isic3_b,ocu_isco88_3,2007,0.456
 cri,eco_isic3_b,ocu_isco88_3,2009,0.472
+cri,eco_isic3_b,ocu_isco88_4,2001,0.067
+cri,eco_isic3_b,ocu_isco88_5,2001,0.282
 cri,eco_isic3_b,ocu_isco88_5,2002,0.446
 cri,eco_isic3_b,ocu_isco88_5,2009,0.051
 cri,eco_isic3_b,ocu_isco88_6,2001,5.599
@@ -1605,11 +1618,13 @@ cri,eco_isic3_b,ocu_isco88_6,2007,5.304
 cri,eco_isic3_b,ocu_isco88_6,2008,5.03
 cri,eco_isic3_b,ocu_isco88_6,2009,4.972
 cri,eco_isic3_b,ocu_isco88_6,2010,6.019
+cri,eco_isic3_b,ocu_isco88_7,2001,0.207
 cri,eco_isic3_b,ocu_isco88_7,2002,0.653
 cri,eco_isic3_b,ocu_isco88_7,2004,0.635
 cri,eco_isic3_b,ocu_isco88_7,2005,0.704
 cri,eco_isic3_b,ocu_isco88_7,2007,0.36
 cri,eco_isic3_b,ocu_isco88_7,2008,0.312
+cri,eco_isic3_b,ocu_isco88_8,2001,0.148
 cri,eco_isic3_b,ocu_isco88_8,2009,0.154
 cri,eco_isic3_b,ocu_isco88_9,2001,0.616
 cri,eco_isic3_b,ocu_isco88_9,2002,1.038
@@ -1631,6 +1646,7 @@ cri,eco_isic3_b,ocu_isco88_total,2007,9.425
 cri,eco_isic3_b,ocu_isco88_total,2008,6.413
 cri,eco_isic3_b,ocu_isco88_total,2009,7.183
 cri,eco_isic3_b,ocu_isco88_total,2010,8.494
+cri,eco_isic3_b,ocu_isco88_x,2001,0.067
 cri,eco_isic3_b,ocu_skill_l1,2001,0.616
 cri,eco_isic3_b,ocu_skill_l1,2002,1.038
 cri,eco_isic3_b,ocu_skill_l1,2003,1.604
@@ -1669,6 +1685,8 @@ cri,eco_isic3_b,ocu_skill_total,2007,9.425
 cri,eco_isic3_b,ocu_skill_total,2008,6.413
 cri,eco_isic3_b,ocu_skill_total,2009,7.183
 cri,eco_isic3_b,ocu_skill_total,2010,8.494
+cri,eco_isic3_b,ocu_skill_x,2001,0.067
+cri,eco_isic3_c,ocu_isco88_2,2001,0.075
 cri,eco_isic3_c,ocu_isco88_2,2009,0.051
 cri,eco_isic3_c,ocu_isco88_3,2001,0.385
 cri,eco_isic3_c,ocu_isco88_3,2008,0.324
@@ -2252,6 +2270,7 @@ cri,eco_isic3_g,ocu_isco88_total,2007,364.754
 cri,eco_isic3_g,ocu_isco88_total,2008,376.401
 cri,eco_isic3_g,ocu_isco88_total,2009,388.383
 cri,eco_isic3_g,ocu_isco88_total,2010,361.789
+cri,eco_isic3_g,ocu_isco88_x,2001,0.223
 cri,eco_isic3_g,ocu_isco88_x,2003,0.78
 cri,eco_isic3_g,ocu_isco88_x,2009,0.186
 cri,eco_isic3_g,ocu_skill_l1,2001,67.612
@@ -2294,6 +2313,7 @@ cri,eco_isic3_g,ocu_skill_total,2007,364.754
 cri,eco_isic3_g,ocu_skill_total,2008,376.401
 cri,eco_isic3_g,ocu_skill_total,2009,388.383
 cri,eco_isic3_g,ocu_skill_total,2010,361.789
+cri,eco_isic3_g,ocu_skill_x,2001,0.223
 cri,eco_isic3_g,ocu_skill_x,2003,0.78
 cri,eco_isic3_g,ocu_skill_x,2009,0.186
 cri,eco_isic3_h,ocu_isco88_1,2001,2.975
@@ -2395,6 +2415,7 @@ cri,eco_isic3_h,ocu_isco88_total,2007,107.752
 cri,eco_isic3_h,ocu_isco88_total,2008,99.536
 cri,eco_isic3_h,ocu_isco88_total,2009,105.672
 cri,eco_isic3_h,ocu_isco88_total,2010,102.851
+cri,eco_isic3_h,ocu_isco88_x,2001,0.177
 cri,eco_isic3_h,ocu_skill_l1,2001,11.147
 cri,eco_isic3_h,ocu_skill_l1,2002,13.494
 cri,eco_isic3_h,ocu_skill_l1,2003,14.959
@@ -2435,6 +2456,7 @@ cri,eco_isic3_h,ocu_skill_total,2007,107.752
 cri,eco_isic3_h,ocu_skill_total,2008,99.536
 cri,eco_isic3_h,ocu_skill_total,2009,105.672
 cri,eco_isic3_h,ocu_skill_total,2010,102.851
+cri,eco_isic3_h,ocu_skill_x,2001,0.177
 cri,eco_isic3_i,ocu_isco88_1,2001,2.166
 cri,eco_isic3_i,ocu_isco88_1,2002,2.878
 cri,eco_isic3_i,ocu_isco88_1,2003,2.079
@@ -2526,6 +2548,7 @@ cri,eco_isic3_i,ocu_isco88_total,2007,125.263
 cri,eco_isic3_i,ocu_isco88_total,2008,142.984
 cri,eco_isic3_i,ocu_isco88_total,2009,148.732
 cri,eco_isic3_i,ocu_isco88_total,2010,123.282
+cri,eco_isic3_i,ocu_isco88_x,2001,0.236
 cri,eco_isic3_i,ocu_isco88_x,2009,0.076
 cri,eco_isic3_i,ocu_skill_l1,2001,8.439
 cri,eco_isic3_i,ocu_skill_l1,2002,8.233
@@ -2567,6 +2590,7 @@ cri,eco_isic3_i,ocu_skill_total,2007,125.263
 cri,eco_isic3_i,ocu_skill_total,2008,142.984
 cri,eco_isic3_i,ocu_skill_total,2009,148.732
 cri,eco_isic3_i,ocu_skill_total,2010,123.282
+cri,eco_isic3_i,ocu_skill_x,2001,0.236
 cri,eco_isic3_i,ocu_skill_x,2009,0.076
 cri,eco_isic3_j,ocu_isco88_1,2001,2.499
 cri,eco_isic3_j,ocu_isco88_1,2002,3.364
@@ -2608,6 +2632,7 @@ cri,eco_isic3_j,ocu_isco88_4,2007,16.871
 cri,eco_isic3_j,ocu_isco88_4,2008,17.546
 cri,eco_isic3_j,ocu_isco88_4,2009,18.821
 cri,eco_isic3_j,ocu_isco88_4,2010,18.909
+cri,eco_isic3_j,ocu_isco88_5,2001,0.493
 cri,eco_isic3_j,ocu_isco88_5,2002,0.721
 cri,eco_isic3_j,ocu_isco88_5,2003,0.671
 cri,eco_isic3_j,ocu_isco88_5,2004,1.669
@@ -2617,6 +2642,7 @@ cri,eco_isic3_j,ocu_isco88_5,2007,0.486
 cri,eco_isic3_j,ocu_isco88_5,2008,1.094
 cri,eco_isic3_j,ocu_isco88_5,2009,1.673
 cri,eco_isic3_j,ocu_isco88_5,2010,0.921
+cri,eco_isic3_j,ocu_isco88_8,2001,0.558
 cri,eco_isic3_j,ocu_isco88_8,2002,0.999
 cri,eco_isic3_j,ocu_isco88_8,2003,1.444
 cri,eco_isic3_j,ocu_isco88_8,2004,1.377
@@ -2644,6 +2670,7 @@ cri,eco_isic3_j,ocu_isco88_total,2007,49.472
 cri,eco_isic3_j,ocu_isco88_total,2008,53.339
 cri,eco_isic3_j,ocu_isco88_total,2009,49.04
 cri,eco_isic3_j,ocu_isco88_total,2010,50.893
+cri,eco_isic3_j,ocu_isco88_x,2001,0.075
 cri,eco_isic3_j,ocu_isco88_x,2002,0.624
 cri,eco_isic3_j,ocu_skill_l1,2001,0.956
 cri,eco_isic3_j,ocu_skill_l1,2002,0.75
@@ -2684,6 +2711,7 @@ cri,eco_isic3_j,ocu_skill_total,2007,49.472
 cri,eco_isic3_j,ocu_skill_total,2008,53.339
 cri,eco_isic3_j,ocu_skill_total,2009,49.04
 cri,eco_isic3_j,ocu_skill_total,2010,50.893
+cri,eco_isic3_j,ocu_skill_x,2001,0.075
 cri,eco_isic3_j,ocu_skill_x,2002,0.624
 cri,eco_isic3_k,ocu_isco88_1,2001,1.204
 cri,eco_isic3_k,ocu_isco88_1,2002,1.326
@@ -2778,6 +2806,7 @@ cri,eco_isic3_k,ocu_isco88_total,2007,120.98
 cri,eco_isic3_k,ocu_isco88_total,2008,137.02
 cri,eco_isic3_k,ocu_isco88_total,2009,130.278
 cri,eco_isic3_k,ocu_isco88_total,2010,134.298
+cri,eco_isic3_k,ocu_isco88_x,2001,0.057
 cri,eco_isic3_k,ocu_skill_l1,2001,22.055
 cri,eco_isic3_k,ocu_skill_l1,2002,23.89
 cri,eco_isic3_k,ocu_skill_l1,2003,19.429
@@ -2818,6 +2847,7 @@ cri,eco_isic3_k,ocu_skill_total,2007,120.98
 cri,eco_isic3_k,ocu_skill_total,2008,137.02
 cri,eco_isic3_k,ocu_skill_total,2009,130.278
 cri,eco_isic3_k,ocu_skill_total,2010,134.298
+cri,eco_isic3_k,ocu_skill_x,2001,0.057
 cri,eco_isic3_l,ocu_isco88_1,2001,5.839
 cri,eco_isic3_l,ocu_isco88_1,2002,2.728
 cri,eco_isic3_l,ocu_isco88_1,2003,3.759
@@ -2909,6 +2939,7 @@ cri,eco_isic3_l,ocu_isco88_total,2007,88.604
 cri,eco_isic3_l,ocu_isco88_total,2008,93.762
 cri,eco_isic3_l,ocu_isco88_total,2009,112.744
 cri,eco_isic3_l,ocu_isco88_total,2010,98.616
+cri,eco_isic3_l,ocu_isco88_x,2001,0.101
 cri,eco_isic3_l,ocu_isco88_x,2002,0.757
 cri,eco_isic3_l,ocu_isco88_x,2009,0.076
 cri,eco_isic3_l,ocu_skill_l1,2001,5.773
@@ -2951,6 +2982,7 @@ cri,eco_isic3_l,ocu_skill_total,2007,88.604
 cri,eco_isic3_l,ocu_skill_total,2008,93.762
 cri,eco_isic3_l,ocu_skill_total,2009,112.744
 cri,eco_isic3_l,ocu_skill_total,2010,98.616
+cri,eco_isic3_l,ocu_skill_x,2001,0.101
 cri,eco_isic3_l,ocu_skill_x,2002,0.757
 cri,eco_isic3_l,ocu_skill_x,2009,0.076
 cri,eco_isic3_m,ocu_isco88_1,2001,3.168
@@ -3003,6 +3035,7 @@ cri,eco_isic3_m,ocu_isco88_5,2007,5.118
 cri,eco_isic3_m,ocu_isco88_5,2008,6.135
 cri,eco_isic3_m,ocu_isco88_5,2009,5.765
 cri,eco_isic3_m,ocu_isco88_5,2010,12.946
+cri,eco_isic3_m,ocu_isco88_6,2001,0.213
 cri,eco_isic3_m,ocu_isco88_6,2007,0.533
 cri,eco_isic3_m,ocu_isco88_6,2009,0.23
 cri,eco_isic3_m,ocu_isco88_7,2001,0.944
@@ -3129,6 +3162,7 @@ cri,eco_isic3_n,ocu_isco88_5,2007,5.896
 cri,eco_isic3_n,ocu_isco88_5,2008,7.834
 cri,eco_isic3_n,ocu_isco88_5,2009,8.305
 cri,eco_isic3_n,ocu_isco88_5,2010,7.744
+cri,eco_isic3_n,ocu_isco88_6,2001,0.15
 cri,eco_isic3_n,ocu_isco88_7,2001,0.947
 cri,eco_isic3_n,ocu_isco88_7,2002,0.591
 cri,eco_isic3_n,ocu_isco88_7,2003,0.632
@@ -3169,6 +3203,7 @@ cri,eco_isic3_n,ocu_isco88_total,2007,64.013
 cri,eco_isic3_n,ocu_isco88_total,2008,64.671
 cri,eco_isic3_n,ocu_isco88_total,2009,72.881
 cri,eco_isic3_n,ocu_isco88_total,2010,70.721
+cri,eco_isic3_n,ocu_isco88_x,2001,0.161
 cri,eco_isic3_n,ocu_skill_l1,2001,4.88
 cri,eco_isic3_n,ocu_skill_l1,2002,3.343
 cri,eco_isic3_n,ocu_skill_l1,2003,4.036
@@ -3209,6 +3244,7 @@ cri,eco_isic3_n,ocu_skill_total,2007,64.013
 cri,eco_isic3_n,ocu_skill_total,2008,64.671
 cri,eco_isic3_n,ocu_skill_total,2009,72.881
 cri,eco_isic3_n,ocu_skill_total,2010,70.721
+cri,eco_isic3_n,ocu_skill_x,2001,0.161
 cri,eco_isic3_o,ocu_isco88_1,2001,1.389
 cri,eco_isic3_o,ocu_isco88_1,2002,0.88
 cri,eco_isic3_o,ocu_isco88_1,2003,1.279
@@ -3371,6 +3407,7 @@ cri,eco_isic3_p,ocu_isco88_6,2009,3.378
 cri,eco_isic3_p,ocu_isco88_6,2010,3.116
 cri,eco_isic3_p,ocu_isco88_7,2008,0.688
 cri,eco_isic3_p,ocu_isco88_7,2010,0.539
+cri,eco_isic3_p,ocu_isco88_8,2001,0.397
 cri,eco_isic3_p,ocu_isco88_8,2002,0.777
 cri,eco_isic3_p,ocu_isco88_8,2006,0.937
 cri,eco_isic3_p,ocu_isco88_8,2007,0.689
@@ -3426,10 +3463,14 @@ cri,eco_isic3_p,ocu_skill_total,2007,128.013
 cri,eco_isic3_p,ocu_skill_total,2008,117.592
 cri,eco_isic3_p,ocu_skill_total,2009,122.599
 cri,eco_isic3_p,ocu_skill_total,2010,133.947
+cri,eco_isic3_q,ocu_isco88_1,2001,0.322
 cri,eco_isic3_q,ocu_isco88_2,2001,0.966
 cri,eco_isic3_q,ocu_isco88_2,2003,0.87
 cri,eco_isic3_q,ocu_isco88_2,2006,1.292
+cri,eco_isic3_q,ocu_isco88_3,2001,0.322
 cri,eco_isic3_q,ocu_isco88_3,2004,0.833
+cri,eco_isic3_q,ocu_isco88_4,2001,0.075
+cri,eco_isic3_q,ocu_isco88_8,2001,0.321
 cri,eco_isic3_q,ocu_isco88_total,2001,2.167
 cri,eco_isic3_q,ocu_isco88_total,2002,2.775
 cri,eco_isic3_q,ocu_isco88_total,2003,2.383
@@ -3438,6 +3479,8 @@ cri,eco_isic3_q,ocu_isco88_total,2005,2.006
 cri,eco_isic3_q,ocu_isco88_total,2006,2.601
 cri,eco_isic3_q,ocu_isco88_total,2007,1.121
 cri,eco_isic3_q,ocu_isco88_total,2010,2.285
+cri,eco_isic3_q,ocu_isco88_x,2001,0.161
+cri,eco_isic3_q,ocu_skill_l2,2001,0.396
 cri,eco_isic3_q,ocu_skill_l2,2002,1.162
 cri,eco_isic3_q,ocu_skill_l2,2003,0.829
 cri,eco_isic3_q,ocu_skill_l2,2004,1.405
@@ -3457,6 +3500,7 @@ cri,eco_isic3_q,ocu_skill_total,2005,2.006
 cri,eco_isic3_q,ocu_skill_total,2006,2.601
 cri,eco_isic3_q,ocu_skill_total,2007,1.121
 cri,eco_isic3_q,ocu_skill_total,2010,2.285
+cri,eco_isic3_q,ocu_skill_x,2001,0.161
 cri,eco_isic3_total,ocu_isco88_1,2001,37.09
 cri,eco_isic3_total,ocu_isco88_1,2002,36.118
 cri,eco_isic3_total,ocu_isco88_1,2003,40.313
@@ -3617,8 +3661,10 @@ cri,eco_isic3_total,ocu_skill_x,2007,5.178
 cri,eco_isic3_total,ocu_skill_x,2008,5.65
 cri,eco_isic3_total,ocu_skill_x,2009,2.315
 cri,eco_isic3_total,ocu_skill_x,2010,11.341
+cri,eco_isic3_x,ocu_isco88_1,2001,0.15
 cri,eco_isic3_x,ocu_isco88_1,2004,0.757
 cri,eco_isic3_x,ocu_isco88_1,2009,0.661
+cri,eco_isic3_x,ocu_isco88_2,2001,0.311
 cri,eco_isic3_x,ocu_isco88_2,2003,1.204
 cri,eco_isic3_x,ocu_isco88_2,2005,0.782
 cri,eco_isic3_x,ocu_isco88_2,2007,1.143
@@ -3639,7 +3685,9 @@ cri,eco_isic3_x,ocu_isco88_4,2007,1.367
 cri,eco_isic3_x,ocu_isco88_4,2008,1.51
 cri,eco_isic3_x,ocu_isco88_4,2009,1.78
 cri,eco_isic3_x,ocu_isco88_4,2010,1.084
+cri,eco_isic3_x,ocu_isco88_5,2001,0.192
 cri,eco_isic3_x,ocu_isco88_5,2009,0.185
+cri,eco_isic3_x,ocu_isco88_7,2001,0.236
 cri,eco_isic3_x,ocu_isco88_7,2008,0.349
 cri,eco_isic3_x,ocu_isco88_7,2009,0.076
 cri,eco_isic3_x,ocu_isco88_8,2005,1.034
@@ -4971,8 +5019,10 @@ cri,eco_sector_total,ocu_skill_x,2016,5.333
 cri,eco_sector_total,ocu_skill_x,2017,18.736
 cri,eco_sector_total,ocu_skill_x,2018,16.198
 cri,eco_sector_total,ocu_skill_x,2019,10.674
+cri,eco_sector_x,ocu_isco88_1,2001,0.15
 cri,eco_sector_x,ocu_isco88_1,2004,0.757
 cri,eco_sector_x,ocu_isco88_1,2009,0.661
+cri,eco_sector_x,ocu_isco88_2,2001,0.311
 cri,eco_sector_x,ocu_isco88_2,2003,1.204
 cri,eco_sector_x,ocu_isco88_2,2005,0.782
 cri,eco_sector_x,ocu_isco88_2,2007,1.143
@@ -4993,7 +5043,9 @@ cri,eco_sector_x,ocu_isco88_4,2007,1.367
 cri,eco_sector_x,ocu_isco88_4,2008,1.51
 cri,eco_sector_x,ocu_isco88_4,2009,1.78
 cri,eco_sector_x,ocu_isco88_4,2010,1.084
+cri,eco_sector_x,ocu_isco88_5,2001,0.192
 cri,eco_sector_x,ocu_isco88_5,2009,0.185
+cri,eco_sector_x,ocu_isco88_7,2001,0.236
 cri,eco_sector_x,ocu_isco88_7,2008,0.349
 cri,eco_sector_x,ocu_isco88_7,2009,0.076
 cri,eco_sector_x,ocu_isco88_8,2005,1.034

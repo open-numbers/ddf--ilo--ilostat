@@ -1,4 +1,5 @@
 ref_area,sex,classif1,time,ees_tees_sex_eco_nb
+kos,sex_f,eco_aggregate_agr,2012,0.043
 kos,sex_f,eco_aggregate_agr,2014,0.091
 kos,sex_f,eco_aggregate_agr,2015,0.021
 kos,sex_f,eco_aggregate_agr,2016,0.06
@@ -47,6 +48,8 @@ kos,sex_f,eco_aggregate_total,2016,58.213
 kos,sex_f,eco_aggregate_total,2017,59.527
 kos,sex_f,eco_aggregate_total,2018,59.656
 kos,sex_f,eco_aggregate_total,2019,69.298
+kos,sex_f,eco_aggregate_x,2012,0.141
+kos,sex_f,eco_isic4_a,2012,0.043
 kos,sex_f,eco_isic4_a,2014,0.091
 kos,sex_f,eco_isic4_a,2015,0.021
 kos,sex_f,eco_isic4_a,2016,0.06
@@ -58,6 +61,7 @@ kos,sex_f,eco_isic4_b,2014,0.216
 kos,sex_f,eco_isic4_b,2015,0.024
 kos,sex_f,eco_isic4_b,2017,0.165
 kos,sex_f,eco_isic4_b,2018,0.069
+kos,sex_f,eco_isic4_b,2019,0.015
 kos,sex_f,eco_isic4_c,2012,4.497
 kos,sex_f,eco_isic4_c,2014,3.568
 kos,sex_f,eco_isic4_c,2015,2.686
@@ -121,11 +125,13 @@ kos,sex_f,eco_isic4_k,2016,2.1
 kos,sex_f,eco_isic4_k,2017,2.039
 kos,sex_f,eco_isic4_k,2018,2.398
 kos,sex_f,eco_isic4_k,2019,1.779
+kos,sex_f,eco_isic4_l,2012,0.134
 kos,sex_f,eco_isic4_l,2014,0.131
 kos,sex_f,eco_isic4_l,2015,0.061
 kos,sex_f,eco_isic4_l,2016,0.026
 kos,sex_f,eco_isic4_l,2017,0.082
 kos,sex_f,eco_isic4_l,2018,0
+kos,sex_f,eco_isic4_l,2019,0.118
 kos,sex_f,eco_isic4_m,2012,1.16
 kos,sex_f,eco_isic4_m,2014,1.521
 kos,sex_f,eco_isic4_m,2015,1.275
@@ -196,8 +202,10 @@ kos,sex_f,eco_isic4_u,2016,0.955
 kos,sex_f,eco_isic4_u,2017,1.895
 kos,sex_f,eco_isic4_u,2018,1.456
 kos,sex_f,eco_isic4_u,2019,0.487
+kos,sex_f,eco_isic4_x,2012,0.141
 kos,sex_f,eco_isic4_x,2017,0
 kos,sex_f,eco_isic4_x,2018,0
+kos,sex_f,eco_sector_agr,2012,0.043
 kos,sex_f,eco_sector_agr,2014,0.091
 kos,sex_f,eco_sector_agr,2015,0.021
 kos,sex_f,eco_sector_agr,2016,0.06
@@ -211,6 +219,7 @@ kos,sex_f,eco_sector_ind,2016,3.94
 kos,sex_f,eco_sector_ind,2017,5.419
 kos,sex_f,eco_sector_ind,2018,4.938
 kos,sex_f,eco_sector_ind,2019,5.046
+kos,sex_f,eco_sector_nag,2012,56.294
 kos,sex_f,eco_sector_nag,2014,59.373
 kos,sex_f,eco_sector_nag,2015,53.348
 kos,sex_f,eco_sector_nag,2016,58.153
@@ -231,6 +240,7 @@ kos,sex_f,eco_sector_total,2016,58.213
 kos,sex_f,eco_sector_total,2017,59.527
 kos,sex_f,eco_sector_total,2018,59.656
 kos,sex_f,eco_sector_total,2019,69.298
+kos,sex_f,eco_sector_x,2012,0.141
 kos,sex_m,eco_aggregate_agr,2012,1.773
 kos,sex_m,eco_aggregate_agr,2014,1.288
 kos,sex_m,eco_aggregate_agr,2015,1.454

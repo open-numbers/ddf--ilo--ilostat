@@ -3374,6 +3374,7 @@ brb,sex_f,cat_une_total,2016,6.194
 brb,sex_f,cat_une_total,2017,6.125
 brb,sex_f,cat_une_total,2018,5.831
 brb,sex_f,cat_une_total,2019,4.912
+brb,sex_f,cat_une_unk,2015,0.019
 brb,sex_m,cat_une_fjs,1981,0.7
 brb,sex_m,cat_une_fjs,1982,1
 brb,sex_m,cat_une_fjs,1983,1.1
@@ -3464,6 +3465,7 @@ brb,sex_m,cat_une_total,2016,5.756
 brb,sex_m,cat_une_total,2017,6.119
 brb,sex_m,cat_une_total,2018,5.799
 brb,sex_m,cat_une_total,2019,6.566
+brb,sex_m,cat_une_unk,2015,0.082
 brb,sex_t,cat_une_fjs,1981,2.4
 brb,sex_t,cat_une_fjs,1982,3
 brb,sex_t,cat_une_fjs,1983,3.8
@@ -4993,6 +4995,7 @@ cmr,sex_f,cat_une_pre,2014,75.361
 cmr,sex_f,cat_une_total,2007,146.967
 cmr,sex_f,cat_une_total,2010,196.436
 cmr,sex_f,cat_une_total,2014,171.977
+cmr,sex_f,cat_une_unk,2007,0.298
 cmr,sex_m,cat_une_fjs,2007,45.271
 cmr,sex_m,cat_une_fjs,2010,80.607
 cmr,sex_m,cat_une_fjs,2014,59.924
@@ -5002,6 +5005,7 @@ cmr,sex_m,cat_une_pre,2014,77.081
 cmr,sex_m,cat_une_total,2007,111.914
 cmr,sex_m,cat_une_total,2010,146.324
 cmr,sex_m,cat_une_total,2014,137.005
+cmr,sex_m,cat_une_unk,2007,0.671
 cmr,sex_t,cat_une_fjs,1978,28.726
 cmr,sex_t,cat_une_fjs,1979,31.352
 cmr,sex_t,cat_une_fjs,1980,27.753
@@ -5029,7 +5033,11 @@ cmr,sex_t,cat_une_total,1987,18.184
 cmr,sex_t,cat_une_total,2007,258.881
 cmr,sex_t,cat_une_total,2010,342.76
 cmr,sex_t,cat_une_total,2014,308.982
+cmr,sex_t,cat_une_unk,2007,0.969
+cok,sex_f,cat_une_fjs,2019,0.023
+cok,sex_f,cat_une_pre,2019,0.01
 cok,sex_f,cat_une_total,2019,0.034
+cok,sex_m,cat_une_fjs,2019,0.015
 cok,sex_m,cat_une_pre,2019,0.053
 cok,sex_m,cat_une_total,2019,0.068
 cok,sex_t,cat_une_fjs,2019,0.039
@@ -10965,6 +10973,7 @@ gtm,sex_m,cat_une_total,2014,94.962
 gtm,sex_m,cat_une_total,2015,84.54
 gtm,sex_m,cat_une_total,2016,91.487
 gtm,sex_m,cat_une_total,2017,87.298
+gtm,sex_m,cat_une_unk,2003,0.253
 gtm,sex_m,cat_une_unk,2004,0.623
 gtm,sex_t,cat_une_fjs,1981,11.8
 gtm,sex_t,cat_une_fjs,1982,13
@@ -11017,6 +11026,7 @@ gtm,sex_t,cat_une_total,2014,169.23
 gtm,sex_t,cat_une_total,2015,160.428
 gtm,sex_t,cat_une_total,2016,171.674
 gtm,sex_t,cat_une_total,2017,168.816
+gtm,sex_t,cat_une_unk,2003,0.253
 gtm,sex_t,cat_une_unk,2004,2.78
 guf,sex_f,cat_une_fjs,1979,0.11
 guf,sex_f,cat_une_fjs,1980,0.166
@@ -14960,6 +14970,7 @@ kor,sex_f,cat_une_fjs,2016,42.806
 kor,sex_f,cat_une_fjs,2017,40.266
 kor,sex_f,cat_une_fjs,2018,34.861
 kor,sex_f,cat_une_fjs,2019,31.597
+kor,sex_f,cat_une_fjs,2020,27.802
 kor,sex_f,cat_une_pre,1977,51
 kor,sex_f,cat_une_pre,1978,56
 kor,sex_f,cat_une_pre,1979,86
@@ -15002,6 +15013,7 @@ kor,sex_f,cat_une_pre,2016,370.911
 kor,sex_f,cat_une_pre,2017,373.847
 kor,sex_f,cat_une_pre,2018,407.395
 kor,sex_f,cat_une_pre,2019,404.619
+kor,sex_f,cat_une_pre,2020,455.002
 kor,sex_f,cat_une_total,1977,119
 kor,sex_f,cat_une_total,1978,118
 kor,sex_f,cat_une_total,1979,131
@@ -15044,6 +15056,7 @@ kor,sex_f,cat_une_total,2016,413.717
 kor,sex_f,cat_une_total,2017,414.113
 kor,sex_f,cat_une_total,2018,442.256
 kor,sex_f,cat_une_total,2019,436.216
+kor,sex_f,cat_une_total,2020,482.803
 kor,sex_m,cat_une_fjs,1977,162
 kor,sex_m,cat_une_fjs,1978,111
 kor,sex_m,cat_une_fjs,1979,105
@@ -15086,6 +15099,7 @@ kor,sex_m,cat_une_fjs,2016,49.996
 kor,sex_m,cat_une_fjs,2017,57.277
 kor,sex_m,cat_une_fjs,2018,45.581
 kor,sex_m,cat_une_fjs,2019,42.175
+kor,sex_m,cat_une_fjs,2020,40.836
 kor,sex_m,cat_une_pre,1977,230
 kor,sex_m,cat_une_pre,1978,213
 kor,sex_m,cat_une_pre,1979,306
@@ -15128,6 +15142,7 @@ kor,sex_m,cat_une_pre,2016,542.109
 kor,sex_m,cat_une_pre,2017,547.247
 kor,sex_m,cat_une_pre,2018,582.697
 kor,sex_m,cat_une_pre,2019,581.353
+kor,sex_m,cat_une_pre,2020,582.113
 kor,sex_m,cat_une_total,1977,392
 kor,sex_m,cat_une_total,1978,324
 kor,sex_m,cat_une_total,1979,411
@@ -15170,6 +15185,7 @@ kor,sex_m,cat_une_total,2016,592.105
 kor,sex_m,cat_une_total,2017,604.524
 kor,sex_m,cat_une_total,2018,628.278
 kor,sex_m,cat_une_total,2019,623.527
+kor,sex_m,cat_une_total,2020,622.95
 kor,sex_t,cat_une_fjs,1977,230
 kor,sex_t,cat_une_fjs,1978,173
 kor,sex_t,cat_une_fjs,1979,150
@@ -15212,6 +15228,7 @@ kor,sex_t,cat_une_fjs,2016,92.801
 kor,sex_t,cat_une_fjs,2017,97.542
 kor,sex_t,cat_une_fjs,2018,80.442
 kor,sex_t,cat_une_fjs,2019,73.772
+kor,sex_t,cat_une_fjs,2020,68.638
 kor,sex_t,cat_une_pre,1977,281
 kor,sex_t,cat_une_pre,1978,269
 kor,sex_t,cat_une_pre,1979,392
@@ -15254,6 +15271,7 @@ kor,sex_t,cat_une_pre,2016,913.021
 kor,sex_t,cat_une_pre,2017,921.094
 kor,sex_t,cat_une_pre,2018,990.092
 kor,sex_t,cat_une_pre,2019,985.972
+kor,sex_t,cat_une_pre,2020,1037.115
 kor,sex_t,cat_une_total,1977,511
 kor,sex_t,cat_une_total,1978,442
 kor,sex_t,cat_une_total,1979,542
@@ -15296,6 +15314,7 @@ kor,sex_t,cat_une_total,2016,1005.822
 kor,sex_t,cat_une_total,2017,1018.636
 kor,sex_t,cat_une_total,2018,1070.534
 kor,sex_t,cat_une_total,2019,1059.743
+kor,sex_t,cat_une_total,2020,1105.753
 kos,sex_f,cat_une_fjs,2012,37.218
 kos,sex_f,cat_une_fjs,2014,48.273
 kos,sex_f,cat_une_fjs,2019,41.882
@@ -16884,12 +16903,14 @@ mdg,sex_t,cat_une_total,2015,200.888
 mdv,sex_f,cat_une_fjs,2016,0.807
 mdv,sex_f,cat_une_pre,2016,2.51
 mdv,sex_f,cat_une_total,2016,3.326
+mdv,sex_f,cat_une_unk,2016,0.008
 mdv,sex_m,cat_une_fjs,2016,1.415
 mdv,sex_m,cat_une_pre,2016,4.544
 mdv,sex_m,cat_une_total,2016,5.958
 mdv,sex_t,cat_une_fjs,2016,2.222
 mdv,sex_t,cat_une_pre,2016,7.054
 mdv,sex_t,cat_une_total,2016,9.284
+mdv,sex_t,cat_une_unk,2016,0.008
 mex,sex_f,cat_une_fjs,1993,48
 mex,sex_f,cat_une_fjs,1995,161.543
 mex,sex_f,cat_une_fjs,1996,152.513
@@ -18606,6 +18627,7 @@ ner,sex_m,cat_une_total,2011,13.304
 ner,sex_m,cat_une_total,2012,45.197
 ner,sex_m,cat_une_total,2014,20.241
 ner,sex_m,cat_une_total,2017,124.579
+ner,sex_m,cat_une_unk,2011,0.645
 ner,sex_m,cat_une_unk,2012,4.052
 ner,sex_t,cat_une_fjs,2011,11.331
 ner,sex_t,cat_une_fjs,2012,44.63
@@ -18619,6 +18641,7 @@ ner,sex_t,cat_une_total,2011,19.603
 ner,sex_t,cat_une_total,2012,78.099
 ner,sex_t,cat_une_total,2014,32.749
 ner,sex_t,cat_une_total,2017,179.054
+ner,sex_t,cat_une_unk,2011,0.645
 ner,sex_t,cat_une_unk,2012,4.052
 nga,sex_f,cat_une_fjs,2011,78.85
 nga,sex_f,cat_une_fjs,2013,529.913
@@ -25362,9 +25385,11 @@ tgo,sex_f,cat_une_total,2017,32.188
 tgo,sex_m,cat_une_fjs,2017,33.49
 tgo,sex_m,cat_une_pre,2017,16.232
 tgo,sex_m,cat_une_total,2017,50.062
+tgo,sex_m,cat_une_unk,2017,0.34
 tgo,sex_t,cat_une_fjs,2017,53.754
 tgo,sex_t,cat_une_pre,2017,28.156
 tgo,sex_t,cat_une_total,2017,82.25
+tgo,sex_t,cat_une_unk,2017,0.34
 tha,sex_f,cat_une_fjs,1974,13.4
 tha,sex_f,cat_une_fjs,1975,18.5
 tha,sex_f,cat_une_fjs,1976,24.5
@@ -25916,21 +25941,25 @@ tjk,sex_t,cat_une_total,2006,46.5
 tjk,sex_t,cat_une_total,2007,51.7
 tls,sex_f,cat_une_fjs,2010,3.428
 tls,sex_f,cat_une_fjs,2013,7.236
+tls,sex_f,cat_une_pre,2010,0.121
 tls,sex_f,cat_une_pre,2013,0.456
 tls,sex_f,cat_une_total,2010,3.549
 tls,sex_f,cat_une_total,2013,7.735
+tls,sex_f,cat_une_unk,2013,0.043
 tls,sex_m,cat_une_fjs,2010,4.702
 tls,sex_m,cat_une_fjs,2013,13.535
 tls,sex_m,cat_une_pre,2010,0.364
 tls,sex_m,cat_une_pre,2013,2.141
 tls,sex_m,cat_une_total,2010,5.066
 tls,sex_m,cat_une_total,2013,15.687
+tls,sex_m,cat_une_unk,2013,0.011
 tls,sex_t,cat_une_fjs,2010,8.13
 tls,sex_t,cat_une_fjs,2013,20.771
 tls,sex_t,cat_une_pre,2010,0.485
 tls,sex_t,cat_une_pre,2013,2.597
 tls,sex_t,cat_une_total,2010,8.615
 tls,sex_t,cat_une_total,2013,23.422
+tls,sex_t,cat_une_unk,2013,0.054
 ton,sex_f,cat_une_fjs,2018,0.316
 ton,sex_f,cat_une_pre,2018,0.154
 ton,sex_f,cat_une_total,2018,0.469
@@ -26524,6 +26553,7 @@ uga,sex_f,cat_une_unk,2012,6.519
 uga,sex_m,cat_une_fjs,2012,67.168
 uga,sex_m,cat_une_pre,2012,94.347
 uga,sex_m,cat_une_total,2012,164.431
+uga,sex_m,cat_une_unk,2012,2.916
 uga,sex_t,cat_une_fjs,2012,147.694
 uga,sex_t,cat_une_pre,2012,233.209
 uga,sex_t,cat_une_total,2012,390.337
@@ -27142,6 +27172,7 @@ usa,sex_f,cat_une_fjs,2016,395.444
 usa,sex_f,cat_une_fjs,2017,329.728
 usa,sex_f,cat_une_fjs,2018,287.423
 usa,sex_f,cat_une_fjs,2019,271.257
+usa,sex_f,cat_une_fjs,2020,248.993
 usa,sex_f,cat_une_pre,1969,1185
 usa,sex_f,cat_une_pre,1970,1574
 usa,sex_f,cat_une_pre,1971,1885
@@ -27193,6 +27224,7 @@ usa,sex_f,cat_une_pre,2016,2765.02
 usa,sex_f,cat_une_pre,2017,2510.469
 usa,sex_f,cat_une_pre,2018,2275.692
 usa,sex_f,cat_une_pre,2019,2159.263
+usa,sex_f,cat_une_pre,2020,2758.212
 usa,sex_f,cat_une_total,1969,1428
 usa,sex_f,cat_une_total,1970,1855
 usa,sex_f,cat_une_total,1971,2227
@@ -27244,6 +27276,7 @@ usa,sex_f,cat_une_total,2016,3564.441
 usa,sex_f,cat_une_total,2017,3238.992
 usa,sex_f,cat_une_total,2018,2915.844
 usa,sex_f,cat_une_total,2019,2773.933
+usa,sex_f,cat_une_total,2020,6303.841
 usa,sex_f,cat_une_unk,1994,356.722
 usa,sex_f,cat_une_unk,1995,376.73
 usa,sex_f,cat_une_unk,1996,367.373
@@ -27270,6 +27303,7 @@ usa,sex_f,cat_une_unk,2016,403.976
 usa,sex_f,cat_une_unk,2017,398.795
 usa,sex_f,cat_une_unk,2018,352.729
 usa,sex_f,cat_une_unk,2019,343.413
+usa,sex_f,cat_une_unk,2020,3296.636
 usa,sex_m,cat_une_fjs,1969,170
 usa,sex_m,cat_une_fjs,1970,226
 usa,sex_m,cat_une_fjs,1971,291
@@ -27321,6 +27355,7 @@ usa,sex_m,cat_une_fjs,2016,437.009
 usa,sex_m,cat_une_fjs,2017,363.333
 usa,sex_m,cat_une_fjs,2018,318.261
 usa,sex_m,cat_une_fjs,2019,323.437
+usa,sex_m,cat_une_fjs,2020,282.03
 usa,sex_m,cat_une_pre,1969,1233
 usa,sex_m,cat_une_pre,1970,2012
 usa,sex_m,cat_une_pre,1971,2498
@@ -27372,6 +27407,7 @@ usa,sex_m,cat_une_pre,2016,3190.217
 usa,sex_m,cat_une_pre,2017,2824.709
 usa,sex_m,cat_une_pre,2018,2580.704
 usa,sex_m,cat_une_pre,2019,2426.655
+usa,sex_m,cat_une_pre,2020,3289.869
 usa,sex_m,cat_une_total,1969,1403
 usa,sex_m,cat_une_total,1970,2238
 usa,sex_m,cat_une_total,1971,2789
@@ -27423,6 +27459,7 @@ usa,sex_m,cat_une_total,2016,4186.629
 usa,sex_m,cat_une_total,2017,3743.284
 usa,sex_m,cat_une_total,2018,3398.028
 usa,sex_m,cat_une_total,2019,3226.597
+usa,sex_m,cat_une_total,2020,6643.639
 usa,sex_m,cat_une_unk,1994,621.892
 usa,sex_m,cat_une_unk,1995,641.689
 usa,sex_m,cat_une_unk,1996,652.576
@@ -27449,6 +27486,7 @@ usa,sex_m,cat_une_unk,2016,559.402
 usa,sex_m,cat_une_unk,2017,555.243
 usa,sex_m,cat_une_unk,2018,499.062
 usa,sex_m,cat_une_unk,2019,476.505
+usa,sex_m,cat_une_unk,2020,3071.739
 usa,sex_t,cat_une_fjs,1969,414
 usa,sex_t,cat_une_fjs,1970,507
 usa,sex_t,cat_une_fjs,1971,633
@@ -27500,6 +27538,7 @@ usa,sex_t,cat_une_fjs,2016,832.454
 usa,sex_t,cat_une_fjs,2017,693.061
 usa,sex_t,cat_une_fjs,2018,605.684
 usa,sex_t,cat_une_fjs,2019,594.695
+usa,sex_t,cat_une_fjs,2020,531.023
 usa,sex_t,cat_une_pre,1969,2417
 usa,sex_t,cat_une_pre,1970,3586
 usa,sex_t,cat_une_pre,1971,4383
@@ -27551,6 +27590,7 @@ usa,sex_t,cat_une_pre,2016,5955.238
 usa,sex_t,cat_une_pre,2017,5335.178
 usa,sex_t,cat_une_pre,2018,4856.396
 usa,sex_t,cat_une_pre,2019,4585.917
+usa,sex_t,cat_une_pre,2020,6048.081
 usa,sex_t,cat_une_total,1969,2831
 usa,sex_t,cat_une_total,1970,4093
 usa,sex_t,cat_une_total,1971,5016
@@ -27602,6 +27642,7 @@ usa,sex_t,cat_une_total,2016,7751.07
 usa,sex_t,cat_une_total,2017,6982.276
 usa,sex_t,cat_une_total,2018,6313.871
 usa,sex_t,cat_une_total,2019,6000.531
+usa,sex_t,cat_une_total,2020,12947.479
 usa,sex_t,cat_une_unk,1994,978.614
 usa,sex_t,cat_une_unk,1995,1018.418
 usa,sex_t,cat_une_unk,1996,1019.949
@@ -27628,6 +27669,7 @@ usa,sex_t,cat_une_unk,2016,963.378
 usa,sex_t,cat_une_unk,2017,954.037
 usa,sex_t,cat_une_unk,2018,851.791
 usa,sex_t,cat_une_unk,2019,819.919
+usa,sex_t,cat_une_unk,2020,6368.375
 ven,sex_f,cat_une_fjs,1976,14.761
 ven,sex_f,cat_une_fjs,1977,12.359
 ven,sex_f,cat_une_fjs,1978,12.703
@@ -28351,9 +28393,12 @@ zmb,sex_t,cat_une_total,1990,324.399
 zwe,sex_f,cat_une_fjs,2011,70.888
 zwe,sex_f,cat_une_pre,2011,102.717
 zwe,sex_f,cat_une_total,2011,173.867
+zwe,sex_f,cat_une_unk,2011,0.262
 zwe,sex_m,cat_une_fjs,2011,51.129
 zwe,sex_m,cat_une_pre,2011,82.227
 zwe,sex_m,cat_une_total,2011,134.211
+zwe,sex_m,cat_une_unk,2011,0.855
 zwe,sex_t,cat_une_fjs,2011,122.017
 zwe,sex_t,cat_une_pre,2011,184.944
 zwe,sex_t,cat_une_total,2011,308.078
+zwe,sex_t,cat_une_unk,2011,1.117

@@ -13,6 +13,7 @@ ner,sex_f,eco_aggregate_pub,2017,61.13
 ner,sex_f,eco_aggregate_total,2011,231.324
 ner,sex_f,eco_aggregate_total,2012,75.966
 ner,sex_f,eco_aggregate_total,2017,85.841
+ner,sex_f,eco_aggregate_x,2011,0.215
 ner,sex_f,eco_isic4_a,2011,138.976
 ner,sex_f,eco_isic4_a,2017,2.844
 ner,sex_f,eco_isic4_c,2011,11.724
@@ -21,10 +22,13 @@ ner,sex_f,eco_isic4_c,2017,7.429
 ner,sex_f,eco_isic4_g,2011,1.808
 ner,sex_f,eco_isic4_g,2012,2.878
 ner,sex_f,eco_isic4_g,2017,3.19
+ner,sex_f,eco_isic4_h,2011,0.302
 ner,sex_f,eco_isic4_h,2012,0.671
+ner,sex_f,eco_isic4_i,2011,0.394
 ner,sex_f,eco_isic4_i,2012,0.933
 ner,sex_f,eco_isic4_j,2011,1.678
 ner,sex_f,eco_isic4_j,2012,1.895
+ner,sex_f,eco_isic4_k,2011,0.934
 ner,sex_f,eco_isic4_k,2012,0.65
 ner,sex_f,eco_isic4_k,2017,1.422
 ner,sex_f,eco_isic4_m,2012,0.977
@@ -49,7 +53,9 @@ ner,sex_f,eco_isic4_t,2017,1.55
 ner,sex_f,eco_isic4_total,2011,231.324
 ner,sex_f,eco_isic4_total,2012,75.966
 ner,sex_f,eco_isic4_total,2017,85.841
+ner,sex_f,eco_isic4_u,2011,0.771
 ner,sex_f,eco_isic4_u,2012,1.582
+ner,sex_f,eco_isic4_x,2011,0.215
 ner,sex_f,eco_sector_agr,2011,138.976
 ner,sex_f,eco_sector_agr,2017,2.844
 ner,sex_f,eco_sector_ind,2011,11.724
@@ -63,6 +69,7 @@ ner,sex_f,eco_sector_ser,2017,73.694
 ner,sex_f,eco_sector_total,2011,231.324
 ner,sex_f,eco_sector_total,2012,75.966
 ner,sex_f,eco_sector_total,2017,85.841
+ner,sex_f,eco_sector_x,2011,0.215
 ner,sex_m,eco_aggregate_agr,2011,110.943
 ner,sex_m,eco_aggregate_agr,2012,14.277
 ner,sex_m,eco_aggregate_agr,2017,67.868
@@ -94,8 +101,10 @@ ner,sex_m,eco_isic4_b,2017,10.117
 ner,sex_m,eco_isic4_c,2011,28.432
 ner,sex_m,eco_isic4_c,2012,33.456
 ner,sex_m,eco_isic4_c,2017,32.8
+ner,sex_m,eco_isic4_d,2011,0.82
 ner,sex_m,eco_isic4_d,2012,1.511
 ner,sex_m,eco_isic4_d,2017,1.58
+ner,sex_m,eco_isic4_e,2011,0.841
 ner,sex_m,eco_isic4_e,2012,1.209
 ner,sex_m,eco_isic4_e,2017,3.499
 ner,sex_m,eco_isic4_f,2011,13.165
@@ -107,6 +116,7 @@ ner,sex_m,eco_isic4_g,2017,39.172
 ner,sex_m,eco_isic4_h,2011,34.201
 ner,sex_m,eco_isic4_h,2012,35.274
 ner,sex_m,eco_isic4_h,2017,30.087
+ner,sex_m,eco_isic4_i,2011,0.968
 ner,sex_m,eco_isic4_i,2012,3.146
 ner,sex_m,eco_isic4_i,2017,3.045
 ner,sex_m,eco_isic4_j,2011,4.604
@@ -115,6 +125,7 @@ ner,sex_m,eco_isic4_j,2017,3.973
 ner,sex_m,eco_isic4_k,2011,5.791
 ner,sex_m,eco_isic4_k,2012,4.417
 ner,sex_m,eco_isic4_k,2017,4.773
+ner,sex_m,eco_isic4_l,2011,1.445
 ner,sex_m,eco_isic4_m,2012,4.67
 ner,sex_m,eco_isic4_m,2017,8.564
 ner,sex_m,eco_isic4_n,2011,12.626
@@ -194,6 +205,7 @@ ner,sex_t,eco_aggregate_total,2010,70.608
 ner,sex_t,eco_aggregate_total,2011,597.988
 ner,sex_t,eco_aggregate_total,2012,406.133
 ner,sex_t,eco_aggregate_total,2017,458.006
+ner,sex_t,eco_aggregate_x,2011,0.215
 ner,sex_t,eco_aggregate_x,2017,2.189
 ner,sex_t,eco_isic4_a,2009,1.456
 ner,sex_t,eco_isic4_a,2010,1.855
@@ -212,8 +224,10 @@ ner,sex_t,eco_isic4_c,2012,45.9
 ner,sex_t,eco_isic4_c,2017,40.229
 ner,sex_t,eco_isic4_d,2009,3.863
 ner,sex_t,eco_isic4_d,2010,6.995
+ner,sex_t,eco_isic4_d,2011,0.82
 ner,sex_t,eco_isic4_d,2012,1.511
 ner,sex_t,eco_isic4_d,2017,1.58
+ner,sex_t,eco_isic4_e,2011,0.841
 ner,sex_t,eco_isic4_e,2012,1.209
 ner,sex_t,eco_isic4_e,2017,4.153
 ner,sex_t,eco_isic4_f,2009,8.979
@@ -242,6 +256,7 @@ ner,sex_t,eco_isic4_k,2010,4.783
 ner,sex_t,eco_isic4_k,2011,6.725
 ner,sex_t,eco_isic4_k,2012,5.067
 ner,sex_t,eco_isic4_k,2017,6.195
+ner,sex_t,eco_isic4_l,2011,1.445
 ner,sex_t,eco_isic4_m,2012,5.647
 ner,sex_t,eco_isic4_m,2017,9.074
 ner,sex_t,eco_isic4_n,2011,14.837
@@ -273,6 +288,7 @@ ner,sex_t,eco_isic4_total,2017,458.006
 ner,sex_t,eco_isic4_u,2011,4.399
 ner,sex_t,eco_isic4_u,2012,10.147
 ner,sex_t,eco_isic4_u,2017,2.786
+ner,sex_t,eco_isic4_x,2011,0.215
 ner,sex_t,eco_isic4_x,2017,2.189
 ner,sex_t,eco_sector_agr,2009,1.456
 ner,sex_t,eco_sector_agr,2010,1.855
@@ -299,4 +315,5 @@ ner,sex_t,eco_sector_total,2010,70.608
 ner,sex_t,eco_sector_total,2011,597.988
 ner,sex_t,eco_sector_total,2012,406.133
 ner,sex_t,eco_sector_total,2017,458.006
+ner,sex_t,eco_sector_x,2011,0.215
 ner,sex_t,eco_sector_x,2017,2.189

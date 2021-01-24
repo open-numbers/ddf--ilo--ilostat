@@ -916,11 +916,16 @@ tha,eco_aggregate_x,ocu_isco08_total,2011,21.311
 tha,eco_aggregate_x,ocu_isco08_total,2012,35.31
 tha,eco_aggregate_x,ocu_isco08_x,2011,10.092
 tha,eco_aggregate_x,ocu_isco08_x,2012,18.56
+tha,eco_aggregate_x,ocu_isco88_2,2010,0.641
+tha,eco_aggregate_x,ocu_isco88_3,2010,0.18
+tha,eco_aggregate_x,ocu_isco88_total,2010,0.821
 tha,eco_aggregate_x,ocu_skill_l1,2012,0.523
 tha,eco_aggregate_x,ocu_skill_l2,2011,4.804
 tha,eco_aggregate_x,ocu_skill_l2,2012,6.695
+tha,eco_aggregate_x,ocu_skill_l3_4,2010,0.821
 tha,eco_aggregate_x,ocu_skill_l3_4,2011,6.415
 tha,eco_aggregate_x,ocu_skill_l3_4,2012,9.533
+tha,eco_aggregate_x,ocu_skill_total,2010,0.821
 tha,eco_aggregate_x,ocu_skill_total,2011,21.311
 tha,eco_aggregate_x,ocu_skill_total,2012,35.31
 tha,eco_aggregate_x,ocu_skill_x,2011,10.092
@@ -940,6 +945,7 @@ tha,eco_isic3_a,ocu_skill_l2,2010,1130.071
 tha,eco_isic3_a,ocu_skill_l3_4,2010,18.741
 tha,eco_isic3_a,ocu_skill_total,2010,2259.855
 tha,eco_isic3_b,ocu_isco88_1,2010,0.289
+tha,eco_isic3_b,ocu_isco88_2,2010,0.247
 tha,eco_isic3_b,ocu_isco88_3,2010,4.662
 tha,eco_isic3_b,ocu_isco88_4,2010,0.511
 tha,eco_isic3_b,ocu_isco88_5,2010,0.379
@@ -957,6 +963,7 @@ tha,eco_isic3_c,ocu_isco88_2,2010,0.467
 tha,eco_isic3_c,ocu_isco88_3,2010,2.201
 tha,eco_isic3_c,ocu_isco88_4,2010,4.867
 tha,eco_isic3_c,ocu_isco88_5,2010,0.63
+tha,eco_isic3_c,ocu_isco88_6,2010,0.17
 tha,eco_isic3_c,ocu_isco88_7,2010,7.959
 tha,eco_isic3_c,ocu_isco88_8,2010,14.839
 tha,eco_isic3_c,ocu_isco88_9,2010,6.004
@@ -983,6 +990,7 @@ tha,eco_isic3_e,ocu_isco88_1,2010,3.427
 tha,eco_isic3_e,ocu_isco88_2,2010,13.099
 tha,eco_isic3_e,ocu_isco88_3,2010,18.376
 tha,eco_isic3_e,ocu_isco88_4,2010,13.954
+tha,eco_isic3_e,ocu_isco88_5,2010,0.153
 tha,eco_isic3_e,ocu_isco88_6,2010,0.967
 tha,eco_isic3_e,ocu_isco88_7,2010,37.576
 tha,eco_isic3_e,ocu_isco88_8,2010,7.352
@@ -1039,6 +1047,7 @@ tha,eco_isic3_i,ocu_isco88_2,2010,24.032
 tha,eco_isic3_i,ocu_isco88_3,2010,43.425
 tha,eco_isic3_i,ocu_isco88_4,2010,105.525
 tha,eco_isic3_i,ocu_isco88_5,2010,48.64
+tha,eco_isic3_i,ocu_isco88_6,2010,0.093
 tha,eco_isic3_i,ocu_isco88_7,2010,21.958
 tha,eco_isic3_i,ocu_isco88_8,2010,206.405
 tha,eco_isic3_i,ocu_isco88_9,2010,62.162
@@ -1052,6 +1061,7 @@ tha,eco_isic3_j,ocu_isco88_2,2010,23.384
 tha,eco_isic3_j,ocu_isco88_3,2010,95.807
 tha,eco_isic3_j,ocu_isco88_4,2010,154.184
 tha,eco_isic3_j,ocu_isco88_5,2010,1.742
+tha,eco_isic3_j,ocu_isco88_6,2010,0.148
 tha,eco_isic3_j,ocu_isco88_7,2010,2.377
 tha,eco_isic3_j,ocu_isco88_8,2010,11.634
 tha,eco_isic3_j,ocu_isco88_9,2010,15.783
@@ -1130,10 +1140,12 @@ tha,eco_isic3_o,ocu_skill_l1,2010,164.455
 tha,eco_isic3_o,ocu_skill_l2,2010,138.198
 tha,eco_isic3_o,ocu_skill_l3_4,2010,74.956
 tha,eco_isic3_o,ocu_skill_total,2010,377.609
+tha,eco_isic3_p,ocu_isco88_2,2010,0.059
 tha,eco_isic3_p,ocu_isco88_3,2010,0.316
 tha,eco_isic3_p,ocu_isco88_4,2010,0.555
 tha,eco_isic3_p,ocu_isco88_5,2010,35.741
 tha,eco_isic3_p,ocu_isco88_6,2010,5.921
+tha,eco_isic3_p,ocu_isco88_7,2010,0.035
 tha,eco_isic3_p,ocu_isco88_8,2010,9.998
 tha,eco_isic3_p,ocu_isco88_9,2010,181.315
 tha,eco_isic3_p,ocu_isco88_total,2010,233.939
@@ -1145,6 +1157,8 @@ tha,eco_isic3_q,ocu_isco88_1,2010,1.026
 tha,eco_isic3_q,ocu_isco88_2,2010,3.233
 tha,eco_isic3_q,ocu_isco88_3,2010,4.816
 tha,eco_isic3_q,ocu_isco88_4,2010,3.576
+tha,eco_isic3_q,ocu_isco88_5,2010,0.119
+tha,eco_isic3_q,ocu_isco88_7,2010,0.449
 tha,eco_isic3_q,ocu_isco88_8,2010,3.444
 tha,eco_isic3_q,ocu_isco88_9,2010,10.534
 tha,eco_isic3_q,ocu_isco88_total,2010,27.197
@@ -1166,6 +1180,11 @@ tha,eco_isic3_total,ocu_skill_l1,2010,3679.583
 tha,eco_isic3_total,ocu_skill_l2,2010,9820.024
 tha,eco_isic3_total,ocu_skill_l3_4,2010,3444.127
 tha,eco_isic3_total,ocu_skill_total,2010,16943.734
+tha,eco_isic3_x,ocu_isco88_2,2010,0.641
+tha,eco_isic3_x,ocu_isco88_3,2010,0.18
+tha,eco_isic3_x,ocu_isco88_total,2010,0.821
+tha,eco_isic3_x,ocu_skill_l3_4,2010,0.821
+tha,eco_isic3_x,ocu_skill_total,2010,0.821
 tha,eco_isic4_a,ocu_isco08_0,2011,0
 tha,eco_isic4_a,ocu_isco08_0,2012,0
 tha,eco_isic4_a,ocu_isco08_1,2011,1.672
@@ -4348,11 +4367,16 @@ tha,eco_sector_x,ocu_isco08_total,2011,21.311
 tha,eco_sector_x,ocu_isco08_total,2012,35.31
 tha,eco_sector_x,ocu_isco08_x,2011,10.092
 tha,eco_sector_x,ocu_isco08_x,2012,18.56
+tha,eco_sector_x,ocu_isco88_2,2010,0.641
+tha,eco_sector_x,ocu_isco88_3,2010,0.18
+tha,eco_sector_x,ocu_isco88_total,2010,0.821
 tha,eco_sector_x,ocu_skill_l1,2012,0.523
 tha,eco_sector_x,ocu_skill_l2,2011,4.804
 tha,eco_sector_x,ocu_skill_l2,2012,6.695
+tha,eco_sector_x,ocu_skill_l3_4,2010,0.821
 tha,eco_sector_x,ocu_skill_l3_4,2011,6.415
 tha,eco_sector_x,ocu_skill_l3_4,2012,9.533
+tha,eco_sector_x,ocu_skill_total,2010,0.821
 tha,eco_sector_x,ocu_skill_total,2011,21.311
 tha,eco_sector_x,ocu_skill_total,2012,35.31
 tha,eco_sector_x,ocu_skill_x,2011,10.092

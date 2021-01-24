@@ -59,6 +59,7 @@ hnd,sex_f,eco_aggregate_mel,1990,0.08
 hnd,sex_f,eco_aggregate_mel,1991,0.042
 hnd,sex_f,eco_aggregate_mel,1999,0.102
 hnd,sex_f,eco_aggregate_mel,2005,0.317
+hnd,sex_f,eco_aggregate_mel,2008,0.072
 hnd,sex_f,eco_aggregate_mkt,1990,4.245
 hnd,sex_f,eco_aggregate_mkt,1991,3.967
 hnd,sex_f,eco_aggregate_mkt,1992,2.695
@@ -127,6 +128,7 @@ hnd,sex_f,eco_aggregate_total,2016,91.528
 hnd,sex_f,eco_aggregate_total,2017,87.773
 hnd,sex_f,eco_aggregate_x,1990,0.136
 hnd,sex_f,eco_aggregate_x,2007,0.364
+hnd,sex_f,eco_aggregate_x,2008,0.206
 hnd,sex_f,eco_aggregate_x,2009,0.598
 hnd,sex_f,eco_aggregate_x,2010,5.153
 hnd,sex_f,eco_isic2_0,1990,0.136
@@ -210,6 +212,7 @@ hnd,sex_f,eco_isic3_a,2011,2.233
 hnd,sex_f,eco_isic3_a,2012,1.368
 hnd,sex_f,eco_isic3_a,2013,4.819
 hnd,sex_f,eco_isic3_a,2014,4.884
+hnd,sex_f,eco_isic3_b,2008,0.084
 hnd,sex_f,eco_isic3_d,2005,13.658
 hnd,sex_f,eco_isic3_d,2006,7.109
 hnd,sex_f,eco_isic3_d,2007,5.836
@@ -221,6 +224,7 @@ hnd,sex_f,eco_isic3_d,2012,7.707
 hnd,sex_f,eco_isic3_d,2013,12.662
 hnd,sex_f,eco_isic3_d,2014,19.902
 hnd,sex_f,eco_isic3_e,2005,0.317
+hnd,sex_f,eco_isic3_e,2008,0.072
 hnd,sex_f,eco_isic3_f,2006,0.281
 hnd,sex_f,eco_isic3_f,2007,1.414
 hnd,sex_f,eco_isic3_f,2008,0.407
@@ -322,6 +326,7 @@ hnd,sex_f,eco_isic3_p,2011,7.627
 hnd,sex_f,eco_isic3_p,2012,4.021
 hnd,sex_f,eco_isic3_p,2013,10.261
 hnd,sex_f,eco_isic3_p,2014,14.698
+hnd,sex_f,eco_isic3_q,2008,0.062
 hnd,sex_f,eco_isic3_total,2005,42.951
 hnd,sex_f,eco_isic3_total,2006,29.135
 hnd,sex_f,eco_isic3_total,2007,29.376
@@ -333,6 +338,7 @@ hnd,sex_f,eco_isic3_total,2012,42.123
 hnd,sex_f,eco_isic3_total,2013,73.623
 hnd,sex_f,eco_isic3_total,2014,99.314
 hnd,sex_f,eco_isic3_x,2007,0.364
+hnd,sex_f,eco_isic3_x,2008,0.206
 hnd,sex_f,eco_isic3_x,2009,0.598
 hnd,sex_f,eco_isic3_x,2010,5.153
 hnd,sex_f,eco_isic4_a,2015,3.115
@@ -486,6 +492,7 @@ hnd,sex_f,eco_sector_total,2016,91.528
 hnd,sex_f,eco_sector_total,2017,87.773
 hnd,sex_f,eco_sector_x,1990,0.136
 hnd,sex_f,eco_sector_x,2007,0.364
+hnd,sex_f,eco_sector_x,2008,0.206
 hnd,sex_f,eco_sector_x,2009,0.598
 hnd,sex_f,eco_sector_x,2010,5.153
 hnd,sex_m,eco_aggregate_agr,1990,2.712
@@ -743,8 +750,10 @@ hnd,sex_m,eco_isic3_a,2013,11.628
 hnd,sex_m,eco_isic3_a,2014,12.753
 hnd,sex_m,eco_isic3_b,2005,0.483
 hnd,sex_m,eco_isic3_b,2007,0.409
+hnd,sex_m,eco_isic3_b,2008,0.16
 hnd,sex_m,eco_isic3_b,2009,0.472
 hnd,sex_m,eco_isic3_c,2006,0.391
+hnd,sex_m,eco_isic3_c,2008,0.084
 hnd,sex_m,eco_isic3_d,2005,9.248
 hnd,sex_m,eco_isic3_d,2006,8.093
 hnd,sex_m,eco_isic3_d,2007,6.758
@@ -757,6 +766,7 @@ hnd,sex_m,eco_isic3_d,2013,15.981
 hnd,sex_m,eco_isic3_d,2014,17.333
 hnd,sex_m,eco_isic3_e,2005,0.64
 hnd,sex_m,eco_isic3_e,2006,0.996
+hnd,sex_m,eco_isic3_e,2008,0.266
 hnd,sex_m,eco_isic3_e,2014,1.906
 hnd,sex_m,eco_isic3_f,2005,15.571
 hnd,sex_m,eco_isic3_f,2006,10.843
@@ -1297,8 +1307,10 @@ hnd,sex_t,eco_isic3_a,2014,17.637
 hnd,sex_t,eco_isic3_b,2005,0.483
 hnd,sex_t,eco_isic3_b,2006,0.64
 hnd,sex_t,eco_isic3_b,2007,0.579
+hnd,sex_t,eco_isic3_b,2008,0.244
 hnd,sex_t,eco_isic3_b,2009,0.633
 hnd,sex_t,eco_isic3_c,2006,0.391
+hnd,sex_t,eco_isic3_c,2008,0.084
 hnd,sex_t,eco_isic3_d,2005,22.905
 hnd,sex_t,eco_isic3_d,2006,15.203
 hnd,sex_t,eco_isic3_d,2007,12.594
@@ -1425,6 +1437,7 @@ hnd,sex_t,eco_isic3_p,2011,7.627
 hnd,sex_t,eco_isic3_p,2012,4.499
 hnd,sex_t,eco_isic3_p,2013,11.051
 hnd,sex_t,eco_isic3_p,2014,17.92
+hnd,sex_t,eco_isic3_q,2008,0.062
 hnd,sex_t,eco_isic3_total,2005,97.522
 hnd,sex_t,eco_isic3_total,2006,75.04
 hnd,sex_t,eco_isic3_total,2007,65.353

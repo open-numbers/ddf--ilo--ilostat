@@ -1,4 +1,5 @@
 ref_area,classif1,classif2,time,emp_temp_eco_ocu_nb
+dom,eco_aggregate_agr,ocu_isco08_1,2015,0.407
 dom,eco_aggregate_agr,ocu_isco08_1,2016,2.483
 dom,eco_aggregate_agr,ocu_isco08_1,2017,2.403
 dom,eco_aggregate_agr,ocu_isco08_1,2018,2.007
@@ -251,6 +252,7 @@ dom,eco_aggregate_agr,ocu_skill_total,2016,380.506
 dom,eco_aggregate_agr,ocu_skill_total,2017,419.731
 dom,eco_aggregate_agr,ocu_skill_total,2018,423.514
 dom,eco_aggregate_agr,ocu_skill_total,2019,409.394
+dom,eco_aggregate_con,ocu_isco08_1,2015,0.34
 dom,eco_aggregate_con,ocu_isco08_1,2016,0.861
 dom,eco_aggregate_con,ocu_isco08_1,2017,3.704
 dom,eco_aggregate_con,ocu_isco08_1,2018,3.14
@@ -4986,6 +4988,7 @@ dom,eco_isic3_total,ocu_skill_x,2011,37.719
 dom,eco_isic3_total,ocu_skill_x,2012,29.78
 dom,eco_isic3_total,ocu_skill_x,2013,31.243
 dom,eco_isic3_total,ocu_skill_x,2014,23.898
+dom,eco_isic4_a,ocu_isco08_1,2015,0.407
 dom,eco_isic4_a,ocu_isco08_1,2016,2.483
 dom,eco_isic4_a,ocu_isco08_1,2017,2.403
 dom,eco_isic4_a,ocu_isco08_1,2018,2.007
@@ -5054,7 +5057,9 @@ dom,eco_isic4_a,ocu_skill_total,2016,380.506
 dom,eco_isic4_a,ocu_skill_total,2017,419.731
 dom,eco_isic4_a,ocu_skill_total,2018,423.514
 dom,eco_isic4_a,ocu_skill_total,2019,409.394
+dom,eco_isic4_b,ocu_isco08_1,2015,0.541
 dom,eco_isic4_b,ocu_isco08_2,2015,1.354
+dom,eco_isic4_b,ocu_isco08_3,2015,0.405
 dom,eco_isic4_b,ocu_isco08_3,2016,0.779
 dom,eco_isic4_b,ocu_isco08_4,2015,0.98
 dom,eco_isic4_b,ocu_isco08_4,2016,1.445
@@ -5063,6 +5068,8 @@ dom,eco_isic4_b,ocu_isco08_4,2019,0.478
 dom,eco_isic4_b,ocu_isco08_5,2015,0.999
 dom,eco_isic4_b,ocu_isco08_5,2017,0.976
 dom,eco_isic4_b,ocu_isco08_5,2018,0.703
+dom,eco_isic4_b,ocu_isco08_6,2015,0.492
+dom,eco_isic4_b,ocu_isco08_7,2015,0.604
 dom,eco_isic4_b,ocu_isco08_7,2016,1.393
 dom,eco_isic4_b,ocu_isco08_8,2015,1.987
 dom,eco_isic4_b,ocu_isco08_8,2016,1.96
@@ -5164,6 +5171,7 @@ dom,eco_isic4_c,ocu_skill_total,2016,434.152
 dom,eco_isic4_c,ocu_skill_total,2017,438.977
 dom,eco_isic4_c,ocu_skill_total,2018,447.829
 dom,eco_isic4_c,ocu_skill_total,2019,470.441
+dom,eco_isic4_d,ocu_isco08_1,2015,0.314
 dom,eco_isic4_d,ocu_isco08_2,2015,2.281
 dom,eco_isic4_d,ocu_isco08_2,2016,3.23
 dom,eco_isic4_d,ocu_isco08_2,2017,4.617
@@ -5223,6 +5231,7 @@ dom,eco_isic4_d,ocu_skill_total,2016,27.161
 dom,eco_isic4_d,ocu_skill_total,2017,22.262
 dom,eco_isic4_d,ocu_skill_total,2018,24.812
 dom,eco_isic4_d,ocu_skill_total,2019,13.924
+dom,eco_isic4_e,ocu_isco08_1,2015,0.464
 dom,eco_isic4_e,ocu_isco08_2,2015,1.56
 dom,eco_isic4_e,ocu_isco08_2,2016,2.229
 dom,eco_isic4_e,ocu_isco08_2,2018,1.018
@@ -5242,6 +5251,7 @@ dom,eco_isic4_e,ocu_isco08_5,2016,2.901
 dom,eco_isic4_e,ocu_isco08_5,2017,1.987
 dom,eco_isic4_e,ocu_isco08_5,2018,2.465
 dom,eco_isic4_e,ocu_isco08_5,2019,0.52
+dom,eco_isic4_e,ocu_isco08_6,2015,0.205
 dom,eco_isic4_e,ocu_isco08_7,2015,3.574
 dom,eco_isic4_e,ocu_isco08_7,2016,6.278
 dom,eco_isic4_e,ocu_isco08_7,2017,6.386
@@ -5282,6 +5292,7 @@ dom,eco_isic4_e,ocu_skill_total,2016,46.594
 dom,eco_isic4_e,ocu_skill_total,2017,44.819
 dom,eco_isic4_e,ocu_skill_total,2018,41.109
 dom,eco_isic4_e,ocu_skill_total,2019,42.461
+dom,eco_isic4_f,ocu_isco08_1,2015,0.34
 dom,eco_isic4_f,ocu_isco08_1,2016,0.861
 dom,eco_isic4_f,ocu_isco08_1,2017,3.704
 dom,eco_isic4_f,ocu_isco08_1,2018,3.14
@@ -5436,6 +5447,7 @@ dom,eco_isic4_h,ocu_isco08_5,2016,13.29
 dom,eco_isic4_h,ocu_isco08_5,2017,8.813
 dom,eco_isic4_h,ocu_isco08_5,2018,12.244
 dom,eco_isic4_h,ocu_isco08_5,2019,11.691
+dom,eco_isic4_h,ocu_isco08_6,2015,0.109
 dom,eco_isic4_h,ocu_isco08_7,2015,1.149
 dom,eco_isic4_h,ocu_isco08_7,2016,2.725
 dom,eco_isic4_h,ocu_isco08_7,2017,1.814
@@ -5574,6 +5586,7 @@ dom,eco_isic4_j,ocu_isco08_7,2016,7.399
 dom,eco_isic4_j,ocu_isco08_7,2017,6.386
 dom,eco_isic4_j,ocu_isco08_7,2018,9.81
 dom,eco_isic4_j,ocu_isco08_7,2019,7.923
+dom,eco_isic4_j,ocu_isco08_8,2015,0.257
 dom,eco_isic4_j,ocu_isco08_8,2016,2.163
 dom,eco_isic4_j,ocu_isco08_8,2017,0.801
 dom,eco_isic4_j,ocu_isco08_8,2018,1.219
@@ -5667,6 +5680,7 @@ dom,eco_isic4_k,ocu_skill_total,2016,102.663
 dom,eco_isic4_k,ocu_skill_total,2017,97.004
 dom,eco_isic4_k,ocu_skill_total,2018,107.823
 dom,eco_isic4_k,ocu_skill_total,2019,118.305
+dom,eco_isic4_l,ocu_isco08_1,2015,0.199
 dom,eco_isic4_l,ocu_isco08_1,2016,0.708
 dom,eco_isic4_l,ocu_isco08_2,2015,1.183
 dom,eco_isic4_l,ocu_isco08_2,2019,0.677
@@ -5684,6 +5698,7 @@ dom,eco_isic4_l,ocu_isco08_5,2015,1.058
 dom,eco_isic4_l,ocu_isco08_5,2016,1.283
 dom,eco_isic4_l,ocu_isco08_5,2018,0.75
 dom,eco_isic4_l,ocu_isco08_5,2019,1.297
+dom,eco_isic4_l,ocu_isco08_7,2015,0.133
 dom,eco_isic4_l,ocu_isco08_9,2015,0.791
 dom,eco_isic4_l,ocu_isco08_9,2016,0.943
 dom,eco_isic4_l,ocu_isco08_9,2017,1.278
@@ -5740,6 +5755,7 @@ dom,eco_isic4_m,ocu_isco08_7,2016,3.522
 dom,eco_isic4_m,ocu_isco08_7,2017,1.21
 dom,eco_isic4_m,ocu_isco08_7,2018,1.845
 dom,eco_isic4_m,ocu_isco08_7,2019,3.494
+dom,eco_isic4_m,ocu_isco08_8,2015,0.305
 dom,eco_isic4_m,ocu_isco08_8,2016,0.715
 dom,eco_isic4_m,ocu_isco08_8,2017,1.166
 dom,eco_isic4_m,ocu_isco08_8,2018,0.935
@@ -5958,6 +5974,7 @@ dom,eco_isic4_p,ocu_isco08_7,2016,0.938
 dom,eco_isic4_p,ocu_isco08_7,2017,1.403
 dom,eco_isic4_p,ocu_isco08_7,2018,1.865
 dom,eco_isic4_p,ocu_isco08_7,2019,0.843
+dom,eco_isic4_p,ocu_isco08_8,2015,0.235
 dom,eco_isic4_p,ocu_isco08_8,2016,2.057
 dom,eco_isic4_p,ocu_isco08_8,2017,1.293
 dom,eco_isic4_p,ocu_isco08_8,2018,1.467
@@ -6017,6 +6034,7 @@ dom,eco_isic4_q,ocu_isco08_5,2016,15.206
 dom,eco_isic4_q,ocu_isco08_5,2017,18.125
 dom,eco_isic4_q,ocu_isco08_5,2018,18.815
 dom,eco_isic4_q,ocu_isco08_5,2019,28.286
+dom,eco_isic4_q,ocu_isco08_6,2015,0.464
 dom,eco_isic4_q,ocu_isco08_7,2015,0.736
 dom,eco_isic4_q,ocu_isco08_7,2018,0.78
 dom,eco_isic4_q,ocu_isco08_7,2019,1.657
@@ -6190,6 +6208,7 @@ dom,eco_isic4_s,ocu_skill_total,2016,276.017
 dom,eco_isic4_s,ocu_skill_total,2017,278.963
 dom,eco_isic4_s,ocu_skill_total,2018,272.69
 dom,eco_isic4_s,ocu_skill_total,2019,285.534
+dom,eco_isic4_t,ocu_isco08_3,2015,0.094
 dom,eco_isic4_t,ocu_isco08_3,2016,0.939
 dom,eco_isic4_t,ocu_isco08_5,2015,19.779
 dom,eco_isic4_t,ocu_isco08_5,2016,22.389
@@ -6199,6 +6218,7 @@ dom,eco_isic4_t,ocu_isco08_5,2019,31.117
 dom,eco_isic4_t,ocu_isco08_6,2015,1.242
 dom,eco_isic4_t,ocu_isco08_6,2017,0.801
 dom,eco_isic4_t,ocu_isco08_6,2018,0.991
+dom,eco_isic4_t,ocu_isco08_7,2015,0.425
 dom,eco_isic4_t,ocu_isco08_8,2015,4.425
 dom,eco_isic4_t,ocu_isco08_8,2016,4.387
 dom,eco_isic4_t,ocu_isco08_8,2017,7.57
@@ -6224,6 +6244,7 @@ dom,eco_isic4_t,ocu_skill_l2,2016,27.218
 dom,eco_isic4_t,ocu_skill_l2,2017,35.76
 dom,eco_isic4_t,ocu_skill_l2,2018,35.353
 dom,eco_isic4_t,ocu_skill_l2,2019,39.5
+dom,eco_isic4_t,ocu_skill_l3_4,2015,0.094
 dom,eco_isic4_t,ocu_skill_l3_4,2016,1.142
 dom,eco_isic4_t,ocu_skill_l3_4,2017,0.725
 dom,eco_isic4_t,ocu_skill_l3_4,2018,0.803
@@ -6313,11 +6334,16 @@ dom,eco_isic4_total,ocu_skill_x,2017,27.913
 dom,eco_isic4_total,ocu_skill_x,2018,28.106
 dom,eco_isic4_total,ocu_skill_x,2019,39.877
 dom,eco_isic4_u,ocu_isco08_5,2019,0.865
+dom,eco_isic4_u,ocu_isco08_8,2015,0.664
+dom,eco_isic4_u,ocu_isco08_9,2015,0.06
 dom,eco_isic4_u,ocu_isco08_total,2015,0.724
 dom,eco_isic4_u,ocu_isco08_total,2019,1.295
+dom,eco_isic4_u,ocu_skill_l1,2015,0.06
+dom,eco_isic4_u,ocu_skill_l2,2015,0.664
 dom,eco_isic4_u,ocu_skill_l2,2019,1.295
 dom,eco_isic4_u,ocu_skill_total,2015,0.724
 dom,eco_isic4_u,ocu_skill_total,2019,1.295
+dom,eco_sector_agr,ocu_isco08_1,2015,0.407
 dom,eco_sector_agr,ocu_isco08_1,2016,2.483
 dom,eco_sector_agr,ocu_isco08_1,2017,2.403
 dom,eco_sector_agr,ocu_isco08_1,2018,2.007
@@ -6842,6 +6868,7 @@ dom,eco_sector_ind,ocu_skill_total,2016,810.3
 dom,eco_sector_ind,ocu_skill_total,2017,851.369
 dom,eco_sector_ind,ocu_skill_total,2018,889.173
 dom,eco_sector_ind,ocu_skill_total,2019,877.819
+dom,eco_sector_nag,ocu_isco08_1,2015,100.9
 dom,eco_sector_nag,ocu_isco08_1,2016,98.319
 dom,eco_sector_nag,ocu_isco08_1,2017,92.021
 dom,eco_sector_nag,ocu_isco08_1,2018,92.645

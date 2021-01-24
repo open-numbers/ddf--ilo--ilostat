@@ -55,6 +55,7 @@ slv,sex_f,eco_aggregate_con,2005,0.338
 slv,sex_f,eco_aggregate_con,2006,0.121
 slv,sex_f,eco_aggregate_con,2007,0.186
 slv,sex_f,eco_aggregate_con,2009,0.348
+slv,sex_f,eco_aggregate_con,2010,0.154
 slv,sex_f,eco_aggregate_con,2011,0.794
 slv,sex_f,eco_aggregate_con,2013,0.733
 slv,sex_f,eco_aggregate_con,2015,0.285
@@ -459,6 +460,7 @@ slv,sex_f,eco_isic4_c,2017,4.982
 slv,sex_f,eco_isic4_c,2018,3.77
 slv,sex_f,eco_isic4_c,2019,5.353
 slv,sex_f,eco_isic4_f,2009,0.348
+slv,sex_f,eco_isic4_f,2010,0.154
 slv,sex_f,eco_isic4_f,2011,0.794
 slv,sex_f,eco_isic4_f,2013,0.733
 slv,sex_f,eco_isic4_f,2015,0.285
@@ -551,6 +553,7 @@ slv,sex_f,eco_isic4_q,2016,2.351
 slv,sex_f,eco_isic4_q,2017,2.307
 slv,sex_f,eco_isic4_q,2018,1.23
 slv,sex_f,eco_isic4_q,2019,2.189
+slv,sex_f,eco_isic4_r,2010,0.184
 slv,sex_f,eco_isic4_r,2011,0.262
 slv,sex_f,eco_isic4_s,2010,1.971
 slv,sex_f,eco_isic4_s,2011,1.682
@@ -886,6 +889,7 @@ slv,sex_m,eco_aggregate_mel,2005,0.484
 slv,sex_m,eco_aggregate_mel,2006,0.186
 slv,sex_m,eco_aggregate_mel,2007,0.269
 slv,sex_m,eco_aggregate_mel,2009,0.303
+slv,sex_m,eco_aggregate_mel,2010,0.233
 slv,sex_m,eco_aggregate_mel,2019,0.65
 slv,sex_m,eco_aggregate_mkt,1980,12.926
 slv,sex_m,eco_aggregate_mkt,1985,10.7
@@ -1287,7 +1291,9 @@ slv,sex_m,eco_isic4_c,2017,10.171
 slv,sex_m,eco_isic4_c,2018,6.566
 slv,sex_m,eco_isic4_c,2019,5.415
 slv,sex_m,eco_isic4_d,2009,0.263
+slv,sex_m,eco_isic4_d,2010,0.13
 slv,sex_m,eco_isic4_d,2019,0.574
+slv,sex_m,eco_isic4_e,2010,0.103
 slv,sex_m,eco_isic4_f,2009,27.106
 slv,sex_m,eco_isic4_f,2010,16.474
 slv,sex_m,eco_isic4_f,2011,16.299
@@ -1348,6 +1354,7 @@ slv,sex_m,eco_isic4_k,2017,0.784
 slv,sex_m,eco_isic4_k,2018,0.812
 slv,sex_m,eco_isic4_k,2019,1.364
 slv,sex_m,eco_isic4_l,2009,5.529
+slv,sex_m,eco_isic4_l,2010,0.126
 slv,sex_m,eco_isic4_m,2010,0.393
 slv,sex_m,eco_isic4_m,2011,0.942
 slv,sex_m,eco_isic4_m,2012,0.496
@@ -1397,6 +1404,7 @@ slv,sex_m,eco_isic4_q,2014,0.786
 slv,sex_m,eco_isic4_q,2016,0.551
 slv,sex_m,eco_isic4_q,2018,1.134
 slv,sex_m,eco_isic4_q,2019,0.23
+slv,sex_m,eco_isic4_r,2010,0.046
 slv,sex_m,eco_isic4_r,2014,0.824
 slv,sex_m,eco_isic4_r,2015,0.355
 slv,sex_m,eco_isic4_r,2017,0.435
@@ -1413,6 +1421,7 @@ slv,sex_m,eco_isic4_s,2017,1.658
 slv,sex_m,eco_isic4_s,2018,1.998
 slv,sex_m,eco_isic4_s,2019,0.295
 slv,sex_m,eco_isic4_t,2009,0.564
+slv,sex_m,eco_isic4_t,2010,0.172
 slv,sex_m,eco_isic4_total,2009,134.982
 slv,sex_m,eco_isic4_total,2010,69.813
 slv,sex_m,eco_isic4_total,2011,67.104
@@ -1727,6 +1736,7 @@ slv,sex_t,eco_aggregate_mel,2005,0.484
 slv,sex_t,eco_aggregate_mel,2006,0.235
 slv,sex_t,eco_aggregate_mel,2007,0.323
 slv,sex_t,eco_aggregate_mel,2009,0.303
+slv,sex_t,eco_aggregate_mel,2010,0.233
 slv,sex_t,eco_aggregate_mel,2013,0.475
 slv,sex_t,eco_aggregate_mel,2017,0.469
 slv,sex_t,eco_aggregate_mel,2018,0.763
@@ -2133,7 +2143,9 @@ slv,sex_t,eco_isic4_c,2017,15.153
 slv,sex_t,eco_isic4_c,2018,10.336
 slv,sex_t,eco_isic4_c,2019,10.768
 slv,sex_t,eco_isic4_d,2009,0.263
+slv,sex_t,eco_isic4_d,2010,0.13
 slv,sex_t,eco_isic4_d,2019,0.684
+slv,sex_t,eco_isic4_e,2010,0.103
 slv,sex_t,eco_isic4_e,2018,0.492
 slv,sex_t,eco_isic4_f,2009,27.454
 slv,sex_t,eco_isic4_f,2010,16.628
@@ -2199,6 +2211,7 @@ slv,sex_t,eco_isic4_k,2017,1.381
 slv,sex_t,eco_isic4_k,2018,1.854
 slv,sex_t,eco_isic4_k,2019,2.964
 slv,sex_t,eco_isic4_l,2009,10.032
+slv,sex_t,eco_isic4_l,2010,0.126
 slv,sex_t,eco_isic4_m,2010,1.783
 slv,sex_t,eco_isic4_m,2011,1.32
 slv,sex_t,eco_isic4_m,2012,1.53
@@ -2252,6 +2265,7 @@ slv,sex_t,eco_isic4_q,2016,2.902
 slv,sex_t,eco_isic4_q,2017,2.561
 slv,sex_t,eco_isic4_q,2018,2.364
 slv,sex_t,eco_isic4_q,2019,2.419
+slv,sex_t,eco_isic4_r,2010,0.23
 slv,sex_t,eco_isic4_r,2011,0.497
 slv,sex_t,eco_isic4_r,2014,0.974
 slv,sex_t,eco_isic4_r,2015,0.582

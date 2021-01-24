@@ -43,6 +43,7 @@ gtm,sex_f,age_10yrbands_y35_44,2014,1.32
 gtm,sex_f,age_10yrbands_y35_44,2015,1.08
 gtm,sex_f,age_10yrbands_y35_44,2016,1.11
 gtm,sex_f,age_10yrbands_y35_44,2017,1.39
+gtm,sex_f,age_10yrbands_y45_54,2003,0.28
 gtm,sex_f,age_10yrbands_y45_54,2004,0.3
 gtm,sex_f,age_10yrbands_y45_54,2006,0.93
 gtm,sex_f,age_10yrbands_y45_54,2010,3.26
@@ -53,10 +54,14 @@ gtm,sex_f,age_10yrbands_y45_54,2014,0.85
 gtm,sex_f,age_10yrbands_y45_54,2015,0.54
 gtm,sex_f,age_10yrbands_y45_54,2016,0.96
 gtm,sex_f,age_10yrbands_y45_54,2017,1.01
+gtm,sex_f,age_10yrbands_y55_64,2003,0.37
 gtm,sex_f,age_10yrbands_y55_64,2004,0.99
+gtm,sex_f,age_10yrbands_y55_64,2006,0.66
 gtm,sex_f,age_10yrbands_y55_64,2010,1.97
 gtm,sex_f,age_10yrbands_y55_64,2016,0.63
+gtm,sex_f,age_10yrbands_yge65,2003,0.65
 gtm,sex_f,age_10yrbands_yge65,2004,0.71
+gtm,sex_f,age_10yrbands_yge65,2006,0.29
 gtm,sex_f,age_5yrbands_total,2003,3.39
 gtm,sex_f,age_5yrbands_total,2004,3.38
 gtm,sex_f,age_5yrbands_total,2006,2.47
@@ -123,6 +128,7 @@ gtm,sex_f,age_5yrbands_y35_39,2014,1.47
 gtm,sex_f,age_5yrbands_y35_39,2015,0.78
 gtm,sex_f,age_5yrbands_y35_39,2016,1.68
 gtm,sex_f,age_5yrbands_y35_39,2017,1.35
+gtm,sex_f,age_5yrbands_y40_44,2003,0.66
 gtm,sex_f,age_5yrbands_y40_44,2004,1.72
 gtm,sex_f,age_5yrbands_y40_44,2006,0.94
 gtm,sex_f,age_5yrbands_y40_44,2010,1.1
@@ -131,6 +137,7 @@ gtm,sex_f,age_5yrbands_y40_44,2014,1.13
 gtm,sex_f,age_5yrbands_y40_44,2015,1.48
 gtm,sex_f,age_5yrbands_y40_44,2016,0.4
 gtm,sex_f,age_5yrbands_y40_44,2017,1.42
+gtm,sex_f,age_5yrbands_y45_49,2003,0.37
 gtm,sex_f,age_5yrbands_y45_49,2004,0.3
 gtm,sex_f,age_5yrbands_y45_49,2006,1.62
 gtm,sex_f,age_5yrbands_y45_49,2010,1.99
@@ -139,13 +146,20 @@ gtm,sex_f,age_5yrbands_y45_49,2014,1.13
 gtm,sex_f,age_5yrbands_y45_49,2015,0.58
 gtm,sex_f,age_5yrbands_y45_49,2016,0.87
 gtm,sex_f,age_5yrbands_y45_49,2017,1.31
+gtm,sex_f,age_5yrbands_y50_54,2003,0.18
 gtm,sex_f,age_5yrbands_y50_54,2004,0.31
+gtm,sex_f,age_5yrbands_y50_54,2006,0.16
 gtm,sex_f,age_5yrbands_y50_54,2010,4.77
 gtm,sex_f,age_5yrbands_y50_54,2017,0.64
+gtm,sex_f,age_5yrbands_y55_59,2003,0.62
 gtm,sex_f,age_5yrbands_y55_59,2004,1.21
+gtm,sex_f,age_5yrbands_y55_59,2006,1.03
 gtm,sex_f,age_5yrbands_y55_59,2010,3.51
 gtm,sex_f,age_5yrbands_y60_64,2004,0.62
+gtm,sex_f,age_5yrbands_y60_64,2006,0.08
+gtm,sex_f,age_5yrbands_yge65,2003,0.65
 gtm,sex_f,age_5yrbands_yge65,2004,0.71
+gtm,sex_f,age_5yrbands_yge65,2006,0.29
 gtm,sex_f,age_aggregate_total,2003,3.39
 gtm,sex_f,age_aggregate_total,2004,3.38
 gtm,sex_f,age_aggregate_total,2006,2.47
@@ -179,10 +193,14 @@ gtm,sex_f,age_aggregate_y25_54,2014,1.84
 gtm,sex_f,age_aggregate_y25_54,2015,1.52
 gtm,sex_f,age_aggregate_y25_54,2016,1.98
 gtm,sex_f,age_aggregate_y25_54,2017,2.35
+gtm,sex_f,age_aggregate_y55_64,2003,0.37
 gtm,sex_f,age_aggregate_y55_64,2004,0.99
+gtm,sex_f,age_aggregate_y55_64,2006,0.66
 gtm,sex_f,age_aggregate_y55_64,2010,1.97
 gtm,sex_f,age_aggregate_y55_64,2016,0.63
+gtm,sex_f,age_aggregate_yge65,2003,0.65
 gtm,sex_f,age_aggregate_yge65,2004,0.71
+gtm,sex_f,age_aggregate_yge65,2006,0.29
 gtm,sex_f,age_ythadult_y15_24,2003,5.11
 gtm,sex_f,age_ythadult_y15_24,2004,7.43
 gtm,sex_f,age_ythadult_y15_24,2006,5.38
@@ -285,6 +303,7 @@ gtm,sex_m,age_10yrbands_y45_54,2014,0.65
 gtm,sex_m,age_10yrbands_y45_54,2015,0.55
 gtm,sex_m,age_10yrbands_y45_54,2016,0.71
 gtm,sex_m,age_10yrbands_y45_54,2017,1.04
+gtm,sex_m,age_10yrbands_y55_64,2003,0.85
 gtm,sex_m,age_10yrbands_y55_64,2004,1.42
 gtm,sex_m,age_10yrbands_y55_64,2006,0.65
 gtm,sex_m,age_10yrbands_y55_64,2010,1.89
@@ -293,7 +312,9 @@ gtm,sex_m,age_10yrbands_y55_64,2013,0.35
 gtm,sex_m,age_10yrbands_y55_64,2015,0.86
 gtm,sex_m,age_10yrbands_y55_64,2016,0.85
 gtm,sex_m,age_10yrbands_y55_64,2017,0.38
+gtm,sex_m,age_10yrbands_yge65,2003,0.99
 gtm,sex_m,age_10yrbands_yge65,2004,1.81
+gtm,sex_m,age_10yrbands_yge65,2006,0.27
 gtm,sex_m,age_10yrbands_yge65,2010,2.36
 gtm,sex_m,age_10yrbands_yge65,2013,1.31
 gtm,sex_m,age_10yrbands_yge65,2014,0.63
@@ -354,6 +375,7 @@ gtm,sex_m,age_5yrbands_y30_34,2014,2.47
 gtm,sex_m,age_5yrbands_y30_34,2015,1.67
 gtm,sex_m,age_5yrbands_y30_34,2016,1.56
 gtm,sex_m,age_5yrbands_y30_34,2017,1.84
+gtm,sex_m,age_5yrbands_y35_39,2003,0.86
 gtm,sex_m,age_5yrbands_y35_39,2004,1.48
 gtm,sex_m,age_5yrbands_y35_39,2006,0.46
 gtm,sex_m,age_5yrbands_y35_39,2010,3.38
@@ -363,6 +385,7 @@ gtm,sex_m,age_5yrbands_y35_39,2014,1.67
 gtm,sex_m,age_5yrbands_y35_39,2015,0.87
 gtm,sex_m,age_5yrbands_y35_39,2016,0.71
 gtm,sex_m,age_5yrbands_y35_39,2017,0.65
+gtm,sex_m,age_5yrbands_y40_44,2003,2.44
 gtm,sex_m,age_5yrbands_y40_44,2004,0.6
 gtm,sex_m,age_5yrbands_y40_44,2006,0.95
 gtm,sex_m,age_5yrbands_y40_44,2010,2.24
@@ -373,6 +396,7 @@ gtm,sex_m,age_5yrbands_y40_44,2014,0.67
 gtm,sex_m,age_5yrbands_y40_44,2015,2.06
 gtm,sex_m,age_5yrbands_y40_44,2016,0.83
 gtm,sex_m,age_5yrbands_y40_44,2017,1.07
+gtm,sex_m,age_5yrbands_y45_49,2003,1.4
 gtm,sex_m,age_5yrbands_y45_49,2004,1.07
 gtm,sex_m,age_5yrbands_y45_49,2006,1.78
 gtm,sex_m,age_5yrbands_y45_49,2010,1.36
@@ -381,6 +405,7 @@ gtm,sex_m,age_5yrbands_y45_49,2013,1.08
 gtm,sex_m,age_5yrbands_y45_49,2015,0.5
 gtm,sex_m,age_5yrbands_y45_49,2016,0.5
 gtm,sex_m,age_5yrbands_y45_49,2017,1.46
+gtm,sex_m,age_5yrbands_y50_54,2003,0.86
 gtm,sex_m,age_5yrbands_y50_54,2004,1.91
 gtm,sex_m,age_5yrbands_y50_54,2006,0.53
 gtm,sex_m,age_5yrbands_y50_54,2010,2.82
@@ -389,6 +414,7 @@ gtm,sex_m,age_5yrbands_y50_54,2014,1.01
 gtm,sex_m,age_5yrbands_y50_54,2015,0.61
 gtm,sex_m,age_5yrbands_y50_54,2016,0.93
 gtm,sex_m,age_5yrbands_y50_54,2017,0.59
+gtm,sex_m,age_5yrbands_y55_59,2003,1.44
 gtm,sex_m,age_5yrbands_y55_59,2004,1.66
 gtm,sex_m,age_5yrbands_y55_59,2006,0.43
 gtm,sex_m,age_5yrbands_y55_59,2010,1.23
@@ -397,10 +423,13 @@ gtm,sex_m,age_5yrbands_y55_59,2015,1.4
 gtm,sex_m,age_5yrbands_y55_59,2016,1.06
 gtm,sex_m,age_5yrbands_y55_59,2017,0.33
 gtm,sex_m,age_5yrbands_y60_64,2004,1.12
+gtm,sex_m,age_5yrbands_y60_64,2006,0.99
 gtm,sex_m,age_5yrbands_y60_64,2010,2.85
 gtm,sex_m,age_5yrbands_y60_64,2016,0.57
 gtm,sex_m,age_5yrbands_y60_64,2017,0.44
+gtm,sex_m,age_5yrbands_yge65,2003,0.99
 gtm,sex_m,age_5yrbands_yge65,2004,1.81
+gtm,sex_m,age_5yrbands_yge65,2006,0.27
 gtm,sex_m,age_5yrbands_yge65,2010,2.36
 gtm,sex_m,age_5yrbands_yge65,2013,1.31
 gtm,sex_m,age_5yrbands_yge65,2014,0.63
@@ -439,6 +468,7 @@ gtm,sex_m,age_aggregate_y25_54,2014,1.75
 gtm,sex_m,age_aggregate_y25_54,2015,1.37
 gtm,sex_m,age_aggregate_y25_54,2016,1.31
 gtm,sex_m,age_aggregate_y25_54,2017,1.42
+gtm,sex_m,age_aggregate_y55_64,2003,0.85
 gtm,sex_m,age_aggregate_y55_64,2004,1.42
 gtm,sex_m,age_aggregate_y55_64,2006,0.65
 gtm,sex_m,age_aggregate_y55_64,2010,1.89
@@ -447,7 +477,9 @@ gtm,sex_m,age_aggregate_y55_64,2013,0.35
 gtm,sex_m,age_aggregate_y55_64,2015,0.86
 gtm,sex_m,age_aggregate_y55_64,2016,0.85
 gtm,sex_m,age_aggregate_y55_64,2017,0.38
+gtm,sex_m,age_aggregate_yge65,2003,0.99
 gtm,sex_m,age_aggregate_yge65,2004,1.81
+gtm,sex_m,age_aggregate_yge65,2006,0.27
 gtm,sex_m,age_aggregate_yge65,2010,2.36
 gtm,sex_m,age_aggregate_yge65,2013,1.31
 gtm,sex_m,age_aggregate_yge65,2014,0.63
@@ -556,6 +588,7 @@ gtm,sex_t,age_10yrbands_y45_54,2014,0.72
 gtm,sex_t,age_10yrbands_y45_54,2015,0.55
 gtm,sex_t,age_10yrbands_y45_54,2016,0.8
 gtm,sex_t,age_10yrbands_y45_54,2017,1.03
+gtm,sex_t,age_10yrbands_y55_64,2003,0.67
 gtm,sex_t,age_10yrbands_y55_64,2004,1.29
 gtm,sex_t,age_10yrbands_y55_64,2006,0.65
 gtm,sex_t,age_10yrbands_y55_64,2010,1.92
@@ -662,6 +695,7 @@ gtm,sex_t,age_5yrbands_y45_49,2014,0.61
 gtm,sex_t,age_5yrbands_y45_49,2015,0.53
 gtm,sex_t,age_5yrbands_y45_49,2016,0.63
 gtm,sex_t,age_5yrbands_y45_49,2017,1.41
+gtm,sex_t,age_5yrbands_y50_54,2003,0.58
 gtm,sex_t,age_5yrbands_y50_54,2004,1.38
 gtm,sex_t,age_5yrbands_y50_54,2006,0.37
 gtm,sex_t,age_5yrbands_y50_54,2010,3.59
@@ -671,6 +705,7 @@ gtm,sex_t,age_5yrbands_y50_54,2014,0.85
 gtm,sex_t,age_5yrbands_y50_54,2015,0.57
 gtm,sex_t,age_5yrbands_y50_54,2016,0.98
 gtm,sex_t,age_5yrbands_y50_54,2017,0.61
+gtm,sex_t,age_5yrbands_y55_59,2003,1.13
 gtm,sex_t,age_5yrbands_y55_59,2004,1.51
 gtm,sex_t,age_5yrbands_y55_59,2006,0.63
 gtm,sex_t,age_5yrbands_y55_59,2010,1.92
@@ -725,6 +760,7 @@ gtm,sex_t,age_aggregate_y25_54,2014,1.78
 gtm,sex_t,age_aggregate_y25_54,2015,1.42
 gtm,sex_t,age_aggregate_y25_54,2016,1.56
 gtm,sex_t,age_aggregate_y25_54,2017,1.77
+gtm,sex_t,age_aggregate_y55_64,2003,0.67
 gtm,sex_t,age_aggregate_y55_64,2004,1.29
 gtm,sex_t,age_aggregate_y55_64,2006,0.65
 gtm,sex_t,age_aggregate_y55_64,2010,1.92

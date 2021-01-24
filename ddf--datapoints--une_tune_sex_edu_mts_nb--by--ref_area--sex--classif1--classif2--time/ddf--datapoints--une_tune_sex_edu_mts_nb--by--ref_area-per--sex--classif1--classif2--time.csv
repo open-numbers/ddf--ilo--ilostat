@@ -143,6 +143,7 @@ per,sex_f,edu_aggregate_adv,mts_details_union,2016,9.427
 per,sex_f,edu_aggregate_adv,mts_details_union,2017,16.444
 per,sex_f,edu_aggregate_adv,mts_details_union,2018,15.412
 per,sex_f,edu_aggregate_adv,mts_details_union,2019,16.033
+per,sex_f,edu_aggregate_adv,mts_details_wid,2002,0.313
 per,sex_f,edu_aggregate_adv,mts_details_wid,2008,2.014
 per,sex_f,edu_aggregate_bas,mts_aggregate_1,2002,27.678
 per,sex_f,edu_aggregate_bas,mts_aggregate_1,2003,29.264
@@ -288,6 +289,7 @@ per,sex_f,edu_aggregate_bas,mts_details_union,2016,25.362
 per,sex_f,edu_aggregate_bas,mts_details_union,2017,11.154
 per,sex_f,edu_aggregate_bas,mts_details_union,2018,11.437
 per,sex_f,edu_aggregate_bas,mts_details_union,2019,15.145
+per,sex_f,edu_aggregate_bas,mts_details_wid,2002,1.257
 per,sex_f,edu_aggregate_bas,mts_details_wid,2004,1.409
 per,sex_f,edu_aggregate_bas,mts_details_wid,2005,1.73
 per,sex_f,edu_aggregate_bas,mts_details_wid,2012,2.442
@@ -348,6 +350,7 @@ per,sex_f,edu_aggregate_int,mts_aggregate_total,2016,159.408
 per,sex_f,edu_aggregate_int,mts_aggregate_total,2017,165.492
 per,sex_f,edu_aggregate_int,mts_aggregate_total,2018,164.916
 per,sex_f,edu_aggregate_int,mts_aggregate_total,2019,162.131
+per,sex_f,edu_aggregate_int,mts_aggregate_x,2002,0.313
 per,sex_f,edu_aggregate_int,mts_details_mrd,2002,26.209
 per,sex_f,edu_aggregate_int,mts_details_mrd,2003,29.839
 per,sex_f,edu_aggregate_int,mts_details_mrd,2004,28.903
@@ -438,10 +441,12 @@ per,sex_f,edu_aggregate_int,mts_details_union,2016,34.626
 per,sex_f,edu_aggregate_int,mts_details_union,2017,34.722
 per,sex_f,edu_aggregate_int,mts_details_union,2018,31.361
 per,sex_f,edu_aggregate_int,mts_details_union,2019,39.116
+per,sex_f,edu_aggregate_int,mts_details_wid,2002,0.11
 per,sex_f,edu_aggregate_int,mts_details_wid,2009,2.341
 per,sex_f,edu_aggregate_int,mts_details_wid,2013,1.63
 per,sex_f,edu_aggregate_int,mts_details_wid,2016,2.025
 per,sex_f,edu_aggregate_int,mts_details_wid,2018,1.343
+per,sex_f,edu_aggregate_int,mts_details_x,2002,0.313
 per,sex_f,edu_aggregate_ltb,mts_aggregate_1,2002,10.493
 per,sex_f,edu_aggregate_ltb,mts_aggregate_1,2003,4.2
 per,sex_f,edu_aggregate_ltb,mts_aggregate_1,2004,12.761
@@ -643,6 +648,7 @@ per,sex_f,edu_aggregate_total,mts_aggregate_total,2016,321.199
 per,sex_f,edu_aggregate_total,mts_aggregate_total,2017,320.98
 per,sex_f,edu_aggregate_total,mts_aggregate_total,2018,324.479
 per,sex_f,edu_aggregate_total,mts_aggregate_total,2019,316.75
+per,sex_f,edu_aggregate_total,mts_aggregate_x,2002,0.313
 per,sex_f,edu_aggregate_total,mts_details_mrd,2002,81.484
 per,sex_f,edu_aggregate_total,mts_details_mrd,2003,64.415
 per,sex_f,edu_aggregate_total,mts_details_mrd,2004,69.131
@@ -751,6 +757,7 @@ per,sex_f,edu_aggregate_total,mts_details_wid,2016,3.944
 per,sex_f,edu_aggregate_total,mts_details_wid,2017,5.888
 per,sex_f,edu_aggregate_total,mts_details_wid,2018,2.231
 per,sex_f,edu_aggregate_total,mts_details_wid,2019,4.891
+per,sex_f,edu_aggregate_total,mts_details_x,2002,0.313
 per,sex_m,edu_aggregate_adv,mts_aggregate_1,2002,40.668
 per,sex_m,edu_aggregate_adv,mts_aggregate_1,2003,33.341
 per,sex_m,edu_aggregate_adv,mts_aggregate_1,2004,39.157
@@ -894,6 +901,7 @@ per,sex_m,edu_aggregate_adv,mts_details_union,2016,5.76
 per,sex_m,edu_aggregate_adv,mts_details_union,2017,8.627
 per,sex_m,edu_aggregate_adv,mts_details_union,2018,8.536
 per,sex_m,edu_aggregate_adv,mts_details_union,2019,6.362
+per,sex_m,edu_aggregate_adv,mts_details_wid,2002,1.78
 per,sex_m,edu_aggregate_adv,mts_details_wid,2017,2.069
 per,sex_m,edu_aggregate_bas,mts_aggregate_1,2002,57.624
 per,sex_m,edu_aggregate_bas,mts_aggregate_1,2003,56.197
@@ -1101,6 +1109,7 @@ per,sex_m,edu_aggregate_int,mts_aggregate_total,2016,186.313
 per,sex_m,edu_aggregate_int,mts_aggregate_total,2017,185.808
 per,sex_m,edu_aggregate_int,mts_aggregate_total,2018,183.168
 per,sex_m,edu_aggregate_int,mts_aggregate_total,2019,168.309
+per,sex_m,edu_aggregate_int,mts_aggregate_x,2002,4.778
 per,sex_m,edu_aggregate_int,mts_details_mrd,2002,29.058
 per,sex_m,edu_aggregate_int,mts_details_mrd,2003,29.57
 per,sex_m,edu_aggregate_int,mts_details_mrd,2004,16.032
@@ -1191,8 +1200,10 @@ per,sex_m,edu_aggregate_int,mts_details_union,2016,22.804
 per,sex_m,edu_aggregate_int,mts_details_union,2017,21.122
 per,sex_m,edu_aggregate_int,mts_details_union,2018,25.722
 per,sex_m,edu_aggregate_int,mts_details_union,2019,18.862
+per,sex_m,edu_aggregate_int,mts_details_wid,2002,1.821
 per,sex_m,edu_aggregate_int,mts_details_wid,2006,2.654
 per,sex_m,edu_aggregate_int,mts_details_wid,2009,3.015
+per,sex_m,edu_aggregate_int,mts_details_x,2002,4.778
 per,sex_m,edu_aggregate_ltb,mts_aggregate_1,2002,10.844
 per,sex_m,edu_aggregate_ltb,mts_aggregate_1,2003,9.309
 per,sex_m,edu_aggregate_ltb,mts_aggregate_1,2004,9.032
@@ -1381,6 +1392,7 @@ per,sex_m,edu_aggregate_total,mts_aggregate_total,2016,351.261
 per,sex_m,edu_aggregate_total,mts_aggregate_total,2017,348.961
 per,sex_m,edu_aggregate_total,mts_aggregate_total,2018,319.301
 per,sex_m,edu_aggregate_total,mts_aggregate_total,2019,314.469
+per,sex_m,edu_aggregate_total,mts_aggregate_x,2002,4.778
 per,sex_m,edu_aggregate_total,mts_details_mrd,2002,78.498
 per,sex_m,edu_aggregate_total,mts_details_mrd,2003,62.216
 per,sex_m,edu_aggregate_total,mts_details_mrd,2004,55.239
@@ -1489,6 +1501,7 @@ per,sex_m,edu_aggregate_total,mts_details_wid,2016,2.654
 per,sex_m,edu_aggregate_total,mts_details_wid,2017,4.611
 per,sex_m,edu_aggregate_total,mts_details_wid,2018,2.033
 per,sex_m,edu_aggregate_total,mts_details_wid,2019,2.936
+per,sex_m,edu_aggregate_total,mts_details_x,2002,4.778
 per,sex_t,edu_aggregate_adv,mts_aggregate_1,2002,73.596
 per,sex_t,edu_aggregate_adv,mts_aggregate_1,2003,69.453
 per,sex_t,edu_aggregate_adv,mts_aggregate_1,2004,88.004
@@ -1633,6 +1646,7 @@ per,sex_t,edu_aggregate_adv,mts_details_union,2016,15.187
 per,sex_t,edu_aggregate_adv,mts_details_union,2017,25.071
 per,sex_t,edu_aggregate_adv,mts_details_union,2018,23.949
 per,sex_t,edu_aggregate_adv,mts_details_union,2019,22.395
+per,sex_t,edu_aggregate_adv,mts_details_wid,2002,2.092
 per,sex_t,edu_aggregate_adv,mts_details_wid,2008,2.126
 per,sex_t,edu_aggregate_adv,mts_details_wid,2010,1.723
 per,sex_t,edu_aggregate_adv,mts_details_wid,2015,0.45
@@ -1850,6 +1864,7 @@ per,sex_t,edu_aggregate_int,mts_aggregate_total,2016,345.721
 per,sex_t,edu_aggregate_int,mts_aggregate_total,2017,351.3
 per,sex_t,edu_aggregate_int,mts_aggregate_total,2018,348.084
 per,sex_t,edu_aggregate_int,mts_aggregate_total,2019,330.44
+per,sex_t,edu_aggregate_int,mts_aggregate_x,2002,5.091
 per,sex_t,edu_aggregate_int,mts_details_mrd,2002,55.267
 per,sex_t,edu_aggregate_int,mts_details_mrd,2003,59.409
 per,sex_t,edu_aggregate_int,mts_details_mrd,2004,44.934
@@ -1953,6 +1968,7 @@ per,sex_t,edu_aggregate_int,mts_details_wid,2015,3.458
 per,sex_t,edu_aggregate_int,mts_details_wid,2016,3.287
 per,sex_t,edu_aggregate_int,mts_details_wid,2017,2.092
 per,sex_t,edu_aggregate_int,mts_details_wid,2018,2.347
+per,sex_t,edu_aggregate_int,mts_details_x,2002,5.091
 per,sex_t,edu_aggregate_ltb,mts_aggregate_1,2002,21.337
 per,sex_t,edu_aggregate_ltb,mts_aggregate_1,2003,13.509
 per,sex_t,edu_aggregate_ltb,mts_aggregate_1,2004,21.793
@@ -2168,6 +2184,7 @@ per,sex_t,edu_aggregate_total,mts_aggregate_total,2016,672.46
 per,sex_t,edu_aggregate_total,mts_aggregate_total,2017,669.941
 per,sex_t,edu_aggregate_total,mts_aggregate_total,2018,643.78
 per,sex_t,edu_aggregate_total,mts_aggregate_total,2019,631.219
+per,sex_t,edu_aggregate_total,mts_aggregate_x,2002,5.091
 per,sex_t,edu_aggregate_total,mts_details_mrd,2002,159.981
 per,sex_t,edu_aggregate_total,mts_details_mrd,2003,126.631
 per,sex_t,edu_aggregate_total,mts_details_mrd,2004,124.369
@@ -2276,3 +2293,4 @@ per,sex_t,edu_aggregate_total,mts_details_wid,2016,6.598
 per,sex_t,edu_aggregate_total,mts_details_wid,2017,10.499
 per,sex_t,edu_aggregate_total,mts_details_wid,2018,4.264
 per,sex_t,edu_aggregate_total,mts_details_wid,2019,7.827
+per,sex_t,edu_aggregate_total,mts_details_x,2002,5.091

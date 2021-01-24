@@ -29,6 +29,7 @@ gmb,sex_f,eco_aggregate_con,mts_details_total,2012,49.835
 gmb,sex_f,eco_aggregate_con,mts_details_total,2018,53.38
 gmb,sex_f,eco_aggregate_con,mts_details_x,2012,70
 gmb,sex_f,eco_aggregate_man,mts_aggregate_1,2012,57.651
+gmb,sex_f,eco_aggregate_man,mts_aggregate_1,2018,52.581
 gmb,sex_f,eco_aggregate_man,mts_aggregate_2,2012,45.4
 gmb,sex_f,eco_aggregate_man,mts_aggregate_2,2018,34.092
 gmb,sex_f,eco_aggregate_man,mts_aggregate_total,2012,47.638
@@ -37,7 +38,9 @@ gmb,sex_f,eco_aggregate_man,mts_aggregate_x,2012,36.494
 gmb,sex_f,eco_aggregate_man,mts_details_mrd,2012,45.4
 gmb,sex_f,eco_aggregate_man,mts_details_mrd,2018,34.092
 gmb,sex_f,eco_aggregate_man,mts_details_sep,2012,16.62
+gmb,sex_f,eco_aggregate_man,mts_details_sep,2018,77
 gmb,sex_f,eco_aggregate_man,mts_details_sgle,2012,63.199
+gmb,sex_f,eco_aggregate_man,mts_details_sgle,2018,45.493
 gmb,sex_f,eco_aggregate_man,mts_details_total,2012,47.638
 gmb,sex_f,eco_aggregate_man,mts_details_total,2018,44.67
 gmb,sex_f,eco_aggregate_man,mts_details_wid,2012,31.73
@@ -52,7 +55,9 @@ gmb,sex_f,eco_aggregate_mel,mts_aggregate_x,2012,28
 gmb,sex_f,eco_aggregate_mel,mts_details_mrd,2012,27.602
 gmb,sex_f,eco_aggregate_mel,mts_details_mrd,2018,43.561
 gmb,sex_f,eco_aggregate_mel,mts_details_sep,2012,3.263
+gmb,sex_f,eco_aggregate_mel,mts_details_sep,2018,31.429
 gmb,sex_f,eco_aggregate_mel,mts_details_sgle,2012,19.885
+gmb,sex_f,eco_aggregate_mel,mts_details_sgle,2018,61.116
 gmb,sex_f,eco_aggregate_mel,mts_details_total,2012,21.253
 gmb,sex_f,eco_aggregate_mel,mts_details_total,2018,46.406
 gmb,sex_f,eco_aggregate_mel,mts_details_wid,2012,36.958
@@ -72,6 +77,7 @@ gmb,sex_f,eco_aggregate_mkt,mts_details_sgle,2012,32.707
 gmb,sex_f,eco_aggregate_mkt,mts_details_sgle,2018,44.556
 gmb,sex_f,eco_aggregate_mkt,mts_details_total,2012,39.598
 gmb,sex_f,eco_aggregate_mkt,mts_details_total,2018,42.962
+gmb,sex_f,eco_aggregate_mkt,mts_details_union,2018,57.776
 gmb,sex_f,eco_aggregate_mkt,mts_details_wid,2012,40.785
 gmb,sex_f,eco_aggregate_mkt,mts_details_x,2012,44.247
 gmb,sex_f,eco_aggregate_pub,mts_aggregate_1,2012,45.195
@@ -89,6 +95,7 @@ gmb,sex_f,eco_aggregate_pub,mts_details_sgle,2012,49.801
 gmb,sex_f,eco_aggregate_pub,mts_details_sgle,2018,44.076
 gmb,sex_f,eco_aggregate_pub,mts_details_total,2012,38.867
 gmb,sex_f,eco_aggregate_pub,mts_details_total,2018,38.296
+gmb,sex_f,eco_aggregate_pub,mts_details_union,2018,36
 gmb,sex_f,eco_aggregate_pub,mts_details_wid,2012,29.574
 gmb,sex_f,eco_aggregate_pub,mts_details_x,2012,43.078
 gmb,sex_f,eco_aggregate_total,mts_aggregate_1,2012,38.484
@@ -106,6 +113,7 @@ gmb,sex_f,eco_aggregate_total,mts_details_sgle,2012,37.729
 gmb,sex_f,eco_aggregate_total,mts_details_sgle,2018,44.879
 gmb,sex_f,eco_aggregate_total,mts_details_total,2012,39.088
 gmb,sex_f,eco_aggregate_total,mts_details_total,2018,40.315
+gmb,sex_f,eco_aggregate_total,mts_details_union,2018,55.746
 gmb,sex_f,eco_aggregate_total,mts_details_wid,2012,42.961
 gmb,sex_f,eco_aggregate_total,mts_details_x,2012,40.764
 gmb,sex_f,eco_aggregate_x,mts_aggregate_1,2012,52.03
@@ -167,6 +175,7 @@ gmb,sex_f,eco_sector_ser,mts_details_sgle,2012,38.027
 gmb,sex_f,eco_sector_ser,mts_details_sgle,2018,44.265
 gmb,sex_f,eco_sector_ser,mts_details_total,2012,39.46
 gmb,sex_f,eco_sector_ser,mts_details_total,2018,40.033
+gmb,sex_f,eco_sector_ser,mts_details_union,2018,55.746
 gmb,sex_f,eco_sector_ser,mts_details_wid,2012,39.689
 gmb,sex_f,eco_sector_ser,mts_details_x,2012,44.004
 gmb,sex_f,eco_sector_total,mts_aggregate_1,2012,38.484
@@ -184,6 +193,7 @@ gmb,sex_f,eco_sector_total,mts_details_sgle,2012,37.729
 gmb,sex_f,eco_sector_total,mts_details_sgle,2018,44.879
 gmb,sex_f,eco_sector_total,mts_details_total,2012,39.088
 gmb,sex_f,eco_sector_total,mts_details_total,2018,40.315
+gmb,sex_f,eco_sector_total,mts_details_union,2018,55.746
 gmb,sex_f,eco_sector_total,mts_details_wid,2012,42.961
 gmb,sex_f,eco_sector_total,mts_details_x,2012,40.764
 gmb,sex_f,eco_sector_x,mts_aggregate_1,2012,52.03
@@ -240,6 +250,7 @@ gmb,sex_m,eco_aggregate_man,mts_aggregate_x,2012,78.949
 gmb,sex_m,eco_aggregate_man,mts_details_mrd,2012,58.217
 gmb,sex_m,eco_aggregate_man,mts_details_mrd,2018,64.591
 gmb,sex_m,eco_aggregate_man,mts_details_sep,2012,41.986
+gmb,sex_m,eco_aggregate_man,mts_details_sep,2018,60
 gmb,sex_m,eco_aggregate_man,mts_details_sgle,2012,53.072
 gmb,sex_m,eco_aggregate_man,mts_details_sgle,2018,56.967
 gmb,sex_m,eco_aggregate_man,mts_details_total,2012,57.368
@@ -255,6 +266,7 @@ gmb,sex_m,eco_aggregate_mel,mts_aggregate_total,2018,49.544
 gmb,sex_m,eco_aggregate_mel,mts_aggregate_x,2012,28
 gmb,sex_m,eco_aggregate_mel,mts_details_mrd,2012,38.38
 gmb,sex_m,eco_aggregate_mel,mts_details_mrd,2018,52.539
+gmb,sex_m,eco_aggregate_mel,mts_details_sep,2018,22.411
 gmb,sex_m,eco_aggregate_mel,mts_details_sgle,2012,5.74
 gmb,sex_m,eco_aggregate_mel,mts_details_sgle,2018,46.717
 gmb,sex_m,eco_aggregate_mel,mts_details_total,2012,29.813
@@ -292,6 +304,7 @@ gmb,sex_m,eco_aggregate_pub,mts_details_sgle,2012,48.625
 gmb,sex_m,eco_aggregate_pub,mts_details_sgle,2018,52.831
 gmb,sex_m,eco_aggregate_pub,mts_details_total,2012,47.627
 gmb,sex_m,eco_aggregate_pub,mts_details_total,2018,54.066
+gmb,sex_m,eco_aggregate_pub,mts_details_union,2018,45
 gmb,sex_m,eco_aggregate_pub,mts_details_wid,2012,40
 gmb,sex_m,eco_aggregate_pub,mts_details_x,2012,46.146
 gmb,sex_m,eco_aggregate_total,mts_aggregate_1,2012,47.631
@@ -309,6 +322,7 @@ gmb,sex_m,eco_aggregate_total,mts_details_sgle,2012,47.651
 gmb,sex_m,eco_aggregate_total,mts_details_sgle,2018,54.009
 gmb,sex_m,eco_aggregate_total,mts_details_total,2012,51.303
 gmb,sex_m,eco_aggregate_total,mts_details_total,2018,55.191
+gmb,sex_m,eco_aggregate_total,mts_details_union,2018,45
 gmb,sex_m,eco_aggregate_total,mts_details_wid,2012,43.909
 gmb,sex_m,eco_aggregate_total,mts_details_x,2012,60.415
 gmb,sex_m,eco_aggregate_x,mts_aggregate_1,2012,57.801
@@ -320,7 +334,9 @@ gmb,sex_m,eco_aggregate_x,mts_aggregate_total,2018,36.2
 gmb,sex_m,eco_aggregate_x,mts_aggregate_x,2012,69.378
 gmb,sex_m,eco_aggregate_x,mts_details_mrd,2012,56.524
 gmb,sex_m,eco_aggregate_x,mts_details_mrd,2018,63.997
+gmb,sex_m,eco_aggregate_x,mts_details_sep,2018,75.339
 gmb,sex_m,eco_aggregate_x,mts_details_sgle,2012,57.801
+gmb,sex_m,eco_aggregate_x,mts_details_sgle,2018,11.821
 gmb,sex_m,eco_aggregate_x,mts_details_total,2012,57.496
 gmb,sex_m,eco_aggregate_x,mts_details_total,2018,36.2
 gmb,sex_m,eco_aggregate_x,mts_details_x,2012,69.378
@@ -373,6 +389,7 @@ gmb,sex_m,eco_sector_ser,mts_details_sgle,2012,50.269
 gmb,sex_m,eco_sector_ser,mts_details_sgle,2018,54.787
 gmb,sex_m,eco_sector_ser,mts_details_total,2012,55.554
 gmb,sex_m,eco_sector_ser,mts_details_total,2018,55.764
+gmb,sex_m,eco_sector_ser,mts_details_union,2018,45
 gmb,sex_m,eco_sector_ser,mts_details_wid,2012,45.444
 gmb,sex_m,eco_sector_ser,mts_details_x,2012,65.118
 gmb,sex_m,eco_sector_total,mts_aggregate_1,2012,47.631
@@ -390,6 +407,7 @@ gmb,sex_m,eco_sector_total,mts_details_sgle,2012,47.651
 gmb,sex_m,eco_sector_total,mts_details_sgle,2018,54.009
 gmb,sex_m,eco_sector_total,mts_details_total,2012,51.303
 gmb,sex_m,eco_sector_total,mts_details_total,2018,55.191
+gmb,sex_m,eco_sector_total,mts_details_union,2018,45
 gmb,sex_m,eco_sector_total,mts_details_wid,2012,43.909
 gmb,sex_m,eco_sector_total,mts_details_x,2012,60.415
 gmb,sex_m,eco_sector_x,mts_aggregate_1,2012,57.801
@@ -401,7 +419,9 @@ gmb,sex_m,eco_sector_x,mts_aggregate_total,2018,36.2
 gmb,sex_m,eco_sector_x,mts_aggregate_x,2012,69.378
 gmb,sex_m,eco_sector_x,mts_details_mrd,2012,56.524
 gmb,sex_m,eco_sector_x,mts_details_mrd,2018,63.997
+gmb,sex_m,eco_sector_x,mts_details_sep,2018,75.339
 gmb,sex_m,eco_sector_x,mts_details_sgle,2012,57.801
+gmb,sex_m,eco_sector_x,mts_details_sgle,2018,11.821
 gmb,sex_m,eco_sector_x,mts_details_total,2012,57.496
 gmb,sex_m,eco_sector_x,mts_details_total,2018,36.2
 gmb,sex_m,eco_sector_x,mts_details_x,2012,69.378
@@ -449,6 +469,7 @@ gmb,sex_t,eco_aggregate_man,mts_aggregate_x,2012,73.156
 gmb,sex_t,eco_aggregate_man,mts_details_mrd,2012,55.037
 gmb,sex_t,eco_aggregate_man,mts_details_mrd,2018,63.014
 gmb,sex_t,eco_aggregate_man,mts_details_sep,2012,37.63
+gmb,sex_t,eco_aggregate_man,mts_details_sep,2018,63.822
 gmb,sex_t,eco_aggregate_man,mts_details_sgle,2012,53.979
 gmb,sex_t,eco_aggregate_man,mts_details_sgle,2018,55.345
 gmb,sex_t,eco_aggregate_man,mts_details_total,2012,55.601
@@ -487,6 +508,7 @@ gmb,sex_t,eco_aggregate_mkt,mts_details_sgle,2012,44.007
 gmb,sex_t,eco_aggregate_mkt,mts_details_sgle,2018,53.699
 gmb,sex_t,eco_aggregate_mkt,mts_details_total,2012,48.975
 gmb,sex_t,eco_aggregate_mkt,mts_details_total,2018,52.713
+gmb,sex_t,eco_aggregate_mkt,mts_details_union,2018,57.776
 gmb,sex_t,eco_aggregate_mkt,mts_details_wid,2012,41.229
 gmb,sex_t,eco_aggregate_mkt,mts_details_x,2012,58.214
 gmb,sex_t,eco_aggregate_pub,mts_aggregate_1,2012,46.942
@@ -504,6 +526,7 @@ gmb,sex_t,eco_aggregate_pub,mts_details_sgle,2012,49.123
 gmb,sex_t,eco_aggregate_pub,mts_details_sgle,2018,50.07
 gmb,sex_t,eco_aggregate_pub,mts_details_total,2012,43.995
 gmb,sex_t,eco_aggregate_pub,mts_details_total,2018,47.481
+gmb,sex_t,eco_aggregate_pub,mts_details_union,2018,43.807
 gmb,sex_t,eco_aggregate_pub,mts_details_wid,2012,30.118
 gmb,sex_t,eco_aggregate_pub,mts_details_x,2012,44.874
 gmb,sex_t,eco_aggregate_total,mts_aggregate_1,2012,44.131
@@ -521,6 +544,7 @@ gmb,sex_t,eco_aggregate_total,mts_details_sgle,2012,44.575
 gmb,sex_t,eco_aggregate_total,mts_details_sgle,2018,51.63
 gmb,sex_t,eco_aggregate_total,mts_details_total,2012,45.958
 gmb,sex_t,eco_aggregate_total,mts_details_total,2018,49.837
+gmb,sex_t,eco_aggregate_total,mts_details_union,2018,51.675
 gmb,sex_t,eco_aggregate_total,mts_details_wid,2012,43.063
 gmb,sex_t,eco_aggregate_total,mts_details_x,2012,51.651
 gmb,sex_t,eco_aggregate_x,mts_aggregate_1,2012,56.396
@@ -533,7 +557,9 @@ gmb,sex_t,eco_aggregate_x,mts_aggregate_x,2012,65.711
 gmb,sex_t,eco_aggregate_x,mts_details_mrd,2012,53.167
 gmb,sex_t,eco_aggregate_x,mts_details_mrd,2018,63.997
 gmb,sex_t,eco_aggregate_x,mts_details_sep,2012,33.455
+gmb,sex_t,eco_aggregate_x,mts_details_sep,2018,75.339
 gmb,sex_t,eco_aggregate_x,mts_details_sgle,2012,51.746
+gmb,sex_t,eco_aggregate_x,mts_details_sgle,2018,11.821
 gmb,sex_t,eco_aggregate_x,mts_details_total,2012,54.862
 gmb,sex_t,eco_aggregate_x,mts_details_total,2018,36.2
 gmb,sex_t,eco_aggregate_x,mts_details_wid,2012,90.611
@@ -587,6 +613,7 @@ gmb,sex_t,eco_sector_ser,mts_details_sgle,2012,45.477
 gmb,sex_t,eco_sector_ser,mts_details_sgle,2018,51.564
 gmb,sex_t,eco_sector_ser,mts_details_total,2012,47.894
 gmb,sex_t,eco_sector_ser,mts_details_total,2018,49.662
+gmb,sex_t,eco_sector_ser,mts_details_union,2018,51.675
 gmb,sex_t,eco_sector_ser,mts_details_wid,2012,40.182
 gmb,sex_t,eco_sector_ser,mts_details_x,2012,55.014
 gmb,sex_t,eco_sector_total,mts_aggregate_1,2012,44.131
@@ -604,6 +631,7 @@ gmb,sex_t,eco_sector_total,mts_details_sgle,2012,44.575
 gmb,sex_t,eco_sector_total,mts_details_sgle,2018,51.63
 gmb,sex_t,eco_sector_total,mts_details_total,2012,45.958
 gmb,sex_t,eco_sector_total,mts_details_total,2018,49.837
+gmb,sex_t,eco_sector_total,mts_details_union,2018,51.675
 gmb,sex_t,eco_sector_total,mts_details_wid,2012,43.063
 gmb,sex_t,eco_sector_total,mts_details_x,2012,51.651
 gmb,sex_t,eco_sector_x,mts_aggregate_1,2012,56.396
@@ -616,7 +644,9 @@ gmb,sex_t,eco_sector_x,mts_aggregate_x,2012,65.711
 gmb,sex_t,eco_sector_x,mts_details_mrd,2012,53.167
 gmb,sex_t,eco_sector_x,mts_details_mrd,2018,63.997
 gmb,sex_t,eco_sector_x,mts_details_sep,2012,33.455
+gmb,sex_t,eco_sector_x,mts_details_sep,2018,75.339
 gmb,sex_t,eco_sector_x,mts_details_sgle,2012,51.746
+gmb,sex_t,eco_sector_x,mts_details_sgle,2018,11.821
 gmb,sex_t,eco_sector_x,mts_details_total,2012,54.862
 gmb,sex_t,eco_sector_x,mts_details_total,2018,36.2
 gmb,sex_t,eco_sector_x,mts_details_wid,2012,90.611
