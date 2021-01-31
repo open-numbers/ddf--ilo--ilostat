@@ -29,6 +29,7 @@ arm,sex_f,dsb_status_dis,2015,2.209
 arm,sex_f,dsb_status_dis,2016,3.349
 arm,sex_f,dsb_status_dis,2017,1.95
 arm,sex_f,dsb_status_dis,2018,3.066
+arm,sex_f,dsb_status_dis,2019,3.71
 arm,sex_f,dsb_status_nodis,2007,56.822
 arm,sex_f,dsb_status_nodis,2008,152.481
 arm,sex_f,dsb_status_nodis,2009,127.405
@@ -41,6 +42,7 @@ arm,sex_f,dsb_status_nodis,2015,119.281
 arm,sex_f,dsb_status_nodis,2016,97.948
 arm,sex_f,dsb_status_nodis,2017,100.111
 arm,sex_f,dsb_status_nodis,2018,111.543
+arm,sex_f,dsb_status_nodis,2019,108.92
 arm,sex_f,dsb_status_total,2007,57.785
 arm,sex_f,dsb_status_total,2008,157.184
 arm,sex_f,dsb_status_total,2009,131.091
@@ -53,6 +55,7 @@ arm,sex_f,dsb_status_total,2015,121.49
 arm,sex_f,dsb_status_total,2016,101.297
 arm,sex_f,dsb_status_total,2017,102.06
 arm,sex_f,dsb_status_total,2018,114.609
+arm,sex_f,dsb_status_total,2019,112.63
 arm,sex_m,dsb_status_dis,2007,3.736
 arm,sex_m,dsb_status_dis,2008,3.171
 arm,sex_m,dsb_status_dis,2009,6.108
@@ -65,6 +68,7 @@ arm,sex_m,dsb_status_dis,2015,4.787
 arm,sex_m,dsb_status_dis,2016,6.24
 arm,sex_m,dsb_status_dis,2017,6.757
 arm,sex_m,dsb_status_dis,2018,7.509
+arm,sex_m,dsb_status_dis,2019,5.439
 arm,sex_m,dsb_status_nodis,2007,67.786
 arm,sex_m,dsb_status_nodis,2008,140.238
 arm,sex_m,dsb_status_nodis,2009,123.383
@@ -77,6 +81,7 @@ arm,sex_m,dsb_status_nodis,2015,113.358
 arm,sex_m,dsb_status_nodis,2016,107.624
 arm,sex_m,dsb_status_nodis,2017,108.838
 arm,sex_m,dsb_status_nodis,2018,123.288
+arm,sex_m,dsb_status_nodis,2019,122.683
 arm,sex_m,dsb_status_total,2007,71.522
 arm,sex_m,dsb_status_total,2008,143.408
 arm,sex_m,dsb_status_total,2009,129.491
@@ -89,6 +94,7 @@ arm,sex_m,dsb_status_total,2015,118.145
 arm,sex_m,dsb_status_total,2016,113.864
 arm,sex_m,dsb_status_total,2017,115.596
 arm,sex_m,dsb_status_total,2018,130.796
+arm,sex_m,dsb_status_total,2019,128.123
 arm,sex_t,dsb_status_dis,2007,4.698
 arm,sex_t,dsb_status_dis,2008,7.874
 arm,sex_t,dsb_status_dis,2009,9.794
@@ -101,6 +107,7 @@ arm,sex_t,dsb_status_dis,2015,6.996
 arm,sex_t,dsb_status_dis,2016,9.589
 arm,sex_t,dsb_status_dis,2017,8.707
 arm,sex_t,dsb_status_dis,2018,10.575
+arm,sex_t,dsb_status_dis,2019,9.149
 arm,sex_t,dsb_status_nodis,2007,124.608
 arm,sex_t,dsb_status_nodis,2008,292.718
 arm,sex_t,dsb_status_nodis,2009,250.788
@@ -113,6 +120,7 @@ arm,sex_t,dsb_status_nodis,2015,232.639
 arm,sex_t,dsb_status_nodis,2016,205.572
 arm,sex_t,dsb_status_nodis,2017,208.949
 arm,sex_t,dsb_status_nodis,2018,234.831
+arm,sex_t,dsb_status_nodis,2019,231.603
 arm,sex_t,dsb_status_total,2007,129.307
 arm,sex_t,dsb_status_total,2008,300.592
 arm,sex_t,dsb_status_total,2009,260.582
@@ -125,6 +133,7 @@ arm,sex_t,dsb_status_total,2015,239.635
 arm,sex_t,dsb_status_total,2016,215.161
 arm,sex_t,dsb_status_total,2017,217.656
 arm,sex_t,dsb_status_total,2018,245.405
+arm,sex_t,dsb_status_total,2019,240.752
 aut,sex_f,dsb_status_dis,2012,26
 aut,sex_f,dsb_status_nodis,2012,56
 aut,sex_f,dsb_status_total,2012,82
@@ -504,6 +513,15 @@ deu,sex_m,dsb_status_total,2012,1123
 deu,sex_t,dsb_status_dis,2012,1022
 deu,sex_t,dsb_status_nodis,2012,1294
 deu,sex_t,dsb_status_total,2012,2316
+dji,sex_f,dsb_status_dis,2017,0.03
+dji,sex_f,dsb_status_nodis,2017,11.566
+dji,sex_f,dsb_status_total,2017,11.596
+dji,sex_m,dsb_status_dis,2017,0.192
+dji,sex_m,dsb_status_nodis,2017,17.378
+dji,sex_m,dsb_status_total,2017,17.57
+dji,sex_t,dsb_status_dis,2017,0.222
+dji,sex_t,dsb_status_nodis,2017,28.944
+dji,sex_t,dsb_status_total,2017,29.166
 dnk,sex_f,dsb_status_dis,2012,79
 dnk,sex_f,dsb_status_nodis,2012,86
 dnk,sex_f,dsb_status_total,2012,166
@@ -1641,15 +1659,15 @@ tza,sex_m,dsb_status_total,2014,170.463
 tza,sex_t,dsb_status_dis,2014,1.954
 tza,sex_t,dsb_status_nodis,2014,457.448
 tza,sex_t,dsb_status_total,2014,459.401
-uga,sex_f,dsb_status_dis,2017,101.743
-uga,sex_f,dsb_status_nodis,2017,414.099
-uga,sex_f,dsb_status_total,2017,515.842
-uga,sex_m,dsb_status_dis,2017,97.917
-uga,sex_m,dsb_status_nodis,2017,375.693
-uga,sex_m,dsb_status_total,2017,473.611
-uga,sex_t,dsb_status_dis,2017,199.66
-uga,sex_t,dsb_status_nodis,2017,789.793
-uga,sex_t,dsb_status_total,2017,989.453
+uga,sex_f,dsb_status_dis,2017,94
+uga,sex_f,dsb_status_nodis,2017,404.855
+uga,sex_f,dsb_status_total,2017,498.855
+uga,sex_m,dsb_status_dis,2017,96.503
+uga,sex_m,dsb_status_nodis,2017,355.247
+uga,sex_m,dsb_status_total,2017,451.75
+uga,sex_t,dsb_status_dis,2017,190.503
+uga,sex_t,dsb_status_nodis,2017,760.103
+uga,sex_t,dsb_status_total,2017,950.605
 usa,sex_f,dsb_status_dis,2009,389.723
 usa,sex_f,dsb_status_dis,2010,379.205
 usa,sex_f,dsb_status_dis,2011,377.905
