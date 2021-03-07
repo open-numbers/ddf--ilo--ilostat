@@ -1,4 +1,11 @@
 ref_area,classif1,classif2,time,ees_tees_eco_ocu_nb
+per,eco_aggregate_agr,ocu_isco08_2,2020,0.846
+per,eco_aggregate_agr,ocu_isco08_3,2020,1.022
+per,eco_aggregate_agr,ocu_isco08_4,2020,3.085
+per,eco_aggregate_agr,ocu_isco08_6,2020,1.241
+per,eco_aggregate_agr,ocu_isco08_8,2020,1.161
+per,eco_aggregate_agr,ocu_isco08_9,2020,12.906
+per,eco_aggregate_agr,ocu_isco08_total,2020,21.028
 per,eco_aggregate_agr,ocu_isco88_1,2002,1.854
 per,eco_aggregate_agr,ocu_isco88_2,2002,4.838
 per,eco_aggregate_agr,ocu_isco88_2,2006,2.768
@@ -172,6 +179,7 @@ per,eco_aggregate_agr,ocu_skill_l1,2016,836.163
 per,eco_aggregate_agr,ocu_skill_l1,2017,816.142
 per,eco_aggregate_agr,ocu_skill_l1,2018,873.701
 per,eco_aggregate_agr,ocu_skill_l1,2019,883.068
+per,eco_aggregate_agr,ocu_skill_l1,2020,12.906
 per,eco_aggregate_agr,ocu_skill_l2,2002,28.017
 per,eco_aggregate_agr,ocu_skill_l2,2003,45.52
 per,eco_aggregate_agr,ocu_skill_l2,2004,41.773
@@ -190,6 +198,7 @@ per,eco_aggregate_agr,ocu_skill_l2,2016,74.472
 per,eco_aggregate_agr,ocu_skill_l2,2017,75.848
 per,eco_aggregate_agr,ocu_skill_l2,2018,71.078
 per,eco_aggregate_agr,ocu_skill_l2,2019,72.826
+per,eco_aggregate_agr,ocu_skill_l2,2020,6.254
 per,eco_aggregate_agr,ocu_skill_l3_4,2002,10.76
 per,eco_aggregate_agr,ocu_skill_l3_4,2003,8.092
 per,eco_aggregate_agr,ocu_skill_l3_4,2004,4.048
@@ -208,6 +217,7 @@ per,eco_aggregate_agr,ocu_skill_l3_4,2016,16.286
 per,eco_aggregate_agr,ocu_skill_l3_4,2017,14.908
 per,eco_aggregate_agr,ocu_skill_l3_4,2018,19.215
 per,eco_aggregate_agr,ocu_skill_l3_4,2019,19.025
+per,eco_aggregate_agr,ocu_skill_l3_4,2020,1.868
 per,eco_aggregate_agr,ocu_skill_total,2002,675.168
 per,eco_aggregate_agr,ocu_skill_total,2003,751.659
 per,eco_aggregate_agr,ocu_skill_total,2004,745.798
@@ -226,6 +236,15 @@ per,eco_aggregate_agr,ocu_skill_total,2016,926.92
 per,eco_aggregate_agr,ocu_skill_total,2017,906.898
 per,eco_aggregate_agr,ocu_skill_total,2018,963.994
 per,eco_aggregate_agr,ocu_skill_total,2019,974.919
+per,eco_aggregate_agr,ocu_skill_total,2020,21.028
+per,eco_aggregate_con,ocu_isco08_1,2020,1.162
+per,eco_aggregate_con,ocu_isco08_2,2020,12.54
+per,eco_aggregate_con,ocu_isco08_3,2020,14.91
+per,eco_aggregate_con,ocu_isco08_4,2020,10.686
+per,eco_aggregate_con,ocu_isco08_7,2020,17.646
+per,eco_aggregate_con,ocu_isco08_8,2020,47.902
+per,eco_aggregate_con,ocu_isco08_9,2020,86.032
+per,eco_aggregate_con,ocu_isco08_total,2020,190.877
 per,eco_aggregate_con,ocu_isco88_1,2002,1.623
 per,eco_aggregate_con,ocu_isco88_1,2012,3.673
 per,eco_aggregate_con,ocu_isco88_1,2014,3.253
@@ -376,6 +395,7 @@ per,eco_aggregate_con,ocu_skill_l1,2016,447.518
 per,eco_aggregate_con,ocu_skill_l1,2017,452.939
 per,eco_aggregate_con,ocu_skill_l1,2018,442.062
 per,eco_aggregate_con,ocu_skill_l1,2019,515.876
+per,eco_aggregate_con,ocu_skill_l1,2020,86.032
 per,eco_aggregate_con,ocu_skill_l2,2002,129.905
 per,eco_aggregate_con,ocu_skill_l2,2003,138.161
 per,eco_aggregate_con,ocu_skill_l2,2004,85.672
@@ -394,6 +414,7 @@ per,eco_aggregate_con,ocu_skill_l2,2016,243.224
 per,eco_aggregate_con,ocu_skill_l2,2017,217.378
 per,eco_aggregate_con,ocu_skill_l2,2018,215.754
 per,eco_aggregate_con,ocu_skill_l2,2019,221.079
+per,eco_aggregate_con,ocu_skill_l2,2020,76.234
 per,eco_aggregate_con,ocu_skill_l3_4,2002,15.166
 per,eco_aggregate_con,ocu_skill_l3_4,2003,31.08
 per,eco_aggregate_con,ocu_skill_l3_4,2004,22.501
@@ -412,6 +433,7 @@ per,eco_aggregate_con,ocu_skill_l3_4,2016,84.37
 per,eco_aggregate_con,ocu_skill_l3_4,2017,75.963
 per,eco_aggregate_con,ocu_skill_l3_4,2018,96.023
 per,eco_aggregate_con,ocu_skill_l3_4,2019,84.252
+per,eco_aggregate_con,ocu_skill_l3_4,2020,28.612
 per,eco_aggregate_con,ocu_skill_total,2002,292.334
 per,eco_aggregate_con,ocu_skill_total,2003,339.271
 per,eco_aggregate_con,ocu_skill_total,2004,305.117
@@ -430,6 +452,16 @@ per,eco_aggregate_con,ocu_skill_total,2016,775.112
 per,eco_aggregate_con,ocu_skill_total,2017,746.28
 per,eco_aggregate_con,ocu_skill_total,2018,753.839
 per,eco_aggregate_con,ocu_skill_total,2019,821.206
+per,eco_aggregate_con,ocu_skill_total,2020,190.877
+per,eco_aggregate_man,ocu_isco08_1,2020,4.042
+per,eco_aggregate_man,ocu_isco08_2,2020,14.472
+per,eco_aggregate_man,ocu_isco08_3,2020,49.341
+per,eco_aggregate_man,ocu_isco08_4,2020,32.098
+per,eco_aggregate_man,ocu_isco08_5,2020,10.094
+per,eco_aggregate_man,ocu_isco08_7,2020,149.497
+per,eco_aggregate_man,ocu_isco08_8,2020,33.628
+per,eco_aggregate_man,ocu_isco08_9,2020,57.673
+per,eco_aggregate_man,ocu_isco08_total,2020,350.845
 per,eco_aggregate_man,ocu_isco88_1,2002,3.704
 per,eco_aggregate_man,ocu_isco88_1,2004,10.176
 per,eco_aggregate_man,ocu_isco88_1,2005,6.349
@@ -604,6 +636,7 @@ per,eco_aggregate_man,ocu_skill_l1,2016,140.01
 per,eco_aggregate_man,ocu_skill_l1,2017,112.813
 per,eco_aggregate_man,ocu_skill_l1,2018,138.337
 per,eco_aggregate_man,ocu_skill_l1,2019,118.744
+per,eco_aggregate_man,ocu_skill_l1,2020,57.673
 per,eco_aggregate_man,ocu_skill_l2,2002,459.39
 per,eco_aggregate_man,ocu_skill_l2,2003,401.889
 per,eco_aggregate_man,ocu_skill_l2,2004,498.287
@@ -622,6 +655,7 @@ per,eco_aggregate_man,ocu_skill_l2,2016,633.098
 per,eco_aggregate_man,ocu_skill_l2,2017,632.856
 per,eco_aggregate_man,ocu_skill_l2,2018,611.108
 per,eco_aggregate_man,ocu_skill_l2,2019,641.968
+per,eco_aggregate_man,ocu_skill_l2,2020,225.317
 per,eco_aggregate_man,ocu_skill_l3_4,2002,84.674
 per,eco_aggregate_man,ocu_skill_l3_4,2003,101.794
 per,eco_aggregate_man,ocu_skill_l3_4,2004,109.667
@@ -640,6 +674,7 @@ per,eco_aggregate_man,ocu_skill_l3_4,2016,156.726
 per,eco_aggregate_man,ocu_skill_l3_4,2017,165.281
 per,eco_aggregate_man,ocu_skill_l3_4,2018,169.238
 per,eco_aggregate_man,ocu_skill_l3_4,2019,166.82
+per,eco_aggregate_man,ocu_skill_l3_4,2020,67.855
 per,eco_aggregate_man,ocu_skill_total,2002,640.148
 per,eco_aggregate_man,ocu_skill_total,2003,570.217
 per,eco_aggregate_man,ocu_skill_total,2004,714.476
@@ -658,6 +693,14 @@ per,eco_aggregate_man,ocu_skill_total,2016,929.834
 per,eco_aggregate_man,ocu_skill_total,2017,910.95
 per,eco_aggregate_man,ocu_skill_total,2018,918.683
 per,eco_aggregate_man,ocu_skill_total,2019,927.532
+per,eco_aggregate_man,ocu_skill_total,2020,350.845
+per,eco_aggregate_mel,ocu_isco08_2,2020,9.459
+per,eco_aggregate_mel,ocu_isco08_3,2020,5.979
+per,eco_aggregate_mel,ocu_isco08_4,2020,4.637
+per,eco_aggregate_mel,ocu_isco08_7,2020,1.739
+per,eco_aggregate_mel,ocu_isco08_8,2020,1.99
+per,eco_aggregate_mel,ocu_isco08_9,2020,2.517
+per,eco_aggregate_mel,ocu_isco08_total,2020,27.586
 per,eco_aggregate_mel,ocu_isco88_1,2002,0.762
 per,eco_aggregate_mel,ocu_isco88_1,2012,2.191
 per,eco_aggregate_mel,ocu_isco88_1,2014,1.987
@@ -818,6 +861,7 @@ per,eco_aggregate_mel,ocu_skill_l1,2016,77.918
 per,eco_aggregate_mel,ocu_skill_l1,2017,72.843
 per,eco_aggregate_mel,ocu_skill_l1,2018,77.501
 per,eco_aggregate_mel,ocu_skill_l1,2019,79.736
+per,eco_aggregate_mel,ocu_skill_l1,2020,2.517
 per,eco_aggregate_mel,ocu_skill_l2,2002,63.791
 per,eco_aggregate_mel,ocu_skill_l2,2003,70.2
 per,eco_aggregate_mel,ocu_skill_l2,2004,76.446
@@ -836,6 +880,7 @@ per,eco_aggregate_mel,ocu_skill_l2,2016,106.831
 per,eco_aggregate_mel,ocu_skill_l2,2017,93.601
 per,eco_aggregate_mel,ocu_skill_l2,2018,94.118
 per,eco_aggregate_mel,ocu_skill_l2,2019,100.843
+per,eco_aggregate_mel,ocu_skill_l2,2020,9.025
 per,eco_aggregate_mel,ocu_skill_l3_4,2002,24.783
 per,eco_aggregate_mel,ocu_skill_l3_4,2003,21.412
 per,eco_aggregate_mel,ocu_skill_l3_4,2004,32.884
@@ -854,6 +899,7 @@ per,eco_aggregate_mel,ocu_skill_l3_4,2016,48.712
 per,eco_aggregate_mel,ocu_skill_l3_4,2017,59.596
 per,eco_aggregate_mel,ocu_skill_l3_4,2018,57.198
 per,eco_aggregate_mel,ocu_skill_l3_4,2019,41.069
+per,eco_aggregate_mel,ocu_skill_l3_4,2020,16.045
 per,eco_aggregate_mel,ocu_skill_total,2002,105.412
 per,eco_aggregate_mel,ocu_skill_total,2003,108.109
 per,eco_aggregate_mel,ocu_skill_total,2004,128.907
@@ -872,6 +918,16 @@ per,eco_aggregate_mel,ocu_skill_total,2016,233.461
 per,eco_aggregate_mel,ocu_skill_total,2017,226.04
 per,eco_aggregate_mel,ocu_skill_total,2018,228.817
 per,eco_aggregate_mel,ocu_skill_total,2019,221.648
+per,eco_aggregate_mel,ocu_skill_total,2020,27.586
+per,eco_aggregate_mkt,ocu_isco08_1,2020,14.888
+per,eco_aggregate_mkt,ocu_isco08_2,2020,86.173
+per,eco_aggregate_mkt,ocu_isco08_3,2020,156.306
+per,eco_aggregate_mkt,ocu_isco08_4,2020,223.959
+per,eco_aggregate_mkt,ocu_isco08_5,2020,231.304
+per,eco_aggregate_mkt,ocu_isco08_7,2020,23.162
+per,eco_aggregate_mkt,ocu_isco08_8,2020,49.639
+per,eco_aggregate_mkt,ocu_isco08_9,2020,201.79
+per,eco_aggregate_mkt,ocu_isco08_total,2020,987.457
 per,eco_aggregate_mkt,ocu_isco88_1,2002,15.569
 per,eco_aggregate_mkt,ocu_isco88_1,2003,4.982
 per,eco_aggregate_mkt,ocu_isco88_1,2004,5.423
@@ -1052,6 +1108,7 @@ per,eco_aggregate_mkt,ocu_skill_l1,2016,565.136
 per,eco_aggregate_mkt,ocu_skill_l1,2017,583.61
 per,eco_aggregate_mkt,ocu_skill_l1,2018,582.572
 per,eco_aggregate_mkt,ocu_skill_l1,2019,657.907
+per,eco_aggregate_mkt,ocu_skill_l1,2020,201.79
 per,eco_aggregate_mkt,ocu_skill_l2,2002,859.05
 per,eco_aggregate_mkt,ocu_skill_l2,2003,821.068
 per,eco_aggregate_mkt,ocu_skill_l2,2004,827.038
@@ -1070,6 +1127,7 @@ per,eco_aggregate_mkt,ocu_skill_l2,2016,1594.431
 per,eco_aggregate_mkt,ocu_skill_l2,2017,1744.222
 per,eco_aggregate_mkt,ocu_skill_l2,2018,1722.813
 per,eco_aggregate_mkt,ocu_skill_l2,2019,1711.226
+per,eco_aggregate_mkt,ocu_skill_l2,2020,528.166
 per,eco_aggregate_mkt,ocu_skill_l3_4,2002,278.751
 per,eco_aggregate_mkt,ocu_skill_l3_4,2003,308.875
 per,eco_aggregate_mkt,ocu_skill_l3_4,2004,254.312
@@ -1088,6 +1146,7 @@ per,eco_aggregate_mkt,ocu_skill_l3_4,2016,513.879
 per,eco_aggregate_mkt,ocu_skill_l3_4,2017,487.835
 per,eco_aggregate_mkt,ocu_skill_l3_4,2018,546.827
 per,eco_aggregate_mkt,ocu_skill_l3_4,2019,499.234
+per,eco_aggregate_mkt,ocu_skill_l3_4,2020,257.367
 per,eco_aggregate_mkt,ocu_skill_total,2002,1471.753
 per,eco_aggregate_mkt,ocu_skill_total,2003,1474.538
 per,eco_aggregate_mkt,ocu_skill_total,2004,1493.384
@@ -1106,6 +1165,17 @@ per,eco_aggregate_mkt,ocu_skill_total,2016,2673.446
 per,eco_aggregate_mkt,ocu_skill_total,2017,2815.667
 per,eco_aggregate_mkt,ocu_skill_total,2018,2852.211
 per,eco_aggregate_mkt,ocu_skill_total,2019,2868.367
+per,eco_aggregate_mkt,ocu_skill_total,2020,987.457
+per,eco_aggregate_pub,ocu_isco08_0,2020,62.557
+per,eco_aggregate_pub,ocu_isco08_1,2020,6.799
+per,eco_aggregate_pub,ocu_isco08_2,2020,249.52
+per,eco_aggregate_pub,ocu_isco08_3,2020,85.918
+per,eco_aggregate_pub,ocu_isco08_4,2020,89.661
+per,eco_aggregate_pub,ocu_isco08_5,2020,35.355
+per,eco_aggregate_pub,ocu_isco08_7,2020,8.133
+per,eco_aggregate_pub,ocu_isco08_8,2020,9.873
+per,eco_aggregate_pub,ocu_isco08_9,2020,204.038
+per,eco_aggregate_pub,ocu_isco08_total,2020,751.853
 per,eco_aggregate_pub,ocu_isco88_0,2002,109.427
 per,eco_aggregate_pub,ocu_isco88_0,2003,94.302
 per,eco_aggregate_pub,ocu_isco88_0,2004,106.684
@@ -1306,6 +1376,7 @@ per,eco_aggregate_pub,ocu_skill_l1,2016,764.768
 per,eco_aggregate_pub,ocu_skill_l1,2017,775.202
 per,eco_aggregate_pub,ocu_skill_l1,2018,714.772
 per,eco_aggregate_pub,ocu_skill_l1,2019,758.615
+per,eco_aggregate_pub,ocu_skill_l1,2020,204.038
 per,eco_aggregate_pub,ocu_skill_l2,2002,218.511
 per,eco_aggregate_pub,ocu_skill_l2,2003,244.401
 per,eco_aggregate_pub,ocu_skill_l2,2004,285.465
@@ -1324,6 +1395,7 @@ per,eco_aggregate_pub,ocu_skill_l2,2016,532.407
 per,eco_aggregate_pub,ocu_skill_l2,2017,540.629
 per,eco_aggregate_pub,ocu_skill_l2,2018,548.381
 per,eco_aggregate_pub,ocu_skill_l2,2019,538.436
+per,eco_aggregate_pub,ocu_skill_l2,2020,143.021
 per,eco_aggregate_pub,ocu_skill_l3_4,2002,780.812
 per,eco_aggregate_pub,ocu_skill_l3_4,2003,758.619
 per,eco_aggregate_pub,ocu_skill_l3_4,2004,844.306
@@ -1342,6 +1414,7 @@ per,eco_aggregate_pub,ocu_skill_l3_4,2016,1182.808
 per,eco_aggregate_pub,ocu_skill_l3_4,2017,1138.243
 per,eco_aggregate_pub,ocu_skill_l3_4,2018,1176.663
 per,eco_aggregate_pub,ocu_skill_l3_4,2019,1222.672
+per,eco_aggregate_pub,ocu_skill_l3_4,2020,342.237
 per,eco_aggregate_pub,ocu_skill_total,2002,1748.66
 per,eco_aggregate_pub,ocu_skill_total,2003,1727.041
 per,eco_aggregate_pub,ocu_skill_total,2004,1961.653
@@ -1360,6 +1433,7 @@ per,eco_aggregate_pub,ocu_skill_total,2016,2594.764
 per,eco_aggregate_pub,ocu_skill_total,2017,2579.741
 per,eco_aggregate_pub,ocu_skill_total,2018,2551.585
 per,eco_aggregate_pub,ocu_skill_total,2019,2633.531
+per,eco_aggregate_pub,ocu_skill_total,2020,751.853
 per,eco_aggregate_pub,ocu_skill_x,2002,109.427
 per,eco_aggregate_pub,ocu_skill_x,2003,94.302
 per,eco_aggregate_pub,ocu_skill_x,2004,106.684
@@ -1378,6 +1452,18 @@ per,eco_aggregate_pub,ocu_skill_x,2016,114.781
 per,eco_aggregate_pub,ocu_skill_x,2017,125.667
 per,eco_aggregate_pub,ocu_skill_x,2018,111.77
 per,eco_aggregate_pub,ocu_skill_x,2019,113.808
+per,eco_aggregate_pub,ocu_skill_x,2020,62.557
+per,eco_aggregate_total,ocu_isco08_0,2020,62.691
+per,eco_aggregate_total,ocu_isco08_1,2020,27.497
+per,eco_aggregate_total,ocu_isco08_2,2020,373.01
+per,eco_aggregate_total,ocu_isco08_3,2020,313.476
+per,eco_aggregate_total,ocu_isco08_4,2020,364.126
+per,eco_aggregate_total,ocu_isco08_5,2020,277.609
+per,eco_aggregate_total,ocu_isco08_6,2020,1.343
+per,eco_aggregate_total,ocu_isco08_7,2020,200.746
+per,eco_aggregate_total,ocu_isco08_8,2020,144.194
+per,eco_aggregate_total,ocu_isco08_9,2020,564.954
+per,eco_aggregate_total,ocu_isco08_total,2020,2329.645
 per,eco_aggregate_total,ocu_isco88_0,2002,109.427
 per,eco_aggregate_total,ocu_isco88_0,2003,94.302
 per,eco_aggregate_total,ocu_isco88_0,2004,106.684
@@ -1594,6 +1680,7 @@ per,eco_aggregate_total,ocu_skill_l1,2016,2831.513
 per,eco_aggregate_total,ocu_skill_l1,2017,2813.549
 per,eco_aggregate_total,ocu_skill_l1,2018,2828.943
 per,eco_aggregate_total,ocu_skill_l1,2019,3013.947
+per,eco_aggregate_total,ocu_skill_l1,2020,564.954
 per,eco_aggregate_total,ocu_skill_l2,2002,1758.665
 per,eco_aggregate_total,ocu_skill_l2,2003,1721.239
 per,eco_aggregate_total,ocu_skill_l2,2004,1814.681
@@ -1612,6 +1699,7 @@ per,eco_aggregate_total,ocu_skill_l2,2016,3184.463
 per,eco_aggregate_total,ocu_skill_l2,2017,3304.534
 per,eco_aggregate_total,ocu_skill_l2,2018,3263.251
 per,eco_aggregate_total,ocu_skill_l2,2019,3286.379
+per,eco_aggregate_total,ocu_skill_l2,2020,988.017
 per,eco_aggregate_total,ocu_skill_l3_4,2002,1194.946
 per,eco_aggregate_total,ocu_skill_l3_4,2003,1229.872
 per,eco_aggregate_total,ocu_skill_l3_4,2004,1267.718
@@ -1630,6 +1718,7 @@ per,eco_aggregate_total,ocu_skill_l3_4,2016,2002.78
 per,eco_aggregate_total,ocu_skill_l3_4,2017,1941.825
 per,eco_aggregate_total,ocu_skill_l3_4,2018,2065.164
 per,eco_aggregate_total,ocu_skill_l3_4,2019,2033.071
+per,eco_aggregate_total,ocu_skill_l3_4,2020,713.983
 per,eco_aggregate_total,ocu_skill_total,2002,4933.475
 per,eco_aggregate_total,ocu_skill_total,2003,4970.836
 per,eco_aggregate_total,ocu_skill_total,2004,5349.759
@@ -1648,6 +1737,7 @@ per,eco_aggregate_total,ocu_skill_total,2016,8133.537
 per,eco_aggregate_total,ocu_skill_total,2017,8185.575
 per,eco_aggregate_total,ocu_skill_total,2018,8269.129
 per,eco_aggregate_total,ocu_skill_total,2019,8447.204
+per,eco_aggregate_total,ocu_skill_total,2020,2329.645
 per,eco_aggregate_total,ocu_skill_x,2002,109.427
 per,eco_aggregate_total,ocu_skill_x,2003,94.302
 per,eco_aggregate_total,ocu_skill_x,2004,107.108
@@ -1666,6 +1756,7 @@ per,eco_aggregate_total,ocu_skill_x,2016,114.781
 per,eco_aggregate_total,ocu_skill_x,2017,125.667
 per,eco_aggregate_total,ocu_skill_x,2018,111.77
 per,eco_aggregate_total,ocu_skill_x,2019,113.808
+per,eco_aggregate_total,ocu_skill_x,2020,62.691
 per,eco_isic3_a,ocu_isco88_1,2002,0.133
 per,eco_isic3_a,ocu_isco88_2,2002,2.161
 per,eco_isic3_a,ocu_isco88_2,2006,1.926
@@ -2621,6 +2712,13 @@ per,eco_isic3_total,ocu_skill_x,2003,94.302
 per,eco_isic3_total,ocu_skill_x,2004,107.108
 per,eco_isic3_total,ocu_skill_x,2005,113.421
 per,eco_isic3_total,ocu_skill_x,2006,107.974
+per,eco_isic4_a,ocu_isco08_2,2020,0.846
+per,eco_isic4_a,ocu_isco08_3,2020,1.022
+per,eco_isic4_a,ocu_isco08_4,2020,3.085
+per,eco_isic4_a,ocu_isco08_6,2020,1.241
+per,eco_isic4_a,ocu_isco08_8,2020,1.161
+per,eco_isic4_a,ocu_isco08_9,2020,12.906
+per,eco_isic4_a,ocu_isco08_total,2020,21.028
 per,eco_isic4_a,ocu_isco88_2,2007,1.939
 per,eco_isic4_a,ocu_isco88_2,2008,2.49
 per,eco_isic4_a,ocu_isco88_2,2009,3.608
@@ -2750,6 +2848,7 @@ per,eco_isic4_a,ocu_skill_l1,2016,836.163
 per,eco_isic4_a,ocu_skill_l1,2017,816.142
 per,eco_isic4_a,ocu_skill_l1,2018,873.701
 per,eco_isic4_a,ocu_skill_l1,2019,883.068
+per,eco_isic4_a,ocu_skill_l1,2020,12.906
 per,eco_isic4_a,ocu_skill_l2,2007,44.175
 per,eco_isic4_a,ocu_skill_l2,2008,47.536
 per,eco_isic4_a,ocu_skill_l2,2009,55.705
@@ -2763,6 +2862,7 @@ per,eco_isic4_a,ocu_skill_l2,2016,74.472
 per,eco_isic4_a,ocu_skill_l2,2017,75.848
 per,eco_isic4_a,ocu_skill_l2,2018,71.078
 per,eco_isic4_a,ocu_skill_l2,2019,72.826
+per,eco_isic4_a,ocu_skill_l2,2020,6.254
 per,eco_isic4_a,ocu_skill_l3_4,2007,12.056
 per,eco_isic4_a,ocu_skill_l3_4,2008,9.458
 per,eco_isic4_a,ocu_skill_l3_4,2009,16.358
@@ -2776,6 +2876,7 @@ per,eco_isic4_a,ocu_skill_l3_4,2016,16.286
 per,eco_isic4_a,ocu_skill_l3_4,2017,14.908
 per,eco_isic4_a,ocu_skill_l3_4,2018,19.215
 per,eco_isic4_a,ocu_skill_l3_4,2019,19.025
+per,eco_isic4_a,ocu_skill_l3_4,2020,1.868
 per,eco_isic4_a,ocu_skill_total,2007,729.963
 per,eco_isic4_a,ocu_skill_total,2008,690.936
 per,eco_isic4_a,ocu_skill_total,2009,731.362
@@ -2789,6 +2890,13 @@ per,eco_isic4_a,ocu_skill_total,2016,926.92
 per,eco_isic4_a,ocu_skill_total,2017,906.898
 per,eco_isic4_a,ocu_skill_total,2018,963.994
 per,eco_isic4_a,ocu_skill_total,2019,974.919
+per,eco_isic4_a,ocu_skill_total,2020,21.028
+per,eco_isic4_b,ocu_isco08_2,2020,5.67
+per,eco_isic4_b,ocu_isco08_3,2020,3.792
+per,eco_isic4_b,ocu_isco08_4,2020,2.84
+per,eco_isic4_b,ocu_isco08_7,2020,1.188
+per,eco_isic4_b,ocu_isco08_8,2020,1.034
+per,eco_isic4_b,ocu_isco08_total,2020,15.351
 per,eco_isic4_b,ocu_isco88_1,2014,1.883
 per,eco_isic4_b,ocu_isco88_2,2007,9.254
 per,eco_isic4_b,ocu_isco88_2,2008,12.25
@@ -2918,6 +3026,7 @@ per,eco_isic4_b,ocu_skill_l2,2016,82.617
 per,eco_isic4_b,ocu_skill_l2,2017,77.399
 per,eco_isic4_b,ocu_skill_l2,2018,74.902
 per,eco_isic4_b,ocu_skill_l2,2019,80.347
+per,eco_isic4_b,ocu_skill_l2,2020,5.062
 per,eco_isic4_b,ocu_skill_l3_4,2007,26.385
 per,eco_isic4_b,ocu_skill_l3_4,2008,37.522
 per,eco_isic4_b,ocu_skill_l3_4,2009,21.824
@@ -2931,6 +3040,7 @@ per,eco_isic4_b,ocu_skill_l3_4,2016,35.537
 per,eco_isic4_b,ocu_skill_l3_4,2017,43.345
 per,eco_isic4_b,ocu_skill_l3_4,2018,40.173
 per,eco_isic4_b,ocu_skill_l3_4,2019,32.65
+per,eco_isic4_b,ocu_skill_l3_4,2020,9.828
 per,eco_isic4_b,ocu_skill_total,2007,132.408
 per,eco_isic4_b,ocu_skill_total,2008,145.321
 per,eco_isic4_b,ocu_skill_total,2009,131.544
@@ -2944,6 +3054,16 @@ per,eco_isic4_b,ocu_skill_total,2016,182.781
 per,eco_isic4_b,ocu_skill_total,2017,185.858
 per,eco_isic4_b,ocu_skill_total,2018,181.738
 per,eco_isic4_b,ocu_skill_total,2019,178.868
+per,eco_isic4_b,ocu_skill_total,2020,15.351
+per,eco_isic4_c,ocu_isco08_1,2020,4.042
+per,eco_isic4_c,ocu_isco08_2,2020,14.472
+per,eco_isic4_c,ocu_isco08_3,2020,49.341
+per,eco_isic4_c,ocu_isco08_4,2020,32.098
+per,eco_isic4_c,ocu_isco08_5,2020,10.094
+per,eco_isic4_c,ocu_isco08_7,2020,149.497
+per,eco_isic4_c,ocu_isco08_8,2020,33.628
+per,eco_isic4_c,ocu_isco08_9,2020,57.673
+per,eco_isic4_c,ocu_isco08_total,2020,350.845
 per,eco_isic4_c,ocu_isco88_1,2008,5.668
 per,eco_isic4_c,ocu_isco88_1,2009,5.708
 per,eco_isic4_c,ocu_isco88_1,2012,5.11
@@ -3072,6 +3192,7 @@ per,eco_isic4_c,ocu_skill_l1,2016,140.01
 per,eco_isic4_c,ocu_skill_l1,2017,112.813
 per,eco_isic4_c,ocu_skill_l1,2018,138.337
 per,eco_isic4_c,ocu_skill_l1,2019,118.744
+per,eco_isic4_c,ocu_skill_l1,2020,57.673
 per,eco_isic4_c,ocu_skill_l2,2007,663.747
 per,eco_isic4_c,ocu_skill_l2,2008,699.606
 per,eco_isic4_c,ocu_skill_l2,2009,626.446
@@ -3085,6 +3206,7 @@ per,eco_isic4_c,ocu_skill_l2,2016,633.098
 per,eco_isic4_c,ocu_skill_l2,2017,632.856
 per,eco_isic4_c,ocu_skill_l2,2018,611.108
 per,eco_isic4_c,ocu_skill_l2,2019,641.968
+per,eco_isic4_c,ocu_skill_l2,2020,225.317
 per,eco_isic4_c,ocu_skill_l3_4,2007,127.1
 per,eco_isic4_c,ocu_skill_l3_4,2008,129.516
 per,eco_isic4_c,ocu_skill_l3_4,2009,140.334
@@ -3098,6 +3220,7 @@ per,eco_isic4_c,ocu_skill_l3_4,2016,156.726
 per,eco_isic4_c,ocu_skill_l3_4,2017,165.281
 per,eco_isic4_c,ocu_skill_l3_4,2018,169.238
 per,eco_isic4_c,ocu_skill_l3_4,2019,166.82
+per,eco_isic4_c,ocu_skill_l3_4,2020,67.855
 per,eco_isic4_c,ocu_skill_total,2007,921.791
 per,eco_isic4_c,ocu_skill_total,2008,929.6
 per,eco_isic4_c,ocu_skill_total,2009,899.596
@@ -3111,6 +3234,10 @@ per,eco_isic4_c,ocu_skill_total,2016,929.834
 per,eco_isic4_c,ocu_skill_total,2017,910.95
 per,eco_isic4_c,ocu_skill_total,2018,918.683
 per,eco_isic4_c,ocu_skill_total,2019,927.532
+per,eco_isic4_c,ocu_skill_total,2020,350.845
+per,eco_isic4_d,ocu_isco08_2,2020,3.589
+per,eco_isic4_d,ocu_isco08_3,2020,1.702
+per,eco_isic4_d,ocu_isco08_total,2020,6.964
 per,eco_isic4_d,ocu_isco88_2,2008,3.607
 per,eco_isic4_d,ocu_isco88_2,2009,3.291
 per,eco_isic4_d,ocu_isco88_2,2010,2.784
@@ -3214,6 +3341,7 @@ per,eco_isic4_d,ocu_skill_l2,2016,12.757
 per,eco_isic4_d,ocu_skill_l2,2017,7.966
 per,eco_isic4_d,ocu_skill_l2,2018,7.448
 per,eco_isic4_d,ocu_skill_l2,2019,6.839
+per,eco_isic4_d,ocu_skill_l2,2020,0.989
 per,eco_isic4_d,ocu_skill_l3_4,2007,7.254
 per,eco_isic4_d,ocu_skill_l3_4,2008,9.714
 per,eco_isic4_d,ocu_skill_l3_4,2009,10.573
@@ -3227,6 +3355,7 @@ per,eco_isic4_d,ocu_skill_l3_4,2016,8.678
 per,eco_isic4_d,ocu_skill_l3_4,2017,9.96
 per,eco_isic4_d,ocu_skill_l3_4,2018,7.963
 per,eco_isic4_d,ocu_skill_l3_4,2019,5.517
+per,eco_isic4_d,ocu_skill_l3_4,2020,5.531
 per,eco_isic4_d,ocu_skill_total,2007,12.861
 per,eco_isic4_d,ocu_skill_total,2008,18.093
 per,eco_isic4_d,ocu_skill_total,2009,18.437
@@ -3240,6 +3369,11 @@ per,eco_isic4_d,ocu_skill_total,2016,25.266
 per,eco_isic4_d,ocu_skill_total,2017,20.426
 per,eco_isic4_d,ocu_skill_total,2018,17.267
 per,eco_isic4_d,ocu_skill_total,2019,15.656
+per,eco_isic4_d,ocu_skill_total,2020,6.964
+per,eco_isic4_e,ocu_isco08_4,2020,1.612
+per,eco_isic4_e,ocu_isco08_8,2020,0.621
+per,eco_isic4_e,ocu_isco08_9,2020,1.612
+per,eco_isic4_e,ocu_isco08_total,2020,5.272
 per,eco_isic4_e,ocu_isco88_2,2013,0.91
 per,eco_isic4_e,ocu_isco88_2,2014,2.011
 per,eco_isic4_e,ocu_isco88_2,2015,2.454
@@ -3333,6 +3467,7 @@ per,eco_isic4_e,ocu_skill_l1,2016,9.461
 per,eco_isic4_e,ocu_skill_l1,2017,5.229
 per,eco_isic4_e,ocu_skill_l1,2018,8.981
 per,eco_isic4_e,ocu_skill_l1,2019,10.565
+per,eco_isic4_e,ocu_skill_l1,2020,1.612
 per,eco_isic4_e,ocu_skill_l2,2007,6.745
 per,eco_isic4_e,ocu_skill_l2,2008,13.261
 per,eco_isic4_e,ocu_skill_l2,2009,9.339
@@ -3346,6 +3481,7 @@ per,eco_isic4_e,ocu_skill_l2,2016,11.458
 per,eco_isic4_e,ocu_skill_l2,2017,8.237
 per,eco_isic4_e,ocu_skill_l2,2018,11.769
 per,eco_isic4_e,ocu_skill_l2,2019,13.657
+per,eco_isic4_e,ocu_skill_l2,2020,2.974
 per,eco_isic4_e,ocu_skill_l3_4,2007,2.821
 per,eco_isic4_e,ocu_skill_l3_4,2008,3.817
 per,eco_isic4_e,ocu_skill_l3_4,2009,3.738
@@ -3359,6 +3495,7 @@ per,eco_isic4_e,ocu_skill_l3_4,2016,4.496
 per,eco_isic4_e,ocu_skill_l3_4,2017,6.29
 per,eco_isic4_e,ocu_skill_l3_4,2018,9.063
 per,eco_isic4_e,ocu_skill_l3_4,2019,2.902
+per,eco_isic4_e,ocu_skill_l3_4,2020,0.686
 per,eco_isic4_e,ocu_skill_total,2007,14.64
 per,eco_isic4_e,ocu_skill_total,2008,22.909
 per,eco_isic4_e,ocu_skill_total,2009,20.774
@@ -3372,6 +3509,15 @@ per,eco_isic4_e,ocu_skill_total,2016,25.415
 per,eco_isic4_e,ocu_skill_total,2017,19.756
 per,eco_isic4_e,ocu_skill_total,2018,29.813
 per,eco_isic4_e,ocu_skill_total,2019,27.124
+per,eco_isic4_e,ocu_skill_total,2020,5.272
+per,eco_isic4_f,ocu_isco08_1,2020,1.162
+per,eco_isic4_f,ocu_isco08_2,2020,12.54
+per,eco_isic4_f,ocu_isco08_3,2020,14.91
+per,eco_isic4_f,ocu_isco08_4,2020,10.686
+per,eco_isic4_f,ocu_isco08_7,2020,17.646
+per,eco_isic4_f,ocu_isco08_8,2020,47.902
+per,eco_isic4_f,ocu_isco08_9,2020,86.032
+per,eco_isic4_f,ocu_isco08_total,2020,190.877
 per,eco_isic4_f,ocu_isco88_1,2012,3.673
 per,eco_isic4_f,ocu_isco88_1,2014,3.253
 per,eco_isic4_f,ocu_isco88_1,2015,5.01
@@ -3481,6 +3627,7 @@ per,eco_isic4_f,ocu_skill_l1,2016,447.518
 per,eco_isic4_f,ocu_skill_l1,2017,452.939
 per,eco_isic4_f,ocu_skill_l1,2018,442.062
 per,eco_isic4_f,ocu_skill_l1,2019,515.876
+per,eco_isic4_f,ocu_skill_l1,2020,86.032
 per,eco_isic4_f,ocu_skill_l2,2007,129.392
 per,eco_isic4_f,ocu_skill_l2,2008,159.633
 per,eco_isic4_f,ocu_skill_l2,2009,173.79
@@ -3494,6 +3641,7 @@ per,eco_isic4_f,ocu_skill_l2,2016,243.224
 per,eco_isic4_f,ocu_skill_l2,2017,217.378
 per,eco_isic4_f,ocu_skill_l2,2018,215.754
 per,eco_isic4_f,ocu_skill_l2,2019,221.079
+per,eco_isic4_f,ocu_skill_l2,2020,76.234
 per,eco_isic4_f,ocu_skill_l3_4,2007,26.548
 per,eco_isic4_f,ocu_skill_l3_4,2008,45.288
 per,eco_isic4_f,ocu_skill_l3_4,2009,50.463
@@ -3507,6 +3655,7 @@ per,eco_isic4_f,ocu_skill_l3_4,2016,84.37
 per,eco_isic4_f,ocu_skill_l3_4,2017,75.963
 per,eco_isic4_f,ocu_skill_l3_4,2018,96.023
 per,eco_isic4_f,ocu_skill_l3_4,2019,84.252
+per,eco_isic4_f,ocu_skill_l3_4,2020,28.612
 per,eco_isic4_f,ocu_skill_total,2007,418.857
 per,eco_isic4_f,ocu_skill_total,2008,483.431
 per,eco_isic4_f,ocu_skill_total,2009,549.982
@@ -3520,6 +3669,16 @@ per,eco_isic4_f,ocu_skill_total,2016,775.112
 per,eco_isic4_f,ocu_skill_total,2017,746.28
 per,eco_isic4_f,ocu_skill_total,2018,753.839
 per,eco_isic4_f,ocu_skill_total,2019,821.206
+per,eco_isic4_f,ocu_skill_total,2020,190.877
+per,eco_isic4_g,ocu_isco08_1,2020,3.643
+per,eco_isic4_g,ocu_isco08_2,2020,15.428
+per,eco_isic4_g,ocu_isco08_3,2020,50.182
+per,eco_isic4_g,ocu_isco08_4,2020,62.144
+per,eco_isic4_g,ocu_isco08_5,2020,143.067
+per,eco_isic4_g,ocu_isco08_7,2020,16.898
+per,eco_isic4_g,ocu_isco08_8,2020,13.135
+per,eco_isic4_g,ocu_isco08_9,2020,60.554
+per,eco_isic4_g,ocu_isco08_total,2020,365.051
 per,eco_isic4_g,ocu_isco88_1,2008,3.729
 per,eco_isic4_g,ocu_isco88_1,2009,7.022
 per,eco_isic4_g,ocu_isco88_1,2010,3.192
@@ -3649,6 +3808,7 @@ per,eco_isic4_g,ocu_skill_l1,2016,138.267
 per,eco_isic4_g,ocu_skill_l1,2017,147.877
 per,eco_isic4_g,ocu_skill_l1,2018,145.614
 per,eco_isic4_g,ocu_skill_l1,2019,167.536
+per,eco_isic4_g,ocu_skill_l1,2020,60.554
 per,eco_isic4_g,ocu_skill_l2,2007,462.899
 per,eco_isic4_g,ocu_skill_l2,2008,517.612
 per,eco_isic4_g,ocu_skill_l2,2009,531.554
@@ -3662,6 +3822,7 @@ per,eco_isic4_g,ocu_skill_l2,2016,730.26
 per,eco_isic4_g,ocu_skill_l2,2017,816.01
 per,eco_isic4_g,ocu_skill_l2,2018,766.372
 per,eco_isic4_g,ocu_skill_l2,2019,812.367
+per,eco_isic4_g,ocu_skill_l2,2020,235.244
 per,eco_isic4_g,ocu_skill_l3_4,2007,91.04
 per,eco_isic4_g,ocu_skill_l3_4,2008,105.419
 per,eco_isic4_g,ocu_skill_l3_4,2009,128.49
@@ -3675,6 +3836,7 @@ per,eco_isic4_g,ocu_skill_l3_4,2016,160.078
 per,eco_isic4_g,ocu_skill_l3_4,2017,140.372
 per,eco_isic4_g,ocu_skill_l3_4,2018,171.305
 per,eco_isic4_g,ocu_skill_l3_4,2019,156.862
+per,eco_isic4_g,ocu_skill_l3_4,2020,69.254
 per,eco_isic4_g,ocu_skill_total,2007,735.106
 per,eco_isic4_g,ocu_skill_total,2008,763.366
 per,eco_isic4_g,ocu_skill_total,2009,797.491
@@ -3688,6 +3850,16 @@ per,eco_isic4_g,ocu_skill_total,2016,1028.605
 per,eco_isic4_g,ocu_skill_total,2017,1104.258
 per,eco_isic4_g,ocu_skill_total,2018,1083.291
 per,eco_isic4_g,ocu_skill_total,2019,1136.765
+per,eco_isic4_g,ocu_skill_total,2020,365.051
+per,eco_isic4_h,ocu_isco08_1,2020,1.828
+per,eco_isic4_h,ocu_isco08_2,2020,4.044
+per,eco_isic4_h,ocu_isco08_3,2020,11.544
+per,eco_isic4_h,ocu_isco08_4,2020,30.688
+per,eco_isic4_h,ocu_isco08_5,2020,1.342
+per,eco_isic4_h,ocu_isco08_7,2020,0.962
+per,eco_isic4_h,ocu_isco08_8,2020,30.854
+per,eco_isic4_h,ocu_isco08_9,2020,31.327
+per,eco_isic4_h,ocu_isco08_total,2020,112.588
 per,eco_isic4_h,ocu_isco88_1,2015,3.508
 per,eco_isic4_h,ocu_isco88_1,2019,2.212
 per,eco_isic4_h,ocu_isco88_2,2007,3.531
@@ -3803,6 +3975,7 @@ per,eco_isic4_h,ocu_skill_l1,2016,107.874
 per,eco_isic4_h,ocu_skill_l1,2017,97.338
 per,eco_isic4_h,ocu_skill_l1,2018,96.004
 per,eco_isic4_h,ocu_skill_l1,2019,95.643
+per,eco_isic4_h,ocu_skill_l1,2020,31.327
 per,eco_isic4_h,ocu_skill_l2,2007,166.112
 per,eco_isic4_h,ocu_skill_l2,2008,169.021
 per,eco_isic4_h,ocu_skill_l2,2009,174.321
@@ -3816,6 +3989,7 @@ per,eco_isic4_h,ocu_skill_l2,2016,212.622
 per,eco_isic4_h,ocu_skill_l2,2017,225.835
 per,eco_isic4_h,ocu_skill_l2,2018,231.822
 per,eco_isic4_h,ocu_skill_l2,2019,219.725
+per,eco_isic4_h,ocu_skill_l2,2020,63.846
 per,eco_isic4_h,ocu_skill_l3_4,2007,23.65
 per,eco_isic4_h,ocu_skill_l3_4,2008,28.478
 per,eco_isic4_h,ocu_skill_l3_4,2009,26.047
@@ -3829,6 +4003,7 @@ per,eco_isic4_h,ocu_skill_l3_4,2016,33.812
 per,eco_isic4_h,ocu_skill_l3_4,2017,32.734
 per,eco_isic4_h,ocu_skill_l3_4,2018,29.157
 per,eco_isic4_h,ocu_skill_l3_4,2019,28.987
+per,eco_isic4_h,ocu_skill_l3_4,2020,17.416
 per,eco_isic4_h,ocu_skill_total,2007,298.649
 per,eco_isic4_h,ocu_skill_total,2008,327.46
 per,eco_isic4_h,ocu_skill_total,2009,294.095
@@ -3842,6 +4017,13 @@ per,eco_isic4_h,ocu_skill_total,2016,354.308
 per,eco_isic4_h,ocu_skill_total,2017,355.907
 per,eco_isic4_h,ocu_skill_total,2018,356.983
 per,eco_isic4_h,ocu_skill_total,2019,344.356
+per,eco_isic4_h,ocu_skill_total,2020,112.588
+per,eco_isic4_i,ocu_isco08_2,2020,1.358
+per,eco_isic4_i,ocu_isco08_3,2020,5.369
+per,eco_isic4_i,ocu_isco08_4,2020,12.843
+per,eco_isic4_i,ocu_isco08_5,2020,43.9
+per,eco_isic4_i,ocu_isco08_9,2020,46.95
+per,eco_isic4_i,ocu_isco08_total,2020,111.349
 per,eco_isic4_i,ocu_isco88_2,2008,4.307
 per,eco_isic4_i,ocu_isco88_2,2009,4.406
 per,eco_isic4_i,ocu_isco88_2,2010,4.798
@@ -3939,6 +4121,7 @@ per,eco_isic4_i,ocu_skill_l1,2016,166.565
 per,eco_isic4_i,ocu_skill_l1,2017,167.983
 per,eco_isic4_i,ocu_skill_l1,2018,195.233
 per,eco_isic4_i,ocu_skill_l1,2019,210.45
+per,eco_isic4_i,ocu_skill_l1,2020,46.95
 per,eco_isic4_i,ocu_skill_l2,2007,147.865
 per,eco_isic4_i,ocu_skill_l2,2008,177.568
 per,eco_isic4_i,ocu_skill_l2,2009,173.274
@@ -3952,6 +4135,7 @@ per,eco_isic4_i,ocu_skill_l2,2016,282.272
 per,eco_isic4_i,ocu_skill_l2,2017,328.542
 per,eco_isic4_i,ocu_skill_l2,2018,350.786
 per,eco_isic4_i,ocu_skill_l2,2019,301.975
+per,eco_isic4_i,ocu_skill_l2,2020,57.527
 per,eco_isic4_i,ocu_skill_l3_4,2007,12.891
 per,eco_isic4_i,ocu_skill_l3_4,2008,14.52
 per,eco_isic4_i,ocu_skill_l3_4,2009,16.39
@@ -3965,6 +4149,7 @@ per,eco_isic4_i,ocu_skill_l3_4,2016,23.223
 per,eco_isic4_i,ocu_skill_l3_4,2017,22.398
 per,eco_isic4_i,ocu_skill_l3_4,2018,30.481
 per,eco_isic4_i,ocu_skill_l3_4,2019,23.446
+per,eco_isic4_i,ocu_skill_l3_4,2020,6.872
 per,eco_isic4_i,ocu_skill_total,2007,252.565
 per,eco_isic4_i,ocu_skill_total,2008,302.51
 per,eco_isic4_i,ocu_skill_total,2009,313.934
@@ -3978,6 +4163,14 @@ per,eco_isic4_i,ocu_skill_total,2016,472.06
 per,eco_isic4_i,ocu_skill_total,2017,518.922
 per,eco_isic4_i,ocu_skill_total,2018,576.499
 per,eco_isic4_i,ocu_skill_total,2019,535.87
+per,eco_isic4_i,ocu_skill_total,2020,111.349
+per,eco_isic4_j,ocu_isco08_1,2020,1.798
+per,eco_isic4_j,ocu_isco08_2,2020,21.063
+per,eco_isic4_j,ocu_isco08_3,2020,22.417
+per,eco_isic4_j,ocu_isco08_4,2020,6.756
+per,eco_isic4_j,ocu_isco08_7,2020,0.764
+per,eco_isic4_j,ocu_isco08_9,2020,3.632
+per,eco_isic4_j,ocu_isco08_total,2020,57.152
 per,eco_isic4_j,ocu_isco88_1,2016,2.652
 per,eco_isic4_j,ocu_isco88_2,2007,12.52
 per,eco_isic4_j,ocu_isco88_2,2008,8.29
@@ -4074,6 +4267,7 @@ per,eco_isic4_j,ocu_skill_l1,2016,24.569
 per,eco_isic4_j,ocu_skill_l1,2017,18.61
 per,eco_isic4_j,ocu_skill_l1,2018,14.173
 per,eco_isic4_j,ocu_skill_l1,2019,14.219
+per,eco_isic4_j,ocu_skill_l1,2020,3.632
 per,eco_isic4_j,ocu_skill_l2,2007,28.108
 per,eco_isic4_j,ocu_skill_l2,2008,30.131
 per,eco_isic4_j,ocu_skill_l2,2009,40.527
@@ -4087,6 +4281,7 @@ per,eco_isic4_j,ocu_skill_l2,2016,37.872
 per,eco_isic4_j,ocu_skill_l2,2017,35.133
 per,eco_isic4_j,ocu_skill_l2,2018,32.76
 per,eco_isic4_j,ocu_skill_l2,2019,42.597
+per,eco_isic4_j,ocu_skill_l2,2020,8.243
 per,eco_isic4_j,ocu_skill_l3_4,2007,48.237
 per,eco_isic4_j,ocu_skill_l3_4,2008,40.421
 per,eco_isic4_j,ocu_skill_l3_4,2009,51.495
@@ -4100,6 +4295,7 @@ per,eco_isic4_j,ocu_skill_l3_4,2016,63.146
 per,eco_isic4_j,ocu_skill_l3_4,2017,63.21
 per,eco_isic4_j,ocu_skill_l3_4,2018,71.578
 per,eco_isic4_j,ocu_skill_l3_4,2019,54.959
+per,eco_isic4_j,ocu_skill_l3_4,2020,45.278
 per,eco_isic4_j,ocu_skill_total,2007,114.028
 per,eco_isic4_j,ocu_skill_total,2008,109.875
 per,eco_isic4_j,ocu_skill_total,2009,142.311
@@ -4113,6 +4309,12 @@ per,eco_isic4_j,ocu_skill_total,2016,125.586
 per,eco_isic4_j,ocu_skill_total,2017,116.953
 per,eco_isic4_j,ocu_skill_total,2018,118.511
 per,eco_isic4_j,ocu_skill_total,2019,111.775
+per,eco_isic4_j,ocu_skill_total,2020,57.152
+per,eco_isic4_k,ocu_isco08_1,2020,4.281
+per,eco_isic4_k,ocu_isco08_2,2020,13.707
+per,eco_isic4_k,ocu_isco08_3,2020,13.557
+per,eco_isic4_k,ocu_isco08_4,2020,34.419
+per,eco_isic4_k,ocu_isco08_total,2020,66.642
 per,eco_isic4_k,ocu_isco88_1,2010,2.556
 per,eco_isic4_k,ocu_isco88_1,2012,2.622
 per,eco_isic4_k,ocu_isco88_1,2013,3.837
@@ -4210,6 +4412,7 @@ per,eco_isic4_k,ocu_skill_l2,2016,104.062
 per,eco_isic4_k,ocu_skill_l2,2017,97.528
 per,eco_isic4_k,ocu_skill_l2,2018,109.154
 per,eco_isic4_k,ocu_skill_l2,2019,93.001
+per,eco_isic4_k,ocu_skill_l2,2020,34.561
 per,eco_isic4_k,ocu_skill_l3_4,2007,19.915
 per,eco_isic4_k,ocu_skill_l3_4,2008,24.911
 per,eco_isic4_k,ocu_skill_l3_4,2009,30.956
@@ -4223,6 +4426,7 @@ per,eco_isic4_k,ocu_skill_l3_4,2016,40.15
 per,eco_isic4_k,ocu_skill_l3_4,2017,32.431
 per,eco_isic4_k,ocu_skill_l3_4,2018,39.135
 per,eco_isic4_k,ocu_skill_l3_4,2019,32.555
+per,eco_isic4_k,ocu_skill_l3_4,2020,31.545
 per,eco_isic4_k,ocu_skill_total,2007,71.432
 per,eco_isic4_k,ocu_skill_total,2008,94.737
 per,eco_isic4_k,ocu_skill_total,2009,102.743
@@ -4236,6 +4440,12 @@ per,eco_isic4_k,ocu_skill_total,2016,146.799
 per,eco_isic4_k,ocu_skill_total,2017,134.399
 per,eco_isic4_k,ocu_skill_total,2018,153.354
 per,eco_isic4_k,ocu_skill_total,2019,127.404
+per,eco_isic4_k,ocu_skill_total,2020,66.642
+per,eco_isic4_l,ocu_isco08_2,2020,0.778
+per,eco_isic4_l,ocu_isco08_3,2020,3.14
+per,eco_isic4_l,ocu_isco08_4,2020,1.806
+per,eco_isic4_l,ocu_isco08_9,2020,1.08
+per,eco_isic4_l,ocu_isco08_total,2020,7.319
 per,eco_isic4_l,ocu_isco88_2,2015,2.355
 per,eco_isic4_l,ocu_isco88_2,2016,4.375
 per,eco_isic4_l,ocu_isco88_2,2018,1.174
@@ -4292,6 +4502,7 @@ per,eco_isic4_l,ocu_skill_l1,2016,3.845
 per,eco_isic4_l,ocu_skill_l1,2017,1.28
 per,eco_isic4_l,ocu_skill_l1,2018,2.421
 per,eco_isic4_l,ocu_skill_l1,2019,8.04
+per,eco_isic4_l,ocu_skill_l1,2020,1.08
 per,eco_isic4_l,ocu_skill_l2,2007,3.601
 per,eco_isic4_l,ocu_skill_l2,2010,4.021
 per,eco_isic4_l,ocu_skill_l2,2013,5.656
@@ -4301,6 +4512,7 @@ per,eco_isic4_l,ocu_skill_l2,2016,4.087
 per,eco_isic4_l,ocu_skill_l2,2017,3.798
 per,eco_isic4_l,ocu_skill_l2,2018,5.956
 per,eco_isic4_l,ocu_skill_l2,2019,3.963
+per,eco_isic4_l,ocu_skill_l2,2020,1.806
 per,eco_isic4_l,ocu_skill_l3_4,2007,6.661
 per,eco_isic4_l,ocu_skill_l3_4,2008,6.643
 per,eco_isic4_l,ocu_skill_l3_4,2009,7.235
@@ -4313,6 +4525,7 @@ per,eco_isic4_l,ocu_skill_l3_4,2016,8.199
 per,eco_isic4_l,ocu_skill_l3_4,2017,5.029
 per,eco_isic4_l,ocu_skill_l3_4,2018,15.252
 per,eco_isic4_l,ocu_skill_l3_4,2019,8.212
+per,eco_isic4_l,ocu_skill_l3_4,2020,4.433
 per,eco_isic4_l,ocu_skill_total,2007,12.913
 per,eco_isic4_l,ocu_skill_total,2008,9.722
 per,eco_isic4_l,ocu_skill_total,2009,10.417
@@ -4326,6 +4539,14 @@ per,eco_isic4_l,ocu_skill_total,2016,16.132
 per,eco_isic4_l,ocu_skill_total,2017,10.107
 per,eco_isic4_l,ocu_skill_total,2018,23.628
 per,eco_isic4_l,ocu_skill_total,2019,20.214
+per,eco_isic4_l,ocu_skill_total,2020,7.319
+per,eco_isic4_m,ocu_isco08_1,2020,1.46
+per,eco_isic4_m,ocu_isco08_2,2020,21.705
+per,eco_isic4_m,ocu_isco08_3,2020,32.148
+per,eco_isic4_m,ocu_isco08_4,2020,12.801
+per,eco_isic4_m,ocu_isco08_8,2020,1.865
+per,eco_isic4_m,ocu_isco08_9,2020,4.456
+per,eco_isic4_m,ocu_isco08_total,2020,74.747
 per,eco_isic4_m,ocu_isco88_1,2013,1.681
 per,eco_isic4_m,ocu_isco88_1,2019,2.59
 per,eco_isic4_m,ocu_isco88_2,2007,24.695
@@ -4415,6 +4636,7 @@ per,eco_isic4_m,ocu_skill_l1,2016,11.114
 per,eco_isic4_m,ocu_skill_l1,2017,9.719
 per,eco_isic4_m,ocu_skill_l1,2018,9.804
 per,eco_isic4_m,ocu_skill_l1,2019,9.52
+per,eco_isic4_m,ocu_skill_l1,2020,4.456
 per,eco_isic4_m,ocu_skill_l2,2007,30.752
 per,eco_isic4_m,ocu_skill_l2,2008,44.932
 per,eco_isic4_m,ocu_skill_l2,2009,35.007
@@ -4428,6 +4650,7 @@ per,eco_isic4_m,ocu_skill_l2,2016,33.357
 per,eco_isic4_m,ocu_skill_l2,2017,39.937
 per,eco_isic4_m,ocu_skill_l2,2018,35.462
 per,eco_isic4_m,ocu_skill_l2,2019,55.39
+per,eco_isic4_m,ocu_skill_l2,2020,14.845
 per,eco_isic4_m,ocu_skill_l3_4,2007,73.682
 per,eco_isic4_m,ocu_skill_l3_4,2008,88.525
 per,eco_isic4_m,ocu_skill_l3_4,2009,84.955
@@ -4441,6 +4664,7 @@ per,eco_isic4_m,ocu_skill_l3_4,2016,132.908
 per,eco_isic4_m,ocu_skill_l3_4,2017,123.476
 per,eco_isic4_m,ocu_skill_l3_4,2018,124.461
 per,eco_isic4_m,ocu_skill_l3_4,2019,137.192
+per,eco_isic4_m,ocu_skill_l3_4,2020,55.313
 per,eco_isic4_m,ocu_skill_total,2007,114.071
 per,eco_isic4_m,ocu_skill_total,2008,139.721
 per,eco_isic4_m,ocu_skill_total,2009,126.865
@@ -4454,6 +4678,15 @@ per,eco_isic4_m,ocu_skill_total,2016,177.379
 per,eco_isic4_m,ocu_skill_total,2017,173.131
 per,eco_isic4_m,ocu_skill_total,2018,169.727
 per,eco_isic4_m,ocu_skill_total,2019,202.102
+per,eco_isic4_m,ocu_skill_total,2020,74.747
+per,eco_isic4_n,ocu_isco08_2,2020,8.09
+per,eco_isic4_n,ocu_isco08_3,2020,17.95
+per,eco_isic4_n,ocu_isco08_4,2020,62.502
+per,eco_isic4_n,ocu_isco08_5,2020,42.579
+per,eco_isic4_n,ocu_isco08_7,2020,3.789
+per,eco_isic4_n,ocu_isco08_8,2020,3.125
+per,eco_isic4_n,ocu_isco08_9,2020,53.256
+per,eco_isic4_n,ocu_isco08_total,2020,192.609
 per,eco_isic4_n,ocu_isco88_1,2014,3.05
 per,eco_isic4_n,ocu_isco88_1,2017,2.146
 per,eco_isic4_n,ocu_isco88_2,2008,7.881
@@ -4572,6 +4805,7 @@ per,eco_isic4_n,ocu_skill_l1,2016,110.314
 per,eco_isic4_n,ocu_skill_l1,2017,136.364
 per,eco_isic4_n,ocu_skill_l1,2018,114.258
 per,eco_isic4_n,ocu_skill_l1,2019,150.651
+per,eco_isic4_n,ocu_skill_l1,2020,53.256
 per,eco_isic4_n,ocu_skill_l2,2007,127.348
 per,eco_isic4_n,ocu_skill_l2,2008,130.571
 per,eco_isic4_n,ocu_skill_l2,2009,139.506
@@ -4585,6 +4819,7 @@ per,eco_isic4_n,ocu_skill_l2,2016,189.9
 per,eco_isic4_n,ocu_skill_l2,2017,197.439
 per,eco_isic4_n,ocu_skill_l2,2018,190.501
 per,eco_isic4_n,ocu_skill_l2,2019,182.209
+per,eco_isic4_n,ocu_skill_l2,2020,112.096
 per,eco_isic4_n,ocu_skill_l3_4,2007,50.628
 per,eco_isic4_n,ocu_skill_l3_4,2008,47.968
 per,eco_isic4_n,ocu_skill_l3_4,2009,35.078
@@ -4598,6 +4833,7 @@ per,eco_isic4_n,ocu_skill_l3_4,2016,52.364
 per,eco_isic4_n,ocu_skill_l3_4,2017,68.185
 per,eco_isic4_n,ocu_skill_l3_4,2018,65.459
 per,eco_isic4_n,ocu_skill_l3_4,2019,57.022
+per,eco_isic4_n,ocu_skill_l3_4,2020,27.257
 per,eco_isic4_n,ocu_skill_total,2007,249.046
 per,eco_isic4_n,ocu_skill_total,2008,249.302
 per,eco_isic4_n,ocu_skill_total,2009,249.072
@@ -4611,6 +4847,17 @@ per,eco_isic4_n,ocu_skill_total,2016,352.578
 per,eco_isic4_n,ocu_skill_total,2017,401.989
 per,eco_isic4_n,ocu_skill_total,2018,370.218
 per,eco_isic4_n,ocu_skill_total,2019,389.882
+per,eco_isic4_n,ocu_skill_total,2020,192.609
+per,eco_isic4_o,ocu_isco08_0,2020,62.224
+per,eco_isic4_o,ocu_isco08_1,2020,1.955
+per,eco_isic4_o,ocu_isco08_2,2020,42.835
+per,eco_isic4_o,ocu_isco08_3,2020,15.605
+per,eco_isic4_o,ocu_isco08_4,2020,37.587
+per,eco_isic4_o,ocu_isco08_5,2020,16.998
+per,eco_isic4_o,ocu_isco08_7,2020,1.656
+per,eco_isic4_o,ocu_isco08_8,2020,4.573
+per,eco_isic4_o,ocu_isco08_9,2020,23.636
+per,eco_isic4_o,ocu_isco08_total,2020,207.068
 per,eco_isic4_o,ocu_isco88_0,2007,127.401
 per,eco_isic4_o,ocu_isco88_0,2008,107.822
 per,eco_isic4_o,ocu_isco88_0,2009,111.588
@@ -4754,6 +5001,7 @@ per,eco_isic4_o,ocu_skill_l1,2016,158.613
 per,eco_isic4_o,ocu_skill_l1,2017,150.232
 per,eco_isic4_o,ocu_skill_l1,2018,149.735
 per,eco_isic4_o,ocu_skill_l1,2019,148.717
+per,eco_isic4_o,ocu_skill_l1,2020,23.636
 per,eco_isic4_o,ocu_skill_l2,2007,166.305
 per,eco_isic4_o,ocu_skill_l2,2008,184.819
 per,eco_isic4_o,ocu_skill_l2,2009,210.505
@@ -4767,6 +5015,7 @@ per,eco_isic4_o,ocu_skill_l2,2016,280.963
 per,eco_isic4_o,ocu_skill_l2,2017,283.602
 per,eco_isic4_o,ocu_skill_l2,2018,265.548
 per,eco_isic4_o,ocu_skill_l2,2019,265.829
+per,eco_isic4_o,ocu_skill_l2,2020,60.814
 per,eco_isic4_o,ocu_skill_l3_4,2007,126.325
 per,eco_isic4_o,ocu_skill_l3_4,2008,126.263
 per,eco_isic4_o,ocu_skill_l3_4,2009,160.551
@@ -4780,6 +5029,7 @@ per,eco_isic4_o,ocu_skill_l3_4,2016,170.452
 per,eco_isic4_o,ocu_skill_l3_4,2017,162.077
 per,eco_isic4_o,ocu_skill_l3_4,2018,187.856
 per,eco_isic4_o,ocu_skill_l3_4,2019,179.604
+per,eco_isic4_o,ocu_skill_l3_4,2020,60.395
 per,eco_isic4_o,ocu_skill_total,2007,558.446
 per,eco_isic4_o,ocu_skill_total,2008,564.997
 per,eco_isic4_o,ocu_skill_total,2009,627.722
@@ -4793,6 +5043,7 @@ per,eco_isic4_o,ocu_skill_total,2016,724.809
 per,eco_isic4_o,ocu_skill_total,2017,721.578
 per,eco_isic4_o,ocu_skill_total,2018,714.909
 per,eco_isic4_o,ocu_skill_total,2019,707.958
+per,eco_isic4_o,ocu_skill_total,2020,207.068
 per,eco_isic4_o,ocu_skill_x,2007,127.401
 per,eco_isic4_o,ocu_skill_x,2008,107.822
 per,eco_isic4_o,ocu_skill_x,2009,111.588
@@ -4806,6 +5057,14 @@ per,eco_isic4_o,ocu_skill_x,2016,114.781
 per,eco_isic4_o,ocu_skill_x,2017,125.667
 per,eco_isic4_o,ocu_skill_x,2018,111.77
 per,eco_isic4_o,ocu_skill_x,2019,113.808
+per,eco_isic4_o,ocu_skill_x,2020,62.224
+per,eco_isic4_p,ocu_isco08_1,2020,3.206
+per,eco_isic4_p,ocu_isco08_2,2020,139.1
+per,eco_isic4_p,ocu_isco08_3,2020,11.872
+per,eco_isic4_p,ocu_isco08_4,2020,20.938
+per,eco_isic4_p,ocu_isco08_8,2020,0.553
+per,eco_isic4_p,ocu_isco08_9,2020,9.64
+per,eco_isic4_p,ocu_isco08_total,2020,185.735
 per,eco_isic4_p,ocu_isco88_1,2007,27.768
 per,eco_isic4_p,ocu_isco88_1,2008,27.425
 per,eco_isic4_p,ocu_isco88_1,2009,33.118
@@ -4910,6 +5169,7 @@ per,eco_isic4_p,ocu_skill_l1,2016,81.412
 per,eco_isic4_p,ocu_skill_l1,2017,71.545
 per,eco_isic4_p,ocu_skill_l1,2018,50.317
 per,eco_isic4_p,ocu_skill_l1,2019,64.715
+per,eco_isic4_p,ocu_skill_l1,2020,9.64
 per,eco_isic4_p,ocu_skill_l2,2007,68.203
 per,eco_isic4_p,ocu_skill_l2,2008,59.534
 per,eco_isic4_p,ocu_skill_l2,2009,64.222
@@ -4923,6 +5183,7 @@ per,eco_isic4_p,ocu_skill_l2,2016,77.871
 per,eco_isic4_p,ocu_skill_l2,2017,84.069
 per,eco_isic4_p,ocu_skill_l2,2018,77.626
 per,eco_isic4_p,ocu_skill_l2,2019,75.539
+per,eco_isic4_p,ocu_skill_l2,2020,21.621
 per,eco_isic4_p,ocu_skill_l3_4,2007,607.246
 per,eco_isic4_p,ocu_skill_l3_4,2008,609.466
 per,eco_isic4_p,ocu_skill_l3_4,2009,613.351
@@ -4936,6 +5197,7 @@ per,eco_isic4_p,ocu_skill_l3_4,2016,669.046
 per,eco_isic4_p,ocu_skill_l3_4,2017,641.3
 per,eco_isic4_p,ocu_skill_l3_4,2018,639.64
 per,eco_isic4_p,ocu_skill_l3_4,2019,676.343
+per,eco_isic4_p,ocu_skill_l3_4,2020,154.178
 per,eco_isic4_p,ocu_skill_total,2007,728.791
 per,eco_isic4_p,ocu_skill_total,2008,721.369
 per,eco_isic4_p,ocu_skill_total,2009,740.753
@@ -4949,6 +5211,14 @@ per,eco_isic4_p,ocu_skill_total,2016,828.329
 per,eco_isic4_p,ocu_skill_total,2017,796.914
 per,eco_isic4_p,ocu_skill_total,2018,767.584
 per,eco_isic4_p,ocu_skill_total,2019,816.596
+per,eco_isic4_p,ocu_skill_total,2020,185.735
+per,eco_isic4_q,ocu_isco08_2,2020,59.865
+per,eco_isic4_q,ocu_isco08_3,2020,39.528
+per,eco_isic4_q,ocu_isco08_4,2020,16.585
+per,eco_isic4_q,ocu_isco08_5,2020,3.992
+per,eco_isic4_q,ocu_isco08_8,2020,1.091
+per,eco_isic4_q,ocu_isco08_9,2020,11.984
+per,eco_isic4_q,ocu_isco08_total,2020,133.636
 per,eco_isic4_q,ocu_isco88_2,2007,80.345
 per,eco_isic4_q,ocu_isco88_2,2008,88.142
 per,eco_isic4_q,ocu_isco88_2,2009,106.682
@@ -5055,6 +5325,7 @@ per,eco_isic4_q,ocu_skill_l1,2016,28.509
 per,eco_isic4_q,ocu_skill_l1,2017,20.217
 per,eco_isic4_q,ocu_skill_l1,2018,34.161
 per,eco_isic4_q,ocu_skill_l1,2019,33.456
+per,eco_isic4_q,ocu_skill_l1,2020,11.984
 per,eco_isic4_q,ocu_skill_l2,2007,41.431
 per,eco_isic4_q,ocu_skill_l2,2008,50.987
 per,eco_isic4_q,ocu_skill_l2,2009,55.7
@@ -5068,6 +5339,7 @@ per,eco_isic4_q,ocu_skill_l2,2016,62.035
 per,eco_isic4_q,ocu_skill_l2,2017,59.385
 per,eco_isic4_q,ocu_skill_l2,2018,78.447
 per,eco_isic4_q,ocu_skill_l2,2019,81.596
+per,eco_isic4_q,ocu_skill_l2,2020,22.222
 per,eco_isic4_q,ocu_skill_l3_4,2007,174.945
 per,eco_isic4_q,ocu_skill_l3_4,2008,191.182
 per,eco_isic4_q,ocu_skill_l3_4,2009,194.422
@@ -5081,6 +5353,7 @@ per,eco_isic4_q,ocu_skill_l3_4,2016,241.152
 per,eco_isic4_q,ocu_skill_l3_4,2017,232.283
 per,eco_isic4_q,ocu_skill_l3_4,2018,260.34
 per,eco_isic4_q,ocu_skill_l3_4,2019,268.041
+per,eco_isic4_q,ocu_skill_l3_4,2020,99.393
 per,eco_isic4_q,ocu_skill_total,2007,228.614
 per,eco_isic4_q,ocu_skill_total,2008,253.592
 per,eco_isic4_q,ocu_skill_total,2009,275.222
@@ -5094,6 +5367,14 @@ per,eco_isic4_q,ocu_skill_total,2016,331.696
 per,eco_isic4_q,ocu_skill_total,2017,311.886
 per,eco_isic4_q,ocu_skill_total,2018,372.947
 per,eco_isic4_q,ocu_skill_total,2019,383.093
+per,eco_isic4_q,ocu_skill_total,2020,133.636
+per,eco_isic4_r,ocu_isco08_1,2020,1.157
+per,eco_isic4_r,ocu_isco08_2,2020,3.684
+per,eco_isic4_r,ocu_isco08_3,2020,5.74
+per,eco_isic4_r,ocu_isco08_4,2020,7.554
+per,eco_isic4_r,ocu_isco08_5,2020,1.893
+per,eco_isic4_r,ocu_isco08_9,2020,11.877
+per,eco_isic4_r,ocu_isco08_total,2020,32.068
 per,eco_isic4_r,ocu_isco88_2,2012,3.455
 per,eco_isic4_r,ocu_isco88_2,2013,4.285
 per,eco_isic4_r,ocu_isco88_2,2014,6.996
@@ -5182,6 +5463,7 @@ per,eco_isic4_r,ocu_skill_l1,2016,39.292
 per,eco_isic4_r,ocu_skill_l1,2017,45.284
 per,eco_isic4_r,ocu_skill_l1,2018,40.029
 per,eco_isic4_r,ocu_skill_l1,2019,34.194
+per,eco_isic4_r,ocu_skill_l1,2020,11.877
 per,eco_isic4_r,ocu_skill_l2,2007,15.071
 per,eco_isic4_r,ocu_skill_l2,2008,26.416
 per,eco_isic4_r,ocu_skill_l2,2009,23.371
@@ -5195,6 +5477,7 @@ per,eco_isic4_r,ocu_skill_l2,2016,28.628
 per,eco_isic4_r,ocu_skill_l2,2017,29.527
 per,eco_isic4_r,ocu_skill_l2,2018,26.675
 per,eco_isic4_r,ocu_skill_l2,2019,31.581
+per,eco_isic4_r,ocu_skill_l2,2020,9.61
 per,eco_isic4_r,ocu_skill_l3_4,2007,36.611
 per,eco_isic4_r,ocu_skill_l3_4,2008,38.983
 per,eco_isic4_r,ocu_skill_l3_4,2009,40.886
@@ -5208,6 +5491,7 @@ per,eco_isic4_r,ocu_skill_l3_4,2016,48.957
 per,eco_isic4_r,ocu_skill_l3_4,2017,53.06
 per,eco_isic4_r,ocu_skill_l3_4,2018,35.348
 per,eco_isic4_r,ocu_skill_l3_4,2019,46.29
+per,eco_isic4_r,ocu_skill_l3_4,2020,10.581
 per,eco_isic4_r,ocu_skill_total,2007,79.857
 per,eco_isic4_r,ocu_skill_total,2008,91.252
 per,eco_isic4_r,ocu_skill_total,2009,85.171
@@ -5221,6 +5505,14 @@ per,eco_isic4_r,ocu_skill_total,2016,116.876
 per,eco_isic4_r,ocu_skill_total,2017,127.87
 per,eco_isic4_r,ocu_skill_total,2018,102.052
 per,eco_isic4_r,ocu_skill_total,2019,112.065
+per,eco_isic4_r,ocu_skill_total,2020,32.068
+per,eco_isic4_s,ocu_isco08_2,2020,3.484
+per,eco_isic4_s,ocu_isco08_3,2020,7.787
+per,eco_isic4_s,ocu_isco08_4,2020,6.768
+per,eco_isic4_s,ocu_isco08_5,2020,12.067
+per,eco_isic4_s,ocu_isco08_7,2020,5.793
+per,eco_isic4_s,ocu_isco08_9,2020,25.624
+per,eco_isic4_s,ocu_isco08_total,2020,62.581
 per,eco_isic4_s,ocu_isco88_1,2010,2.27
 per,eco_isic4_s,ocu_isco88_1,2015,2.671
 per,eco_isic4_s,ocu_isco88_2,2007,15.29
@@ -5339,6 +5631,7 @@ per,eco_isic4_s,ocu_skill_l1,2016,69.393
 per,eco_isic4_s,ocu_skill_l1,2017,88.287
 per,eco_isic4_s,ocu_skill_l1,2018,67.455
 per,eco_isic4_s,ocu_skill_l1,2019,65.339
+per,eco_isic4_s,ocu_skill_l1,2020,25.624
 per,eco_isic4_s,ocu_skill_l2,2007,47.099
 per,eco_isic4_s,ocu_skill_l2,2008,47.48
 per,eco_isic4_s,ocu_skill_l2,2009,50.855
@@ -5352,6 +5645,7 @@ per,eco_isic4_s,ocu_skill_l2,2016,76.802
 per,eco_isic4_s,ocu_skill_l2,2017,82.009
 per,eco_isic4_s,ocu_skill_l2,2018,93.98
 per,eco_isic4_s,ocu_skill_l2,2019,79.835
+per,eco_isic4_s,ocu_skill_l2,2020,25.206
 per,eco_isic4_s,ocu_skill_l3_4,2007,37.001
 per,eco_isic4_s,ocu_skill_l3_4,2008,37.404
 per,eco_isic4_s,ocu_skill_l3_4,2009,40.897
@@ -5365,6 +5659,7 @@ per,eco_isic4_s,ocu_skill_l3_4,2016,43.773
 per,eco_isic4_s,ocu_skill_l3_4,2017,46.205
 per,eco_isic4_s,ocu_skill_l3_4,2018,45.847
 per,eco_isic4_s,ocu_skill_l3_4,2019,39.266
+per,eco_isic4_s,ocu_skill_l3_4,2020,11.751
 per,eco_isic4_s,ocu_skill_total,2007,152.31
 per,eco_isic4_s,ocu_skill_total,2008,139.586
 per,eco_isic4_s,ocu_skill_total,2009,142.467
@@ -5378,6 +5673,11 @@ per,eco_isic4_s,ocu_skill_total,2016,189.968
 per,eco_isic4_s,ocu_skill_total,2017,216.501
 per,eco_isic4_s,ocu_skill_total,2018,207.282
 per,eco_isic4_s,ocu_skill_total,2019,184.439
+per,eco_isic4_s,ocu_skill_total,2020,62.581
+per,eco_isic4_t,ocu_isco08_3,2020,5.284
+per,eco_isic4_t,ocu_isco08_8,2020,2.915
+per,eco_isic4_t,ocu_isco08_9,2020,121.277
+per,eco_isic4_t,ocu_isco08_total,2020,130.14
 per,eco_isic4_t,ocu_isco88_3,2007,7.411
 per,eco_isic4_t,ocu_isco88_3,2008,5.078
 per,eco_isic4_t,ocu_isco88_3,2009,6.973
@@ -5442,6 +5742,7 @@ per,eco_isic4_t,ocu_skill_l1,2016,387.55
 per,eco_isic4_t,ocu_skill_l1,2017,399.638
 per,eco_isic4_t,ocu_skill_l1,2018,373.074
 per,eco_isic4_t,ocu_skill_l1,2019,412.195
+per,eco_isic4_t,ocu_skill_l1,2020,121.277
 per,eco_isic4_t,ocu_skill_l2,2007,6.699
 per,eco_isic4_t,ocu_skill_l2,2008,7.097
 per,eco_isic4_t,ocu_skill_l2,2009,7.449
@@ -5455,6 +5756,7 @@ per,eco_isic4_t,ocu_skill_l2,2016,5.63
 per,eco_isic4_t,ocu_skill_l2,2017,1.38
 per,eco_isic4_t,ocu_skill_l2,2018,5.667
 per,eco_isic4_t,ocu_skill_l2,2019,3.051
+per,eco_isic4_t,ocu_skill_l2,2020,3.319
 per,eco_isic4_t,ocu_skill_l3_4,2007,7.411
 per,eco_isic4_t,ocu_skill_l3_4,2008,5.078
 per,eco_isic4_t,ocu_skill_l3_4,2009,6.973
@@ -5468,6 +5770,7 @@ per,eco_isic4_t,ocu_skill_l3_4,2016,8.451
 per,eco_isic4_t,ocu_skill_l3_4,2017,3.318
 per,eco_isic4_t,ocu_skill_l3_4,2018,7.465
 per,eco_isic4_t,ocu_skill_l3_4,2019,11.729
+per,eco_isic4_t,ocu_skill_l3_4,2020,5.545
 per,eco_isic4_t,ocu_skill_total,2007,501.556
 per,eco_isic4_t,ocu_skill_total,2008,470.564
 per,eco_isic4_t,ocu_skill_total,2009,466.39
@@ -5481,6 +5784,18 @@ per,eco_isic4_t,ocu_skill_total,2016,401.632
 per,eco_isic4_t,ocu_skill_total,2017,404.336
 per,eco_isic4_t,ocu_skill_total,2018,386.207
 per,eco_isic4_t,ocu_skill_total,2019,426.975
+per,eco_isic4_t,ocu_skill_total,2020,130.14
+per,eco_isic4_total,ocu_isco08_0,2020,62.691
+per,eco_isic4_total,ocu_isco08_1,2020,27.497
+per,eco_isic4_total,ocu_isco08_2,2020,373.01
+per,eco_isic4_total,ocu_isco08_3,2020,313.476
+per,eco_isic4_total,ocu_isco08_4,2020,364.126
+per,eco_isic4_total,ocu_isco08_5,2020,277.609
+per,eco_isic4_total,ocu_isco08_6,2020,1.343
+per,eco_isic4_total,ocu_isco08_7,2020,200.746
+per,eco_isic4_total,ocu_isco08_8,2020,144.194
+per,eco_isic4_total,ocu_isco08_9,2020,564.954
+per,eco_isic4_total,ocu_isco08_total,2020,2329.645
 per,eco_isic4_total,ocu_isco88_0,2007,127.401
 per,eco_isic4_total,ocu_isco88_0,2008,107.822
 per,eco_isic4_total,ocu_isco88_0,2009,111.588
@@ -5637,6 +5952,7 @@ per,eco_isic4_total,ocu_skill_l1,2016,2831.513
 per,eco_isic4_total,ocu_skill_l1,2017,2813.549
 per,eco_isic4_total,ocu_skill_l1,2018,2828.943
 per,eco_isic4_total,ocu_skill_l1,2019,3013.947
+per,eco_isic4_total,ocu_skill_l1,2020,564.954
 per,eco_isic4_total,ocu_skill_l2,2007,2277.788
 per,eco_isic4_total,ocu_skill_l2,2008,2526.579
 per,eco_isic4_total,ocu_skill_l2,2009,2518.781
@@ -5650,6 +5966,7 @@ per,eco_isic4_total,ocu_skill_l2,2016,3184.463
 per,eco_isic4_total,ocu_skill_l2,2017,3304.534
 per,eco_isic4_total,ocu_skill_l2,2018,3263.251
 per,eco_isic4_total,ocu_skill_l2,2019,3286.379
+per,eco_isic4_total,ocu_skill_l2,2020,988.017
 per,eco_isic4_total,ocu_skill_l3_4,2007,1518.898
 per,eco_isic4_total,ocu_skill_l3_4,2008,1600.575
 per,eco_isic4_total,ocu_skill_l3_4,2009,1682.537
@@ -5663,6 +5980,7 @@ per,eco_isic4_total,ocu_skill_l3_4,2016,2002.78
 per,eco_isic4_total,ocu_skill_l3_4,2017,1941.825
 per,eco_isic4_total,ocu_skill_l3_4,2018,2065.164
 per,eco_isic4_total,ocu_skill_l3_4,2019,2033.071
+per,eco_isic4_total,ocu_skill_l3_4,2020,713.983
 per,eco_isic4_total,ocu_skill_total,2007,6329.437
 per,eco_isic4_total,ocu_skill_total,2008,6530.504
 per,eco_isic4_total,ocu_skill_total,2009,6729.274
@@ -5676,6 +5994,7 @@ per,eco_isic4_total,ocu_skill_total,2016,8133.537
 per,eco_isic4_total,ocu_skill_total,2017,8185.575
 per,eco_isic4_total,ocu_skill_total,2018,8269.129
 per,eco_isic4_total,ocu_skill_total,2019,8447.204
+per,eco_isic4_total,ocu_skill_total,2020,2329.645
 per,eco_isic4_total,ocu_skill_x,2007,127.401
 per,eco_isic4_total,ocu_skill_x,2008,107.822
 per,eco_isic4_total,ocu_skill_x,2009,111.588
@@ -5689,8 +6008,16 @@ per,eco_isic4_total,ocu_skill_x,2016,114.781
 per,eco_isic4_total,ocu_skill_x,2017,125.667
 per,eco_isic4_total,ocu_skill_x,2018,111.77
 per,eco_isic4_total,ocu_skill_x,2019,113.808
+per,eco_isic4_total,ocu_skill_x,2020,62.691
 per,eco_isic4_u,ocu_isco88_total,2012,4.396
 per,eco_isic4_u,ocu_skill_total,2012,4.396
+per,eco_sector_agr,ocu_isco08_2,2020,0.846
+per,eco_sector_agr,ocu_isco08_3,2020,1.022
+per,eco_sector_agr,ocu_isco08_4,2020,3.085
+per,eco_sector_agr,ocu_isco08_6,2020,1.241
+per,eco_sector_agr,ocu_isco08_8,2020,1.161
+per,eco_sector_agr,ocu_isco08_9,2020,12.906
+per,eco_sector_agr,ocu_isco08_total,2020,21.028
 per,eco_sector_agr,ocu_isco88_1,2002,1.854
 per,eco_sector_agr,ocu_isco88_2,2002,4.838
 per,eco_sector_agr,ocu_isco88_2,2006,2.768
@@ -5864,6 +6191,7 @@ per,eco_sector_agr,ocu_skill_l1,2016,836.163
 per,eco_sector_agr,ocu_skill_l1,2017,816.142
 per,eco_sector_agr,ocu_skill_l1,2018,873.701
 per,eco_sector_agr,ocu_skill_l1,2019,883.068
+per,eco_sector_agr,ocu_skill_l1,2020,12.906
 per,eco_sector_agr,ocu_skill_l2,2002,28.017
 per,eco_sector_agr,ocu_skill_l2,2003,45.52
 per,eco_sector_agr,ocu_skill_l2,2004,41.773
@@ -5882,6 +6210,7 @@ per,eco_sector_agr,ocu_skill_l2,2016,74.472
 per,eco_sector_agr,ocu_skill_l2,2017,75.848
 per,eco_sector_agr,ocu_skill_l2,2018,71.078
 per,eco_sector_agr,ocu_skill_l2,2019,72.826
+per,eco_sector_agr,ocu_skill_l2,2020,6.254
 per,eco_sector_agr,ocu_skill_l3_4,2002,10.76
 per,eco_sector_agr,ocu_skill_l3_4,2003,8.092
 per,eco_sector_agr,ocu_skill_l3_4,2004,4.048
@@ -5900,6 +6229,7 @@ per,eco_sector_agr,ocu_skill_l3_4,2016,16.286
 per,eco_sector_agr,ocu_skill_l3_4,2017,14.908
 per,eco_sector_agr,ocu_skill_l3_4,2018,19.215
 per,eco_sector_agr,ocu_skill_l3_4,2019,19.025
+per,eco_sector_agr,ocu_skill_l3_4,2020,1.868
 per,eco_sector_agr,ocu_skill_total,2002,675.168
 per,eco_sector_agr,ocu_skill_total,2003,751.659
 per,eco_sector_agr,ocu_skill_total,2004,745.798
@@ -5918,6 +6248,16 @@ per,eco_sector_agr,ocu_skill_total,2016,926.92
 per,eco_sector_agr,ocu_skill_total,2017,906.898
 per,eco_sector_agr,ocu_skill_total,2018,963.994
 per,eco_sector_agr,ocu_skill_total,2019,974.919
+per,eco_sector_agr,ocu_skill_total,2020,21.028
+per,eco_sector_ind,ocu_isco08_1,2020,5.81
+per,eco_sector_ind,ocu_isco08_2,2020,36.471
+per,eco_sector_ind,ocu_isco08_3,2020,70.23
+per,eco_sector_ind,ocu_isco08_4,2020,47.421
+per,eco_sector_ind,ocu_isco08_5,2020,10.752
+per,eco_sector_ind,ocu_isco08_7,2020,168.882
+per,eco_sector_ind,ocu_isco08_8,2020,83.521
+per,eco_sector_ind,ocu_isco08_9,2020,146.221
+per,eco_sector_ind,ocu_isco08_total,2020,569.308
 per,eco_sector_ind,ocu_isco88_1,2002,6.088
 per,eco_sector_ind,ocu_isco88_1,2003,13
 per,eco_sector_ind,ocu_isco88_1,2004,10.581
@@ -6099,6 +6439,7 @@ per,eco_sector_ind,ocu_skill_l1,2016,665.446
 per,eco_sector_ind,ocu_skill_l1,2017,638.594
 per,eco_sector_ind,ocu_skill_l1,2018,657.899
 per,eco_sector_ind,ocu_skill_l1,2019,714.356
+per,eco_sector_ind,ocu_skill_l1,2020,146.221
 per,eco_sector_ind,ocu_skill_l2,2002,653.087
 per,eco_sector_ind,ocu_skill_l2,2003,610.25
 per,eco_sector_ind,ocu_skill_l2,2004,660.404
@@ -6117,6 +6458,7 @@ per,eco_sector_ind,ocu_skill_l2,2016,983.154
 per,eco_sector_ind,ocu_skill_l2,2017,943.835
 per,eco_sector_ind,ocu_skill_l2,2018,920.98
 per,eco_sector_ind,ocu_skill_l2,2019,963.89
+per,eco_sector_ind,ocu_skill_l2,2020,310.576
 per,eco_sector_ind,ocu_skill_l3_4,2002,124.623
 per,eco_sector_ind,ocu_skill_l3_4,2003,154.286
 per,eco_sector_ind,ocu_skill_l3_4,2004,165.052
@@ -6135,6 +6477,7 @@ per,eco_sector_ind,ocu_skill_l3_4,2016,289.807
 per,eco_sector_ind,ocu_skill_l3_4,2017,300.84
 per,eco_sector_ind,ocu_skill_l3_4,2018,322.459
 per,eco_sector_ind,ocu_skill_l3_4,2019,292.14
+per,eco_sector_ind,ocu_skill_l3_4,2020,112.511
 per,eco_sector_ind,ocu_skill_total,2002,1037.894
 per,eco_sector_ind,ocu_skill_total,2003,1017.598
 per,eco_sector_ind,ocu_skill_total,2004,1148.499
@@ -6153,6 +6496,14 @@ per,eco_sector_ind,ocu_skill_total,2016,1938.407
 per,eco_sector_ind,ocu_skill_total,2017,1883.269
 per,eco_sector_ind,ocu_skill_total,2018,1901.339
 per,eco_sector_ind,ocu_skill_total,2019,1970.386
+per,eco_sector_ind,ocu_skill_total,2020,569.308
+per,eco_sector_nag,ocu_isco08_2,2020,372.164
+per,eco_sector_nag,ocu_isco08_3,2020,312.454
+per,eco_sector_nag,ocu_isco08_4,2020,361.041
+per,eco_sector_nag,ocu_isco08_6,2020,0.102
+per,eco_sector_nag,ocu_isco08_8,2020,143.033
+per,eco_sector_nag,ocu_isco08_9,2020,552.049
+per,eco_sector_nag,ocu_isco08_total,2020,2308.618
 per,eco_sector_nag,ocu_isco88_1,2002,51.135
 per,eco_sector_nag,ocu_isco88_2,2002,712.85
 per,eco_sector_nag,ocu_isco88_2,2006,736.064
@@ -6326,6 +6677,7 @@ per,eco_sector_nag,ocu_skill_l1,2016,1995.35
 per,eco_sector_nag,ocu_skill_l1,2017,1997.406
 per,eco_sector_nag,ocu_skill_l1,2018,1955.243
 per,eco_sector_nag,ocu_skill_l1,2019,2130.878
+per,eco_sector_nag,ocu_skill_l1,2020,552.049
 per,eco_sector_nag,ocu_skill_l2,2002,1730.648
 per,eco_sector_nag,ocu_skill_l2,2003,1675.719
 per,eco_sector_nag,ocu_skill_l2,2004,1772.907
@@ -6344,6 +6696,7 @@ per,eco_sector_nag,ocu_skill_l2,2016,3109.992
 per,eco_sector_nag,ocu_skill_l2,2017,3228.686
 per,eco_sector_nag,ocu_skill_l2,2018,3192.173
 per,eco_sector_nag,ocu_skill_l2,2019,3213.553
+per,eco_sector_nag,ocu_skill_l2,2020,981.763
 per,eco_sector_nag,ocu_skill_l3_4,2002,1184.185
 per,eco_sector_nag,ocu_skill_l3_4,2003,1221.78
 per,eco_sector_nag,ocu_skill_l3_4,2004,1263.67
@@ -6362,6 +6715,7 @@ per,eco_sector_nag,ocu_skill_l3_4,2016,1986.494
 per,eco_sector_nag,ocu_skill_l3_4,2017,1926.918
 per,eco_sector_nag,ocu_skill_l3_4,2018,2045.949
 per,eco_sector_nag,ocu_skill_l3_4,2019,2014.046
+per,eco_sector_nag,ocu_skill_l3_4,2020,712.115
 per,eco_sector_nag,ocu_skill_total,2002,4258.307
 per,eco_sector_nag,ocu_skill_total,2003,4219.177
 per,eco_sector_nag,ocu_skill_total,2004,4603.961
@@ -6380,6 +6734,17 @@ per,eco_sector_nag,ocu_skill_total,2016,7206.617
 per,eco_sector_nag,ocu_skill_total,2017,7278.678
 per,eco_sector_nag,ocu_skill_total,2018,7305.135
 per,eco_sector_nag,ocu_skill_total,2019,7472.285
+per,eco_sector_nag,ocu_skill_total,2020,2308.618
+per,eco_sector_ser,ocu_isco08_0,2020,62.691
+per,eco_sector_ser,ocu_isco08_1,2020,21.687
+per,eco_sector_ser,ocu_isco08_2,2020,335.693
+per,eco_sector_ser,ocu_isco08_3,2020,242.224
+per,eco_sector_ser,ocu_isco08_4,2020,313.62
+per,eco_sector_ser,ocu_isco08_5,2020,266.659
+per,eco_sector_ser,ocu_isco08_7,2020,31.295
+per,eco_sector_ser,ocu_isco08_8,2020,59.512
+per,eco_sector_ser,ocu_isco08_9,2020,405.828
+per,eco_sector_ser,ocu_isco08_total,2020,1739.31
 per,eco_sector_ser,ocu_isco88_0,2002,109.427
 per,eco_sector_ser,ocu_isco88_0,2003,94.302
 per,eco_sector_ser,ocu_isco88_0,2004,106.684
@@ -6582,6 +6947,7 @@ per,eco_sector_ser,ocu_skill_l1,2016,1329.903
 per,eco_sector_ser,ocu_skill_l1,2017,1358.812
 per,eco_sector_ser,ocu_skill_l1,2018,1297.344
 per,eco_sector_ser,ocu_skill_l1,2019,1416.522
+per,eco_sector_ser,ocu_skill_l1,2020,405.828
 per,eco_sector_ser,ocu_skill_l2,2002,1077.561
 per,eco_sector_ser,ocu_skill_l2,2003,1065.469
 per,eco_sector_ser,ocu_skill_l2,2004,1112.503
@@ -6600,6 +6966,7 @@ per,eco_sector_ser,ocu_skill_l2,2016,2126.838
 per,eco_sector_ser,ocu_skill_l2,2017,2284.851
 per,eco_sector_ser,ocu_skill_l2,2018,2271.193
 per,eco_sector_ser,ocu_skill_l2,2019,2249.663
+per,eco_sector_ser,ocu_skill_l2,2020,671.187
 per,eco_sector_ser,ocu_skill_l3_4,2002,1059.562
 per,eco_sector_ser,ocu_skill_l3_4,2003,1067.494
 per,eco_sector_ser,ocu_skill_l3_4,2004,1098.618
@@ -6618,6 +6985,7 @@ per,eco_sector_ser,ocu_skill_l3_4,2016,1696.687
 per,eco_sector_ser,ocu_skill_l3_4,2017,1626.078
 per,eco_sector_ser,ocu_skill_l3_4,2018,1723.49
 per,eco_sector_ser,ocu_skill_l3_4,2019,1721.906
+per,eco_sector_ser,ocu_skill_l3_4,2020,599.604
 per,eco_sector_ser,ocu_skill_total,2002,3220.413
 per,eco_sector_ser,ocu_skill_total,2003,3201.58
 per,eco_sector_ser,ocu_skill_total,2004,3455.037
@@ -6636,6 +7004,7 @@ per,eco_sector_ser,ocu_skill_total,2016,5268.209
 per,eco_sector_ser,ocu_skill_total,2017,5395.408
 per,eco_sector_ser,ocu_skill_total,2018,5403.796
 per,eco_sector_ser,ocu_skill_total,2019,5501.899
+per,eco_sector_ser,ocu_skill_total,2020,1739.31
 per,eco_sector_ser,ocu_skill_x,2002,109.427
 per,eco_sector_ser,ocu_skill_x,2003,94.302
 per,eco_sector_ser,ocu_skill_x,2004,106.684
@@ -6654,6 +7023,18 @@ per,eco_sector_ser,ocu_skill_x,2016,114.781
 per,eco_sector_ser,ocu_skill_x,2017,125.667
 per,eco_sector_ser,ocu_skill_x,2018,111.77
 per,eco_sector_ser,ocu_skill_x,2019,113.808
+per,eco_sector_ser,ocu_skill_x,2020,62.691
+per,eco_sector_total,ocu_isco08_0,2020,62.691
+per,eco_sector_total,ocu_isco08_1,2020,27.497
+per,eco_sector_total,ocu_isco08_2,2020,373.01
+per,eco_sector_total,ocu_isco08_3,2020,313.476
+per,eco_sector_total,ocu_isco08_4,2020,364.126
+per,eco_sector_total,ocu_isco08_5,2020,277.609
+per,eco_sector_total,ocu_isco08_6,2020,1.343
+per,eco_sector_total,ocu_isco08_7,2020,200.746
+per,eco_sector_total,ocu_isco08_8,2020,144.194
+per,eco_sector_total,ocu_isco08_9,2020,564.954
+per,eco_sector_total,ocu_isco08_total,2020,2329.645
 per,eco_sector_total,ocu_isco88_0,2002,109.427
 per,eco_sector_total,ocu_isco88_0,2003,94.302
 per,eco_sector_total,ocu_isco88_0,2004,106.684
@@ -6870,6 +7251,7 @@ per,eco_sector_total,ocu_skill_l1,2016,2831.513
 per,eco_sector_total,ocu_skill_l1,2017,2813.549
 per,eco_sector_total,ocu_skill_l1,2018,2828.943
 per,eco_sector_total,ocu_skill_l1,2019,3013.947
+per,eco_sector_total,ocu_skill_l1,2020,564.954
 per,eco_sector_total,ocu_skill_l2,2002,1758.665
 per,eco_sector_total,ocu_skill_l2,2003,1721.239
 per,eco_sector_total,ocu_skill_l2,2004,1814.681
@@ -6888,6 +7270,7 @@ per,eco_sector_total,ocu_skill_l2,2016,3184.463
 per,eco_sector_total,ocu_skill_l2,2017,3304.534
 per,eco_sector_total,ocu_skill_l2,2018,3263.251
 per,eco_sector_total,ocu_skill_l2,2019,3286.379
+per,eco_sector_total,ocu_skill_l2,2020,988.017
 per,eco_sector_total,ocu_skill_l3_4,2002,1194.946
 per,eco_sector_total,ocu_skill_l3_4,2003,1229.872
 per,eco_sector_total,ocu_skill_l3_4,2004,1267.718
@@ -6906,6 +7289,7 @@ per,eco_sector_total,ocu_skill_l3_4,2016,2002.78
 per,eco_sector_total,ocu_skill_l3_4,2017,1941.825
 per,eco_sector_total,ocu_skill_l3_4,2018,2065.164
 per,eco_sector_total,ocu_skill_l3_4,2019,2033.071
+per,eco_sector_total,ocu_skill_l3_4,2020,713.983
 per,eco_sector_total,ocu_skill_total,2002,4933.475
 per,eco_sector_total,ocu_skill_total,2003,4970.836
 per,eco_sector_total,ocu_skill_total,2004,5349.759
@@ -6924,6 +7308,7 @@ per,eco_sector_total,ocu_skill_total,2016,8133.537
 per,eco_sector_total,ocu_skill_total,2017,8185.575
 per,eco_sector_total,ocu_skill_total,2018,8269.129
 per,eco_sector_total,ocu_skill_total,2019,8447.204
+per,eco_sector_total,ocu_skill_total,2020,2329.645
 per,eco_sector_total,ocu_skill_x,2002,109.427
 per,eco_sector_total,ocu_skill_x,2003,94.302
 per,eco_sector_total,ocu_skill_x,2004,107.108
@@ -6942,3 +7327,4 @@ per,eco_sector_total,ocu_skill_x,2016,114.781
 per,eco_sector_total,ocu_skill_x,2017,125.667
 per,eco_sector_total,ocu_skill_x,2018,111.77
 per,eco_sector_total,ocu_skill_x,2019,113.808
+per,eco_sector_total,ocu_skill_x,2020,62.691

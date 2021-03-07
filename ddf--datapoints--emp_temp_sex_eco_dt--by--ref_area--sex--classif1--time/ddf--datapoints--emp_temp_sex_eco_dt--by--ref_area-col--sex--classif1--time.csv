@@ -40,6 +40,7 @@ col,sex_f,eco_aggregate_agr,2016,7.24
 col,sex_f,eco_aggregate_agr,2017,7.74
 col,sex_f,eco_aggregate_agr,2018,7.81
 col,sex_f,eco_aggregate_agr,2019,6.58
+col,sex_f,eco_aggregate_agr,2020,7.01
 col,sex_f,eco_aggregate_con,1975,0.77
 col,sex_f,eco_aggregate_con,1976,0.68
 col,sex_f,eco_aggregate_con,1977,0.52
@@ -81,6 +82,7 @@ col,sex_f,eco_aggregate_con,2016,0.63
 col,sex_f,eco_aggregate_con,2017,0.65
 col,sex_f,eco_aggregate_con,2018,0.84
 col,sex_f,eco_aggregate_con,2019,0.96
+col,sex_f,eco_aggregate_con,2020,1.09
 col,sex_f,eco_aggregate_man,1975,20.23
 col,sex_f,eco_aggregate_man,1976,22.8
 col,sex_f,eco_aggregate_man,1977,22.64
@@ -122,6 +124,7 @@ col,sex_f,eco_aggregate_man,2016,12.16
 col,sex_f,eco_aggregate_man,2017,12.78
 col,sex_f,eco_aggregate_man,2018,13.45
 col,sex_f,eco_aggregate_man,2019,12.81
+col,sex_f,eco_aggregate_man,2020,10.91
 col,sex_f,eco_aggregate_mel,1975,0.42
 col,sex_f,eco_aggregate_mel,1976,0.35
 col,sex_f,eco_aggregate_mel,1977,0.26
@@ -163,6 +166,7 @@ col,sex_f,eco_aggregate_mel,2016,0.52
 col,sex_f,eco_aggregate_mel,2017,0.53
 col,sex_f,eco_aggregate_mel,2018,0.57
 col,sex_f,eco_aggregate_mel,2019,0.61
+col,sex_f,eco_aggregate_mel,2020,1.09
 col,sex_f,eco_aggregate_mkt,1975,25.49
 col,sex_f,eco_aggregate_mkt,1976,24.68
 col,sex_f,eco_aggregate_mkt,1977,28.17
@@ -204,6 +208,7 @@ col,sex_f,eco_aggregate_mkt,2016,48.47
 col,sex_f,eco_aggregate_mkt,2017,47.7
 col,sex_f,eco_aggregate_mkt,2018,46.34
 col,sex_f,eco_aggregate_mkt,2019,47.24
+col,sex_f,eco_aggregate_mkt,2020,48.65
 col,sex_f,eco_aggregate_pub,1975,52.81
 col,sex_f,eco_aggregate_pub,1976,50.96
 col,sex_f,eco_aggregate_pub,1977,47.95
@@ -245,6 +250,7 @@ col,sex_f,eco_aggregate_pub,2016,30.95
 col,sex_f,eco_aggregate_pub,2017,30.58
 col,sex_f,eco_aggregate_pub,2018,30.98
 col,sex_f,eco_aggregate_pub,2019,31.8
+col,sex_f,eco_aggregate_pub,2020,31.22
 col,sex_f,eco_aggregate_total,1975,100
 col,sex_f,eco_aggregate_total,1976,100
 col,sex_f,eco_aggregate_total,1977,100
@@ -286,6 +292,7 @@ col,sex_f,eco_aggregate_total,2016,100
 col,sex_f,eco_aggregate_total,2017,100
 col,sex_f,eco_aggregate_total,2018,100
 col,sex_f,eco_aggregate_total,2019,100
+col,sex_f,eco_aggregate_total,2020,100
 col,sex_f,eco_aggregate_x,1975,0.1
 col,sex_f,eco_aggregate_x,1976,0.02
 col,sex_f,eco_aggregate_x,1977,0.06
@@ -324,6 +331,7 @@ col,sex_f,eco_aggregate_x,2015,0.01
 col,sex_f,eco_aggregate_x,2016,0.01
 col,sex_f,eco_aggregate_x,2017,0.02
 col,sex_f,eco_aggregate_x,2018,0
+col,sex_f,eco_aggregate_x,2020,0.03
 col,sex_f,eco_isic2_0,1975,0.1
 col,sex_f,eco_isic2_0,1976,0.02
 col,sex_f,eco_isic2_0,1977,0.06
@@ -916,6 +924,29 @@ col,sex_f,eco_isic3_x,2015,0.01
 col,sex_f,eco_isic3_x,2016,0.01
 col,sex_f,eco_isic3_x,2017,0.02
 col,sex_f,eco_isic3_x,2018,0
+col,sex_f,eco_isic4_a,2020,7.01
+col,sex_f,eco_isic4_b,2020,0.34
+col,sex_f,eco_isic4_c,2020,10.91
+col,sex_f,eco_isic4_d,2020,0.24
+col,sex_f,eco_isic4_e,2020,0.52
+col,sex_f,eco_isic4_f,2020,1.09
+col,sex_f,eco_isic4_g,2020,21.83
+col,sex_f,eco_isic4_h,2020,1.52
+col,sex_f,eco_isic4_i,2020,12.14
+col,sex_f,eco_isic4_j,2020,1.47
+col,sex_f,eco_isic4_k,2020,2.05
+col,sex_f,eco_isic4_l,2020,0.91
+col,sex_f,eco_isic4_m,2020,2.74
+col,sex_f,eco_isic4_n,2020,5.98
+col,sex_f,eco_isic4_o,2020,3.29
+col,sex_f,eco_isic4_p,2020,6.31
+col,sex_f,eco_isic4_q,2020,7.82
+col,sex_f,eco_isic4_r,2020,1.25
+col,sex_f,eco_isic4_s,2020,6.35
+col,sex_f,eco_isic4_t,2020,6.15
+col,sex_f,eco_isic4_total,2020,100
+col,sex_f,eco_isic4_u,2020,0.04
+col,sex_f,eco_isic4_x,2020,0.03
 col,sex_f,eco_sector_agr,1975,0.17
 col,sex_f,eco_sector_agr,1976,0.51
 col,sex_f,eco_sector_agr,1977,0.4
@@ -957,6 +988,7 @@ col,sex_f,eco_sector_agr,2016,7.24
 col,sex_f,eco_sector_agr,2017,7.74
 col,sex_f,eco_sector_agr,2018,7.81
 col,sex_f,eco_sector_agr,2019,6.58
+col,sex_f,eco_sector_agr,2020,7.01
 col,sex_f,eco_sector_ind,1975,21.43
 col,sex_f,eco_sector_ind,1976,23.83
 col,sex_f,eco_sector_ind,1977,23.41
@@ -998,6 +1030,7 @@ col,sex_f,eco_sector_ind,2016,13.32
 col,sex_f,eco_sector_ind,2017,13.96
 col,sex_f,eco_sector_ind,2018,14.86
 col,sex_f,eco_sector_ind,2019,14.38
+col,sex_f,eco_sector_ind,2020,13.1
 col,sex_f,eco_sector_nag,1975,99.83
 col,sex_f,eco_sector_nag,1976,99.49
 col,sex_f,eco_sector_nag,1977,99.6
@@ -1039,6 +1072,7 @@ col,sex_f,eco_sector_nag,2016,92.76
 col,sex_f,eco_sector_nag,2017,92.26
 col,sex_f,eco_sector_nag,2018,92.19
 col,sex_f,eco_sector_nag,2019,93.42
+col,sex_f,eco_sector_nag,2020,92.99
 col,sex_f,eco_sector_ser,1975,78.3
 col,sex_f,eco_sector_ser,1976,75.64
 col,sex_f,eco_sector_ser,1977,76.13
@@ -1080,6 +1114,7 @@ col,sex_f,eco_sector_ser,2016,79.42
 col,sex_f,eco_sector_ser,2017,78.29
 col,sex_f,eco_sector_ser,2018,77.33
 col,sex_f,eco_sector_ser,2019,79.04
+col,sex_f,eco_sector_ser,2020,79.86
 col,sex_f,eco_sector_total,1975,100
 col,sex_f,eco_sector_total,1976,100
 col,sex_f,eco_sector_total,1977,100
@@ -1121,6 +1156,7 @@ col,sex_f,eco_sector_total,2016,100
 col,sex_f,eco_sector_total,2017,100
 col,sex_f,eco_sector_total,2018,100
 col,sex_f,eco_sector_total,2019,100
+col,sex_f,eco_sector_total,2020,100
 col,sex_f,eco_sector_x,1975,0.1
 col,sex_f,eco_sector_x,1976,0.02
 col,sex_f,eco_sector_x,1977,0.06
@@ -1159,6 +1195,7 @@ col,sex_f,eco_sector_x,2015,0.01
 col,sex_f,eco_sector_x,2016,0.01
 col,sex_f,eco_sector_x,2017,0.02
 col,sex_f,eco_sector_x,2018,0
+col,sex_f,eco_sector_x,2020,0.03
 col,sex_m,eco_aggregate_agr,1975,2.47
 col,sex_m,eco_aggregate_agr,1976,2.17
 col,sex_m,eco_aggregate_agr,1977,1.9
@@ -1200,6 +1237,7 @@ col,sex_m,eco_aggregate_agr,2016,22.35
 col,sex_m,eco_aggregate_agr,2017,22.88
 col,sex_m,eco_aggregate_agr,2018,23.07
 col,sex_m,eco_aggregate_agr,2019,22.27
+col,sex_m,eco_aggregate_agr,2020,22.83
 col,sex_m,eco_aggregate_con,1975,9.81
 col,sex_m,eco_aggregate_con,1976,9.04
 col,sex_m,eco_aggregate_con,1977,9.25
@@ -1241,6 +1279,7 @@ col,sex_m,eco_aggregate_con,2016,10.42
 col,sex_m,eco_aggregate_con,2017,10.05
 col,sex_m,eco_aggregate_con,2018,10.14
 col,sex_m,eco_aggregate_con,2019,11.02
+col,sex_m,eco_aggregate_con,2020,10.6
 col,sex_m,eco_aggregate_man,1975,26.1
 col,sex_m,eco_aggregate_man,1976,27.68
 col,sex_m,eco_aggregate_man,1977,27.36
@@ -1282,6 +1321,7 @@ col,sex_m,eco_aggregate_man,2016,11.59
 col,sex_m,eco_aggregate_man,2017,11.5
 col,sex_m,eco_aggregate_man,2018,11.48
 col,sex_m,eco_aggregate_man,2019,11.08
+col,sex_m,eco_aggregate_man,2020,11.13
 col,sex_m,eco_aggregate_mel,1975,1.53
 col,sex_m,eco_aggregate_mel,1976,1.63
 col,sex_m,eco_aggregate_mel,1977,1.42
@@ -1323,6 +1363,7 @@ col,sex_m,eco_aggregate_mel,2016,1.82
 col,sex_m,eco_aggregate_mel,2017,1.81
 col,sex_m,eco_aggregate_mel,2018,2.03
 col,sex_m,eco_aggregate_mel,2019,2.09
+col,sex_m,eco_aggregate_mel,2020,2.85
 col,sex_m,eco_aggregate_mkt,1975,38.23
 col,sex_m,eco_aggregate_mkt,1976,37.82
 col,sex_m,eco_aggregate_mkt,1977,39.28
@@ -1364,6 +1405,7 @@ col,sex_m,eco_aggregate_mkt,2016,42.73
 col,sex_m,eco_aggregate_mkt,2017,42.6
 col,sex_m,eco_aggregate_mkt,2018,42.12
 col,sex_m,eco_aggregate_mkt,2019,41.82
+col,sex_m,eco_aggregate_mkt,2020,40.38
 col,sex_m,eco_aggregate_pub,1975,21.63
 col,sex_m,eco_aggregate_pub,1976,21.62
 col,sex_m,eco_aggregate_pub,1977,20.65
@@ -1405,6 +1447,7 @@ col,sex_m,eco_aggregate_pub,2016,11.09
 col,sex_m,eco_aggregate_pub,2017,11.15
 col,sex_m,eco_aggregate_pub,2018,11.15
 col,sex_m,eco_aggregate_pub,2019,11.72
+col,sex_m,eco_aggregate_pub,2020,12.17
 col,sex_m,eco_aggregate_total,1975,100
 col,sex_m,eco_aggregate_total,1976,100
 col,sex_m,eco_aggregate_total,1977,100
@@ -1446,6 +1489,7 @@ col,sex_m,eco_aggregate_total,2016,100
 col,sex_m,eco_aggregate_total,2017,100
 col,sex_m,eco_aggregate_total,2018,100
 col,sex_m,eco_aggregate_total,2019,100
+col,sex_m,eco_aggregate_total,2020,100
 col,sex_m,eco_aggregate_x,1975,0.24
 col,sex_m,eco_aggregate_x,1976,0.02
 col,sex_m,eco_aggregate_x,1977,0.12
@@ -1484,6 +1528,7 @@ col,sex_m,eco_aggregate_x,2014,0.01
 col,sex_m,eco_aggregate_x,2015,0.01
 col,sex_m,eco_aggregate_x,2016,0
 col,sex_m,eco_aggregate_x,2017,0.02
+col,sex_m,eco_aggregate_x,2020,0.04
 col,sex_m,eco_isic2_0,1975,0.24
 col,sex_m,eco_isic2_0,1976,0.02
 col,sex_m,eco_isic2_0,1977,0.12
@@ -2075,6 +2120,29 @@ col,sex_m,eco_isic3_x,2014,0.01
 col,sex_m,eco_isic3_x,2015,0.01
 col,sex_m,eco_isic3_x,2016,0
 col,sex_m,eco_isic3_x,2017,0.02
+col,sex_m,eco_isic4_a,2020,22.83
+col,sex_m,eco_isic4_b,2020,1.42
+col,sex_m,eco_isic4_c,2020,11.13
+col,sex_m,eco_isic4_d,2020,0.43
+col,sex_m,eco_isic4_e,2020,1
+col,sex_m,eco_isic4_f,2020,10.6
+col,sex_m,eco_isic4_g,2020,17.2
+col,sex_m,eco_isic4_h,2020,10.74
+col,sex_m,eco_isic4_i,2020,3.65
+col,sex_m,eco_isic4_j,2020,1.54
+col,sex_m,eco_isic4_k,2020,1.02
+col,sex_m,eco_isic4_l,2020,1.37
+col,sex_m,eco_isic4_m,2020,2.48
+col,sex_m,eco_isic4_n,2020,2.38
+col,sex_m,eco_isic4_o,2020,2.92
+col,sex_m,eco_isic4_p,2020,2.69
+col,sex_m,eco_isic4_q,2020,1.57
+col,sex_m,eco_isic4_r,2020,1.21
+col,sex_m,eco_isic4_s,2020,3.39
+col,sex_m,eco_isic4_t,2020,0.36
+col,sex_m,eco_isic4_total,2020,100
+col,sex_m,eco_isic4_u,2020,0.02
+col,sex_m,eco_isic4_x,2020,0.04
 col,sex_m,eco_sector_agr,1975,2.47
 col,sex_m,eco_sector_agr,1976,2.17
 col,sex_m,eco_sector_agr,1977,1.9
@@ -2116,6 +2184,7 @@ col,sex_m,eco_sector_agr,2016,22.35
 col,sex_m,eco_sector_agr,2017,22.88
 col,sex_m,eco_sector_agr,2018,23.07
 col,sex_m,eco_sector_agr,2019,22.27
+col,sex_m,eco_sector_agr,2020,22.83
 col,sex_m,eco_sector_ind,1975,37.44
 col,sex_m,eco_sector_ind,1976,38.35
 col,sex_m,eco_sector_ind,1977,38.04
@@ -2157,6 +2226,7 @@ col,sex_m,eco_sector_ind,2016,23.82
 col,sex_m,eco_sector_ind,2017,23.35
 col,sex_m,eco_sector_ind,2018,23.65
 col,sex_m,eco_sector_ind,2019,24.18
+col,sex_m,eco_sector_ind,2020,24.58
 col,sex_m,eco_sector_nag,1975,97.53
 col,sex_m,eco_sector_nag,1976,97.83
 col,sex_m,eco_sector_nag,1977,98.1
@@ -2198,6 +2268,7 @@ col,sex_m,eco_sector_nag,2016,77.65
 col,sex_m,eco_sector_nag,2017,77.12
 col,sex_m,eco_sector_nag,2018,76.93
 col,sex_m,eco_sector_nag,2019,77.73
+col,sex_m,eco_sector_nag,2020,77.17
 col,sex_m,eco_sector_ser,1975,59.86
 col,sex_m,eco_sector_ser,1976,59.44
 col,sex_m,eco_sector_ser,1977,59.93
@@ -2239,6 +2310,7 @@ col,sex_m,eco_sector_ser,2016,53.82
 col,sex_m,eco_sector_ser,2017,53.75
 col,sex_m,eco_sector_ser,2018,53.27
 col,sex_m,eco_sector_ser,2019,53.55
+col,sex_m,eco_sector_ser,2020,52.55
 col,sex_m,eco_sector_total,1975,100
 col,sex_m,eco_sector_total,1976,100
 col,sex_m,eco_sector_total,1977,100
@@ -2280,6 +2352,7 @@ col,sex_m,eco_sector_total,2016,100
 col,sex_m,eco_sector_total,2017,100
 col,sex_m,eco_sector_total,2018,100
 col,sex_m,eco_sector_total,2019,100
+col,sex_m,eco_sector_total,2020,100
 col,sex_m,eco_sector_x,1975,0.24
 col,sex_m,eco_sector_x,1976,0.02
 col,sex_m,eco_sector_x,1977,0.12
@@ -2318,6 +2391,7 @@ col,sex_m,eco_sector_x,2014,0.01
 col,sex_m,eco_sector_x,2015,0.01
 col,sex_m,eco_sector_x,2016,0
 col,sex_m,eco_sector_x,2017,0.02
+col,sex_m,eco_sector_x,2020,0.04
 col,sex_t,eco_aggregate_agr,1975,1.62
 col,sex_t,eco_aggregate_agr,1976,1.56
 col,sex_t,eco_aggregate_agr,1977,1.34
@@ -2359,6 +2433,7 @@ col,sex_t,eco_aggregate_agr,2016,16.01
 col,sex_t,eco_aggregate_agr,2017,16.53
 col,sex_t,eco_aggregate_agr,2018,16.71
 col,sex_t,eco_aggregate_agr,2019,15.77
+col,sex_t,eco_aggregate_agr,2020,16.6
 col,sex_t,eco_aggregate_con,1975,6.5
 col,sex_t,eco_aggregate_con,1976,5.91
 col,sex_t,eco_aggregate_con,1977,5.95
@@ -2400,6 +2475,7 @@ col,sex_t,eco_aggregate_con,2016,6.31
 col,sex_t,eco_aggregate_con,2017,6.11
 col,sex_t,eco_aggregate_con,2018,6.26
 col,sex_t,eco_aggregate_con,2019,6.85
+col,sex_t,eco_aggregate_con,2020,6.85
 col,sex_t,eco_aggregate_man,1975,23.95
 col,sex_t,eco_aggregate_man,1976,25.85
 col,sex_t,eco_aggregate_man,1977,25.58
@@ -2441,6 +2517,7 @@ col,sex_t,eco_aggregate_man,2016,11.83
 col,sex_t,eco_aggregate_man,2017,12.03
 col,sex_t,eco_aggregate_man,2018,12.3
 col,sex_t,eco_aggregate_man,2019,11.79
+col,sex_t,eco_aggregate_man,2020,11.05
 col,sex_t,eco_aggregate_mel,1975,1.13
 col,sex_t,eco_aggregate_mel,1976,1.15
 col,sex_t,eco_aggregate_mel,1977,0.98
@@ -2482,6 +2559,7 @@ col,sex_t,eco_aggregate_mel,2016,1.27
 col,sex_t,eco_aggregate_mel,2017,1.27
 col,sex_t,eco_aggregate_mel,2018,1.42
 col,sex_t,eco_aggregate_mel,2019,1.48
+col,sex_t,eco_aggregate_mel,2020,2.16
 col,sex_t,eco_aggregate_mkt,1975,33.57
 col,sex_t,eco_aggregate_mkt,1976,32.9
 col,sex_t,eco_aggregate_mkt,1977,35.09
@@ -2523,6 +2601,7 @@ col,sex_t,eco_aggregate_mkt,2016,45.14
 col,sex_t,eco_aggregate_mkt,2017,44.74
 col,sex_t,eco_aggregate_mkt,2018,43.88
 col,sex_t,eco_aggregate_mkt,2019,44.07
+col,sex_t,eco_aggregate_mkt,2020,43.64
 col,sex_t,eco_aggregate_pub,1975,33.04
 col,sex_t,eco_aggregate_pub,1976,32.61
 col,sex_t,eco_aggregate_pub,1977,30.96
@@ -2564,6 +2643,7 @@ col,sex_t,eco_aggregate_pub,2016,19.43
 col,sex_t,eco_aggregate_pub,2017,19.3
 col,sex_t,eco_aggregate_pub,2018,19.42
 col,sex_t,eco_aggregate_pub,2019,20.04
+col,sex_t,eco_aggregate_pub,2020,19.67
 col,sex_t,eco_aggregate_total,1975,100
 col,sex_t,eco_aggregate_total,1976,100
 col,sex_t,eco_aggregate_total,1977,100
@@ -2605,6 +2685,7 @@ col,sex_t,eco_aggregate_total,2016,100
 col,sex_t,eco_aggregate_total,2017,100
 col,sex_t,eco_aggregate_total,2018,100
 col,sex_t,eco_aggregate_total,2019,100
+col,sex_t,eco_aggregate_total,2020,100
 col,sex_t,eco_aggregate_x,1975,0.19
 col,sex_t,eco_aggregate_x,1976,0.02
 col,sex_t,eco_aggregate_x,1977,0.1
@@ -2645,6 +2726,7 @@ col,sex_t,eco_aggregate_x,2016,0.01
 col,sex_t,eco_aggregate_x,2017,0.02
 col,sex_t,eco_aggregate_x,2018,0
 col,sex_t,eco_aggregate_x,2019,0
+col,sex_t,eco_aggregate_x,2020,0.04
 col,sex_t,eco_isic2_0,1975,0.19
 col,sex_t,eco_isic2_0,1976,0.02
 col,sex_t,eco_isic2_0,1977,0.1
@@ -3239,6 +3321,29 @@ col,sex_t,eco_isic3_x,2016,0.01
 col,sex_t,eco_isic3_x,2017,0.02
 col,sex_t,eco_isic3_x,2018,0
 col,sex_t,eco_isic3_x,2019,0
+col,sex_t,eco_isic4_a,2020,16.6
+col,sex_t,eco_isic4_b,2020,0.99
+col,sex_t,eco_isic4_c,2020,11.05
+col,sex_t,eco_isic4_d,2020,0.35
+col,sex_t,eco_isic4_e,2020,0.81
+col,sex_t,eco_isic4_f,2020,6.85
+col,sex_t,eco_isic4_g,2020,19.02
+col,sex_t,eco_isic4_h,2020,7.11
+col,sex_t,eco_isic4_i,2020,6.99
+col,sex_t,eco_isic4_j,2020,1.51
+col,sex_t,eco_isic4_k,2020,1.43
+col,sex_t,eco_isic4_l,2020,1.19
+col,sex_t,eco_isic4_m,2020,2.58
+col,sex_t,eco_isic4_n,2020,3.79
+col,sex_t,eco_isic4_o,2020,3.07
+col,sex_t,eco_isic4_p,2020,4.11
+col,sex_t,eco_isic4_q,2020,4.03
+col,sex_t,eco_isic4_r,2020,1.23
+col,sex_t,eco_isic4_s,2020,4.56
+col,sex_t,eco_isic4_t,2020,2.64
+col,sex_t,eco_isic4_total,2020,100
+col,sex_t,eco_isic4_u,2020,0.03
+col,sex_t,eco_isic4_x,2020,0.04
 col,sex_t,eco_sector_agr,1975,1.62
 col,sex_t,eco_sector_agr,1976,1.56
 col,sex_t,eco_sector_agr,1977,1.34
@@ -3280,6 +3385,7 @@ col,sex_t,eco_sector_agr,2016,16.01
 col,sex_t,eco_sector_agr,2017,16.53
 col,sex_t,eco_sector_agr,2018,16.71
 col,sex_t,eco_sector_agr,2019,15.77
+col,sex_t,eco_sector_agr,2020,16.6
 col,sex_t,eco_sector_ind,1975,31.58
 col,sex_t,eco_sector_ind,1976,32.91
 col,sex_t,eco_sector_ind,1977,32.52
@@ -3321,6 +3427,7 @@ col,sex_t,eco_sector_ind,2016,19.41
 col,sex_t,eco_sector_ind,2017,19.41
 col,sex_t,eco_sector_ind,2018,19.99
 col,sex_t,eco_sector_ind,2019,20.12
+col,sex_t,eco_sector_ind,2020,20.06
 col,sex_t,eco_sector_nag,1975,98.38
 col,sex_t,eco_sector_nag,1976,98.44
 col,sex_t,eco_sector_nag,1977,98.66
@@ -3362,6 +3469,7 @@ col,sex_t,eco_sector_nag,2016,84
 col,sex_t,eco_sector_nag,2017,83.47
 col,sex_t,eco_sector_nag,2018,83.29
 col,sex_t,eco_sector_nag,2019,84.23
+col,sex_t,eco_sector_nag,2020,83.4
 col,sex_t,eco_sector_ser,1975,66.61
 col,sex_t,eco_sector_ser,1976,65.51
 col,sex_t,eco_sector_ser,1977,66.05
@@ -3403,6 +3511,7 @@ col,sex_t,eco_sector_ser,2016,64.57
 col,sex_t,eco_sector_ser,2017,64.04
 col,sex_t,eco_sector_ser,2018,63.3
 col,sex_t,eco_sector_ser,2019,64.1
+col,sex_t,eco_sector_ser,2020,63.3
 col,sex_t,eco_sector_total,1975,100
 col,sex_t,eco_sector_total,1976,100
 col,sex_t,eco_sector_total,1977,100
@@ -3444,6 +3553,7 @@ col,sex_t,eco_sector_total,2016,100
 col,sex_t,eco_sector_total,2017,100
 col,sex_t,eco_sector_total,2018,100
 col,sex_t,eco_sector_total,2019,100
+col,sex_t,eco_sector_total,2020,100
 col,sex_t,eco_sector_x,1975,0.19
 col,sex_t,eco_sector_x,1976,0.02
 col,sex_t,eco_sector_x,1977,0.1
@@ -3484,3 +3594,4 @@ col,sex_t,eco_sector_x,2016,0.01
 col,sex_t,eco_sector_x,2017,0.02
 col,sex_t,eco_sector_x,2018,0
 col,sex_t,eco_sector_x,2019,0
+col,sex_t,eco_sector_x,2020,0.04
