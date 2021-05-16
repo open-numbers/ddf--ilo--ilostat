@@ -1096,14 +1096,23 @@ mda,sex_t,dsb_status_total,2017,38.936
 mda,sex_t,dsb_status_total,2018,38.442
 mda,sex_t,dsb_status_total,2019,46.874
 mdv,sex_f,dsb_status_dis,2014,0.001
+mdv,sex_f,dsb_status_dis,2019,1.678
 mdv,sex_f,dsb_status_nodis,2014,3.355
+mdv,sex_f,dsb_status_nodis,2019,4.744
 mdv,sex_f,dsb_status_total,2014,3.356
+mdv,sex_f,dsb_status_total,2019,6.422
 mdv,sex_m,dsb_status_dis,2014,0.009
+mdv,sex_m,dsb_status_dis,2019,1.494
 mdv,sex_m,dsb_status_nodis,2014,4.64
+mdv,sex_m,dsb_status_nodis,2019,2.304
 mdv,sex_m,dsb_status_total,2014,4.649
+mdv,sex_m,dsb_status_total,2019,3.797
 mdv,sex_t,dsb_status_dis,2014,0.01
+mdv,sex_t,dsb_status_dis,2019,3.172
 mdv,sex_t,dsb_status_nodis,2014,7.995
+mdv,sex_t,dsb_status_nodis,2019,7.048
 mdv,sex_t,dsb_status_total,2014,8.005
+mdv,sex_t,dsb_status_total,2019,10.219
 mex,sex_f,dsb_status_dis,2016,20.896
 mex,sex_f,dsb_status_dis,2018,15.848
 mex,sex_f,dsb_status_nodis,2016,512.252
@@ -1122,15 +1131,6 @@ mex,sex_t,dsb_status_nodis,2016,1721.722
 mex,sex_t,dsb_status_nodis,2018,1695.495
 mex,sex_t,dsb_status_total,2016,1823.3
 mex,sex_t,dsb_status_total,2018,1796.374
-mhl,sex_f,dsb_status_dis,2019,0.087
-mhl,sex_f,dsb_status_nodis,2019,0.144
-mhl,sex_f,dsb_status_total,2019,0.231
-mhl,sex_m,dsb_status_dis,2019,0.105
-mhl,sex_m,dsb_status_nodis,2019,0.775
-mhl,sex_m,dsb_status_total,2019,0.88
-mhl,sex_t,dsb_status_dis,2019,0.192
-mhl,sex_t,dsb_status_nodis,2019,0.919
-mhl,sex_t,dsb_status_total,2019,1.111
 mlt,sex_f,dsb_status_dis,2012,1
 mlt,sex_f,dsb_status_nodis,2012,4
 mlt,sex_f,dsb_status_total,2012,4
@@ -1159,6 +1159,7 @@ mng,sex_f,dsb_status_dis,2015,0.521
 mng,sex_f,dsb_status_dis,2016,0.303
 mng,sex_f,dsb_status_dis,2017,0.637
 mng,sex_f,dsb_status_dis,2019,0.609
+mng,sex_f,dsb_status_dis,2020,0.763
 mng,sex_f,dsb_status_nodis,2008,23.088
 mng,sex_f,dsb_status_nodis,2009,28.39
 mng,sex_f,dsb_status_nodis,2010,30.209
@@ -1171,6 +1172,7 @@ mng,sex_f,dsb_status_nodis,2016,33.797
 mng,sex_f,dsb_status_nodis,2017,34.479
 mng,sex_f,dsb_status_nodis,2018,29.488
 mng,sex_f,dsb_status_nodis,2019,51.898
+mng,sex_f,dsb_status_nodis,2020,38.872
 mng,sex_f,dsb_status_total,2008,23.72
 mng,sex_f,dsb_status_total,2009,29.336
 mng,sex_f,dsb_status_total,2010,30.782
@@ -1183,6 +1185,7 @@ mng,sex_f,dsb_status_total,2016,34.1
 mng,sex_f,dsb_status_total,2017,35.116
 mng,sex_f,dsb_status_total,2018,29.582
 mng,sex_f,dsb_status_total,2019,52.507
+mng,sex_f,dsb_status_total,2020,39.635
 mng,sex_m,dsb_status_dis,2008,0.846
 mng,sex_m,dsb_status_dis,2009,0.859
 mng,sex_m,dsb_status_dis,2010,1.242
@@ -1195,6 +1198,7 @@ mng,sex_m,dsb_status_dis,2016,0.633
 mng,sex_m,dsb_status_dis,2017,0.988
 mng,sex_m,dsb_status_dis,2018,0.638
 mng,sex_m,dsb_status_dis,2019,3.191
+mng,sex_m,dsb_status_dis,2020,0.716
 mng,sex_m,dsb_status_nodis,2008,28.457
 mng,sex_m,dsb_status_nodis,2009,27.934
 mng,sex_m,dsb_status_nodis,2010,40.423
@@ -1207,6 +1211,7 @@ mng,sex_m,dsb_status_nodis,2016,54.791
 mng,sex_m,dsb_status_nodis,2017,47.994
 mng,sex_m,dsb_status_nodis,2018,40.977
 mng,sex_m,dsb_status_nodis,2019,72.039
+mng,sex_m,dsb_status_nodis,2020,47.343
 mng,sex_m,dsb_status_total,2008,29.303
 mng,sex_m,dsb_status_total,2009,28.794
 mng,sex_m,dsb_status_total,2010,41.665
@@ -1219,6 +1224,7 @@ mng,sex_m,dsb_status_total,2016,55.425
 mng,sex_m,dsb_status_total,2017,48.983
 mng,sex_m,dsb_status_total,2018,41.615
 mng,sex_m,dsb_status_total,2019,75.229
+mng,sex_m,dsb_status_total,2020,48.059
 mng,sex_t,dsb_status_dis,2008,1.478
 mng,sex_t,dsb_status_dis,2009,1.805
 mng,sex_t,dsb_status_dis,2010,1.815
@@ -1231,6 +1237,7 @@ mng,sex_t,dsb_status_dis,2016,0.936
 mng,sex_t,dsb_status_dis,2017,1.625
 mng,sex_t,dsb_status_dis,2018,0.733
 mng,sex_t,dsb_status_dis,2019,3.799
+mng,sex_t,dsb_status_dis,2020,1.479
 mng,sex_t,dsb_status_nodis,2008,51.545
 mng,sex_t,dsb_status_nodis,2009,56.324
 mng,sex_t,dsb_status_nodis,2010,70.632
@@ -1243,6 +1250,7 @@ mng,sex_t,dsb_status_nodis,2016,88.589
 mng,sex_t,dsb_status_nodis,2017,82.474
 mng,sex_t,dsb_status_nodis,2018,70.465
 mng,sex_t,dsb_status_nodis,2019,123.937
+mng,sex_t,dsb_status_nodis,2020,86.215
 mng,sex_t,dsb_status_total,2008,53.023
 mng,sex_t,dsb_status_total,2009,58.129
 mng,sex_t,dsb_status_total,2010,72.447
@@ -1255,6 +1263,7 @@ mng,sex_t,dsb_status_total,2016,89.525
 mng,sex_t,dsb_status_total,2017,84.099
 mng,sex_t,dsb_status_total,2018,71.198
 mng,sex_t,dsb_status_total,2019,127.736
+mng,sex_t,dsb_status_total,2020,87.695
 mtq,sex_f,dsb_status_dis,2016,2.942
 mtq,sex_f,dsb_status_nodis,2016,9.886
 mtq,sex_f,dsb_status_total,2016,12.827
