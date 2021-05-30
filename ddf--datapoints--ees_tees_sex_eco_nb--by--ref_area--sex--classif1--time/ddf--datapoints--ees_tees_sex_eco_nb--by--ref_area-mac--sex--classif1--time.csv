@@ -37,6 +37,7 @@ mac,sex_f,eco_aggregate_con,2013,3.4
 mac,sex_f,eco_aggregate_con,2014,4.9
 mac,sex_f,eco_aggregate_con,2015,5.2
 mac,sex_f,eco_aggregate_con,2016,5.1
+mac,sex_f,eco_aggregate_man,1988,40.412
 mac,sex_f,eco_aggregate_man,1989,34.278
 mac,sex_f,eco_aggregate_man,1990,31.743
 mac,sex_f,eco_aggregate_man,1991,33.403
@@ -65,6 +66,7 @@ mac,sex_f,eco_aggregate_man,2013,4.1
 mac,sex_f,eco_aggregate_man,2014,3
 mac,sex_f,eco_aggregate_man,2015,3
 mac,sex_f,eco_aggregate_man,2016,3.2
+mac,sex_f,eco_aggregate_mel,1988,0.129
 mac,sex_f,eco_aggregate_mel,1989,0.378
 mac,sex_f,eco_aggregate_mel,1990,0.242
 mac,sex_f,eco_aggregate_mel,1991,0.203
@@ -481,6 +483,7 @@ mac,sex_f,eco_sector_agr,2009,0.2
 mac,sex_f,eco_sector_agr,2010,0.2
 mac,sex_f,eco_sector_agr,2011,0.3
 mac,sex_f,eco_sector_agr,2012,0.3
+mac,sex_f,eco_sector_ind,1988,40.541
 mac,sex_f,eco_sector_ind,1989,35.454
 mac,sex_f,eco_sector_ind,1990,33.14
 mac,sex_f,eco_sector_ind,1991,34.913
@@ -647,6 +650,7 @@ mac,sex_m,eco_aggregate_con,2013,29.4
 mac,sex_m,eco_aggregate_con,2014,44.7
 mac,sex_m,eco_aggregate_con,2015,46.2
 mac,sex_m,eco_aggregate_con,2016,36.5
+mac,sex_m,eco_aggregate_man,1988,24.251
 mac,sex_m,eco_aggregate_man,1989,21.539
 mac,sex_m,eco_aggregate_man,1990,18.518
 mac,sex_m,eco_aggregate_man,1991,19.491
@@ -675,6 +679,11 @@ mac,sex_m,eco_aggregate_man,2013,3.9
 mac,sex_m,eco_aggregate_man,2014,3.5
 mac,sex_m,eco_aggregate_man,2015,2.7
 mac,sex_m,eco_aggregate_man,2016,3.5
+mac,sex_m,eco_aggregate_mel,1984,0.047
+mac,sex_m,eco_aggregate_mel,1985,0.038
+mac,sex_m,eco_aggregate_mel,1986,0.038
+mac,sex_m,eco_aggregate_mel,1987,0.035
+mac,sex_m,eco_aggregate_mel,1988,0.992
 mac,sex_m,eco_aggregate_mel,1989,1.55
 mac,sex_m,eco_aggregate_mel,1990,1.639
 mac,sex_m,eco_aggregate_mel,1991,1.409
@@ -1105,6 +1114,11 @@ mac,sex_m,eco_sector_agr,2009,0.2
 mac,sex_m,eco_sector_agr,2010,0.1
 mac,sex_m,eco_sector_agr,2011,0.2
 mac,sex_m,eco_sector_agr,2012,0.3
+mac,sex_m,eco_sector_ind,1984,0.047
+mac,sex_m,eco_sector_ind,1985,0.038
+mac,sex_m,eco_sector_ind,1986,0.038
+mac,sex_m,eco_sector_ind,1987,0.035
+mac,sex_m,eco_sector_ind,1988,25.243
 mac,sex_m,eco_sector_ind,1989,35.677
 mac,sex_m,eco_sector_ind,1990,32.072
 mac,sex_m,eco_sector_ind,1991,33.562
@@ -1272,6 +1286,10 @@ mac,sex_t,eco_aggregate_con,2013,32.8
 mac,sex_t,eco_aggregate_con,2014,49.6
 mac,sex_t,eco_aggregate_con,2015,51.4
 mac,sex_t,eco_aggregate_con,2016,41.6
+mac,sex_t,eco_aggregate_man,1984,58.127
+mac,sex_t,eco_aggregate_man,1985,59.596
+mac,sex_t,eco_aggregate_man,1986,74.186
+mac,sex_t,eco_aggregate_man,1988,66.005
 mac,sex_t,eco_aggregate_man,1989,55.817
 mac,sex_t,eco_aggregate_man,1990,50.261
 mac,sex_t,eco_aggregate_man,1991,52.894
@@ -1300,6 +1318,11 @@ mac,sex_t,eco_aggregate_man,2013,8
 mac,sex_t,eco_aggregate_man,2014,6.4
 mac,sex_t,eco_aggregate_man,2015,5.7
 mac,sex_t,eco_aggregate_man,2016,6.7
+mac,sex_t,eco_aggregate_mel,1984,0.047
+mac,sex_t,eco_aggregate_mel,1985,0.038
+mac,sex_t,eco_aggregate_mel,1986,0.038
+mac,sex_t,eco_aggregate_mel,1987,0.035
+mac,sex_t,eco_aggregate_mel,1988,1.121
 mac,sex_t,eco_aggregate_mel,1989,1.928
 mac,sex_t,eco_aggregate_mel,1990,1.881
 mac,sex_t,eco_aggregate_mel,1991,1.612
@@ -1753,6 +1776,11 @@ mac,sex_t,eco_sector_agr,2009,0.4
 mac,sex_t,eco_sector_agr,2010,0.4
 mac,sex_t,eco_sector_agr,2011,0.5
 mac,sex_t,eco_sector_agr,2012,0.6
+mac,sex_t,eco_sector_ind,1984,58.174
+mac,sex_t,eco_sector_ind,1985,59.634
+mac,sex_t,eco_sector_ind,1986,74.224
+mac,sex_t,eco_sector_ind,1987,0.035
+mac,sex_t,eco_sector_ind,1988,67.126
 mac,sex_t,eco_sector_ind,1989,71.141
 mac,sex_t,eco_sector_ind,1990,65.212
 mac,sex_t,eco_sector_ind,1991,68.475

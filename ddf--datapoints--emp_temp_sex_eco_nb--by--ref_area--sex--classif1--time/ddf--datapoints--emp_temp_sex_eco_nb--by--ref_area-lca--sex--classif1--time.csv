@@ -1,4 +1,5 @@
 ref_area,sex,classif1,time,emp_temp_sex_eco_nb
+lca,sex_f,eco_aggregate_agr,1993,3.44
 lca,sex_f,eco_aggregate_agr,1994,4.09
 lca,sex_f,eco_aggregate_agr,1995,4.53
 lca,sex_f,eco_aggregate_agr,1996,4.7
@@ -14,6 +15,7 @@ lca,sex_f,eco_aggregate_agr,2006,2.468
 lca,sex_f,eco_aggregate_agr,2017,1.638
 lca,sex_f,eco_aggregate_agr,2018,1.813
 lca,sex_f,eco_aggregate_agr,2019,1.171
+lca,sex_f,eco_aggregate_con,1993,0.36
 lca,sex_f,eco_aggregate_con,1994,0.22
 lca,sex_f,eco_aggregate_con,1995,2.8
 lca,sex_f,eco_aggregate_con,1996,0.3
@@ -29,6 +31,7 @@ lca,sex_f,eco_aggregate_con,2006,0.355
 lca,sex_f,eco_aggregate_con,2017,0.179
 lca,sex_f,eco_aggregate_con,2018,0.24
 lca,sex_f,eco_aggregate_con,2019,0.163
+lca,sex_f,eco_aggregate_man,1993,3.94
 lca,sex_f,eco_aggregate_man,1994,4.39
 lca,sex_f,eco_aggregate_man,1995,2.97
 lca,sex_f,eco_aggregate_man,1996,4.32
@@ -44,6 +47,7 @@ lca,sex_f,eco_aggregate_man,2006,2.06
 lca,sex_f,eco_aggregate_man,2017,1.922
 lca,sex_f,eco_aggregate_man,2018,1.817
 lca,sex_f,eco_aggregate_man,2019,2.038
+lca,sex_f,eco_aggregate_mel,1993,0.15
 lca,sex_f,eco_aggregate_mel,1994,0.13
 lca,sex_f,eco_aggregate_mel,1995,0.47
 lca,sex_f,eco_aggregate_mel,1996,0.105
@@ -59,6 +63,7 @@ lca,sex_f,eco_aggregate_mel,2006,0.235
 lca,sex_f,eco_aggregate_mel,2017,0.147
 lca,sex_f,eco_aggregate_mel,2018,0.168
 lca,sex_f,eco_aggregate_mel,2019,0.215
+lca,sex_f,eco_aggregate_mkt,1993,9.18
 lca,sex_f,eco_aggregate_mkt,1994,7.57
 lca,sex_f,eco_aggregate_mkt,1995,9.23
 lca,sex_f,eco_aggregate_mkt,1996,8.65
@@ -74,6 +79,7 @@ lca,sex_f,eco_aggregate_mkt,2006,12.653
 lca,sex_f,eco_aggregate_mkt,2017,19.363
 lca,sex_f,eco_aggregate_mkt,2018,18.755
 lca,sex_f,eco_aggregate_mkt,2019,21.181
+lca,sex_f,eco_aggregate_pub,1993,5.69
 lca,sex_f,eco_aggregate_pub,1994,6.18
 lca,sex_f,eco_aggregate_pub,1995,5.49
 lca,sex_f,eco_aggregate_pub,1996,6.855
@@ -89,6 +95,7 @@ lca,sex_f,eco_aggregate_pub,2006,9.193
 lca,sex_f,eco_aggregate_pub,2017,12.952
 lca,sex_f,eco_aggregate_pub,2018,12.535
 lca,sex_f,eco_aggregate_pub,2019,13.078
+lca,sex_f,eco_aggregate_total,1993,23.13
 lca,sex_f,eco_aggregate_total,1994,23.13
 lca,sex_f,eco_aggregate_total,1995,25.62
 lca,sex_f,eco_aggregate_total,1996,24.975
@@ -104,6 +111,7 @@ lca,sex_f,eco_aggregate_total,2006,28.89
 lca,sex_f,eco_aggregate_total,2017,37.603
 lca,sex_f,eco_aggregate_total,2018,36.806
 lca,sex_f,eco_aggregate_total,2019,38.969
+lca,sex_f,eco_aggregate_x,1993,0.37
 lca,sex_f,eco_aggregate_x,1994,0.54
 lca,sex_f,eco_aggregate_x,1995,0.13
 lca,sex_f,eco_aggregate_x,1996,0.045
@@ -119,6 +127,7 @@ lca,sex_f,eco_aggregate_x,2006,1.935
 lca,sex_f,eco_aggregate_x,2017,1.403
 lca,sex_f,eco_aggregate_x,2018,1.478
 lca,sex_f,eco_aggregate_x,2019,1.124
+lca,sex_f,eco_isic3_a,1993,3.41
 lca,sex_f,eco_isic3_a,1994,4.07
 lca,sex_f,eco_isic3_a,1995,4.05
 lca,sex_f,eco_isic3_a,1996,4.6
@@ -131,6 +140,7 @@ lca,sex_f,eco_isic3_a,2003,2.305
 lca,sex_f,eco_isic3_a,2004,2.603
 lca,sex_f,eco_isic3_a,2005,2.355
 lca,sex_f,eco_isic3_a,2006,2.45
+lca,sex_f,eco_isic3_b,1993,0.03
 lca,sex_f,eco_isic3_b,1994,0.02
 lca,sex_f,eco_isic3_b,1995,0.48
 lca,sex_f,eco_isic3_b,1996,0.1
@@ -142,6 +152,7 @@ lca,sex_f,eco_isic3_b,2003,0.033
 lca,sex_f,eco_isic3_b,2004,0.093
 lca,sex_f,eco_isic3_b,2005,0.033
 lca,sex_f,eco_isic3_b,2006,0.018
+lca,sex_f,eco_isic3_d,1993,3.94
 lca,sex_f,eco_isic3_d,1994,4.39
 lca,sex_f,eco_isic3_d,1995,2.97
 lca,sex_f,eco_isic3_d,1996,4.32
@@ -154,6 +165,7 @@ lca,sex_f,eco_isic3_d,2003,2.265
 lca,sex_f,eco_isic3_d,2004,2.38
 lca,sex_f,eco_isic3_d,2005,2.588
 lca,sex_f,eco_isic3_d,2006,2.06
+lca,sex_f,eco_isic3_e,1993,0.15
 lca,sex_f,eco_isic3_e,1994,0.13
 lca,sex_f,eco_isic3_e,1995,0.47
 lca,sex_f,eco_isic3_e,1996,0.105
@@ -166,6 +178,7 @@ lca,sex_f,eco_isic3_e,2003,0.088
 lca,sex_f,eco_isic3_e,2004,0.06
 lca,sex_f,eco_isic3_e,2005,0.043
 lca,sex_f,eco_isic3_e,2006,0.235
+lca,sex_f,eco_isic3_f,1993,0.36
 lca,sex_f,eco_isic3_f,1994,0.22
 lca,sex_f,eco_isic3_f,1995,2.8
 lca,sex_f,eco_isic3_f,1996,0.3
@@ -178,6 +191,7 @@ lca,sex_f,eco_isic3_f,2003,0.243
 lca,sex_f,eco_isic3_f,2004,0.17
 lca,sex_f,eco_isic3_f,2005,0.373
 lca,sex_f,eco_isic3_f,2006,0.355
+lca,sex_f,eco_isic3_g,1993,4.95
 lca,sex_f,eco_isic3_g,1994,4.02
 lca,sex_f,eco_isic3_g,1995,3.66
 lca,sex_f,eco_isic3_g,1996,4.455
@@ -190,6 +204,7 @@ lca,sex_f,eco_isic3_g,2003,5.703
 lca,sex_f,eco_isic3_g,2004,5.403
 lca,sex_f,eco_isic3_g,2005,6.01
 lca,sex_f,eco_isic3_g,2006,5.643
+lca,sex_f,eco_isic3_h,1993,2.48
 lca,sex_f,eco_isic3_h,1994,2.18
 lca,sex_f,eco_isic3_h,1995,2.98
 lca,sex_f,eco_isic3_h,1996,2.455
@@ -202,6 +217,7 @@ lca,sex_f,eco_isic3_h,2003,3.428
 lca,sex_f,eco_isic3_h,2004,3.738
 lca,sex_f,eco_isic3_h,2005,4.37
 lca,sex_f,eco_isic3_h,2006,4.11
+lca,sex_f,eco_isic3_i,1993,0.8
 lca,sex_f,eco_isic3_i,1994,0.38
 lca,sex_f,eco_isic3_i,1995,1.53
 lca,sex_f,eco_isic3_i,1996,0.66
@@ -214,6 +230,7 @@ lca,sex_f,eco_isic3_i,2003,1.095
 lca,sex_f,eco_isic3_i,2004,0.838
 lca,sex_f,eco_isic3_i,2005,0.848
 lca,sex_f,eco_isic3_i,2006,0.69
+lca,sex_f,eco_isic3_j,1993,0.48
 lca,sex_f,eco_isic3_j,1994,0.56
 lca,sex_f,eco_isic3_j,1995,0.59
 lca,sex_f,eco_isic3_j,1996,0.755
@@ -226,6 +243,7 @@ lca,sex_f,eco_isic3_j,2003,0.628
 lca,sex_f,eco_isic3_j,2004,0.723
 lca,sex_f,eco_isic3_j,2005,0.848
 lca,sex_f,eco_isic3_j,2006,0.925
+lca,sex_f,eco_isic3_k,1993,0.47
 lca,sex_f,eco_isic3_k,1994,0.43
 lca,sex_f,eco_isic3_k,1995,0.47
 lca,sex_f,eco_isic3_k,1996,0.325
@@ -238,6 +256,7 @@ lca,sex_f,eco_isic3_k,2003,1.03
 lca,sex_f,eco_isic3_k,2004,1.065
 lca,sex_f,eco_isic3_k,2005,1.083
 lca,sex_f,eco_isic3_k,2006,1.285
+lca,sex_f,eco_isic3_l,1993,3.59
 lca,sex_f,eco_isic3_l,1994,4.08
 lca,sex_f,eco_isic3_l,1995,4.04
 lca,sex_f,eco_isic3_l,1996,3.645
@@ -250,6 +269,7 @@ lca,sex_f,eco_isic3_l,2003,3.74
 lca,sex_f,eco_isic3_l,2004,4.465
 lca,sex_f,eco_isic3_l,2005,5.155
 lca,sex_f,eco_isic3_l,2006,4.93
+lca,sex_f,eco_isic3_m,1993,0.35
 lca,sex_f,eco_isic3_m,1994,0.32
 lca,sex_f,eco_isic3_m,1995,0.34
 lca,sex_f,eco_isic3_m,1996,0.685
@@ -262,6 +282,7 @@ lca,sex_f,eco_isic3_m,2003,1.45
 lca,sex_f,eco_isic3_m,2004,0.853
 lca,sex_f,eco_isic3_m,2005,0.903
 lca,sex_f,eco_isic3_m,2006,1.05
+lca,sex_f,eco_isic3_n,1993,0.4
 lca,sex_f,eco_isic3_n,1994,0.11
 lca,sex_f,eco_isic3_n,1995,0.09
 lca,sex_f,eco_isic3_n,1996,0.51
@@ -274,6 +295,7 @@ lca,sex_f,eco_isic3_n,2003,0.51
 lca,sex_f,eco_isic3_n,2004,0.335
 lca,sex_f,eco_isic3_n,2005,0.428
 lca,sex_f,eco_isic3_n,2006,0.338
+lca,sex_f,eco_isic3_o,1993,0.28
 lca,sex_f,eco_isic3_o,1994,0.32
 lca,sex_f,eco_isic3_o,1995,0.24
 lca,sex_f,eco_isic3_o,1996,0.54
@@ -286,6 +308,7 @@ lca,sex_f,eco_isic3_o,2003,0.798
 lca,sex_f,eco_isic3_o,2004,0.89
 lca,sex_f,eco_isic3_o,2005,0.968
 lca,sex_f,eco_isic3_o,2006,0.865
+lca,sex_f,eco_isic3_p,1993,1.07
 lca,sex_f,eco_isic3_p,1994,1.35
 lca,sex_f,eco_isic3_p,1995,0.78
 lca,sex_f,eco_isic3_p,1996,1.475
@@ -298,6 +321,7 @@ lca,sex_f,eco_isic3_p,2003,1.618
 lca,sex_f,eco_isic3_p,2004,1.655
 lca,sex_f,eco_isic3_p,2005,1.643
 lca,sex_f,eco_isic3_p,2006,2.01
+lca,sex_f,eco_isic3_total,1993,23.13
 lca,sex_f,eco_isic3_total,1994,23.13
 lca,sex_f,eco_isic3_total,1995,25.62
 lca,sex_f,eco_isic3_total,1996,24.975
@@ -310,6 +334,7 @@ lca,sex_f,eco_isic3_total,2003,27.393
 lca,sex_f,eco_isic3_total,2004,27.428
 lca,sex_f,eco_isic3_total,2005,29.053
 lca,sex_f,eco_isic3_total,2006,28.89
+lca,sex_f,eco_isic3_x,1993,0.37
 lca,sex_f,eco_isic3_x,1994,0.54
 lca,sex_f,eco_isic3_x,1995,0.13
 lca,sex_f,eco_isic3_x,1996,0.045
@@ -385,6 +410,7 @@ lca,sex_f,eco_isic4_u,2019,0.104
 lca,sex_f,eco_isic4_x,2017,1.403
 lca,sex_f,eco_isic4_x,2018,1.478
 lca,sex_f,eco_isic4_x,2019,1.124
+lca,sex_f,eco_sector_agr,1993,3.44
 lca,sex_f,eco_sector_agr,1994,4.09
 lca,sex_f,eco_sector_agr,1995,4.53
 lca,sex_f,eco_sector_agr,1996,4.7
@@ -400,6 +426,7 @@ lca,sex_f,eco_sector_agr,2006,2.468
 lca,sex_f,eco_sector_agr,2017,1.638
 lca,sex_f,eco_sector_agr,2018,1.813
 lca,sex_f,eco_sector_agr,2019,1.171
+lca,sex_f,eco_sector_ind,1993,4.45
 lca,sex_f,eco_sector_ind,1994,4.74
 lca,sex_f,eco_sector_ind,1995,6.24
 lca,sex_f,eco_sector_ind,1996,4.725
@@ -415,6 +442,7 @@ lca,sex_f,eco_sector_ind,2006,2.65
 lca,sex_f,eco_sector_ind,2017,2.247
 lca,sex_f,eco_sector_ind,2018,2.225
 lca,sex_f,eco_sector_ind,2019,2.416
+lca,sex_f,eco_sector_nag,1993,19.69
 lca,sex_f,eco_sector_nag,1994,19.04
 lca,sex_f,eco_sector_nag,1995,21.09
 lca,sex_f,eco_sector_nag,1996,20.275
@@ -430,6 +458,7 @@ lca,sex_f,eco_sector_nag,2006,26.422
 lca,sex_f,eco_sector_nag,2017,35.964
 lca,sex_f,eco_sector_nag,2018,34.993
 lca,sex_f,eco_sector_nag,2019,37.799
+lca,sex_f,eco_sector_ser,1993,14.87
 lca,sex_f,eco_sector_ser,1994,13.75
 lca,sex_f,eco_sector_ser,1995,14.72
 lca,sex_f,eco_sector_ser,1996,15.505
@@ -445,6 +474,7 @@ lca,sex_f,eco_sector_ser,2006,21.846
 lca,sex_f,eco_sector_ser,2017,32.314
 lca,sex_f,eco_sector_ser,2018,31.29
 lca,sex_f,eco_sector_ser,2019,34.258
+lca,sex_f,eco_sector_total,1993,23.13
 lca,sex_f,eco_sector_total,1994,23.13
 lca,sex_f,eco_sector_total,1995,25.62
 lca,sex_f,eco_sector_total,1996,24.975
@@ -460,6 +490,7 @@ lca,sex_f,eco_sector_total,2006,28.89
 lca,sex_f,eco_sector_total,2017,37.603
 lca,sex_f,eco_sector_total,2018,36.806
 lca,sex_f,eco_sector_total,2019,38.969
+lca,sex_f,eco_sector_x,1993,0.37
 lca,sex_f,eco_sector_x,1994,0.54
 lca,sex_f,eco_sector_x,1995,0.13
 lca,sex_f,eco_sector_x,1996,0.045
@@ -475,6 +506,7 @@ lca,sex_f,eco_sector_x,2006,1.935
 lca,sex_f,eco_sector_x,2017,1.403
 lca,sex_f,eco_sector_x,2018,1.478
 lca,sex_f,eco_sector_x,2019,1.124
+lca,sex_m,eco_aggregate_agr,1993,8.8
 lca,sex_m,eco_aggregate_agr,1994,9.79
 lca,sex_m,eco_aggregate_agr,1995,9.38
 lca,sex_m,eco_aggregate_agr,1996,9.575
@@ -490,6 +522,7 @@ lca,sex_m,eco_aggregate_agr,2006,6.575
 lca,sex_m,eco_aggregate_agr,2017,6.474
 lca,sex_m,eco_aggregate_agr,2018,7.001
 lca,sex_m,eco_aggregate_agr,2019,7.016
+lca,sex_m,eco_aggregate_con,1993,4.27
 lca,sex_m,eco_aggregate_con,1994,3.7
 lca,sex_m,eco_aggregate_con,1995,5.16
 lca,sex_m,eco_aggregate_con,1996,4.78
@@ -505,6 +538,7 @@ lca,sex_m,eco_aggregate_con,2006,8.438
 lca,sex_m,eco_aggregate_con,2017,7.075
 lca,sex_m,eco_aggregate_con,2018,6.262
 lca,sex_m,eco_aggregate_con,2019,6.564
+lca,sex_m,eco_aggregate_man,1993,2.44
 lca,sex_m,eco_aggregate_man,1994,1.94
 lca,sex_m,eco_aggregate_man,1995,2.54
 lca,sex_m,eco_aggregate_man,1996,2.65
@@ -520,6 +554,7 @@ lca,sex_m,eco_aggregate_man,2006,2.118
 lca,sex_m,eco_aggregate_man,2017,2.581
 lca,sex_m,eco_aggregate_man,2018,2.57
 lca,sex_m,eco_aggregate_man,2019,2.223
+lca,sex_m,eco_aggregate_mel,1993,0.31
 lca,sex_m,eco_aggregate_mel,1994,0.52
 lca,sex_m,eco_aggregate_mel,1995,0.66
 lca,sex_m,eco_aggregate_mel,1996,0.625
@@ -535,6 +570,7 @@ lca,sex_m,eco_aggregate_mel,2006,0.51
 lca,sex_m,eco_aggregate_mel,2017,0.786
 lca,sex_m,eco_aggregate_mel,2018,0.571
 lca,sex_m,eco_aggregate_mel,2019,0.713
+lca,sex_m,eco_aggregate_mkt,1993,8.42
 lca,sex_m,eco_aggregate_mkt,1994,8.1
 lca,sex_m,eco_aggregate_mkt,1995,9.38
 lca,sex_m,eco_aggregate_mkt,1996,10.175
@@ -550,6 +586,7 @@ lca,sex_m,eco_aggregate_mkt,2006,14.09
 lca,sex_m,eco_aggregate_mkt,2017,19.008
 lca,sex_m,eco_aggregate_mkt,2018,19.496
 lca,sex_m,eco_aggregate_mkt,2019,19.785
+lca,sex_m,eco_aggregate_pub,1993,4.08
 lca,sex_m,eco_aggregate_pub,1994,4.01
 lca,sex_m,eco_aggregate_pub,1995,4.37
 lca,sex_m,eco_aggregate_pub,1996,3.88
@@ -565,6 +602,7 @@ lca,sex_m,eco_aggregate_pub,2006,5.776
 lca,sex_m,eco_aggregate_pub,2017,6.025
 lca,sex_m,eco_aggregate_pub,2018,6.931
 lca,sex_m,eco_aggregate_pub,2019,7.257
+lca,sex_m,eco_aggregate_total,1993,29.35
 lca,sex_m,eco_aggregate_total,1994,29.16
 lca,sex_m,eco_aggregate_total,1995,32.06
 lca,sex_m,eco_aggregate_total,1996,31.74
@@ -580,6 +618,7 @@ lca,sex_m,eco_aggregate_total,2006,41.088
 lca,sex_m,eco_aggregate_total,2017,44.142
 lca,sex_m,eco_aggregate_total,2018,44.771
 lca,sex_m,eco_aggregate_total,2019,44.754
+lca,sex_m,eco_aggregate_x,1993,1.03
 lca,sex_m,eco_aggregate_x,1994,1.11
 lca,sex_m,eco_aggregate_x,1995,0.29
 lca,sex_m,eco_aggregate_x,1996,0.055
@@ -595,6 +634,7 @@ lca,sex_m,eco_aggregate_x,2006,3.583
 lca,sex_m,eco_aggregate_x,2017,2.193
 lca,sex_m,eco_aggregate_x,2018,1.939
 lca,sex_m,eco_aggregate_x,2019,1.197
+lca,sex_m,eco_isic3_a,1993,8.31
 lca,sex_m,eco_isic3_a,1994,8.51
 lca,sex_m,eco_isic3_a,1995,8.64
 lca,sex_m,eco_isic3_a,1996,9.02
@@ -607,6 +647,7 @@ lca,sex_m,eco_isic3_a,2003,5.385
 lca,sex_m,eco_isic3_a,2004,5.888
 lca,sex_m,eco_isic3_a,2005,5.54
 lca,sex_m,eco_isic3_a,2006,5.87
+lca,sex_m,eco_isic3_b,1993,0.49
 lca,sex_m,eco_isic3_b,1994,1.28
 lca,sex_m,eco_isic3_b,1995,0.74
 lca,sex_m,eco_isic3_b,1996,0.555
@@ -619,6 +660,7 @@ lca,sex_m,eco_isic3_b,2003,0.563
 lca,sex_m,eco_isic3_b,2004,0.66
 lca,sex_m,eco_isic3_b,2005,0.68
 lca,sex_m,eco_isic3_b,2006,0.705
+lca,sex_m,eco_isic3_d,1993,2.44
 lca,sex_m,eco_isic3_d,1994,1.94
 lca,sex_m,eco_isic3_d,1995,2.54
 lca,sex_m,eco_isic3_d,1996,2.65
@@ -631,6 +673,7 @@ lca,sex_m,eco_isic3_d,2003,2.343
 lca,sex_m,eco_isic3_d,2004,2.288
 lca,sex_m,eco_isic3_d,2005,2.235
 lca,sex_m,eco_isic3_d,2006,2.118
+lca,sex_m,eco_isic3_e,1993,0.31
 lca,sex_m,eco_isic3_e,1994,0.52
 lca,sex_m,eco_isic3_e,1995,0.66
 lca,sex_m,eco_isic3_e,1996,0.625
@@ -643,6 +686,7 @@ lca,sex_m,eco_isic3_e,2003,0.473
 lca,sex_m,eco_isic3_e,2004,0.368
 lca,sex_m,eco_isic3_e,2005,0.695
 lca,sex_m,eco_isic3_e,2006,0.51
+lca,sex_m,eco_isic3_f,1993,4.27
 lca,sex_m,eco_isic3_f,1994,3.7
 lca,sex_m,eco_isic3_f,1995,5.16
 lca,sex_m,eco_isic3_f,1996,4.78
@@ -655,6 +699,7 @@ lca,sex_m,eco_isic3_f,2003,4.735
 lca,sex_m,eco_isic3_f,2004,4.758
 lca,sex_m,eco_isic3_f,2005,6.745
 lca,sex_m,eco_isic3_f,2006,8.438
+lca,sex_m,eco_isic3_g,1993,3.07
 lca,sex_m,eco_isic3_g,1994,2.62
 lca,sex_m,eco_isic3_g,1995,3.11
 lca,sex_m,eco_isic3_g,1996,3.435
@@ -667,6 +712,7 @@ lca,sex_m,eco_isic3_g,2003,4.705
 lca,sex_m,eco_isic3_g,2004,4.375
 lca,sex_m,eco_isic3_g,2005,4.533
 lca,sex_m,eco_isic3_g,2006,4.885
+lca,sex_m,eco_isic3_h,1993,2.1
 lca,sex_m,eco_isic3_h,1994,2.32
 lca,sex_m,eco_isic3_h,1995,2.72
 lca,sex_m,eco_isic3_h,1996,2.4
@@ -679,6 +725,7 @@ lca,sex_m,eco_isic3_h,2003,3.328
 lca,sex_m,eco_isic3_h,2004,3.023
 lca,sex_m,eco_isic3_h,2005,3.64
 lca,sex_m,eco_isic3_h,2006,4.055
+lca,sex_m,eco_isic3_i,1993,2.43
 lca,sex_m,eco_isic3_i,1994,2.01
 lca,sex_m,eco_isic3_i,1995,2.53
 lca,sex_m,eco_isic3_i,1996,3
@@ -691,6 +738,7 @@ lca,sex_m,eco_isic3_i,2003,3.07
 lca,sex_m,eco_isic3_i,2004,2.488
 lca,sex_m,eco_isic3_i,2005,3.218
 lca,sex_m,eco_isic3_i,2006,3.4
+lca,sex_m,eco_isic3_j,1993,0.4
 lca,sex_m,eco_isic3_j,1994,0.53
 lca,sex_m,eco_isic3_j,1995,0.52
 lca,sex_m,eco_isic3_j,1996,0.67
@@ -703,6 +751,7 @@ lca,sex_m,eco_isic3_j,2003,0.615
 lca,sex_m,eco_isic3_j,2004,0.43
 lca,sex_m,eco_isic3_j,2005,0.313
 lca,sex_m,eco_isic3_j,2006,0.5
+lca,sex_m,eco_isic3_k,1993,0.42
 lca,sex_m,eco_isic3_k,1994,0.62
 lca,sex_m,eco_isic3_k,1995,0.5
 lca,sex_m,eco_isic3_k,1996,0.67
@@ -715,6 +764,7 @@ lca,sex_m,eco_isic3_k,2003,1.105
 lca,sex_m,eco_isic3_k,2004,1.47
 lca,sex_m,eco_isic3_k,2005,1.46
 lca,sex_m,eco_isic3_k,2006,1.25
+lca,sex_m,eco_isic3_l,1993,3.34
 lca,sex_m,eco_isic3_l,1994,3.02
 lca,sex_m,eco_isic3_l,1995,3.54
 lca,sex_m,eco_isic3_l,1996,2.99
@@ -727,6 +777,7 @@ lca,sex_m,eco_isic3_l,2003,3.57
 lca,sex_m,eco_isic3_l,2004,3.715
 lca,sex_m,eco_isic3_l,2005,3.95
 lca,sex_m,eco_isic3_l,2006,3.828
+lca,sex_m,eco_isic3_m,1993,0.09
 lca,sex_m,eco_isic3_m,1994,0.03
 lca,sex_m,eco_isic3_m,1995,0.08
 lca,sex_m,eco_isic3_m,1996,0.04
@@ -739,6 +790,7 @@ lca,sex_m,eco_isic3_m,2003,0.62
 lca,sex_m,eco_isic3_m,2004,0.205
 lca,sex_m,eco_isic3_m,2005,0.243
 lca,sex_m,eco_isic3_m,2006,0.125
+lca,sex_m,eco_isic3_n,1993,0
 lca,sex_m,eco_isic3_n,1994,0.05
 lca,sex_m,eco_isic3_n,1995,0.05
 lca,sex_m,eco_isic3_n,1996,0.155
@@ -751,6 +803,7 @@ lca,sex_m,eco_isic3_n,2003,0.083
 lca,sex_m,eco_isic3_n,2004,0.05
 lca,sex_m,eco_isic3_n,2005,0.103
 lca,sex_m,eco_isic3_n,2006,0.1
+lca,sex_m,eco_isic3_o,1993,0.36
 lca,sex_m,eco_isic3_o,1994,0.24
 lca,sex_m,eco_isic3_o,1995,0.32
 lca,sex_m,eco_isic3_o,1996,0.31
@@ -763,6 +816,7 @@ lca,sex_m,eco_isic3_o,2003,0.843
 lca,sex_m,eco_isic3_o,2004,1.063
 lca,sex_m,eco_isic3_o,2005,1.288
 lca,sex_m,eco_isic3_o,2006,1.358
+lca,sex_m,eco_isic3_p,1993,0.29
 lca,sex_m,eco_isic3_p,1994,0.67
 lca,sex_m,eco_isic3_p,1995,0.38
 lca,sex_m,eco_isic3_p,1996,0.385
@@ -775,6 +829,7 @@ lca,sex_m,eco_isic3_p,2003,0.528
 lca,sex_m,eco_isic3_p,2004,0.195
 lca,sex_m,eco_isic3_p,2005,0.14
 lca,sex_m,eco_isic3_p,2006,0.365
+lca,sex_m,eco_isic3_total,1993,29.35
 lca,sex_m,eco_isic3_total,1994,29.16
 lca,sex_m,eco_isic3_total,1995,32.06
 lca,sex_m,eco_isic3_total,1996,31.74
@@ -787,6 +842,7 @@ lca,sex_m,eco_isic3_total,2003,36.475
 lca,sex_m,eco_isic3_total,2004,34.838
 lca,sex_m,eco_isic3_total,2005,36.72
 lca,sex_m,eco_isic3_total,2006,41.088
+lca,sex_m,eco_isic3_x,1993,1.03
 lca,sex_m,eco_isic3_x,1994,1.11
 lca,sex_m,eco_isic3_x,1995,0.29
 lca,sex_m,eco_isic3_x,1996,0.055
@@ -864,6 +920,7 @@ lca,sex_m,eco_isic4_u,2017,0.031
 lca,sex_m,eco_isic4_x,2017,2.193
 lca,sex_m,eco_isic4_x,2018,1.939
 lca,sex_m,eco_isic4_x,2019,1.197
+lca,sex_m,eco_sector_agr,1993,8.8
 lca,sex_m,eco_sector_agr,1994,9.79
 lca,sex_m,eco_sector_agr,1995,9.38
 lca,sex_m,eco_sector_agr,1996,9.575
@@ -879,6 +936,7 @@ lca,sex_m,eco_sector_agr,2006,6.575
 lca,sex_m,eco_sector_agr,2017,6.474
 lca,sex_m,eco_sector_agr,2018,7.001
 lca,sex_m,eco_sector_agr,2019,7.016
+lca,sex_m,eco_sector_ind,1993,7.02
 lca,sex_m,eco_sector_ind,1994,6.16
 lca,sex_m,eco_sector_ind,1995,8.36
 lca,sex_m,eco_sector_ind,1996,8.055
@@ -894,6 +952,7 @@ lca,sex_m,eco_sector_ind,2006,11.066
 lca,sex_m,eco_sector_ind,2017,10.443
 lca,sex_m,eco_sector_ind,2018,9.403
 lca,sex_m,eco_sector_ind,2019,9.499
+lca,sex_m,eco_sector_nag,1993,20.55
 lca,sex_m,eco_sector_nag,1994,19.37
 lca,sex_m,eco_sector_nag,1995,22.68
 lca,sex_m,eco_sector_nag,1996,22.165
@@ -909,6 +968,7 @@ lca,sex_m,eco_sector_nag,2006,34.513
 lca,sex_m,eco_sector_nag,2017,37.668
 lca,sex_m,eco_sector_nag,2018,37.77
 lca,sex_m,eco_sector_nag,2019,37.738
+lca,sex_m,eco_sector_ser,1993,12.5
 lca,sex_m,eco_sector_ser,1994,12.11
 lca,sex_m,eco_sector_ser,1995,13.75
 lca,sex_m,eco_sector_ser,1996,14.055
@@ -924,6 +984,7 @@ lca,sex_m,eco_sector_ser,2006,19.866
 lca,sex_m,eco_sector_ser,2017,25.033
 lca,sex_m,eco_sector_ser,2018,26.427
 lca,sex_m,eco_sector_ser,2019,27.042
+lca,sex_m,eco_sector_total,1993,29.35
 lca,sex_m,eco_sector_total,1994,29.16
 lca,sex_m,eco_sector_total,1995,32.06
 lca,sex_m,eco_sector_total,1996,31.74
@@ -939,6 +1000,7 @@ lca,sex_m,eco_sector_total,2006,41.088
 lca,sex_m,eco_sector_total,2017,44.142
 lca,sex_m,eco_sector_total,2018,44.771
 lca,sex_m,eco_sector_total,2019,44.754
+lca,sex_m,eco_sector_x,1993,1.03
 lca,sex_m,eco_sector_x,1994,1.11
 lca,sex_m,eco_sector_x,1995,0.29
 lca,sex_m,eco_sector_x,1996,0.055
@@ -954,6 +1016,7 @@ lca,sex_m,eco_sector_x,2006,3.583
 lca,sex_m,eco_sector_x,2017,2.193
 lca,sex_m,eco_sector_x,2018,1.939
 lca,sex_m,eco_sector_x,2019,1.197
+lca,sex_t,eco_aggregate_agr,1993,12.24
 lca,sex_t,eco_aggregate_agr,1994,13.88
 lca,sex_t,eco_aggregate_agr,1995,13.91
 lca,sex_t,eco_aggregate_agr,1996,14.275
@@ -969,6 +1032,7 @@ lca,sex_t,eco_aggregate_agr,2006,9.043
 lca,sex_t,eco_aggregate_agr,2017,8.112
 lca,sex_t,eco_aggregate_agr,2018,8.815
 lca,sex_t,eco_aggregate_agr,2019,8.187
+lca,sex_t,eco_aggregate_con,1993,4.63
 lca,sex_t,eco_aggregate_con,1994,3.92
 lca,sex_t,eco_aggregate_con,1995,7.96
 lca,sex_t,eco_aggregate_con,1996,5.08
@@ -984,6 +1048,7 @@ lca,sex_t,eco_aggregate_con,2006,8.793
 lca,sex_t,eco_aggregate_con,2017,7.254
 lca,sex_t,eco_aggregate_con,2018,6.502
 lca,sex_t,eco_aggregate_con,2019,6.726
+lca,sex_t,eco_aggregate_man,1993,6.38
 lca,sex_t,eco_aggregate_man,1994,6.33
 lca,sex_t,eco_aggregate_man,1995,5.51
 lca,sex_t,eco_aggregate_man,1996,6.97
@@ -999,6 +1064,7 @@ lca,sex_t,eco_aggregate_man,2006,4.178
 lca,sex_t,eco_aggregate_man,2017,4.503
 lca,sex_t,eco_aggregate_man,2018,4.387
 lca,sex_t,eco_aggregate_man,2019,4.261
+lca,sex_t,eco_aggregate_mel,1993,0.46
 lca,sex_t,eco_aggregate_mel,1994,0.65
 lca,sex_t,eco_aggregate_mel,1995,1.13
 lca,sex_t,eco_aggregate_mel,1996,0.73
@@ -1014,6 +1080,7 @@ lca,sex_t,eco_aggregate_mel,2006,0.745
 lca,sex_t,eco_aggregate_mel,2017,0.933
 lca,sex_t,eco_aggregate_mel,2018,0.74
 lca,sex_t,eco_aggregate_mel,2019,0.928
+lca,sex_t,eco_aggregate_mkt,1993,17.6
 lca,sex_t,eco_aggregate_mkt,1994,15.66
 lca,sex_t,eco_aggregate_mkt,1995,18.63
 lca,sex_t,eco_aggregate_mkt,1996,18.825
@@ -1029,6 +1096,7 @@ lca,sex_t,eco_aggregate_mkt,2006,26.743
 lca,sex_t,eco_aggregate_mkt,2017,38.37
 lca,sex_t,eco_aggregate_mkt,2018,38.251
 lca,sex_t,eco_aggregate_mkt,2019,40.966
+lca,sex_t,eco_aggregate_pub,1993,9.77
 lca,sex_t,eco_aggregate_pub,1994,10.18
 lca,sex_t,eco_aggregate_pub,1995,9.88
 lca,sex_t,eco_aggregate_pub,1996,10.735
@@ -1044,6 +1112,7 @@ lca,sex_t,eco_aggregate_pub,2006,14.962
 lca,sex_t,eco_aggregate_pub,2017,18.977
 lca,sex_t,eco_aggregate_pub,2018,19.466
 lca,sex_t,eco_aggregate_pub,2019,20.335
+lca,sex_t,eco_aggregate_total,1993,52.48
 lca,sex_t,eco_aggregate_total,1994,52.29
 lca,sex_t,eco_aggregate_total,1995,57.44
 lca,sex_t,eco_aggregate_total,1996,56.715
@@ -1059,6 +1128,7 @@ lca,sex_t,eco_aggregate_total,2006,69.978
 lca,sex_t,eco_aggregate_total,2017,81.745
 lca,sex_t,eco_aggregate_total,2018,81.577
 lca,sex_t,eco_aggregate_total,2019,83.724
+lca,sex_t,eco_aggregate_x,1993,1.4
 lca,sex_t,eco_aggregate_x,1994,1.65
 lca,sex_t,eco_aggregate_x,1995,0.42
 lca,sex_t,eco_aggregate_x,1996,0.1
@@ -1074,6 +1144,7 @@ lca,sex_t,eco_aggregate_x,2006,5.518
 lca,sex_t,eco_aggregate_x,2017,3.596
 lca,sex_t,eco_aggregate_x,2018,3.417
 lca,sex_t,eco_aggregate_x,2019,2.321
+lca,sex_t,eco_isic3_a,1993,11.72
 lca,sex_t,eco_isic3_a,1994,12.58
 lca,sex_t,eco_isic3_a,1995,12.68
 lca,sex_t,eco_isic3_a,1996,13.62
@@ -1086,6 +1157,7 @@ lca,sex_t,eco_isic3_a,2003,7.69
 lca,sex_t,eco_isic3_a,2004,8.49
 lca,sex_t,eco_isic3_a,2005,7.883
 lca,sex_t,eco_isic3_a,2006,8.32
+lca,sex_t,eco_isic3_b,1993,0.52
 lca,sex_t,eco_isic3_b,1994,1.3
 lca,sex_t,eco_isic3_b,1995,1.23
 lca,sex_t,eco_isic3_b,1996,0.655
@@ -1098,6 +1170,7 @@ lca,sex_t,eco_isic3_b,2003,0.595
 lca,sex_t,eco_isic3_b,2004,0.753
 lca,sex_t,eco_isic3_b,2005,0.713
 lca,sex_t,eco_isic3_b,2006,0.723
+lca,sex_t,eco_isic3_d,1993,6.38
 lca,sex_t,eco_isic3_d,1994,6.33
 lca,sex_t,eco_isic3_d,1995,5.51
 lca,sex_t,eco_isic3_d,1996,6.97
@@ -1110,6 +1183,7 @@ lca,sex_t,eco_isic3_d,2003,4.608
 lca,sex_t,eco_isic3_d,2004,4.668
 lca,sex_t,eco_isic3_d,2005,4.823
 lca,sex_t,eco_isic3_d,2006,4.178
+lca,sex_t,eco_isic3_e,1993,0.46
 lca,sex_t,eco_isic3_e,1994,0.65
 lca,sex_t,eco_isic3_e,1995,1.13
 lca,sex_t,eco_isic3_e,1996,0.73
@@ -1122,6 +1196,7 @@ lca,sex_t,eco_isic3_e,2003,0.56
 lca,sex_t,eco_isic3_e,2004,0.428
 lca,sex_t,eco_isic3_e,2005,0.738
 lca,sex_t,eco_isic3_e,2006,0.745
+lca,sex_t,eco_isic3_f,1993,4.63
 lca,sex_t,eco_isic3_f,1994,3.92
 lca,sex_t,eco_isic3_f,1995,7.96
 lca,sex_t,eco_isic3_f,1996,5.08
@@ -1134,6 +1209,7 @@ lca,sex_t,eco_isic3_f,2003,4.978
 lca,sex_t,eco_isic3_f,2004,4.928
 lca,sex_t,eco_isic3_f,2005,7.118
 lca,sex_t,eco_isic3_f,2006,8.793
+lca,sex_t,eco_isic3_g,1993,8.02
 lca,sex_t,eco_isic3_g,1994,6.64
 lca,sex_t,eco_isic3_g,1995,6.78
 lca,sex_t,eco_isic3_g,1996,7.89
@@ -1146,6 +1222,7 @@ lca,sex_t,eco_isic3_g,2003,10.408
 lca,sex_t,eco_isic3_g,2004,9.778
 lca,sex_t,eco_isic3_g,2005,10.543
 lca,sex_t,eco_isic3_g,2006,10.528
+lca,sex_t,eco_isic3_h,1993,4.58
 lca,sex_t,eco_isic3_h,1994,4.49
 lca,sex_t,eco_isic3_h,1995,5.71
 lca,sex_t,eco_isic3_h,1996,4.855
@@ -1158,6 +1235,7 @@ lca,sex_t,eco_isic3_h,2003,6.755
 lca,sex_t,eco_isic3_h,2004,6.76
 lca,sex_t,eco_isic3_h,2005,8.01
 lca,sex_t,eco_isic3_h,2006,8.165
+lca,sex_t,eco_isic3_i,1993,3.23
 lca,sex_t,eco_isic3_i,1994,2.39
 lca,sex_t,eco_isic3_i,1995,4.06
 lca,sex_t,eco_isic3_i,1996,3.66
@@ -1170,6 +1248,7 @@ lca,sex_t,eco_isic3_i,2003,4.165
 lca,sex_t,eco_isic3_i,2004,3.325
 lca,sex_t,eco_isic3_i,2005,4.065
 lca,sex_t,eco_isic3_i,2006,4.09
+lca,sex_t,eco_isic3_j,1993,0.88
 lca,sex_t,eco_isic3_j,1994,1.09
 lca,sex_t,eco_isic3_j,1995,1.11
 lca,sex_t,eco_isic3_j,1996,1.425
@@ -1182,6 +1261,7 @@ lca,sex_t,eco_isic3_j,2003,1.243
 lca,sex_t,eco_isic3_j,2004,1.153
 lca,sex_t,eco_isic3_j,2005,1.16
 lca,sex_t,eco_isic3_j,2006,1.425
+lca,sex_t,eco_isic3_k,1993,0.89
 lca,sex_t,eco_isic3_k,1994,1.05
 lca,sex_t,eco_isic3_k,1995,0.97
 lca,sex_t,eco_isic3_k,1996,0.995
@@ -1194,6 +1274,7 @@ lca,sex_t,eco_isic3_k,2003,2.135
 lca,sex_t,eco_isic3_k,2004,2.535
 lca,sex_t,eco_isic3_k,2005,2.543
 lca,sex_t,eco_isic3_k,2006,2.535
+lca,sex_t,eco_isic3_l,1993,6.93
 lca,sex_t,eco_isic3_l,1994,7.1
 lca,sex_t,eco_isic3_l,1995,7.59
 lca,sex_t,eco_isic3_l,1996,6.635
@@ -1206,6 +1287,7 @@ lca,sex_t,eco_isic3_l,2003,7.31
 lca,sex_t,eco_isic3_l,2004,8.18
 lca,sex_t,eco_isic3_l,2005,9.105
 lca,sex_t,eco_isic3_l,2006,8.758
+lca,sex_t,eco_isic3_m,1993,0.44
 lca,sex_t,eco_isic3_m,1994,0.35
 lca,sex_t,eco_isic3_m,1995,0.42
 lca,sex_t,eco_isic3_m,1996,0.725
@@ -1218,6 +1300,7 @@ lca,sex_t,eco_isic3_m,2003,2.07
 lca,sex_t,eco_isic3_m,2004,1.058
 lca,sex_t,eco_isic3_m,2005,1.145
 lca,sex_t,eco_isic3_m,2006,1.168
+lca,sex_t,eco_isic3_n,1993,0.4
 lca,sex_t,eco_isic3_n,1994,0.15
 lca,sex_t,eco_isic3_n,1995,0.14
 lca,sex_t,eco_isic3_n,1996,0.665
@@ -1230,6 +1313,7 @@ lca,sex_t,eco_isic3_n,2003,0.593
 lca,sex_t,eco_isic3_n,2004,0.385
 lca,sex_t,eco_isic3_n,2005,0.53
 lca,sex_t,eco_isic3_n,2006,0.438
+lca,sex_t,eco_isic3_o,1993,0.64
 lca,sex_t,eco_isic3_o,1994,0.55
 lca,sex_t,eco_isic3_o,1995,0.57
 lca,sex_t,eco_isic3_o,1996,0.85
@@ -1242,6 +1326,7 @@ lca,sex_t,eco_isic3_o,2003,1.64
 lca,sex_t,eco_isic3_o,2004,1.953
 lca,sex_t,eco_isic3_o,2005,2.255
 lca,sex_t,eco_isic3_o,2006,2.223
+lca,sex_t,eco_isic3_p,1993,1.36
 lca,sex_t,eco_isic3_p,1994,2.03
 lca,sex_t,eco_isic3_p,1995,1.16
 lca,sex_t,eco_isic3_p,1996,1.86
@@ -1254,6 +1339,7 @@ lca,sex_t,eco_isic3_p,2003,2.145
 lca,sex_t,eco_isic3_p,2004,1.85
 lca,sex_t,eco_isic3_p,2005,1.783
 lca,sex_t,eco_isic3_p,2006,2.375
+lca,sex_t,eco_isic3_total,1993,52.48
 lca,sex_t,eco_isic3_total,1994,52.29
 lca,sex_t,eco_isic3_total,1995,57.44
 lca,sex_t,eco_isic3_total,1996,56.715
@@ -1266,6 +1352,7 @@ lca,sex_t,eco_isic3_total,2003,63.868
 lca,sex_t,eco_isic3_total,2004,62.265
 lca,sex_t,eco_isic3_total,2005,65.773
 lca,sex_t,eco_isic3_total,2006,69.978
+lca,sex_t,eco_isic3_x,1993,1.4
 lca,sex_t,eco_isic3_x,1994,1.65
 lca,sex_t,eco_isic3_x,1995,0.42
 lca,sex_t,eco_isic3_x,1996,0.1
@@ -1347,6 +1434,7 @@ lca,sex_t,eco_isic4_u,2019,0.182
 lca,sex_t,eco_isic4_x,2017,3.596
 lca,sex_t,eco_isic4_x,2018,3.417
 lca,sex_t,eco_isic4_x,2019,2.321
+lca,sex_t,eco_sector_agr,1993,12.24
 lca,sex_t,eco_sector_agr,1994,13.88
 lca,sex_t,eco_sector_agr,1995,13.91
 lca,sex_t,eco_sector_agr,1996,14.275
@@ -1362,6 +1450,7 @@ lca,sex_t,eco_sector_agr,2006,9.043
 lca,sex_t,eco_sector_agr,2017,8.112
 lca,sex_t,eco_sector_agr,2018,8.815
 lca,sex_t,eco_sector_agr,2019,8.187
+lca,sex_t,eco_sector_ind,1993,11.47
 lca,sex_t,eco_sector_ind,1994,10.9
 lca,sex_t,eco_sector_ind,1995,14.6
 lca,sex_t,eco_sector_ind,1996,12.78
@@ -1377,6 +1466,7 @@ lca,sex_t,eco_sector_ind,2006,13.716
 lca,sex_t,eco_sector_ind,2017,12.69
 lca,sex_t,eco_sector_ind,2018,11.628
 lca,sex_t,eco_sector_ind,2019,11.915
+lca,sex_t,eco_sector_nag,1993,40.24
 lca,sex_t,eco_sector_nag,1994,38.41
 lca,sex_t,eco_sector_nag,1995,43.53
 lca,sex_t,eco_sector_nag,1996,42.44
@@ -1392,6 +1482,7 @@ lca,sex_t,eco_sector_nag,2006,60.935
 lca,sex_t,eco_sector_nag,2017,73.633
 lca,sex_t,eco_sector_nag,2018,72.763
 lca,sex_t,eco_sector_nag,2019,75.537
+lca,sex_t,eco_sector_ser,1993,27.37
 lca,sex_t,eco_sector_ser,1994,25.84
 lca,sex_t,eco_sector_ser,1995,28.51
 lca,sex_t,eco_sector_ser,1996,29.56
@@ -1407,6 +1498,7 @@ lca,sex_t,eco_sector_ser,2006,41.705
 lca,sex_t,eco_sector_ser,2017,57.347
 lca,sex_t,eco_sector_ser,2018,57.717
 lca,sex_t,eco_sector_ser,2019,61.301
+lca,sex_t,eco_sector_total,1993,52.48
 lca,sex_t,eco_sector_total,1994,52.29
 lca,sex_t,eco_sector_total,1995,57.44
 lca,sex_t,eco_sector_total,1996,56.715
@@ -1422,6 +1514,7 @@ lca,sex_t,eco_sector_total,2006,69.978
 lca,sex_t,eco_sector_total,2017,81.745
 lca,sex_t,eco_sector_total,2018,81.577
 lca,sex_t,eco_sector_total,2019,83.724
+lca,sex_t,eco_sector_x,1993,1.4
 lca,sex_t,eco_sector_x,1994,1.65
 lca,sex_t,eco_sector_x,1995,0.42
 lca,sex_t,eco_sector_x,1996,0.1
