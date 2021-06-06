@@ -1,7 +1,7 @@
 classif2,classif2_label,classif2_sort
-vol_type_total,Type: Total,1
-vol_type_org,Type: Organization-based,2
-vol_type_direct,Type: Direct,3
+vol_type_total,Type of work: Total,1
+vol_type_org,Type of work: Organization-based,2
+vol_type_direct,Type of work: Direct,3
 tra_stage_total,Transition stage: Total,4
 tra_stage_1,Transition stage: 1 - Transited,5
 tra_stage_2,Transition stage: 2 - In transition,6
@@ -67,427 +67,425 @@ stu_status_stu,Educational attendance: Attending,65
 stu_status_nstd,Educational attendance: Not attending,66
 stu_status_x,Educational attendance: Not elsewhere classified,67
 lms_status_total,Labour market status: Total,68
-lms_status_eap,Labour market status: Labour force,69
-lms_status_emp,Labour market status: Employed,70
-lms_status_une,Labour market status: Unemployed,71
-lms_status_eip,Labour market status: Outside the labour force,72
-lms_status_x,Labour market status: Unknown,73
-ste_icse93_total,Status in employment (ICSE-93): Total,74
-ste_icse93_1,Status in employment (ICSE-93): 1. Employees,75
-ste_icse93_2,Status in employment (ICSE-93): 2. Employers,76
-ste_icse93_3,Status in employment (ICSE-93): 3. Own-account workers,77
-ste_icse93_4,Status in employment (ICSE-93): 4. Members of producers' cooperatives,78
-ste_icse93_5,Status in employment (ICSE-93): 5. Contributing family workers,79
-ste_icse93_6,Status in employment (ICSE-93): 6. Workers not classifiable by status,80
-ste_aggregate_total,Status in employment (Aggregate): Total,81
-ste_aggregate_ees,Status in employment (Aggregate): Employees,82
-ste_aggregate_slf,Status in employment (Aggregate): Self-employed,83
-ste_aggregate_x,Status in employment (Aggregate): Workers not classifiable by status,84
-ins_sector_total,Institutional Sector: Total,85
-ins_sector_pub,Institutional Sector: Public,86
-ins_sector_pri,Institutional Sector: Private,87
-eco_isic4_total,Economic activity (ISIC-Rev.4): Total,88
-eco_isic4_a,Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,89
-eco_isic4_b,Economic activity (ISIC-Rev.4): B. Mining and quarrying,90
-eco_isic4_c,Economic activity (ISIC-Rev.4): C. Manufacturing,91
-eco_isic4_d,"Economic activity (ISIC-Rev.4): D. Electricity; gas, steam and air conditioning supply",92
-eco_isic4_e,"Economic activity (ISIC-Rev.4): E. Water supply; sewerage, waste management and remediation activities",93
-eco_isic4_f,Economic activity (ISIC-Rev.4): F. Construction,94
-eco_isic4_g,Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,95
-eco_isic4_h,Economic activity (ISIC-Rev.4): H. Transportation and storage,96
-eco_isic4_i,Economic activity (ISIC-Rev.4): I. Accommodation and food service activities,97
-eco_isic4_j,Economic activity (ISIC-Rev.4): J. Information and communication,98
-eco_isic4_k,Economic activity (ISIC-Rev.4): K. Financial and insurance activities,99
-eco_isic4_l,Economic activity (ISIC-Rev.4): L. Real estate activities,100
-eco_isic4_m,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities",101
-eco_isic4_n,Economic activity (ISIC-Rev.4): N. Administrative and support service activities,102
-eco_isic4_o,Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security,103
-eco_isic4_p,Economic activity (ISIC-Rev.4): P. Education,104
-eco_isic4_q,Economic activity (ISIC-Rev.4): Q. Human health and social work activities,105
-eco_isic4_r,"Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation",106
-eco_isic4_s,Economic activity (ISIC-Rev.4): S. Other service activities,107
-eco_isic4_t,Economic activity (ISIC-Rev.4): T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,108
-eco_isic4_u,Economic activity (ISIC-Rev.4): U. Activities of extraterritorial organizations and bodies,109
-eco_isic4_x,Economic activity (ISIC-Rev.4): X. Not elsewhere classified,110
-eco_isic3_total,Economic activity (ISIC-Rev.3.1): Total,111
-eco_isic3_a,"Economic activity (ISIC-Rev.3.1): A. Agriculture, hunting and forestry",112
-eco_isic3_b,Economic activity (ISIC-Rev.3.1): B. Fishing,113
-eco_isic3_c,Economic activity (ISIC-Rev.3.1): C. Mining and quarrying,114
-eco_isic3_d,Economic activity (ISIC-Rev.3.1): D. Manufacturing,115
-eco_isic3_e,"Economic activity (ISIC-Rev.3.1): E. Electricity, gas and water supply",116
-eco_isic3_f,Economic activity (ISIC-Rev.3.1): F. Construction,117
-eco_isic3_g,"Economic activity (ISIC-Rev.3.1): G. Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",118
-eco_isic3_h,Economic activity (ISIC-Rev.3.1): H. Hotels and restaurants,119
-eco_isic3_i,"Economic activity (ISIC-Rev.3.1): I. Transport, storage and communications",120
-eco_isic3_j,Economic activity (ISIC-Rev.3.1): J. Financial intermediation,121
-eco_isic3_k,"Economic activity (ISIC-Rev.3.1): K. Real estate, renting and business activities",122
-eco_isic3_l,Economic activity (ISIC-Rev.3.1): L. Public administration and defence; compulsory social security,123
-eco_isic3_m,Economic activity (ISIC-Rev.3.1): M. Education,124
-eco_isic3_n,Economic activity (ISIC-Rev.3.1): N. Health and social work,125
-eco_isic3_o,"Economic activity (ISIC-Rev.3.1): O. Other community, social and personal service activities",126
-eco_isic3_p,Economic activity (ISIC-Rev.3.1): P. Activities of private households as employers and undifferentiated production activities of private households,127
-eco_isic3_q,Economic activity (ISIC-Rev.3.1): Q. Extraterritorial organizations and bodies,128
-eco_isic3_x,Economic activity (ISIC-Rev.3.1): X. Not elsewhere classified,129
-eco_isic2_total,Economic activity (ISIC-Rev.2): Total,130
-eco_isic2_1,"Economic activity (ISIC-Rev.2): 1. Agriculture, Hunting, Forestry and Fishing",131
-eco_isic2_2,Economic activity (ISIC-Rev.2): 2. Mining and Quarrying,132
-eco_isic2_3,Economic activity (ISIC-Rev.2): 3. Manufacturing,133
-eco_isic2_4,"Economic activity (ISIC-Rev.2): 4. Electricity, Gas and Water",134
-eco_isic2_5,Economic activity (ISIC-Rev.2): 5. Construction,135
-eco_isic2_6,Economic activity (ISIC-Rev.2): 6. Wholesale and Retail Trade and Restaurants and Hotels,136
-eco_isic2_7,"Economic activity (ISIC-Rev.2): 7. Transport, Storage and Communication",137
-eco_isic2_8,"Economic activity (ISIC-Rev.2): 8. Financing, Insurance, Real Estate and Business Services",138
-eco_isic2_9,"Economic activity (ISIC-Rev.2): 9. Community, Social and Personal Services",139
-eco_isic2_0,Economic activity (ISIC-Rev.2): 0. Activities not Adequately Defined,140
-eco_aggregate_total,Economic activity (Aggregate): Total,141
-eco_aggregate_agr,Economic activity (Aggregate): Agriculture,142
-eco_aggregate_man,Economic activity (Aggregate): Manufacturing,143
-eco_aggregate_con,Economic activity (Aggregate): Construction,144
-eco_aggregate_mel,"Economic activity (Aggregate): Mining and quarrying; Electricity, gas and water supply",145
-eco_aggregate_mkt,"Economic activity (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",146
-eco_aggregate_pub,"Economic activity (Aggregate): Public Administration, Community, Social and other Services and Activities",147
-eco_aggregate_x,Economic activity (Aggregate): Not classified,148
-eco_sector_total,Economic activity (Broad sector): Total,149
-eco_sector_agr,Economic activity (Broad sector): Agriculture,150
-eco_sector_nag,Economic activity (Broad sector): Non-agriculture,151
-eco_sector_ind,Economic activity (Broad sector): Industry,152
-eco_sector_ser,Economic activity (Broad sector): Services,153
-eco_sector_x,Economic activity (Broad sector): Not classified,154
-cla_ecocla_total,Economic class: Total,155
-cla_ecocla_usdlt2,Economic class: Extremely poor < USD 1.90 PPP,156
-cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 1.90 and < USD 3.20 PPP,157
-cla_ecocla_usdge3,Economic class: >= USD 3.20 PPP,158
-cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 3.20 and < USD 5.5 PPP,159
-cla_ecocla_usdge5,Economic class: >= USD 5.5 PPP,160
-ec2_isic4_total,"Economic activity (ISIC-Rev.4), 2 digit level: Total",161
-ec2_isic4_a01,"Economic activity (ISIC-Rev.4), 2 digit level: 01 - Crop and animal production, hunting and related service activities",162
-ec2_isic4_a02,"Economic activity (ISIC-Rev.4), 2 digit level: 02 - Forestry and logging",163
-ec2_isic4_a03,"Economic activity (ISIC-Rev.4), 2 digit level: 03 - Fishing and aquaculture",164
-ec2_isic4_b05,"Economic activity (ISIC-Rev.4), 2 digit level: 05 - Mining of coal and lignite",165
-ec2_isic4_b06,"Economic activity (ISIC-Rev.4), 2 digit level: 06 - Extraction of crude petroleum and natural gas",166
-ec2_isic4_b07,"Economic activity (ISIC-Rev.4), 2 digit level: 07 - Mining of metal ores",167
-ec2_isic4_b08,"Economic activity (ISIC-Rev.4), 2 digit level: 08 - Other mining and quarrying",168
-ec2_isic4_b09,"Economic activity (ISIC-Rev.4), 2 digit level: 09 - Mining support service activities",169
-ec2_isic4_c10,"Economic activity (ISIC-Rev.4), 2 digit level: 10 - Manufacture of food products",170
-ec2_isic4_c11,"Economic activity (ISIC-Rev.4), 2 digit level: 11 - Manufacture of beverages",171
-ec2_isic4_c12,"Economic activity (ISIC-Rev.4), 2 digit level: 12 - Manufacture of tobacco products",172
-ec2_isic4_c13,"Economic activity (ISIC-Rev.4), 2 digit level: 13 - Manufacture of textiles",173
-ec2_isic4_c14,"Economic activity (ISIC-Rev.4), 2 digit level: 14 - Manufacture of wearing apparel",174
-ec2_isic4_c15,"Economic activity (ISIC-Rev.4), 2 digit level: 15 - Manufacture of leather and related products",175
-ec2_isic4_c16,"Economic activity (ISIC-Rev.4), 2 digit level: 16 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",176
-ec2_isic4_c17,"Economic activity (ISIC-Rev.4), 2 digit level: 17 - Manufacture of paper and paper products",177
-ec2_isic4_c18,"Economic activity (ISIC-Rev.4), 2 digit level: 18 - Printing and reproduction of recorded media",178
-ec2_isic4_c19,"Economic activity (ISIC-Rev.4), 2 digit level: 19 - Manufacture of coke and refined petroleum products",179
-ec2_isic4_c20,"Economic activity (ISIC-Rev.4), 2 digit level: 20 - Manufacture of chemicals and chemical products",180
-ec2_isic4_c21,"Economic activity (ISIC-Rev.4), 2 digit level: 21 - Manufacture of pharmaceuticals, medicinal chemical and botanical products",181
-ec2_isic4_c22,"Economic activity (ISIC-Rev.4), 2 digit level: 22 - Manufacture of rubber and plastics products",182
-ec2_isic4_c23,"Economic activity (ISIC-Rev.4), 2 digit level: 23 - Manufacture of other non-metallic mineral products",183
-ec2_isic4_c24,"Economic activity (ISIC-Rev.4), 2 digit level: 24 - Manufacture of basic metals",184
-ec2_isic4_c25,"Economic activity (ISIC-Rev.4), 2 digit level: 25 - Manufacture of fabricated metal products, except machinery and equipment",185
-ec2_isic4_c26,"Economic activity (ISIC-Rev.4), 2 digit level: 26 - Manufacture of computer, electronic and optical products",186
-ec2_isic4_c27,"Economic activity (ISIC-Rev.4), 2 digit level: 27 - Manufacture of electrical equipment",187
-ec2_isic4_c28,"Economic activity (ISIC-Rev.4), 2 digit level: 28 - Manufacture of machinery and equipment n.e.c.",188
-ec2_isic4_c29,"Economic activity (ISIC-Rev.4), 2 digit level: 29 - Manufacture of motor vehicles, trailers and semi-trailers",189
-ec2_isic4_c30,"Economic activity (ISIC-Rev.4), 2 digit level: 30 - Manufacture of other transport equipment",190
-ec2_isic4_c31,"Economic activity (ISIC-Rev.4), 2 digit level: 31 - Manufacture of furniture",191
-ec2_isic4_c32,"Economic activity (ISIC-Rev.4), 2 digit level: 32 - Other manufacturing",192
-ec2_isic4_c33,"Economic activity (ISIC-Rev.4), 2 digit level: 33 - Repair and installation of machinery and equipment",193
-ec2_isic4_d35,"Economic activity (ISIC-Rev.4), 2 digit level: 35 - Electricity, gas, steam and air conditioning supply",194
-ec2_isic4_e36,"Economic activity (ISIC-Rev.4), 2 digit level: 36 - Water collection, treatment and supply",195
-ec2_isic4_e37,"Economic activity (ISIC-Rev.4), 2 digit level: 37 - Sewerage",196
-ec2_isic4_e38,"Economic activity (ISIC-Rev.4), 2 digit level: 38 - Waste collection, treatment and disposal activities; materials recovery",197
-ec2_isic4_e39,"Economic activity (ISIC-Rev.4), 2 digit level: 39 - Remediation activities and other waste management services",198
-ec2_isic4_f41,"Economic activity (ISIC-Rev.4), 2 digit level: 41 - Construction of buildings",199
-ec2_isic4_f42,"Economic activity (ISIC-Rev.4), 2 digit level: 42 - Civil engineering",200
-ec2_isic4_f43,"Economic activity (ISIC-Rev.4), 2 digit level: 43 - Specialized construction activities",201
-ec2_isic4_g45,"Economic activity (ISIC-Rev.4), 2 digit level: 45 - Wholesale and retail trade and repair of motor vehicles and motorcycles",202
-ec2_isic4_g46,"Economic activity (ISIC-Rev.4), 2 digit level: 46 - Wholesale trade, except of motor vehicles and motorcycles",203
-ec2_isic4_g47,"Economic activity (ISIC-Rev.4), 2 digit level: 47 - Retail trade, except of motor vehicles and motorcycles",204
-ec2_isic4_h49,"Economic activity (ISIC-Rev.4), 2 digit level: 49 - Land transport and transport via pipelines",205
-ec2_isic4_h50,"Economic activity (ISIC-Rev.4), 2 digit level: 50 - Water transport",206
-ec2_isic4_h51,"Economic activity (ISIC-Rev.4), 2 digit level: 51 - Air transport",207
-ec2_isic4_h52,"Economic activity (ISIC-Rev.4), 2 digit level: 52 - Warehousing and support activities for transportation",208
-ec2_isic4_h53,"Economic activity (ISIC-Rev.4), 2 digit level: 53 - Postal and courier activities",209
-ec2_isic4_i55,"Economic activity (ISIC-Rev.4), 2 digit level: 55 - Accommodation",210
-ec2_isic4_i56,"Economic activity (ISIC-Rev.4), 2 digit level: 56 - Food and beverage service activities",211
-ec2_isic4_j58,"Economic activity (ISIC-Rev.4), 2 digit level: 58 - Publishing activities",212
-ec2_isic4_j59,"Economic activity (ISIC-Rev.4), 2 digit level: 59 - Motion picture, video and television programme production, sound recording and music publishing activities",213
-ec2_isic4_j60,"Economic activity (ISIC-Rev.4), 2 digit level: 60 - Programming and broadcasting activities",214
-ec2_isic4_j61,"Economic activity (ISIC-Rev.4), 2 digit level: 61 - Telecommunications",215
-ec2_isic4_j62,"Economic activity (ISIC-Rev.4), 2 digit level: 62 - Computer programming, consultancy and related activities",216
-ec2_isic4_j63,"Economic activity (ISIC-Rev.4), 2 digit level: 63 - Information service activities",217
-ec2_isic4_k64,"Economic activity (ISIC-Rev.4), 2 digit level: 64 - Financial service activities, except insurance and pension funding",218
-ec2_isic4_k65,"Economic activity (ISIC-Rev.4), 2 digit level: 65 - Insurance, reinsurance and pension funding, except compulsory social security",219
-ec2_isic4_k66,"Economic activity (ISIC-Rev.4), 2 digit level: 66 - Activities auxiliary to financial service and insurance activities",220
-ec2_isic4_l68,"Economic activity (ISIC-Rev.4), 2 digit level: 68 - Real estate activities",221
-ec2_isic4_m69,"Economic activity (ISIC-Rev.4), 2 digit level: 69 - Legal and accounting activities",222
-ec2_isic4_m70,"Economic activity (ISIC-Rev.4), 2 digit level: 70 - Activities of head offices; management consultancy activities",223
-ec2_isic4_m71,"Economic activity (ISIC-Rev.4), 2 digit level: 71 - Architectural and engineering activities; technical testing and analysis",224
-ec2_isic4_m72,"Economic activity (ISIC-Rev.4), 2 digit level: 72 - Scientific research and development",225
-ec2_isic4_m73,"Economic activity (ISIC-Rev.4), 2 digit level: 73 - Advertising and market research",226
-ec2_isic4_m74,"Economic activity (ISIC-Rev.4), 2 digit level: 74 - Other professional, scientific and technical activities",227
-ec2_isic4_m75,"Economic activity (ISIC-Rev.4), 2 digit level: 75 - Veterinary activities",228
-ec2_isic4_n77,"Economic activity (ISIC-Rev.4), 2 digit level: 77 - Rental and leasing activities",229
-ec2_isic4_n78,"Economic activity (ISIC-Rev.4), 2 digit level: 78 - Employment activities",230
-ec2_isic4_n79,"Economic activity (ISIC-Rev.4), 2 digit level: 79 - Travel agency, tour operator, reservation service and related activities",231
-ec2_isic4_n80,"Economic activity (ISIC-Rev.4), 2 digit level: 80 - Security and investigation activities",232
-ec2_isic4_n81,"Economic activity (ISIC-Rev.4), 2 digit level: 81 - Services to buildings and landscape activities",233
-ec2_isic4_n82,"Economic activity (ISIC-Rev.4), 2 digit level: 82 - Office administrative, office support and other business support activities",234
-ec2_isic4_o84,"Economic activity (ISIC-Rev.4), 2 digit level: 84 - Public administration and defence; compulsory social security",235
-ec2_isic4_p85,"Economic activity (ISIC-Rev.4), 2 digit level: 85 - Education",236
-ec2_isic4_q86,"Economic activity (ISIC-Rev.4), 2 digit level: 86 - Human health activities",237
-ec2_isic4_q87,"Economic activity (ISIC-Rev.4), 2 digit level: 87 - Residential care activities",238
-ec2_isic4_q88,"Economic activity (ISIC-Rev.4), 2 digit level: 88 - Social work activities without accommodation",239
-ec2_isic4_r90,"Economic activity (ISIC-Rev.4), 2 digit level: 90 - Creative, arts and entertainment activities",240
-ec2_isic4_r91,"Economic activity (ISIC-Rev.4), 2 digit level: 91 - Libraries, archives, museums and other cultural activities",241
-ec2_isic4_r92,"Economic activity (ISIC-Rev.4), 2 digit level: 92 - Gambling and betting activities",242
-ec2_isic4_r93,"Economic activity (ISIC-Rev.4), 2 digit level: 93 - Sports activities and amusement and recreation activities",243
-ec2_isic4_s94,"Economic activity (ISIC-Rev.4), 2 digit level: 94 - Activities of membership organizations",244
-ec2_isic4_s95,"Economic activity (ISIC-Rev.4), 2 digit level: 95 - Repair of computers and personal and household goods",245
-ec2_isic4_s96,"Economic activity (ISIC-Rev.4), 2 digit level: 96 - Other personal service activities",246
-ec2_isic4_t97,"Economic activity (ISIC-Rev.4), 2 digit level: 97 - Activities of households as employers of domestic personnel",247
-ec2_isic4_t98,"Economic activity (ISIC-Rev.4), 2 digit level: 98 - Undifferentiated goods- and services-producing activities of private households for own use",248
-ec2_isic4_u99,"Economic activity (ISIC-Rev.4), 2 digit level: 99 - Activities of extraterritorial organizations and bodies",249
-ec2_isic4_x,"Economic activity (ISIC-Rev.4), 2 digit level: Not elsewhere classified",250
-ec2_isic3_total,"Economic activity (ISIC-Rev.3.1), 2 digit level: Total",251
-ec2_isic3_a01,"Economic activity (ISIC-Rev.3.1), 2 digit level: 01 - Agriculture, hunting and related service activities",252
-ec2_isic3_a02,"Economic activity (ISIC-Rev.3.1), 2 digit level: 02 - Forestry, logging and related service activities",253
-ec2_isic3_b05,"Economic activity (ISIC-Rev.3.1), 2 digit level: 05 - Fishing, aquaculture and service activities incidental to fishing",254
-ec2_isic3_c10,"Economic activity (ISIC-Rev.3.1), 2 digit level: 10 - Mining of coal and lignite; extraction of peat",255
-ec2_isic3_c11,"Economic activity (ISIC-Rev.3.1), 2 digit level: 11 - Extraction of crude petroleum and natural gas; service activities incidental to oil and gas extraction, excluding surveying",256
-ec2_isic3_c12,"Economic activity (ISIC-Rev.3.1), 2 digit level: 12 - Mining of uranium and thorium ores",257
-ec2_isic3_c13,"Economic activity (ISIC-Rev.3.1), 2 digit level: 13 - Mining of metal ores",258
-ec2_isic3_c14,"Economic activity (ISIC-Rev.3.1), 2 digit level: 14 - Other mining and quarrying",259
-ec2_isic3_d15,"Economic activity (ISIC-Rev.3.1), 2 digit level: 15 - Manufacture of food products and beverages",260
-ec2_isic3_d16,"Economic activity (ISIC-Rev.3.1), 2 digit level: 16 - Manufacture of tobacco products",261
-ec2_isic3_d17,"Economic activity (ISIC-Rev.3.1), 2 digit level: 17 - Manufacture of textiles",262
-ec2_isic3_d18,"Economic activity (ISIC-Rev.3.1), 2 digit level: 18 - Manufacture of wearing apparel; dressing and dyeing of fur",263
-ec2_isic3_d19,"Economic activity (ISIC-Rev.3.1), 2 digit level: 19 - Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",264
-ec2_isic3_d20,"Economic activity (ISIC-Rev.3.1), 2 digit level: 20 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",265
-ec2_isic3_d21,"Economic activity (ISIC-Rev.3.1), 2 digit level: 21 - Manufacture of paper and paper products",266
-ec2_isic3_d22,"Economic activity (ISIC-Rev.3.1), 2 digit level: 22 - Publishing, printing and reproduction of recorded media",267
-ec2_isic3_d23,"Economic activity (ISIC-Rev.3.1), 2 digit level: 23 - Manufacture of coke, refined petroleum products and nuclear fuel",268
-ec2_isic3_d24,"Economic activity (ISIC-Rev.3.1), 2 digit level: 24 - Manufacture of chemicals and chemical products",269
-ec2_isic3_d25,"Economic activity (ISIC-Rev.3.1), 2 digit level: 25 - Manufacture of rubber and plastics products",270
-ec2_isic3_d26,"Economic activity (ISIC-Rev.3.1), 2 digit level: 26 - Manufacture of other non-metallic mineral products",271
-ec2_isic3_d27,"Economic activity (ISIC-Rev.3.1), 2 digit level: 27 - Manufacture of basic metals",272
-ec2_isic3_d28,"Economic activity (ISIC-Rev.3.1), 2 digit level: 28 - Manufacture of fabricated metal products, except machinery and equipment",273
-ec2_isic3_d29,"Economic activity (ISIC-Rev.3.1), 2 digit level: 29 - Manufacture of machinery and equipment n.e.c.",274
-ec2_isic3_d30,"Economic activity (ISIC-Rev.3.1), 2 digit level: 30 - Manufacture of office, accounting and computing machinery",275
-ec2_isic3_d31,"Economic activity (ISIC-Rev.3.1), 2 digit level: 31 - Manufacture of electrical machinery and apparatus n.e.c.",276
-ec2_isic3_d32,"Economic activity (ISIC-Rev.3.1), 2 digit level: 32 - Manufacture of radio, television and communication equipment and apparatus",277
-ec2_isic3_d33,"Economic activity (ISIC-Rev.3.1), 2 digit level: 33 - Manufacture of medical, precision and optical instruments, watches and clocks",278
-ec2_isic3_d34,"Economic activity (ISIC-Rev.3.1), 2 digit level: 34 - Manufacture of motor vehicles, trailers and semi-trailers",279
-ec2_isic3_d35,"Economic activity (ISIC-Rev.3.1), 2 digit level: 35 - Manufacture of other transport equipment",280
-ec2_isic3_d36,"Economic activity (ISIC-Rev.3.1), 2 digit level: 36 - Manufacture of furniture; manufacturing n.e.c.",281
-ec2_isic3_d37,"Economic activity (ISIC-Rev.3.1), 2 digit level: 37 - Recycling",282
-ec2_isic3_e40,"Economic activity (ISIC-Rev.3.1), 2 digit level: 40 - Electricity, gas, steam and hot water supply",283
-ec2_isic3_e41,"Economic activity (ISIC-Rev.3.1), 2 digit level: 41 - Collection, purification and distribution of water",284
-ec2_isic3_f45,"Economic activity (ISIC-Rev.3.1), 2 digit level: 45 - Construction",285
-ec2_isic3_g50,"Economic activity (ISIC-Rev.3.1), 2 digit level: 50 - Sale, maintenance and repair of motor vehicles and motorcycles; retail sale of automotive fuel",286
-ec2_isic3_g51,"Economic activity (ISIC-Rev.3.1), 2 digit level: 51 - Wholesale trade and commission trade, except of motor vehicles and motorcycles",287
-ec2_isic3_g52,"Economic activity (ISIC-Rev.3.1), 2 digit level: 52 - Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",288
-ec2_isic3_h55,"Economic activity (ISIC-Rev.3.1), 2 digit level: 55 - Hotels and restaurants",289
-ec2_isic3_i60,"Economic activity (ISIC-Rev.3.1), 2 digit level: 60 - Land transport; transport via pipelines",290
-ec2_isic3_i61,"Economic activity (ISIC-Rev.3.1), 2 digit level: 61 - Water transport",291
-ec2_isic3_i62,"Economic activity (ISIC-Rev.3.1), 2 digit level: 62 - Air transport",292
-ec2_isic3_i63,"Economic activity (ISIC-Rev.3.1), 2 digit level: 63 - Supporting and auxiliary transport activities; activities of travel agencies",293
-ec2_isic3_i64,"Economic activity (ISIC-Rev.3.1), 2 digit level: 64 - Post and telecommunications",294
-ec2_isic3_j65,"Economic activity (ISIC-Rev.3.1), 2 digit level: 65 - Financial intermediation, except insurance and pension funding",295
-ec2_isic3_j66,"Economic activity (ISIC-Rev.3.1), 2 digit level: 66 - Insurance and pension funding, except compulsory social security",296
-ec2_isic3_j67,"Economic activity (ISIC-Rev.3.1), 2 digit level: 67 - Activities auxiliary to financial intermediation",297
-ec2_isic3_k70,"Economic activity (ISIC-Rev.3.1), 2 digit level: 70 - Real estate activities",298
-ec2_isic3_k71,"Economic activity (ISIC-Rev.3.1), 2 digit level: 71 - Renting of machinery and equipment without operator and of personal and household goods",299
-ec2_isic3_k72,"Economic activity (ISIC-Rev.3.1), 2 digit level: 72 - Computer and related activities",300
-ec2_isic3_k73,"Economic activity (ISIC-Rev.3.1), 2 digit level: 73 - Research and development",301
-ec2_isic3_k74,"Economic activity (ISIC-Rev.3.1), 2 digit level: 74 - Other business activities",302
-ec2_isic3_l75,"Economic activity (ISIC-Rev.3.1), 2 digit level: 75 - Public administration and defence; compulsory social security",303
-ec2_isic3_m80,"Economic activity (ISIC-Rev.3.1), 2 digit level: 80 - Education",304
-ec2_isic3_n85,"Economic activity (ISIC-Rev.3.1), 2 digit level: 85 - Health and social work",305
-ec2_isic3_o90,"Economic activity (ISIC-Rev.3.1), 2 digit level: 90 - Sewage and refuse disposal, sanitation and similar activities",306
-ec2_isic3_o91,"Economic activity (ISIC-Rev.3.1), 2 digit level: 91 - Activities of membership organizations n.e.c.",307
-ec2_isic3_o92,"Economic activity (ISIC-Rev.3.1), 2 digit level: 92 - Recreational, cultural and sporting activities",308
-ec2_isic3_o93,"Economic activity (ISIC-Rev.3.1), 2 digit level: 93 - Other service activities",309
-ec2_isic3_p95,"Economic activity (ISIC-Rev.3.1), 2 digit level: 95 - Activities of private households as employers of domestic staff",310
-ec2_isic3_p96,"Economic activity (ISIC-Rev.3.1), 2 digit level: 96 - Undifferentiated goods-producing activities of private households for own use",311
-ec2_isic3_p97,"Economic activity (ISIC-Rev.3.1), 2 digit level: 97 - Undifferentiated service-producing activities of private households for own use",312
-ec2_isic3_q99,"Economic activity (ISIC-Rev.3.1), 2 digit level: 99 - Extraterritorial organizations and bodies",313
-ec2_isic3_x,"Economic activity (ISIC-Rev.3.1), 2 digit level: Not elsewhere classified",314
-ocu_isco08_total,Occupation (ISCO-08): Total,315
-ocu_isco08_1,Occupation (ISCO-08): 1. Managers,316
-ocu_isco08_2,Occupation (ISCO-08): 2. Professionals,317
-ocu_isco08_3,Occupation (ISCO-08): 3. Technicians and associate professionals,318
-ocu_isco08_4,Occupation (ISCO-08): 4. Clerical support workers,319
-ocu_isco08_5,Occupation (ISCO-08): 5. Service and sales workers,320
-ocu_isco08_6,"Occupation (ISCO-08): 6. Skilled agricultural, forestry and fishery workers",321
-ocu_isco08_7,Occupation (ISCO-08): 7. Craft and related trades workers,322
-ocu_isco08_8,"Occupation (ISCO-08): 8. Plant and machine operators, and assemblers",323
-ocu_isco08_9,Occupation (ISCO-08): 9. Elementary occupations,324
-ocu_isco08_0,Occupation (ISCO-08): 0. Armed forces occupations,325
-ocu_isco08_x,Occupation (ISCO-08): X. Not elsewhere classified,326
-ocu_isco88_total,Occupation (ISCO-88): Total,327
-ocu_isco88_1,"Occupation (ISCO-88): 1. Legislators, senior officials and managers",328
-ocu_isco88_2,Occupation (ISCO-88): 2. Professionals,329
-ocu_isco88_3,Occupation (ISCO-88): 3. Technicians and associate professionals,330
-ocu_isco88_4,Occupation (ISCO-88): 4. Clerks,331
-ocu_isco88_5,Occupation (ISCO-88): 5. Service workers and shop and market sales workers,332
-ocu_isco88_6,Occupation (ISCO-88): 6. Skilled agricultural and fishery workers,333
-ocu_isco88_7,Occupation (ISCO-88): 7. Craft and related trades workers,334
-ocu_isco88_8,Occupation (ISCO-88): 8. Plant and machine operators and assemblers,335
-ocu_isco88_9,Occupation (ISCO-88): 9. Elementary occupations,336
-ocu_isco88_0,Occupation (ISCO-88): 0. Armed forces,337
-ocu_isco88_x,Occupation (ISCO-88): X. Not elsewhere classified,338
-ocu_details_total,Occupation (Detailed): Total,339
-ocu_details_1,Occupation (Detailed): 1. Managers,340
-ocu_details_2,Occupation (Detailed): 2. Professionals,341
-ocu_details_3,Occupation (Detailed): 3. Technicians and associate professionals,342
-ocu_details_4,Occupation (Detailed): 4. Clerical support workers,343
-ocu_details_5,Occupation (Detailed): 5. Service and sales workers,344
-ocu_details_7,Occupation (Detailed): 7. Craft and related trades workers,345
-ocu_details_8,"Occupation (Detailed): 8. Plant and machine operators, and assemblers",346
-ocu_details_96,"Occupation (Detailed): 96. Elementary occupations and skilled agricultural, forestry and fishery workers",347
-ocu_skill_total,Occupation (Skill level): Total,348
-ocu_skill_l3_4,Occupation (Skill level): Skill levels 3 and 4 (high),349
-ocu_skill_l2,Occupation (Skill level): Skill level 2 (medium),350
-ocu_skill_l1,Occupation (Skill level): Skill level 1 (low),351
-ocu_skill_x,Occupation (Skill level): Not elsewhere classified,352
-oc2_isco08_total,"Occupation (ISCO-08), 2 digit level: Total",353
-oc2_isco08_01,"Occupation (ISCO-08), 2 digit level: 01 - Commissioned armed forces officers",354
-oc2_isco08_02,"Occupation (ISCO-08), 2 digit level: 02 - Non-commissioned armed forces officers",355
-oc2_isco08_03,"Occupation (ISCO-08), 2 digit level: 03 - Armed forces occupations, other ranks",356
-oc2_isco08_11,"Occupation (ISCO-08), 2 digit level: 11 - Chief executives, senior officials and legislators",357
-oc2_isco08_12,"Occupation (ISCO-08), 2 digit level: 12 - Administrative and commercial managers",358
-oc2_isco08_13,"Occupation (ISCO-08), 2 digit level: 13 - Production and specialised services managers",359
-oc2_isco08_14,"Occupation (ISCO-08), 2 digit level: 14 - Hospitality, retail and other services managers",360
-oc2_isco08_21,"Occupation (ISCO-08), 2 digit level: 21 - Science and engineering professionals",361
-oc2_isco08_22,"Occupation (ISCO-08), 2 digit level: 22 - Health professionals",362
-oc2_isco08_23,"Occupation (ISCO-08), 2 digit level: 23 - Teaching professionals",363
-oc2_isco08_24,"Occupation (ISCO-08), 2 digit level: 24 - Business and administration professionals",364
-oc2_isco08_25,"Occupation (ISCO-08), 2 digit level: 25 - Information and communications technology professionals",365
-oc2_isco08_26,"Occupation (ISCO-08), 2 digit level: 26 - Legal, social and cultural professionals",366
-oc2_isco08_31,"Occupation (ISCO-08), 2 digit level: 31 - Science and engineering associate professionals",367
-oc2_isco08_32,"Occupation (ISCO-08), 2 digit level: 32 - Health associate professionals",368
-oc2_isco08_33,"Occupation (ISCO-08), 2 digit level: 33 - Business and administration associate professionals",369
-oc2_isco08_34,"Occupation (ISCO-08), 2 digit level: 34 - Legal, social, cultural and related associate professionals",370
-oc2_isco08_35,"Occupation (ISCO-08), 2 digit level: 35 - Information and communications technicians",371
-oc2_isco08_41,"Occupation (ISCO-08), 2 digit level: 41 - General and keyboard clerks",372
-oc2_isco08_42,"Occupation (ISCO-08), 2 digit level: 42 - Customer services clerks",373
-oc2_isco08_43,"Occupation (ISCO-08), 2 digit level: 43 - Numerical and material recording clerks",374
-oc2_isco08_44,"Occupation (ISCO-08), 2 digit level: 44 - Other clerical support workers",375
-oc2_isco08_51,"Occupation (ISCO-08), 2 digit level: 51 - Personal service workers",376
-oc2_isco08_52,"Occupation (ISCO-08), 2 digit level: 52 - Sales workers",377
-oc2_isco08_53,"Occupation (ISCO-08), 2 digit level: 53 - Personal care workers",378
-oc2_isco08_54,"Occupation (ISCO-08), 2 digit level: 54 - Protective services workers",379
-oc2_isco08_61,"Occupation (ISCO-08), 2 digit level: 61 - Market-oriented skilled agricultural workers",380
-oc2_isco08_62,"Occupation (ISCO-08), 2 digit level: 62 - Market-oriented skilled forestry, fishery and hunting workers",381
-oc2_isco08_63,"Occupation (ISCO-08), 2 digit level: 63 - Subsistence farmers, fishers, hunters and gatherers",382
-oc2_isco08_71,"Occupation (ISCO-08), 2 digit level: 71 - Building and related trades workers, excluding electricians",383
-oc2_isco08_72,"Occupation (ISCO-08), 2 digit level: 72 - Metal, machinery and related trades workers",384
-oc2_isco08_73,"Occupation (ISCO-08), 2 digit level: 73 - Handicraft and printing workers",385
-oc2_isco08_74,"Occupation (ISCO-08), 2 digit level: 74 - Electrical and electronic trades workers",386
-oc2_isco08_75,"Occupation (ISCO-08), 2 digit level: 75 - Food processing, wood working, garment and other craft and related trades workers",387
-oc2_isco08_81,"Occupation (ISCO-08), 2 digit level: 81 - Stationary plant and machine operators",388
-oc2_isco08_82,"Occupation (ISCO-08), 2 digit level: 82 - Assemblers",389
-oc2_isco08_83,"Occupation (ISCO-08), 2 digit level: 83 - Drivers and mobile plant operators",390
-oc2_isco08_91,"Occupation (ISCO-08), 2 digit level: 91 - Cleaners and helpers",391
-oc2_isco08_92,"Occupation (ISCO-08), 2 digit level: 92 - Agricultural, forestry and fishery labourers",392
-oc2_isco08_93,"Occupation (ISCO-08), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",393
-oc2_isco08_94,"Occupation (ISCO-08), 2 digit level: 94 - Food preparation assistants",394
-oc2_isco08_95,"Occupation (ISCO-08), 2 digit level: 95 - Street and related sales and service workers",395
-oc2_isco08_96,"Occupation (ISCO-08), 2 digit level: 96 - Refuse workers and other elementary workers",396
-oc2_isco08_x,"Occupation (ISCO-08), 2 digit level: Not elsewhere classified",397
-oc2_isco88_total,"Occupation (ISCO-88), 2 digit level: Total",398
-oc2_isco88_01,"Occupation (ISCO-88), 2 digit level: 01 - Armed forces",399
-oc2_isco88_11,"Occupation (ISCO-88), 2 digit level: 11 - Legislators and senior officials",400
-oc2_isco88_12,"Occupation (ISCO-88), 2 digit level: 12 - Corporate managers",401
-oc2_isco88_13,"Occupation (ISCO-88), 2 digit level: 13 - General managers",402
-oc2_isco88_21,"Occupation (ISCO-88), 2 digit level: 21 - Physical, mathematical and engineering science professionals",403
-oc2_isco88_22,"Occupation (ISCO-88), 2 digit level: 22 - Life science and health professionals",404
-oc2_isco88_23,"Occupation (ISCO-88), 2 digit level: 23 - Teaching professionals",405
-oc2_isco88_24,"Occupation (ISCO-88), 2 digit level: 24 - Other professionals",406
-oc2_isco88_31,"Occupation (ISCO-88), 2 digit level: 31 - Physical and engineering science associate professionals",407
-oc2_isco88_32,"Occupation (ISCO-88), 2 digit level: 32 - Life science and health associate professionals",408
-oc2_isco88_33,"Occupation (ISCO-88), 2 digit level: 33 - Teaching associate professionals",409
-oc2_isco88_34,"Occupation (ISCO-88), 2 digit level: 34 - Other associate professionals",410
-oc2_isco88_41,"Occupation (ISCO-88), 2 digit level: 41 - Office clerks",411
-oc2_isco88_42,"Occupation (ISCO-88), 2 digit level: 42 - Customer services clerks",412
-oc2_isco88_51,"Occupation (ISCO-88), 2 digit level: 51 - Personal and protective services workers",413
-oc2_isco88_52,"Occupation (ISCO-88), 2 digit level: 52 - Models, salespersons and demonstrators",414
-oc2_isco88_61,"Occupation (ISCO-88), 2 digit level: 61 - Market-oriented skilled agricultural and fishery workers",415
-oc2_isco88_62,"Occupation (ISCO-88), 2 digit level: 62 - Subsistence agricultural and fishery workers",416
-oc2_isco88_71,"Occupation (ISCO-88), 2 digit level: 71 - Extraction and building trades workers",417
-oc2_isco88_72,"Occupation (ISCO-88), 2 digit level: 72 - Metal, machinery and related trades workers",418
-oc2_isco88_73,"Occupation (ISCO-88), 2 digit level: 73 - Precision, handicraft, printing and related trades workers",419
-oc2_isco88_74,"Occupation (ISCO-88), 2 digit level: 74 - Other craft and related trades workers",420
-oc2_isco88_81,"Occupation (ISCO-88), 2 digit level: 81 - Stationary-plant and related operators",421
-oc2_isco88_82,"Occupation (ISCO-88), 2 digit level: 82 - Machine operators and assemblers",422
-oc2_isco88_83,"Occupation (ISCO-88), 2 digit level: 83 - Drivers and mobile-plant operators",423
-oc2_isco88_91,"Occupation (ISCO-88), 2 digit level: 91 - Sales and services elementary occupations",424
-oc2_isco88_92,"Occupation (ISCO-88), 2 digit level: 92 - Agricultural, fishery and related labourers",425
-oc2_isco88_93,"Occupation (ISCO-88), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",426
-oc2_isco88_x,"Occupation (ISCO-88), 2 digit level: Not elsewhere classified",427
-how_bands_total,Hour bands: Total,428
-how_bands_h00,Hour bands: No hours actually worked,429
-how_bands_h01_14,Hour bands: 01-14,430
-how_bands_h15_24,Hour bands: 15-24,431
-how_bands_h15_29,Hour bands: 15-29,432
-how_bands_h25_34,Hour bands: 25-34,433
-how_bands_h30_34,Hour bands: 30-34,434
-how_bands_h35_39,Hour bands: 35-39,435
-how_bands_h40_48,Hour bands: 40-48,436
-how_bands_h49_59,Hour bands: 49-59,437
-how_bands_hge49,Hour bands: 49+,438
-how_bands_hge60,Hour bands: 60+,439
-how_bands_x,Hour bands: Not elsewhere classified,440
-cat_une_total,Type: Total,441
-cat_une_pre,Type: Unemployed previously employed,442
-cat_une_fjs,Type: Unemployed seeking their first job,443
-cat_une_unk,Type: Not elsewhere classified,444
-dur_details_total,Duration (Detailed): Total,445
-dur_details_mlt1,Duration (Detailed): Less than 1 month,446
-dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,447
-dur_details_mlt3,Duration (Detailed): Less than 3 months,448
-dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,449
-dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,450
-dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,451
-dur_details_mge24,Duration (Detailed): 24 months or more,452
-dur_details_x,Duration (Detailed): Not elsewhere classified,453
-dur_aggregate_total,Duration (Aggregate): Total,454
-dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,455
-dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,456
-dur_aggregate_mlt12,Duration (Aggregate): Less than 12 months,457
-dur_aggregate_mge12,Duration (Aggregate): 12 months or more,458
-dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,459
-job_contract_total,Contract type: Total,460
-job_contract_perm,Contract type: Permanent,461
-job_contract_temp,Contract type: Temporary,462
-job_contract_x,Contract type: Unknown,463
-job_time_total,Working time arrangement: Total,464
-job_time_part,Working time arrangement: Part-time,465
-job_time_full,Working time arrangement: Full-time,466
-job_time_x,Working time arrangement: Unknown,467
-mig_status_total,Migrant status: Total,468
-mig_status_migrant,Migrant status: Migrants,469
-mig_status_nonmig,Migrant status: Non migrants,470
-mig_status_migranteu,Migrant status: EU Migrants,471
-mig_status_migrantnoteu,Migrant status: Migrants excluding EU,472
-mig_status_x,Migrant status: Unknown,473
-cur_type_lcu,Currency: Local currency,474
-cur_type_ppp,Currency: 2017 PPP $,475
-cur_type_usd,Currency: U.S. dollars,476
-chl_aget6_total,Presence of children under age 6: Total,477
-chl_aget6_yes,Presence of children under age 6: Yes,478
-chl_aget6_no,Presence of children under age 6: No,479
-chl_numlt6_total,Number of children under age 6: Total,480
-chl_numlt6_0,Number of children under age 6: 0,481
-chl_numlt6_1,Number of children under age 6: 1,482
-chl_numlt6_2,Number of children under age 6: 2,483
-chl_numlt6_ge3,Number of children under age 6: 3+,484
-cct_cit_total,Citizenship: Total,485
-cbr_bir_total,Place of birth: Total,486
-cct_cit_citizen,Citizenship: Citizens,487
-cbr_bir_native,Place of birth: Native-born,488
-cct_cit_noncit,Citizenship: Non-citizens,489
-cbr_bir_foreign,Place of birth: Foreign-born,490
-cct_cit_x,Citizenship: Status unknown,491
-cbr_bir_x,Place of birth: Status unknown,492
+lms_status_emp,Labour market status: Employed,69
+lms_status_une,Labour market status: Unemployed,70
+lms_status_eip,Labour market status: Outside the labour force,71
+ste_icse93_total,Status in employment (ICSE-93): Total,72
+ste_icse93_1,Status in employment (ICSE-93): 1. Employees,73
+ste_icse93_2,Status in employment (ICSE-93): 2. Employers,74
+ste_icse93_3,Status in employment (ICSE-93): 3. Own-account workers,75
+ste_icse93_4,Status in employment (ICSE-93): 4. Members of producers' cooperatives,76
+ste_icse93_5,Status in employment (ICSE-93): 5. Contributing family workers,77
+ste_icse93_6,Status in employment (ICSE-93): 6. Workers not classifiable by status,78
+ste_aggregate_total,Status in employment (Aggregate): Total,79
+ste_aggregate_ees,Status in employment (Aggregate): Employees,80
+ste_aggregate_slf,Status in employment (Aggregate): Self-employed,81
+ste_aggregate_x,Status in employment (Aggregate): Workers not classifiable by status,82
+ins_sector_total,Institutional Sector: Total,83
+ins_sector_pub,Institutional Sector: Public,84
+ins_sector_pri,Institutional Sector: Private,85
+eco_isic4_total,Economic activity (ISIC-Rev.4): Total,86
+eco_isic4_a,Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,87
+eco_isic4_b,Economic activity (ISIC-Rev.4): B. Mining and quarrying,88
+eco_isic4_c,Economic activity (ISIC-Rev.4): C. Manufacturing,89
+eco_isic4_d,"Economic activity (ISIC-Rev.4): D. Electricity; gas, steam and air conditioning supply",90
+eco_isic4_e,"Economic activity (ISIC-Rev.4): E. Water supply; sewerage, waste management and remediation activities",91
+eco_isic4_f,Economic activity (ISIC-Rev.4): F. Construction,92
+eco_isic4_g,Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,93
+eco_isic4_h,Economic activity (ISIC-Rev.4): H. Transportation and storage,94
+eco_isic4_i,Economic activity (ISIC-Rev.4): I. Accommodation and food service activities,95
+eco_isic4_j,Economic activity (ISIC-Rev.4): J. Information and communication,96
+eco_isic4_k,Economic activity (ISIC-Rev.4): K. Financial and insurance activities,97
+eco_isic4_l,Economic activity (ISIC-Rev.4): L. Real estate activities,98
+eco_isic4_m,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities",99
+eco_isic4_n,Economic activity (ISIC-Rev.4): N. Administrative and support service activities,100
+eco_isic4_o,Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security,101
+eco_isic4_p,Economic activity (ISIC-Rev.4): P. Education,102
+eco_isic4_q,Economic activity (ISIC-Rev.4): Q. Human health and social work activities,103
+eco_isic4_r,"Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation",104
+eco_isic4_s,Economic activity (ISIC-Rev.4): S. Other service activities,105
+eco_isic4_t,Economic activity (ISIC-Rev.4): T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,106
+eco_isic4_u,Economic activity (ISIC-Rev.4): U. Activities of extraterritorial organizations and bodies,107
+eco_isic4_x,Economic activity (ISIC-Rev.4): X. Not elsewhere classified,108
+eco_isic3_total,Economic activity (ISIC-Rev.3.1): Total,109
+eco_isic3_a,"Economic activity (ISIC-Rev.3.1): A. Agriculture, hunting and forestry",110
+eco_isic3_b,Economic activity (ISIC-Rev.3.1): B. Fishing,111
+eco_isic3_c,Economic activity (ISIC-Rev.3.1): C. Mining and quarrying,112
+eco_isic3_d,Economic activity (ISIC-Rev.3.1): D. Manufacturing,113
+eco_isic3_e,"Economic activity (ISIC-Rev.3.1): E. Electricity, gas and water supply",114
+eco_isic3_f,Economic activity (ISIC-Rev.3.1): F. Construction,115
+eco_isic3_g,"Economic activity (ISIC-Rev.3.1): G. Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",116
+eco_isic3_h,Economic activity (ISIC-Rev.3.1): H. Hotels and restaurants,117
+eco_isic3_i,"Economic activity (ISIC-Rev.3.1): I. Transport, storage and communications",118
+eco_isic3_j,Economic activity (ISIC-Rev.3.1): J. Financial intermediation,119
+eco_isic3_k,"Economic activity (ISIC-Rev.3.1): K. Real estate, renting and business activities",120
+eco_isic3_l,Economic activity (ISIC-Rev.3.1): L. Public administration and defence; compulsory social security,121
+eco_isic3_m,Economic activity (ISIC-Rev.3.1): M. Education,122
+eco_isic3_n,Economic activity (ISIC-Rev.3.1): N. Health and social work,123
+eco_isic3_o,"Economic activity (ISIC-Rev.3.1): O. Other community, social and personal service activities",124
+eco_isic3_p,Economic activity (ISIC-Rev.3.1): P. Activities of private households as employers and undifferentiated production activities of private households,125
+eco_isic3_q,Economic activity (ISIC-Rev.3.1): Q. Extraterritorial organizations and bodies,126
+eco_isic3_x,Economic activity (ISIC-Rev.3.1): X. Not elsewhere classified,127
+eco_isic2_total,Economic activity (ISIC-Rev.2): Total,128
+eco_isic2_1,"Economic activity (ISIC-Rev.2): 1. Agriculture, Hunting, Forestry and Fishing",129
+eco_isic2_2,Economic activity (ISIC-Rev.2): 2. Mining and Quarrying,130
+eco_isic2_3,Economic activity (ISIC-Rev.2): 3. Manufacturing,131
+eco_isic2_4,"Economic activity (ISIC-Rev.2): 4. Electricity, Gas and Water",132
+eco_isic2_5,Economic activity (ISIC-Rev.2): 5. Construction,133
+eco_isic2_6,Economic activity (ISIC-Rev.2): 6. Wholesale and Retail Trade and Restaurants and Hotels,134
+eco_isic2_7,"Economic activity (ISIC-Rev.2): 7. Transport, Storage and Communication",135
+eco_isic2_8,"Economic activity (ISIC-Rev.2): 8. Financing, Insurance, Real Estate and Business Services",136
+eco_isic2_9,"Economic activity (ISIC-Rev.2): 9. Community, Social and Personal Services",137
+eco_isic2_0,Economic activity (ISIC-Rev.2): 0. Activities not Adequately Defined,138
+eco_aggregate_total,Economic activity (Aggregate): Total,139
+eco_aggregate_agr,Economic activity (Aggregate): Agriculture,140
+eco_aggregate_man,Economic activity (Aggregate): Manufacturing,141
+eco_aggregate_con,Economic activity (Aggregate): Construction,142
+eco_aggregate_mel,"Economic activity (Aggregate): Mining and quarrying; Electricity, gas and water supply",143
+eco_aggregate_mkt,"Economic activity (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",144
+eco_aggregate_pub,"Economic activity (Aggregate): Public Administration, Community, Social and other Services and Activities",145
+eco_aggregate_x,Economic activity (Aggregate): Not classified,146
+eco_sector_total,Economic activity (Broad sector): Total,147
+eco_sector_agr,Economic activity (Broad sector): Agriculture,148
+eco_sector_nag,Economic activity (Broad sector): Non-agriculture,149
+eco_sector_ind,Economic activity (Broad sector): Industry,150
+eco_sector_ser,Economic activity (Broad sector): Services,151
+eco_sector_x,Economic activity (Broad sector): Not classified,152
+cla_ecocla_total,Economic class: Total,153
+cla_ecocla_usdlt2,Economic class: Extremely poor < USD 1.90 PPP,154
+cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 1.90 and < USD 3.20 PPP,155
+cla_ecocla_usdge3,Economic class: >= USD 3.20 PPP,156
+cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 3.20 and < USD 5.5 PPP,157
+cla_ecocla_usdge5,Economic class: >= USD 5.5 PPP,158
+ec2_isic4_total,"Economic activity (ISIC-Rev.4), 2 digit level: Total",159
+ec2_isic4_a01,"Economic activity (ISIC-Rev.4), 2 digit level: 01 - Crop and animal production, hunting and related service activities",160
+ec2_isic4_a02,"Economic activity (ISIC-Rev.4), 2 digit level: 02 - Forestry and logging",161
+ec2_isic4_a03,"Economic activity (ISIC-Rev.4), 2 digit level: 03 - Fishing and aquaculture",162
+ec2_isic4_b05,"Economic activity (ISIC-Rev.4), 2 digit level: 05 - Mining of coal and lignite",163
+ec2_isic4_b06,"Economic activity (ISIC-Rev.4), 2 digit level: 06 - Extraction of crude petroleum and natural gas",164
+ec2_isic4_b07,"Economic activity (ISIC-Rev.4), 2 digit level: 07 - Mining of metal ores",165
+ec2_isic4_b08,"Economic activity (ISIC-Rev.4), 2 digit level: 08 - Other mining and quarrying",166
+ec2_isic4_b09,"Economic activity (ISIC-Rev.4), 2 digit level: 09 - Mining support service activities",167
+ec2_isic4_c10,"Economic activity (ISIC-Rev.4), 2 digit level: 10 - Manufacture of food products",168
+ec2_isic4_c11,"Economic activity (ISIC-Rev.4), 2 digit level: 11 - Manufacture of beverages",169
+ec2_isic4_c12,"Economic activity (ISIC-Rev.4), 2 digit level: 12 - Manufacture of tobacco products",170
+ec2_isic4_c13,"Economic activity (ISIC-Rev.4), 2 digit level: 13 - Manufacture of textiles",171
+ec2_isic4_c14,"Economic activity (ISIC-Rev.4), 2 digit level: 14 - Manufacture of wearing apparel",172
+ec2_isic4_c15,"Economic activity (ISIC-Rev.4), 2 digit level: 15 - Manufacture of leather and related products",173
+ec2_isic4_c16,"Economic activity (ISIC-Rev.4), 2 digit level: 16 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",174
+ec2_isic4_c17,"Economic activity (ISIC-Rev.4), 2 digit level: 17 - Manufacture of paper and paper products",175
+ec2_isic4_c18,"Economic activity (ISIC-Rev.4), 2 digit level: 18 - Printing and reproduction of recorded media",176
+ec2_isic4_c19,"Economic activity (ISIC-Rev.4), 2 digit level: 19 - Manufacture of coke and refined petroleum products",177
+ec2_isic4_c20,"Economic activity (ISIC-Rev.4), 2 digit level: 20 - Manufacture of chemicals and chemical products",178
+ec2_isic4_c21,"Economic activity (ISIC-Rev.4), 2 digit level: 21 - Manufacture of pharmaceuticals, medicinal chemical and botanical products",179
+ec2_isic4_c22,"Economic activity (ISIC-Rev.4), 2 digit level: 22 - Manufacture of rubber and plastics products",180
+ec2_isic4_c23,"Economic activity (ISIC-Rev.4), 2 digit level: 23 - Manufacture of other non-metallic mineral products",181
+ec2_isic4_c24,"Economic activity (ISIC-Rev.4), 2 digit level: 24 - Manufacture of basic metals",182
+ec2_isic4_c25,"Economic activity (ISIC-Rev.4), 2 digit level: 25 - Manufacture of fabricated metal products, except machinery and equipment",183
+ec2_isic4_c26,"Economic activity (ISIC-Rev.4), 2 digit level: 26 - Manufacture of computer, electronic and optical products",184
+ec2_isic4_c27,"Economic activity (ISIC-Rev.4), 2 digit level: 27 - Manufacture of electrical equipment",185
+ec2_isic4_c28,"Economic activity (ISIC-Rev.4), 2 digit level: 28 - Manufacture of machinery and equipment n.e.c.",186
+ec2_isic4_c29,"Economic activity (ISIC-Rev.4), 2 digit level: 29 - Manufacture of motor vehicles, trailers and semi-trailers",187
+ec2_isic4_c30,"Economic activity (ISIC-Rev.4), 2 digit level: 30 - Manufacture of other transport equipment",188
+ec2_isic4_c31,"Economic activity (ISIC-Rev.4), 2 digit level: 31 - Manufacture of furniture",189
+ec2_isic4_c32,"Economic activity (ISIC-Rev.4), 2 digit level: 32 - Other manufacturing",190
+ec2_isic4_c33,"Economic activity (ISIC-Rev.4), 2 digit level: 33 - Repair and installation of machinery and equipment",191
+ec2_isic4_d35,"Economic activity (ISIC-Rev.4), 2 digit level: 35 - Electricity, gas, steam and air conditioning supply",192
+ec2_isic4_e36,"Economic activity (ISIC-Rev.4), 2 digit level: 36 - Water collection, treatment and supply",193
+ec2_isic4_e37,"Economic activity (ISIC-Rev.4), 2 digit level: 37 - Sewerage",194
+ec2_isic4_e38,"Economic activity (ISIC-Rev.4), 2 digit level: 38 - Waste collection, treatment and disposal activities; materials recovery",195
+ec2_isic4_e39,"Economic activity (ISIC-Rev.4), 2 digit level: 39 - Remediation activities and other waste management services",196
+ec2_isic4_f41,"Economic activity (ISIC-Rev.4), 2 digit level: 41 - Construction of buildings",197
+ec2_isic4_f42,"Economic activity (ISIC-Rev.4), 2 digit level: 42 - Civil engineering",198
+ec2_isic4_f43,"Economic activity (ISIC-Rev.4), 2 digit level: 43 - Specialized construction activities",199
+ec2_isic4_g45,"Economic activity (ISIC-Rev.4), 2 digit level: 45 - Wholesale and retail trade and repair of motor vehicles and motorcycles",200
+ec2_isic4_g46,"Economic activity (ISIC-Rev.4), 2 digit level: 46 - Wholesale trade, except of motor vehicles and motorcycles",201
+ec2_isic4_g47,"Economic activity (ISIC-Rev.4), 2 digit level: 47 - Retail trade, except of motor vehicles and motorcycles",202
+ec2_isic4_h49,"Economic activity (ISIC-Rev.4), 2 digit level: 49 - Land transport and transport via pipelines",203
+ec2_isic4_h50,"Economic activity (ISIC-Rev.4), 2 digit level: 50 - Water transport",204
+ec2_isic4_h51,"Economic activity (ISIC-Rev.4), 2 digit level: 51 - Air transport",205
+ec2_isic4_h52,"Economic activity (ISIC-Rev.4), 2 digit level: 52 - Warehousing and support activities for transportation",206
+ec2_isic4_h53,"Economic activity (ISIC-Rev.4), 2 digit level: 53 - Postal and courier activities",207
+ec2_isic4_i55,"Economic activity (ISIC-Rev.4), 2 digit level: 55 - Accommodation",208
+ec2_isic4_i56,"Economic activity (ISIC-Rev.4), 2 digit level: 56 - Food and beverage service activities",209
+ec2_isic4_j58,"Economic activity (ISIC-Rev.4), 2 digit level: 58 - Publishing activities",210
+ec2_isic4_j59,"Economic activity (ISIC-Rev.4), 2 digit level: 59 - Motion picture, video and television programme production, sound recording and music publishing activities",211
+ec2_isic4_j60,"Economic activity (ISIC-Rev.4), 2 digit level: 60 - Programming and broadcasting activities",212
+ec2_isic4_j61,"Economic activity (ISIC-Rev.4), 2 digit level: 61 - Telecommunications",213
+ec2_isic4_j62,"Economic activity (ISIC-Rev.4), 2 digit level: 62 - Computer programming, consultancy and related activities",214
+ec2_isic4_j63,"Economic activity (ISIC-Rev.4), 2 digit level: 63 - Information service activities",215
+ec2_isic4_k64,"Economic activity (ISIC-Rev.4), 2 digit level: 64 - Financial service activities, except insurance and pension funding",216
+ec2_isic4_k65,"Economic activity (ISIC-Rev.4), 2 digit level: 65 - Insurance, reinsurance and pension funding, except compulsory social security",217
+ec2_isic4_k66,"Economic activity (ISIC-Rev.4), 2 digit level: 66 - Activities auxiliary to financial service and insurance activities",218
+ec2_isic4_l68,"Economic activity (ISIC-Rev.4), 2 digit level: 68 - Real estate activities",219
+ec2_isic4_m69,"Economic activity (ISIC-Rev.4), 2 digit level: 69 - Legal and accounting activities",220
+ec2_isic4_m70,"Economic activity (ISIC-Rev.4), 2 digit level: 70 - Activities of head offices; management consultancy activities",221
+ec2_isic4_m71,"Economic activity (ISIC-Rev.4), 2 digit level: 71 - Architectural and engineering activities; technical testing and analysis",222
+ec2_isic4_m72,"Economic activity (ISIC-Rev.4), 2 digit level: 72 - Scientific research and development",223
+ec2_isic4_m73,"Economic activity (ISIC-Rev.4), 2 digit level: 73 - Advertising and market research",224
+ec2_isic4_m74,"Economic activity (ISIC-Rev.4), 2 digit level: 74 - Other professional, scientific and technical activities",225
+ec2_isic4_m75,"Economic activity (ISIC-Rev.4), 2 digit level: 75 - Veterinary activities",226
+ec2_isic4_n77,"Economic activity (ISIC-Rev.4), 2 digit level: 77 - Rental and leasing activities",227
+ec2_isic4_n78,"Economic activity (ISIC-Rev.4), 2 digit level: 78 - Employment activities",228
+ec2_isic4_n79,"Economic activity (ISIC-Rev.4), 2 digit level: 79 - Travel agency, tour operator, reservation service and related activities",229
+ec2_isic4_n80,"Economic activity (ISIC-Rev.4), 2 digit level: 80 - Security and investigation activities",230
+ec2_isic4_n81,"Economic activity (ISIC-Rev.4), 2 digit level: 81 - Services to buildings and landscape activities",231
+ec2_isic4_n82,"Economic activity (ISIC-Rev.4), 2 digit level: 82 - Office administrative, office support and other business support activities",232
+ec2_isic4_o84,"Economic activity (ISIC-Rev.4), 2 digit level: 84 - Public administration and defence; compulsory social security",233
+ec2_isic4_p85,"Economic activity (ISIC-Rev.4), 2 digit level: 85 - Education",234
+ec2_isic4_q86,"Economic activity (ISIC-Rev.4), 2 digit level: 86 - Human health activities",235
+ec2_isic4_q87,"Economic activity (ISIC-Rev.4), 2 digit level: 87 - Residential care activities",236
+ec2_isic4_q88,"Economic activity (ISIC-Rev.4), 2 digit level: 88 - Social work activities without accommodation",237
+ec2_isic4_r90,"Economic activity (ISIC-Rev.4), 2 digit level: 90 - Creative, arts and entertainment activities",238
+ec2_isic4_r91,"Economic activity (ISIC-Rev.4), 2 digit level: 91 - Libraries, archives, museums and other cultural activities",239
+ec2_isic4_r92,"Economic activity (ISIC-Rev.4), 2 digit level: 92 - Gambling and betting activities",240
+ec2_isic4_r93,"Economic activity (ISIC-Rev.4), 2 digit level: 93 - Sports activities and amusement and recreation activities",241
+ec2_isic4_s94,"Economic activity (ISIC-Rev.4), 2 digit level: 94 - Activities of membership organizations",242
+ec2_isic4_s95,"Economic activity (ISIC-Rev.4), 2 digit level: 95 - Repair of computers and personal and household goods",243
+ec2_isic4_s96,"Economic activity (ISIC-Rev.4), 2 digit level: 96 - Other personal service activities",244
+ec2_isic4_t97,"Economic activity (ISIC-Rev.4), 2 digit level: 97 - Activities of households as employers of domestic personnel",245
+ec2_isic4_t98,"Economic activity (ISIC-Rev.4), 2 digit level: 98 - Undifferentiated goods- and services-producing activities of private households for own use",246
+ec2_isic4_u99,"Economic activity (ISIC-Rev.4), 2 digit level: 99 - Activities of extraterritorial organizations and bodies",247
+ec2_isic4_x,"Economic activity (ISIC-Rev.4), 2 digit level: Not elsewhere classified",248
+ec2_isic3_total,"Economic activity (ISIC-Rev.3.1), 2 digit level: Total",249
+ec2_isic3_a01,"Economic activity (ISIC-Rev.3.1), 2 digit level: 01 - Agriculture, hunting and related service activities",250
+ec2_isic3_a02,"Economic activity (ISIC-Rev.3.1), 2 digit level: 02 - Forestry, logging and related service activities",251
+ec2_isic3_b05,"Economic activity (ISIC-Rev.3.1), 2 digit level: 05 - Fishing, aquaculture and service activities incidental to fishing",252
+ec2_isic3_c10,"Economic activity (ISIC-Rev.3.1), 2 digit level: 10 - Mining of coal and lignite; extraction of peat",253
+ec2_isic3_c11,"Economic activity (ISIC-Rev.3.1), 2 digit level: 11 - Extraction of crude petroleum and natural gas; service activities incidental to oil and gas extraction, excluding surveying",254
+ec2_isic3_c12,"Economic activity (ISIC-Rev.3.1), 2 digit level: 12 - Mining of uranium and thorium ores",255
+ec2_isic3_c13,"Economic activity (ISIC-Rev.3.1), 2 digit level: 13 - Mining of metal ores",256
+ec2_isic3_c14,"Economic activity (ISIC-Rev.3.1), 2 digit level: 14 - Other mining and quarrying",257
+ec2_isic3_d15,"Economic activity (ISIC-Rev.3.1), 2 digit level: 15 - Manufacture of food products and beverages",258
+ec2_isic3_d16,"Economic activity (ISIC-Rev.3.1), 2 digit level: 16 - Manufacture of tobacco products",259
+ec2_isic3_d17,"Economic activity (ISIC-Rev.3.1), 2 digit level: 17 - Manufacture of textiles",260
+ec2_isic3_d18,"Economic activity (ISIC-Rev.3.1), 2 digit level: 18 - Manufacture of wearing apparel; dressing and dyeing of fur",261
+ec2_isic3_d19,"Economic activity (ISIC-Rev.3.1), 2 digit level: 19 - Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",262
+ec2_isic3_d20,"Economic activity (ISIC-Rev.3.1), 2 digit level: 20 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",263
+ec2_isic3_d21,"Economic activity (ISIC-Rev.3.1), 2 digit level: 21 - Manufacture of paper and paper products",264
+ec2_isic3_d22,"Economic activity (ISIC-Rev.3.1), 2 digit level: 22 - Publishing, printing and reproduction of recorded media",265
+ec2_isic3_d23,"Economic activity (ISIC-Rev.3.1), 2 digit level: 23 - Manufacture of coke, refined petroleum products and nuclear fuel",266
+ec2_isic3_d24,"Economic activity (ISIC-Rev.3.1), 2 digit level: 24 - Manufacture of chemicals and chemical products",267
+ec2_isic3_d25,"Economic activity (ISIC-Rev.3.1), 2 digit level: 25 - Manufacture of rubber and plastics products",268
+ec2_isic3_d26,"Economic activity (ISIC-Rev.3.1), 2 digit level: 26 - Manufacture of other non-metallic mineral products",269
+ec2_isic3_d27,"Economic activity (ISIC-Rev.3.1), 2 digit level: 27 - Manufacture of basic metals",270
+ec2_isic3_d28,"Economic activity (ISIC-Rev.3.1), 2 digit level: 28 - Manufacture of fabricated metal products, except machinery and equipment",271
+ec2_isic3_d29,"Economic activity (ISIC-Rev.3.1), 2 digit level: 29 - Manufacture of machinery and equipment n.e.c.",272
+ec2_isic3_d30,"Economic activity (ISIC-Rev.3.1), 2 digit level: 30 - Manufacture of office, accounting and computing machinery",273
+ec2_isic3_d31,"Economic activity (ISIC-Rev.3.1), 2 digit level: 31 - Manufacture of electrical machinery and apparatus n.e.c.",274
+ec2_isic3_d32,"Economic activity (ISIC-Rev.3.1), 2 digit level: 32 - Manufacture of radio, television and communication equipment and apparatus",275
+ec2_isic3_d33,"Economic activity (ISIC-Rev.3.1), 2 digit level: 33 - Manufacture of medical, precision and optical instruments, watches and clocks",276
+ec2_isic3_d34,"Economic activity (ISIC-Rev.3.1), 2 digit level: 34 - Manufacture of motor vehicles, trailers and semi-trailers",277
+ec2_isic3_d35,"Economic activity (ISIC-Rev.3.1), 2 digit level: 35 - Manufacture of other transport equipment",278
+ec2_isic3_d36,"Economic activity (ISIC-Rev.3.1), 2 digit level: 36 - Manufacture of furniture; manufacturing n.e.c.",279
+ec2_isic3_d37,"Economic activity (ISIC-Rev.3.1), 2 digit level: 37 - Recycling",280
+ec2_isic3_e40,"Economic activity (ISIC-Rev.3.1), 2 digit level: 40 - Electricity, gas, steam and hot water supply",281
+ec2_isic3_e41,"Economic activity (ISIC-Rev.3.1), 2 digit level: 41 - Collection, purification and distribution of water",282
+ec2_isic3_f45,"Economic activity (ISIC-Rev.3.1), 2 digit level: 45 - Construction",283
+ec2_isic3_g50,"Economic activity (ISIC-Rev.3.1), 2 digit level: 50 - Sale, maintenance and repair of motor vehicles and motorcycles; retail sale of automotive fuel",284
+ec2_isic3_g51,"Economic activity (ISIC-Rev.3.1), 2 digit level: 51 - Wholesale trade and commission trade, except of motor vehicles and motorcycles",285
+ec2_isic3_g52,"Economic activity (ISIC-Rev.3.1), 2 digit level: 52 - Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",286
+ec2_isic3_h55,"Economic activity (ISIC-Rev.3.1), 2 digit level: 55 - Hotels and restaurants",287
+ec2_isic3_i60,"Economic activity (ISIC-Rev.3.1), 2 digit level: 60 - Land transport; transport via pipelines",288
+ec2_isic3_i61,"Economic activity (ISIC-Rev.3.1), 2 digit level: 61 - Water transport",289
+ec2_isic3_i62,"Economic activity (ISIC-Rev.3.1), 2 digit level: 62 - Air transport",290
+ec2_isic3_i63,"Economic activity (ISIC-Rev.3.1), 2 digit level: 63 - Supporting and auxiliary transport activities; activities of travel agencies",291
+ec2_isic3_i64,"Economic activity (ISIC-Rev.3.1), 2 digit level: 64 - Post and telecommunications",292
+ec2_isic3_j65,"Economic activity (ISIC-Rev.3.1), 2 digit level: 65 - Financial intermediation, except insurance and pension funding",293
+ec2_isic3_j66,"Economic activity (ISIC-Rev.3.1), 2 digit level: 66 - Insurance and pension funding, except compulsory social security",294
+ec2_isic3_j67,"Economic activity (ISIC-Rev.3.1), 2 digit level: 67 - Activities auxiliary to financial intermediation",295
+ec2_isic3_k70,"Economic activity (ISIC-Rev.3.1), 2 digit level: 70 - Real estate activities",296
+ec2_isic3_k71,"Economic activity (ISIC-Rev.3.1), 2 digit level: 71 - Renting of machinery and equipment without operator and of personal and household goods",297
+ec2_isic3_k72,"Economic activity (ISIC-Rev.3.1), 2 digit level: 72 - Computer and related activities",298
+ec2_isic3_k73,"Economic activity (ISIC-Rev.3.1), 2 digit level: 73 - Research and development",299
+ec2_isic3_k74,"Economic activity (ISIC-Rev.3.1), 2 digit level: 74 - Other business activities",300
+ec2_isic3_l75,"Economic activity (ISIC-Rev.3.1), 2 digit level: 75 - Public administration and defence; compulsory social security",301
+ec2_isic3_m80,"Economic activity (ISIC-Rev.3.1), 2 digit level: 80 - Education",302
+ec2_isic3_n85,"Economic activity (ISIC-Rev.3.1), 2 digit level: 85 - Health and social work",303
+ec2_isic3_o90,"Economic activity (ISIC-Rev.3.1), 2 digit level: 90 - Sewage and refuse disposal, sanitation and similar activities",304
+ec2_isic3_o91,"Economic activity (ISIC-Rev.3.1), 2 digit level: 91 - Activities of membership organizations n.e.c.",305
+ec2_isic3_o92,"Economic activity (ISIC-Rev.3.1), 2 digit level: 92 - Recreational, cultural and sporting activities",306
+ec2_isic3_o93,"Economic activity (ISIC-Rev.3.1), 2 digit level: 93 - Other service activities",307
+ec2_isic3_p95,"Economic activity (ISIC-Rev.3.1), 2 digit level: 95 - Activities of private households as employers of domestic staff",308
+ec2_isic3_p96,"Economic activity (ISIC-Rev.3.1), 2 digit level: 96 - Undifferentiated goods-producing activities of private households for own use",309
+ec2_isic3_p97,"Economic activity (ISIC-Rev.3.1), 2 digit level: 97 - Undifferentiated service-producing activities of private households for own use",310
+ec2_isic3_q99,"Economic activity (ISIC-Rev.3.1), 2 digit level: 99 - Extraterritorial organizations and bodies",311
+ec2_isic3_x,"Economic activity (ISIC-Rev.3.1), 2 digit level: Not elsewhere classified",312
+ocu_isco08_total,Occupation (ISCO-08): Total,313
+ocu_isco08_1,Occupation (ISCO-08): 1. Managers,314
+ocu_isco08_2,Occupation (ISCO-08): 2. Professionals,315
+ocu_isco08_3,Occupation (ISCO-08): 3. Technicians and associate professionals,316
+ocu_isco08_4,Occupation (ISCO-08): 4. Clerical support workers,317
+ocu_isco08_5,Occupation (ISCO-08): 5. Service and sales workers,318
+ocu_isco08_6,"Occupation (ISCO-08): 6. Skilled agricultural, forestry and fishery workers",319
+ocu_isco08_7,Occupation (ISCO-08): 7. Craft and related trades workers,320
+ocu_isco08_8,"Occupation (ISCO-08): 8. Plant and machine operators, and assemblers",321
+ocu_isco08_9,Occupation (ISCO-08): 9. Elementary occupations,322
+ocu_isco08_0,Occupation (ISCO-08): 0. Armed forces occupations,323
+ocu_isco08_x,Occupation (ISCO-08): X. Not elsewhere classified,324
+ocu_isco88_total,Occupation (ISCO-88): Total,325
+ocu_isco88_1,"Occupation (ISCO-88): 1. Legislators, senior officials and managers",326
+ocu_isco88_2,Occupation (ISCO-88): 2. Professionals,327
+ocu_isco88_3,Occupation (ISCO-88): 3. Technicians and associate professionals,328
+ocu_isco88_4,Occupation (ISCO-88): 4. Clerks,329
+ocu_isco88_5,Occupation (ISCO-88): 5. Service workers and shop and market sales workers,330
+ocu_isco88_6,Occupation (ISCO-88): 6. Skilled agricultural and fishery workers,331
+ocu_isco88_7,Occupation (ISCO-88): 7. Craft and related trades workers,332
+ocu_isco88_8,Occupation (ISCO-88): 8. Plant and machine operators and assemblers,333
+ocu_isco88_9,Occupation (ISCO-88): 9. Elementary occupations,334
+ocu_isco88_0,Occupation (ISCO-88): 0. Armed forces,335
+ocu_isco88_x,Occupation (ISCO-88): X. Not elsewhere classified,336
+ocu_details_total,Occupation (Detailed): Total,337
+ocu_details_1,Occupation (Detailed): 1. Managers,338
+ocu_details_2,Occupation (Detailed): 2. Professionals,339
+ocu_details_3,Occupation (Detailed): 3. Technicians and associate professionals,340
+ocu_details_4,Occupation (Detailed): 4. Clerical support workers,341
+ocu_details_5,Occupation (Detailed): 5. Service and sales workers,342
+ocu_details_7,Occupation (Detailed): 7. Craft and related trades workers,343
+ocu_details_8,"Occupation (Detailed): 8. Plant and machine operators, and assemblers",344
+ocu_details_96,"Occupation (Detailed): 96. Elementary occupations and skilled agricultural, forestry and fishery workers",345
+ocu_skill_total,Occupation (Skill level): Total,346
+ocu_skill_l3_4,Occupation (Skill level): Skill levels 3 and 4 (high),347
+ocu_skill_l2,Occupation (Skill level): Skill level 2 (medium),348
+ocu_skill_l1,Occupation (Skill level): Skill level 1 (low),349
+ocu_skill_x,Occupation (Skill level): Not elsewhere classified,350
+oc2_isco08_total,"Occupation (ISCO-08), 2 digit level: Total",351
+oc2_isco08_01,"Occupation (ISCO-08), 2 digit level: 01 - Commissioned armed forces officers",352
+oc2_isco08_02,"Occupation (ISCO-08), 2 digit level: 02 - Non-commissioned armed forces officers",353
+oc2_isco08_03,"Occupation (ISCO-08), 2 digit level: 03 - Armed forces occupations, other ranks",354
+oc2_isco08_11,"Occupation (ISCO-08), 2 digit level: 11 - Chief executives, senior officials and legislators",355
+oc2_isco08_12,"Occupation (ISCO-08), 2 digit level: 12 - Administrative and commercial managers",356
+oc2_isco08_13,"Occupation (ISCO-08), 2 digit level: 13 - Production and specialised services managers",357
+oc2_isco08_14,"Occupation (ISCO-08), 2 digit level: 14 - Hospitality, retail and other services managers",358
+oc2_isco08_21,"Occupation (ISCO-08), 2 digit level: 21 - Science and engineering professionals",359
+oc2_isco08_22,"Occupation (ISCO-08), 2 digit level: 22 - Health professionals",360
+oc2_isco08_23,"Occupation (ISCO-08), 2 digit level: 23 - Teaching professionals",361
+oc2_isco08_24,"Occupation (ISCO-08), 2 digit level: 24 - Business and administration professionals",362
+oc2_isco08_25,"Occupation (ISCO-08), 2 digit level: 25 - Information and communications technology professionals",363
+oc2_isco08_26,"Occupation (ISCO-08), 2 digit level: 26 - Legal, social and cultural professionals",364
+oc2_isco08_31,"Occupation (ISCO-08), 2 digit level: 31 - Science and engineering associate professionals",365
+oc2_isco08_32,"Occupation (ISCO-08), 2 digit level: 32 - Health associate professionals",366
+oc2_isco08_33,"Occupation (ISCO-08), 2 digit level: 33 - Business and administration associate professionals",367
+oc2_isco08_34,"Occupation (ISCO-08), 2 digit level: 34 - Legal, social, cultural and related associate professionals",368
+oc2_isco08_35,"Occupation (ISCO-08), 2 digit level: 35 - Information and communications technicians",369
+oc2_isco08_41,"Occupation (ISCO-08), 2 digit level: 41 - General and keyboard clerks",370
+oc2_isco08_42,"Occupation (ISCO-08), 2 digit level: 42 - Customer services clerks",371
+oc2_isco08_43,"Occupation (ISCO-08), 2 digit level: 43 - Numerical and material recording clerks",372
+oc2_isco08_44,"Occupation (ISCO-08), 2 digit level: 44 - Other clerical support workers",373
+oc2_isco08_51,"Occupation (ISCO-08), 2 digit level: 51 - Personal service workers",374
+oc2_isco08_52,"Occupation (ISCO-08), 2 digit level: 52 - Sales workers",375
+oc2_isco08_53,"Occupation (ISCO-08), 2 digit level: 53 - Personal care workers",376
+oc2_isco08_54,"Occupation (ISCO-08), 2 digit level: 54 - Protective services workers",377
+oc2_isco08_61,"Occupation (ISCO-08), 2 digit level: 61 - Market-oriented skilled agricultural workers",378
+oc2_isco08_62,"Occupation (ISCO-08), 2 digit level: 62 - Market-oriented skilled forestry, fishery and hunting workers",379
+oc2_isco08_63,"Occupation (ISCO-08), 2 digit level: 63 - Subsistence farmers, fishers, hunters and gatherers",380
+oc2_isco08_71,"Occupation (ISCO-08), 2 digit level: 71 - Building and related trades workers, excluding electricians",381
+oc2_isco08_72,"Occupation (ISCO-08), 2 digit level: 72 - Metal, machinery and related trades workers",382
+oc2_isco08_73,"Occupation (ISCO-08), 2 digit level: 73 - Handicraft and printing workers",383
+oc2_isco08_74,"Occupation (ISCO-08), 2 digit level: 74 - Electrical and electronic trades workers",384
+oc2_isco08_75,"Occupation (ISCO-08), 2 digit level: 75 - Food processing, wood working, garment and other craft and related trades workers",385
+oc2_isco08_81,"Occupation (ISCO-08), 2 digit level: 81 - Stationary plant and machine operators",386
+oc2_isco08_82,"Occupation (ISCO-08), 2 digit level: 82 - Assemblers",387
+oc2_isco08_83,"Occupation (ISCO-08), 2 digit level: 83 - Drivers and mobile plant operators",388
+oc2_isco08_91,"Occupation (ISCO-08), 2 digit level: 91 - Cleaners and helpers",389
+oc2_isco08_92,"Occupation (ISCO-08), 2 digit level: 92 - Agricultural, forestry and fishery labourers",390
+oc2_isco08_93,"Occupation (ISCO-08), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",391
+oc2_isco08_94,"Occupation (ISCO-08), 2 digit level: 94 - Food preparation assistants",392
+oc2_isco08_95,"Occupation (ISCO-08), 2 digit level: 95 - Street and related sales and service workers",393
+oc2_isco08_96,"Occupation (ISCO-08), 2 digit level: 96 - Refuse workers and other elementary workers",394
+oc2_isco08_x,"Occupation (ISCO-08), 2 digit level: Not elsewhere classified",395
+oc2_isco88_total,"Occupation (ISCO-88), 2 digit level: Total",396
+oc2_isco88_01,"Occupation (ISCO-88), 2 digit level: 01 - Armed forces",397
+oc2_isco88_11,"Occupation (ISCO-88), 2 digit level: 11 - Legislators and senior officials",398
+oc2_isco88_12,"Occupation (ISCO-88), 2 digit level: 12 - Corporate managers",399
+oc2_isco88_13,"Occupation (ISCO-88), 2 digit level: 13 - General managers",400
+oc2_isco88_21,"Occupation (ISCO-88), 2 digit level: 21 - Physical, mathematical and engineering science professionals",401
+oc2_isco88_22,"Occupation (ISCO-88), 2 digit level: 22 - Life science and health professionals",402
+oc2_isco88_23,"Occupation (ISCO-88), 2 digit level: 23 - Teaching professionals",403
+oc2_isco88_24,"Occupation (ISCO-88), 2 digit level: 24 - Other professionals",404
+oc2_isco88_31,"Occupation (ISCO-88), 2 digit level: 31 - Physical and engineering science associate professionals",405
+oc2_isco88_32,"Occupation (ISCO-88), 2 digit level: 32 - Life science and health associate professionals",406
+oc2_isco88_33,"Occupation (ISCO-88), 2 digit level: 33 - Teaching associate professionals",407
+oc2_isco88_34,"Occupation (ISCO-88), 2 digit level: 34 - Other associate professionals",408
+oc2_isco88_41,"Occupation (ISCO-88), 2 digit level: 41 - Office clerks",409
+oc2_isco88_42,"Occupation (ISCO-88), 2 digit level: 42 - Customer services clerks",410
+oc2_isco88_51,"Occupation (ISCO-88), 2 digit level: 51 - Personal and protective services workers",411
+oc2_isco88_52,"Occupation (ISCO-88), 2 digit level: 52 - Models, salespersons and demonstrators",412
+oc2_isco88_61,"Occupation (ISCO-88), 2 digit level: 61 - Market-oriented skilled agricultural and fishery workers",413
+oc2_isco88_62,"Occupation (ISCO-88), 2 digit level: 62 - Subsistence agricultural and fishery workers",414
+oc2_isco88_71,"Occupation (ISCO-88), 2 digit level: 71 - Extraction and building trades workers",415
+oc2_isco88_72,"Occupation (ISCO-88), 2 digit level: 72 - Metal, machinery and related trades workers",416
+oc2_isco88_73,"Occupation (ISCO-88), 2 digit level: 73 - Precision, handicraft, printing and related trades workers",417
+oc2_isco88_74,"Occupation (ISCO-88), 2 digit level: 74 - Other craft and related trades workers",418
+oc2_isco88_81,"Occupation (ISCO-88), 2 digit level: 81 - Stationary-plant and related operators",419
+oc2_isco88_82,"Occupation (ISCO-88), 2 digit level: 82 - Machine operators and assemblers",420
+oc2_isco88_83,"Occupation (ISCO-88), 2 digit level: 83 - Drivers and mobile-plant operators",421
+oc2_isco88_91,"Occupation (ISCO-88), 2 digit level: 91 - Sales and services elementary occupations",422
+oc2_isco88_92,"Occupation (ISCO-88), 2 digit level: 92 - Agricultural, fishery and related labourers",423
+oc2_isco88_93,"Occupation (ISCO-88), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",424
+oc2_isco88_x,"Occupation (ISCO-88), 2 digit level: Not elsewhere classified",425
+how_bands_total,Hour bands: Total,426
+how_bands_h00,Hour bands: No hours actually worked,427
+how_bands_h01_14,Hour bands: 01-14,428
+how_bands_h15_24,Hour bands: 15-24,429
+how_bands_h15_29,Hour bands: 15-29,430
+how_bands_h25_34,Hour bands: 25-34,431
+how_bands_h30_34,Hour bands: 30-34,432
+how_bands_h35_39,Hour bands: 35-39,433
+how_bands_h40_48,Hour bands: 40-48,434
+how_bands_h49_59,Hour bands: 49-59,435
+how_bands_hge49,Hour bands: 49+,436
+how_bands_hge60,Hour bands: 60+,437
+how_bands_x,Hour bands: Not elsewhere classified,438
+cat_une_total,Type of unemployment: Total,439
+cat_une_pre,Type of unemployment: Unemployed previously employed,440
+cat_une_fjs,Type of unemployment: Unemployed seeking their first job,441
+cat_une_unk,Type of unemployment: Not elsewhere classified,442
+dur_details_total,Duration (Detailed): Total,443
+dur_details_mlt1,Duration (Detailed): Less than 1 month,444
+dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,445
+dur_details_mlt3,Duration (Detailed): Less than 3 months,446
+dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,447
+dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,448
+dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,449
+dur_details_mge24,Duration (Detailed): 24 months or more,450
+dur_details_x,Duration (Detailed): Not elsewhere classified,451
+dur_aggregate_total,Duration (Aggregate): Total,452
+dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,453
+dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,454
+dur_aggregate_mlt12,Duration (Aggregate): Less than 12 months,455
+dur_aggregate_mge12,Duration (Aggregate): 12 months or more,456
+dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,457
+job_contract_total,Contract type: Total,458
+job_contract_perm,Contract type: Permanent,459
+job_contract_temp,Contract type: Temporary,460
+job_contract_x,Contract type: Unknown,461
+job_time_total,Working time arrangement: Total,462
+job_time_part,Working time arrangement: Part-time,463
+job_time_full,Working time arrangement: Full-time,464
+job_time_x,Working time arrangement: Unknown,465
+mig_status_total,Migrant status: Total,466
+mig_status_migrant,Migrant status: Migrants,467
+mig_status_nonmig,Migrant status: Non migrants,468
+mig_status_migranteu,Migrant status: EU Migrants,469
+mig_status_migrantnoteu,Migrant status: Migrants excluding EU,470
+mig_status_x,Migrant status: Unknown,471
+cur_type_lcu,Currency: Local currency,472
+cur_type_ppp,Currency: 2017 PPP $,473
+cur_type_usd,Currency: U.S. dollars,474
+chl_aget6_total,Presence of children under age 6: Total,475
+chl_aget6_yes,Presence of children under age 6: Yes,476
+chl_aget6_no,Presence of children under age 6: No,477
+chl_numlt6_total,Number of children under age 6: Total,478
+chl_numlt6_0,Number of children under age 6: 0,479
+chl_numlt6_1,Number of children under age 6: 1,480
+chl_numlt6_2,Number of children under age 6: 2,481
+chl_numlt6_ge3,Number of children under age 6: 3+,482
+cct_cit_total,Citizenship: Total,483
+cbr_bir_total,Place of birth: Total,484
+cct_cit_citizen,Citizenship: Citizens,485
+cbr_bir_native,Place of birth: Native-born,486
+cct_cit_noncit,Citizenship: Non-citizens,487
+cbr_bir_foreign,Place of birth: Foreign-born,488
+cct_cit_x,Citizenship: Status unknown,489
+cbr_bir_x,Place of birth: Status unknown,490
