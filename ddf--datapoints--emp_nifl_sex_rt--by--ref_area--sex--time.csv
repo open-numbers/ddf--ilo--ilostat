@@ -42,6 +42,7 @@ arg,sex_f,2014,46.5
 arg,sex_f,2017,47.4
 arg,sex_f,2018,48.7
 arg,sex_f,2019,49.4
+arg,sex_f,2020,45.8
 arg,sex_m,2004,57.6
 arg,sex_m,2005,56.2
 arg,sex_m,2006,53.6
@@ -55,6 +56,7 @@ arg,sex_m,2014,47.1
 arg,sex_m,2017,48.3
 arg,sex_m,2018,47.7
 arg,sex_m,2019,49.3
+arg,sex_m,2020,46.9
 arg,sex_t,2004,59.6
 arg,sex_t,2005,58
 arg,sex_t,2006,55.3
@@ -68,6 +70,7 @@ arg,sex_t,2014,46.8
 arg,sex_t,2017,47.9
 arg,sex_t,2018,48.1
 arg,sex_t,2019,49.4
+arg,sex_t,2020,46.4
 arm,sex_f,2008,50
 arm,sex_f,2009,54.5
 arm,sex_f,2011,61
@@ -269,15 +272,6 @@ brn,sex_t,2019,30.9
 bwa,sex_f,2019,68.7
 bwa,sex_m,2019,66.9
 bwa,sex_t,2019,67.8
-chl,sex_f,2018,30.8
-chl,sex_f,2019,30.4
-chl,sex_f,2020,26
-chl,sex_m,2018,28.2
-chl,sex_m,2019,28.4
-chl,sex_m,2020,24.8
-chl,sex_t,2018,29.3
-chl,sex_t,2019,29.2
-chl,sex_t,2020,25.3
 civ,sex_f,2012,96.5
 civ,sex_f,2013,98.9
 civ,sex_f,2016,95.9
@@ -409,6 +403,7 @@ dom,sex_f,2016,53.3
 dom,sex_f,2017,53.2
 dom,sex_f,2018,52.7
 dom,sex_f,2019,50.2
+dom,sex_f,2020,49.8
 dom,sex_m,2000,88.7
 dom,sex_m,2001,86.2
 dom,sex_m,2002,89.6
@@ -429,6 +424,7 @@ dom,sex_m,2016,58.3
 dom,sex_m,2017,59.8
 dom,sex_m,2018,59.5
 dom,sex_m,2019,57.1
+dom,sex_m,2020,57.6
 dom,sex_t,2000,90.4
 dom,sex_t,2001,88.4
 dom,sex_t,2002,91
@@ -449,6 +445,7 @@ dom,sex_t,2016,56.3
 dom,sex_t,2017,57.2
 dom,sex_t,2018,56.8
 dom,sex_t,2019,54.3
+dom,sex_t,2020,54.5
 ecu,sex_f,2001,83.1
 ecu,sex_f,2003,81.3
 ecu,sex_f,2004,82.3
@@ -742,15 +739,6 @@ mdv,sex_m,2016,51.8
 mdv,sex_m,2019,43.1
 mdv,sex_t,2016,51.7
 mdv,sex_t,2019,44.3
-mex,sex_f,2002,65.1
-mex,sex_f,2003,65.8
-mex,sex_f,2004,65.9
-mex,sex_m,2002,66.4
-mex,sex_m,2003,66.4
-mex,sex_m,2004,66
-mex,sex_t,2002,66
-mex,sex_t,2003,66.2
-mex,sex_t,2004,65.9
 mhl,sex_f,2019,27.2
 mhl,sex_m,2019,20.5
 mhl,sex_t,2019,22.6
@@ -892,9 +880,6 @@ mus,sex_t,2016,52.9
 mus,sex_t,2017,52.2
 mus,sex_t,2018,53.5
 mus,sex_t,2019,53.5
-mwi,sex_f,2013,89
-mwi,sex_m,2013,81.3
-mwi,sex_t,2013,85.2
 nam,sex_f,2012,57.9
 nam,sex_f,2013,63
 nam,sex_f,2014,60.8
