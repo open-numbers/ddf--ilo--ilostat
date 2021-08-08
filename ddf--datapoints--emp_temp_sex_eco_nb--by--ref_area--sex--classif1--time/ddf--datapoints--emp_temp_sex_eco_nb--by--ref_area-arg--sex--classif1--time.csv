@@ -1,5 +1,4 @@
 ref_area,sex,classif1,time,emp_temp_sex_eco_nb
-arg,sex_f,eco_aggregate_agr,1990,2.496
 arg,sex_f,eco_aggregate_agr,1991,2.088
 arg,sex_f,eco_aggregate_agr,1992,5.104
 arg,sex_f,eco_aggregate_agr,1993,5.103
@@ -27,7 +26,6 @@ arg,sex_f,eco_aggregate_agr,2017,0.769
 arg,sex_f,eco_aggregate_agr,2018,3.012
 arg,sex_f,eco_aggregate_agr,2019,1.65
 arg,sex_f,eco_aggregate_agr,2020,0.558
-arg,sex_f,eco_aggregate_con,1990,3.134
 arg,sex_f,eco_aggregate_con,1991,2.944
 arg,sex_f,eco_aggregate_con,1992,9.68
 arg,sex_f,eco_aggregate_con,1993,7.816
@@ -55,7 +53,6 @@ arg,sex_f,eco_aggregate_con,2017,34.155
 arg,sex_f,eco_aggregate_con,2018,37.585
 arg,sex_f,eco_aggregate_con,2019,41.401
 arg,sex_f,eco_aggregate_con,2020,31.192
-arg,sex_f,eco_aggregate_man,1990,264.651
 arg,sex_f,eco_aggregate_man,1991,292.167
 arg,sex_f,eco_aggregate_man,1992,284.073
 arg,sex_f,eco_aggregate_man,1993,260.455
@@ -83,7 +80,6 @@ arg,sex_f,eco_aggregate_man,2017,401.08
 arg,sex_f,eco_aggregate_man,2018,409.46
 arg,sex_f,eco_aggregate_man,2019,425.277
 arg,sex_f,eco_aggregate_man,2020,433.811
-arg,sex_f,eco_aggregate_mel,1990,5.753
 arg,sex_f,eco_aggregate_mel,1991,7.873
 arg,sex_f,eco_aggregate_mel,1992,6.475
 arg,sex_f,eco_aggregate_mel,1993,4.259
@@ -111,7 +107,6 @@ arg,sex_f,eco_aggregate_mel,2017,20.92
 arg,sex_f,eco_aggregate_mel,2018,25.242
 arg,sex_f,eco_aggregate_mel,2019,20.66
 arg,sex_f,eco_aggregate_mel,2020,17.571
-arg,sex_f,eco_aggregate_mkt,1990,412.026
 arg,sex_f,eco_aggregate_mkt,1991,477.806
 arg,sex_f,eco_aggregate_mkt,1992,489.62
 arg,sex_f,eco_aggregate_mkt,1993,557.448
@@ -139,7 +134,6 @@ arg,sex_f,eco_aggregate_mkt,2017,1675.3
 arg,sex_f,eco_aggregate_mkt,2018,1744.235
 arg,sex_f,eco_aggregate_mkt,2019,1787.77
 arg,sex_f,eco_aggregate_mkt,2020,1541.948
-arg,sex_f,eco_aggregate_pub,1990,837.204
 arg,sex_f,eco_aggregate_pub,1991,785.471
 arg,sex_f,eco_aggregate_pub,1992,840.884
 arg,sex_f,eco_aggregate_pub,1993,881.891
@@ -167,7 +161,6 @@ arg,sex_f,eco_aggregate_pub,2017,2792.503
 arg,sex_f,eco_aggregate_pub,2018,2880.018
 arg,sex_f,eco_aggregate_pub,2019,2955.767
 arg,sex_f,eco_aggregate_pub,2020,2751.522
-arg,sex_f,eco_aggregate_total,1990,1531.638
 arg,sex_f,eco_aggregate_total,1991,1574.768
 arg,sex_f,eco_aggregate_total,1992,1647.724
 arg,sex_f,eco_aggregate_total,1993,1731.205
@@ -195,7 +188,6 @@ arg,sex_f,eco_aggregate_total,2017,4932.843
 arg,sex_f,eco_aggregate_total,2018,5110.433
 arg,sex_f,eco_aggregate_total,2019,5243.335
 arg,sex_f,eco_aggregate_total,2020,4785.259
-arg,sex_f,eco_aggregate_x,1990,6.374
 arg,sex_f,eco_aggregate_x,1991,6.42
 arg,sex_f,eco_aggregate_x,1992,11.892
 arg,sex_f,eco_aggregate_x,1993,14.237
@@ -223,16 +215,6 @@ arg,sex_f,eco_aggregate_x,2017,8.116
 arg,sex_f,eco_aggregate_x,2018,10.882
 arg,sex_f,eco_aggregate_x,2019,10.81
 arg,sex_f,eco_aggregate_x,2020,8.658
-arg,sex_f,eco_isic2_0,1990,6.374
-arg,sex_f,eco_isic2_1,1990,2.496
-arg,sex_f,eco_isic2_3,1990,264.651
-arg,sex_f,eco_isic2_4,1990,5.753
-arg,sex_f,eco_isic2_5,1990,3.134
-arg,sex_f,eco_isic2_6,1990,244.804
-arg,sex_f,eco_isic2_7,1990,36.043
-arg,sex_f,eco_isic2_8,1990,131.179
-arg,sex_f,eco_isic2_9,1990,837.204
-arg,sex_f,eco_isic2_total,1990,1531.638
 arg,sex_f,eco_isic3_a,1991,2.088
 arg,sex_f,eco_isic3_a,1992,5.104
 arg,sex_f,eco_isic3_a,1993,5.103
@@ -763,7 +745,6 @@ arg,sex_f,eco_isic4_x,2017,8.116
 arg,sex_f,eco_isic4_x,2018,10.882
 arg,sex_f,eco_isic4_x,2019,10.81
 arg,sex_f,eco_isic4_x,2020,8.658
-arg,sex_f,eco_sector_agr,1990,2.496
 arg,sex_f,eco_sector_agr,1991,2.088
 arg,sex_f,eco_sector_agr,1992,5.104
 arg,sex_f,eco_sector_agr,1993,5.103
@@ -791,7 +772,6 @@ arg,sex_f,eco_sector_agr,2017,0.769
 arg,sex_f,eco_sector_agr,2018,3.012
 arg,sex_f,eco_sector_agr,2019,1.65
 arg,sex_f,eco_sector_agr,2020,0.558
-arg,sex_f,eco_sector_ind,1990,273.538
 arg,sex_f,eco_sector_ind,1991,302.984
 arg,sex_f,eco_sector_ind,1992,300.228
 arg,sex_f,eco_sector_ind,1993,272.53
@@ -819,7 +799,6 @@ arg,sex_f,eco_sector_ind,2017,456.155
 arg,sex_f,eco_sector_ind,2018,472.287
 arg,sex_f,eco_sector_ind,2019,487.337
 arg,sex_f,eco_sector_ind,2020,482.573
-arg,sex_f,eco_sector_nag,1990,1529.142
 arg,sex_f,eco_sector_nag,1991,1572.68
 arg,sex_f,eco_sector_nag,1992,1642.62
 arg,sex_f,eco_sector_nag,1993,1726.102
@@ -847,7 +826,6 @@ arg,sex_f,eco_sector_nag,2017,4932.074
 arg,sex_f,eco_sector_nag,2018,5107.421
 arg,sex_f,eco_sector_nag,2019,5241.684
 arg,sex_f,eco_sector_nag,2020,4784.701
-arg,sex_f,eco_sector_ser,1990,1249.23
 arg,sex_f,eco_sector_ser,1991,1263.277
 arg,sex_f,eco_sector_ser,1992,1330.504
 arg,sex_f,eco_sector_ser,1993,1439.339
@@ -875,7 +853,6 @@ arg,sex_f,eco_sector_ser,2017,4467.803
 arg,sex_f,eco_sector_ser,2018,4624.252
 arg,sex_f,eco_sector_ser,2019,4743.538
 arg,sex_f,eco_sector_ser,2020,4293.47
-arg,sex_f,eco_sector_total,1990,1531.638
 arg,sex_f,eco_sector_total,1991,1574.768
 arg,sex_f,eco_sector_total,1992,1647.724
 arg,sex_f,eco_sector_total,1993,1731.205
@@ -903,7 +880,6 @@ arg,sex_f,eco_sector_total,2017,4932.843
 arg,sex_f,eco_sector_total,2018,5110.433
 arg,sex_f,eco_sector_total,2019,5243.335
 arg,sex_f,eco_sector_total,2020,4785.259
-arg,sex_f,eco_sector_x,1990,6.374
 arg,sex_f,eco_sector_x,1991,6.42
 arg,sex_f,eco_sector_x,1992,11.892
 arg,sex_f,eco_sector_x,1993,14.237
@@ -931,7 +907,6 @@ arg,sex_f,eco_sector_x,2017,8.116
 arg,sex_f,eco_sector_x,2018,10.882
 arg,sex_f,eco_sector_x,2019,10.81
 arg,sex_f,eco_sector_x,2020,8.658
-arg,sex_m,eco_aggregate_agr,1990,12.433
 arg,sex_m,eco_aggregate_agr,1991,12.796
 arg,sex_m,eco_aggregate_agr,1992,12.698
 arg,sex_m,eco_aggregate_agr,1993,15.803
@@ -959,7 +934,6 @@ arg,sex_m,eco_aggregate_agr,2017,6.071
 arg,sex_m,eco_aggregate_agr,2018,8.141
 arg,sex_m,eco_aggregate_agr,2019,5.319
 arg,sex_m,eco_aggregate_agr,2020,3.016
-arg,sex_m,eco_aggregate_con,1990,264.575
 arg,sex_m,eco_aggregate_con,1991,319.954
 arg,sex_m,eco_aggregate_con,1992,300.235
 arg,sex_m,eco_aggregate_con,1993,293.722
@@ -987,7 +961,6 @@ arg,sex_m,eco_aggregate_con,2017,1018.296
 arg,sex_m,eco_aggregate_con,2018,1035.58
 arg,sex_m,eco_aggregate_con,2019,1046.739
 arg,sex_m,eco_aggregate_con,2020,907.921
-arg,sex_m,eco_aggregate_man,1990,765.258
 arg,sex_m,eco_aggregate_man,1991,764.745
 arg,sex_m,eco_aggregate_man,1992,809.926
 arg,sex_m,eco_aggregate_man,1993,775.147
@@ -1015,7 +988,6 @@ arg,sex_m,eco_aggregate_man,2017,1024.525
 arg,sex_m,eco_aggregate_man,2018,968.353
 arg,sex_m,eco_aggregate_man,2019,1007.512
 arg,sex_m,eco_aggregate_man,2020,933.96
-arg,sex_m,eco_aggregate_mel,1990,35.988
 arg,sex_m,eco_aggregate_mel,1991,40.203
 arg,sex_m,eco_aggregate_mel,1992,34.224
 arg,sex_m,eco_aggregate_mel,1993,19.94
@@ -1043,7 +1015,6 @@ arg,sex_m,eco_aggregate_mel,2017,90.028
 arg,sex_m,eco_aggregate_mel,2018,90.27
 arg,sex_m,eco_aggregate_mel,2019,81.478
 arg,sex_m,eco_aggregate_mel,2020,90.814
-arg,sex_m,eco_aggregate_mkt,1990,1017.373
 arg,sex_m,eco_aggregate_mkt,1991,1208.773
 arg,sex_m,eco_aggregate_mkt,1992,1249.137
 arg,sex_m,eco_aggregate_mkt,1993,1327.356
@@ -1071,7 +1042,6 @@ arg,sex_m,eco_aggregate_mkt,2017,2947.881
 arg,sex_m,eco_aggregate_mkt,2018,2952.805
 arg,sex_m,eco_aggregate_mkt,2019,3087.574
 arg,sex_m,eco_aggregate_mkt,2020,2742.618
-arg,sex_m,eco_aggregate_pub,1990,596.261
 arg,sex_m,eco_aggregate_pub,1991,424.397
 arg,sex_m,eco_aggregate_pub,1992,423.223
 arg,sex_m,eco_aggregate_pub,1993,432.842
@@ -1099,7 +1069,6 @@ arg,sex_m,eco_aggregate_pub,2017,1527.81
 arg,sex_m,eco_aggregate_pub,2018,1558.785
 arg,sex_m,eco_aggregate_pub,2019,1550.467
 arg,sex_m,eco_aggregate_pub,2020,1447.671
-arg,sex_m,eco_aggregate_total,1990,2704.022
 arg,sex_m,eco_aggregate_total,1991,2798.428
 arg,sex_m,eco_aggregate_total,1992,2847.843
 arg,sex_m,eco_aggregate_total,1993,2877.854
@@ -1127,7 +1096,6 @@ arg,sex_m,eco_aggregate_total,2017,6635.374
 arg,sex_m,eco_aggregate_total,2018,6634.266
 arg,sex_m,eco_aggregate_total,2019,6797.801
 arg,sex_m,eco_aggregate_total,2020,6151.28
-arg,sex_m,eco_aggregate_x,1990,12.134
 arg,sex_m,eco_aggregate_x,1991,27.56
 arg,sex_m,eco_aggregate_x,1992,18.404
 arg,sex_m,eco_aggregate_x,1993,13.046
@@ -1155,16 +1123,6 @@ arg,sex_m,eco_aggregate_x,2017,20.764
 arg,sex_m,eco_aggregate_x,2018,20.332
 arg,sex_m,eco_aggregate_x,2019,18.712
 arg,sex_m,eco_aggregate_x,2020,25.281
-arg,sex_m,eco_isic2_0,1990,12.134
-arg,sex_m,eco_isic2_1,1990,12.433
-arg,sex_m,eco_isic2_3,1990,765.258
-arg,sex_m,eco_isic2_4,1990,35.988
-arg,sex_m,eco_isic2_5,1990,264.575
-arg,sex_m,eco_isic2_6,1990,554.806
-arg,sex_m,eco_isic2_7,1990,250.459
-arg,sex_m,eco_isic2_8,1990,212.108
-arg,sex_m,eco_isic2_9,1990,596.261
-arg,sex_m,eco_isic2_total,1990,2704.022
 arg,sex_m,eco_isic3_a,1991,12.796
 arg,sex_m,eco_isic3_a,1992,11.548
 arg,sex_m,eco_isic3_a,1993,14.694
@@ -1699,7 +1657,6 @@ arg,sex_m,eco_isic4_x,2017,20.764
 arg,sex_m,eco_isic4_x,2018,20.332
 arg,sex_m,eco_isic4_x,2019,18.712
 arg,sex_m,eco_isic4_x,2020,25.281
-arg,sex_m,eco_sector_agr,1990,12.433
 arg,sex_m,eco_sector_agr,1991,12.796
 arg,sex_m,eco_sector_agr,1992,12.698
 arg,sex_m,eco_sector_agr,1993,15.803
@@ -1727,7 +1684,6 @@ arg,sex_m,eco_sector_agr,2017,6.071
 arg,sex_m,eco_sector_agr,2018,8.141
 arg,sex_m,eco_sector_agr,2019,5.319
 arg,sex_m,eco_sector_agr,2020,3.016
-arg,sex_m,eco_sector_ind,1990,1065.821
 arg,sex_m,eco_sector_ind,1991,1124.902
 arg,sex_m,eco_sector_ind,1992,1144.385
 arg,sex_m,eco_sector_ind,1993,1088.809
@@ -1755,7 +1711,6 @@ arg,sex_m,eco_sector_ind,2017,2132.849
 arg,sex_m,eco_sector_ind,2018,2094.203
 arg,sex_m,eco_sector_ind,2019,2135.729
 arg,sex_m,eco_sector_ind,2020,1932.695
-arg,sex_m,eco_sector_nag,1990,2691.589
 arg,sex_m,eco_sector_nag,1991,2785.632
 arg,sex_m,eco_sector_nag,1992,2835.145
 arg,sex_m,eco_sector_nag,1993,2862.051
@@ -1783,7 +1738,6 @@ arg,sex_m,eco_sector_nag,2017,6629.303
 arg,sex_m,eco_sector_nag,2018,6626.125
 arg,sex_m,eco_sector_nag,2019,6792.482
 arg,sex_m,eco_sector_nag,2020,6148.265
-arg,sex_m,eco_sector_ser,1990,1613.634
 arg,sex_m,eco_sector_ser,1991,1633.17
 arg,sex_m,eco_sector_ser,1992,1672.36
 arg,sex_m,eco_sector_ser,1993,1760.198
@@ -1811,7 +1765,6 @@ arg,sex_m,eco_sector_ser,2017,4475.69
 arg,sex_m,eco_sector_ser,2018,4511.59
 arg,sex_m,eco_sector_ser,2019,4638.041
 arg,sex_m,eco_sector_ser,2020,4190.288
-arg,sex_m,eco_sector_total,1990,2704.022
 arg,sex_m,eco_sector_total,1991,2798.428
 arg,sex_m,eco_sector_total,1992,2847.843
 arg,sex_m,eco_sector_total,1993,2877.854
@@ -1839,7 +1792,6 @@ arg,sex_m,eco_sector_total,2017,6635.374
 arg,sex_m,eco_sector_total,2018,6634.266
 arg,sex_m,eco_sector_total,2019,6797.801
 arg,sex_m,eco_sector_total,2020,6151.28
-arg,sex_m,eco_sector_x,1990,12.134
 arg,sex_m,eco_sector_x,1991,27.56
 arg,sex_m,eco_sector_x,1992,18.404
 arg,sex_m,eco_sector_x,1993,13.046
@@ -1870,7 +1822,6 @@ arg,sex_m,eco_sector_x,2020,25.281
 arg,sex_t,eco_aggregate_agr,1982,4.563
 arg,sex_t,eco_aggregate_agr,1983,9.838
 arg,sex_t,eco_aggregate_agr,1984,10.188
-arg,sex_t,eco_aggregate_agr,1990,14.929
 arg,sex_t,eco_aggregate_agr,1991,14.884
 arg,sex_t,eco_aggregate_agr,1992,17.802
 arg,sex_t,eco_aggregate_agr,1993,20.905
@@ -1901,7 +1852,6 @@ arg,sex_t,eco_aggregate_agr,2020,3.574
 arg,sex_t,eco_aggregate_con,1982,230.856
 arg,sex_t,eco_aggregate_con,1983,217.036
 arg,sex_t,eco_aggregate_con,1984,219.309
-arg,sex_t,eco_aggregate_con,1990,267.709
 arg,sex_t,eco_aggregate_con,1991,322.898
 arg,sex_t,eco_aggregate_con,1992,309.915
 arg,sex_t,eco_aggregate_con,1993,301.538
@@ -1932,7 +1882,6 @@ arg,sex_t,eco_aggregate_con,2020,939.112
 arg,sex_t,eco_aggregate_man,1982,846.287
 arg,sex_t,eco_aggregate_man,1983,847.06
 arg,sex_t,eco_aggregate_man,1984,962.151
-arg,sex_t,eco_aggregate_man,1990,1029.909
 arg,sex_t,eco_aggregate_man,1991,1056.912
 arg,sex_t,eco_aggregate_man,1992,1093.999
 arg,sex_t,eco_aggregate_man,1993,1035.602
@@ -1963,7 +1912,6 @@ arg,sex_t,eco_aggregate_man,2020,1367.771
 arg,sex_t,eco_aggregate_mel,1982,19.337
 arg,sex_t,eco_aggregate_mel,1983,16.685
 arg,sex_t,eco_aggregate_mel,1984,23.354
-arg,sex_t,eco_aggregate_mel,1990,41.741
 arg,sex_t,eco_aggregate_mel,1991,48.076
 arg,sex_t,eco_aggregate_mel,1992,40.699
 arg,sex_t,eco_aggregate_mel,1993,24.199
@@ -1994,7 +1942,6 @@ arg,sex_t,eco_aggregate_mel,2020,108.385
 arg,sex_t,eco_aggregate_mkt,1982,1088.725
 arg,sex_t,eco_aggregate_mkt,1983,1122.349
 arg,sex_t,eco_aggregate_mkt,1984,1105.944
-arg,sex_t,eco_aggregate_mkt,1990,1429.399
 arg,sex_t,eco_aggregate_mkt,1991,1686.579
 arg,sex_t,eco_aggregate_mkt,1992,1738.756
 arg,sex_t,eco_aggregate_mkt,1993,1884.804
@@ -2025,7 +1972,6 @@ arg,sex_t,eco_aggregate_mkt,2020,4284.566
 arg,sex_t,eco_aggregate_pub,1982,1137.19
 arg,sex_t,eco_aggregate_pub,1983,1044.925
 arg,sex_t,eco_aggregate_pub,1984,1101.083
-arg,sex_t,eco_aggregate_pub,1990,1433.465
 arg,sex_t,eco_aggregate_pub,1991,1209.868
 arg,sex_t,eco_aggregate_pub,1992,1264.105
 arg,sex_t,eco_aggregate_pub,1993,1314.732
@@ -2056,7 +2002,6 @@ arg,sex_t,eco_aggregate_pub,2020,4199.192
 arg,sex_t,eco_aggregate_total,1982,3740.609
 arg,sex_t,eco_aggregate_total,1983,3704.13
 arg,sex_t,eco_aggregate_total,1984,3897.001
-arg,sex_t,eco_aggregate_total,1990,4235.66
 arg,sex_t,eco_aggregate_total,1991,4373.197
 arg,sex_t,eco_aggregate_total,1992,4495.566
 arg,sex_t,eco_aggregate_total,1993,4609.059
@@ -2087,7 +2032,6 @@ arg,sex_t,eco_aggregate_total,2020,10936.539
 arg,sex_t,eco_aggregate_x,1982,413.651
 arg,sex_t,eco_aggregate_x,1983,446.237
 arg,sex_t,eco_aggregate_x,1984,474.972
-arg,sex_t,eco_aggregate_x,1990,18.508
 arg,sex_t,eco_aggregate_x,1991,33.98
 arg,sex_t,eco_aggregate_x,1992,30.295
 arg,sex_t,eco_aggregate_x,1993,27.283
@@ -2118,46 +2062,36 @@ arg,sex_t,eco_aggregate_x,2020,33.939
 arg,sex_t,eco_isic2_0,1982,413.651
 arg,sex_t,eco_isic2_0,1983,446.237
 arg,sex_t,eco_isic2_0,1984,474.972
-arg,sex_t,eco_isic2_0,1990,18.508
 arg,sex_t,eco_isic2_1,1982,4.563
 arg,sex_t,eco_isic2_1,1983,9.838
 arg,sex_t,eco_isic2_1,1984,10.188
-arg,sex_t,eco_isic2_1,1990,14.929
 arg,sex_t,eco_isic2_2,1982,2.467
 arg,sex_t,eco_isic2_2,1983,2.786
 arg,sex_t,eco_isic2_2,1984,2.167
 arg,sex_t,eco_isic2_3,1982,846.287
 arg,sex_t,eco_isic2_3,1983,847.06
 arg,sex_t,eco_isic2_3,1984,962.151
-arg,sex_t,eco_isic2_3,1990,1029.909
 arg,sex_t,eco_isic2_4,1982,16.87
 arg,sex_t,eco_isic2_4,1983,13.899
 arg,sex_t,eco_isic2_4,1984,21.187
-arg,sex_t,eco_isic2_4,1990,41.741
 arg,sex_t,eco_isic2_5,1982,230.856
 arg,sex_t,eco_isic2_5,1983,217.036
 arg,sex_t,eco_isic2_5,1984,219.309
-arg,sex_t,eco_isic2_5,1990,267.709
 arg,sex_t,eco_isic2_6,1982,659.562
 arg,sex_t,eco_isic2_6,1983,645.521
 arg,sex_t,eco_isic2_6,1984,635.006
-arg,sex_t,eco_isic2_6,1990,799.61
 arg,sex_t,eco_isic2_7,1982,190.457
 arg,sex_t,eco_isic2_7,1983,222.527
 arg,sex_t,eco_isic2_7,1984,218.451
-arg,sex_t,eco_isic2_7,1990,286.502
 arg,sex_t,eco_isic2_8,1982,238.706
 arg,sex_t,eco_isic2_8,1983,254.301
 arg,sex_t,eco_isic2_8,1984,252.487
-arg,sex_t,eco_isic2_8,1990,343.287
 arg,sex_t,eco_isic2_9,1982,1137.19
 arg,sex_t,eco_isic2_9,1983,1044.925
 arg,sex_t,eco_isic2_9,1984,1101.083
-arg,sex_t,eco_isic2_9,1990,1433.465
 arg,sex_t,eco_isic2_total,1982,3740.609
 arg,sex_t,eco_isic2_total,1983,3704.13
 arg,sex_t,eco_isic2_total,1984,3897.001
-arg,sex_t,eco_isic2_total,1990,4235.66
 arg,sex_t,eco_isic3_a,1991,14.884
 arg,sex_t,eco_isic3_a,1992,16.652
 arg,sex_t,eco_isic3_a,1993,19.796
@@ -2702,7 +2636,6 @@ arg,sex_t,eco_isic4_x,2020,33.939
 arg,sex_t,eco_sector_agr,1982,4.563
 arg,sex_t,eco_sector_agr,1983,9.838
 arg,sex_t,eco_sector_agr,1984,10.188
-arg,sex_t,eco_sector_agr,1990,14.929
 arg,sex_t,eco_sector_agr,1991,14.884
 arg,sex_t,eco_sector_agr,1992,17.802
 arg,sex_t,eco_sector_agr,1993,20.905
@@ -2733,7 +2666,6 @@ arg,sex_t,eco_sector_agr,2020,3.574
 arg,sex_t,eco_sector_ind,1982,1096.48
 arg,sex_t,eco_sector_ind,1983,1080.781
 arg,sex_t,eco_sector_ind,1984,1204.814
-arg,sex_t,eco_sector_ind,1990,1339.359
 arg,sex_t,eco_sector_ind,1991,1427.886
 arg,sex_t,eco_sector_ind,1992,1444.613
 arg,sex_t,eco_sector_ind,1993,1361.339
@@ -2764,7 +2696,6 @@ arg,sex_t,eco_sector_ind,2020,2415.268
 arg,sex_t,eco_sector_nag,1982,3736.046
 arg,sex_t,eco_sector_nag,1983,3694.292
 arg,sex_t,eco_sector_nag,1984,3886.813
-arg,sex_t,eco_sector_nag,1990,4220.731
 arg,sex_t,eco_sector_nag,1991,4358.313
 arg,sex_t,eco_sector_nag,1992,4477.764
 arg,sex_t,eco_sector_nag,1993,4588.154
@@ -2795,7 +2726,6 @@ arg,sex_t,eco_sector_nag,2020,10932.965
 arg,sex_t,eco_sector_ser,1982,2225.915
 arg,sex_t,eco_sector_ser,1983,2167.274
 arg,sex_t,eco_sector_ser,1984,2207.027
-arg,sex_t,eco_sector_ser,1990,2862.864
 arg,sex_t,eco_sector_ser,1991,2896.447
 arg,sex_t,eco_sector_ser,1992,3002.861
 arg,sex_t,eco_sector_ser,1993,3199.536
@@ -2826,7 +2756,6 @@ arg,sex_t,eco_sector_ser,2020,8483.758
 arg,sex_t,eco_sector_total,1982,3740.609
 arg,sex_t,eco_sector_total,1983,3704.13
 arg,sex_t,eco_sector_total,1984,3897.001
-arg,sex_t,eco_sector_total,1990,4235.66
 arg,sex_t,eco_sector_total,1991,4373.197
 arg,sex_t,eco_sector_total,1992,4495.566
 arg,sex_t,eco_sector_total,1993,4609.059
@@ -2857,7 +2786,6 @@ arg,sex_t,eco_sector_total,2020,10936.539
 arg,sex_t,eco_sector_x,1982,413.651
 arg,sex_t,eco_sector_x,1983,446.237
 arg,sex_t,eco_sector_x,1984,474.972
-arg,sex_t,eco_sector_x,1990,18.508
 arg,sex_t,eco_sector_x,1991,33.98
 arg,sex_t,eco_sector_x,1992,30.295
 arg,sex_t,eco_sector_x,1993,27.283
