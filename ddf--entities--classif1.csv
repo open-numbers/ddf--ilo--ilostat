@@ -73,1077 +73,1073 @@ edu_aggregate_bas,Education (Aggregate levels): Basic,71
 edu_aggregate_int,Education (Aggregate levels): Intermediate,72
 edu_aggregate_adv,Education (Aggregate levels): Advanced,73
 edu_aggregate_x,Education (Aggregate levels): Level not stated,74
-edu_skill_total,Education (Educational mismatch): Total,75
-edu_skill_under,Education (Educational mismatch): Undereducated,76
-edu_skill_match,Education (Educational mismatch): Matched,77
-edu_skill_over,Education (Educational mismatch): Overeducated,78
-dsb_status_total,Disability status: Total,79
-dsb_status_dis,Disability status: Persons with disability,80
-dsb_status_nodis,Disability status: Persons without disability,81
-mts_details_total,Marital status (detailed): Total,82
-mts_details_sgle,Marital status (detailed): Single,83
-mts_details_mrd,Marital status (detailed): Married,84
-mts_details_union,Marital status (detailed): Union / Cohabiting,85
-mts_details_wid,Marital status (detailed): Widowed,86
-mts_details_sep,Marital status (detailed): Divorced or legally separated,87
-mts_details_x,Marital status (detailed): Not elsewhere classified,88
-mts_aggregate_total,Marital status (aggregate): Total,89
-mts_aggregate_1,Marital status (aggregate): Single / Widowed / Divorced,90
-mts_aggregate_2,Marital status (aggregate): Married / Union / Cohabiting,91
-mts_aggregate_x,Marital status (aggregate): Not elsewhere classified,92
-geo_cov_nat,Area type: National,93
-geo_cov_rur,Area type: Rural,94
-geo_cov_urb,Area type: Urban,95
-geo_cov_x,Area type: Not elsewhere classified,96
-mjh_aggregate_total,Multiple job holders: Total,97
-mjh_aggregate_one,Multiple job holders: One job only ,98
-mjh_aggregate_multi,Multiple job holders: More than one job,99
-ste_icse93_total,Status in employment (ICSE-93): Total,100
-ste_icse93_1,Status in employment (ICSE-93): 1. Employees,101
-ste_icse93_2,Status in employment (ICSE-93): 2. Employers,102
-ste_icse93_3,Status in employment (ICSE-93): 3. Own-account workers,103
-ste_icse93_4,Status in employment (ICSE-93): 4. Members of producers' cooperatives,104
-ste_icse93_5,Status in employment (ICSE-93): 5. Contributing family workers,105
-ste_icse93_6,Status in employment (ICSE-93): 6. Workers not classifiable by status,106
-ste_aggregate_total,Status in employment (Aggregate): Total,107
-ste_aggregate_ees,Status in employment (Aggregate): Employees,108
-ste_aggregate_slf,Status in employment (Aggregate): Self-employed,109
-ste_aggregate_x,Status in employment (Aggregate): Workers not classifiable by status,110
-ins_sector_total,Institutional Sector: Total,111
-ins_sector_pub,Institutional Sector: Public,112
-ins_sector_pri,Institutional Sector: Private,113
-eco_isic4_total,Economic activity (ISIC-Rev.4): Total,114
-eco_isic4_a,Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,115
-eco_isic4_b,Economic activity (ISIC-Rev.4): B. Mining and quarrying,116
-eco_isic4_c,Economic activity (ISIC-Rev.4): C. Manufacturing,117
-eco_isic4_d,"Economic activity (ISIC-Rev.4): D. Electricity; gas, steam and air conditioning supply",118
-eco_isic4_e,"Economic activity (ISIC-Rev.4): E. Water supply; sewerage, waste management and remediation activities",119
-eco_isic4_f,Economic activity (ISIC-Rev.4): F. Construction,120
-eco_isic4_g,Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,121
-eco_isic4_h,Economic activity (ISIC-Rev.4): H. Transportation and storage,122
-eco_isic4_i,Economic activity (ISIC-Rev.4): I. Accommodation and food service activities,123
-eco_isic4_j,Economic activity (ISIC-Rev.4): J. Information and communication,124
-eco_isic4_k,Economic activity (ISIC-Rev.4): K. Financial and insurance activities,125
-eco_isic4_l,Economic activity (ISIC-Rev.4): L. Real estate activities,126
-eco_isic4_m,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities",127
-eco_isic4_n,Economic activity (ISIC-Rev.4): N. Administrative and support service activities,128
-eco_isic4_o,Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security,129
-eco_isic4_p,Economic activity (ISIC-Rev.4): P. Education,130
-eco_isic4_q,Economic activity (ISIC-Rev.4): Q. Human health and social work activities,131
-eco_isic4_r,"Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation",132
-eco_isic4_s,Economic activity (ISIC-Rev.4): S. Other service activities,133
-eco_isic4_t,Economic activity (ISIC-Rev.4): T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,134
-eco_isic4_u,Economic activity (ISIC-Rev.4): U. Activities of extraterritorial organizations and bodies,135
-eco_isic4_x,Economic activity (ISIC-Rev.4): X. Not elsewhere classified,136
-eco_isic3_total,Economic activity (ISIC-Rev.3.1): Total,137
-eco_isic3_a,"Economic activity (ISIC-Rev.3.1): A. Agriculture, hunting and forestry",138
-eco_isic3_b,Economic activity (ISIC-Rev.3.1): B. Fishing,139
-eco_isic3_c,Economic activity (ISIC-Rev.3.1): C. Mining and quarrying,140
-eco_isic3_d,Economic activity (ISIC-Rev.3.1): D. Manufacturing,141
-eco_isic3_e,"Economic activity (ISIC-Rev.3.1): E. Electricity, gas and water supply",142
-eco_isic3_f,Economic activity (ISIC-Rev.3.1): F. Construction,143
-eco_isic3_g,"Economic activity (ISIC-Rev.3.1): G. Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",144
-eco_isic3_h,Economic activity (ISIC-Rev.3.1): H. Hotels and restaurants,145
-eco_isic3_i,"Economic activity (ISIC-Rev.3.1): I. Transport, storage and communications",146
-eco_isic3_j,Economic activity (ISIC-Rev.3.1): J. Financial intermediation,147
-eco_isic3_k,"Economic activity (ISIC-Rev.3.1): K. Real estate, renting and business activities",148
-eco_isic3_l,Economic activity (ISIC-Rev.3.1): L. Public administration and defence; compulsory social security,149
-eco_isic3_m,Economic activity (ISIC-Rev.3.1): M. Education,150
-eco_isic3_n,Economic activity (ISIC-Rev.3.1): N. Health and social work,151
-eco_isic3_o,"Economic activity (ISIC-Rev.3.1): O. Other community, social and personal service activities",152
-eco_isic3_p,Economic activity (ISIC-Rev.3.1): P. Activities of private households as employers and undifferentiated production activities of private households,153
-eco_isic3_q,Economic activity (ISIC-Rev.3.1): Q. Extraterritorial organizations and bodies,154
-eco_isic3_x,Economic activity (ISIC-Rev.3.1): X. Not elsewhere classified,155
-eco_isic2_total,Economic activity (ISIC-Rev.2): Total,156
-eco_isic2_1,"Economic activity (ISIC-Rev.2): 1. Agriculture, Hunting, Forestry and Fishing",157
-eco_isic2_2,Economic activity (ISIC-Rev.2): 2. Mining and Quarrying,158
-eco_isic2_3,Economic activity (ISIC-Rev.2): 3. Manufacturing,159
-eco_isic2_4,"Economic activity (ISIC-Rev.2): 4. Electricity, Gas and Water",160
-eco_isic2_5,Economic activity (ISIC-Rev.2): 5. Construction,161
-eco_isic2_6,Economic activity (ISIC-Rev.2): 6. Wholesale and Retail Trade and Restaurants and Hotels,162
-eco_isic2_7,"Economic activity (ISIC-Rev.2): 7. Transport, Storage and Communication",163
-eco_isic2_8,"Economic activity (ISIC-Rev.2): 8. Financing, Insurance, Real Estate and Business Services",164
-eco_isic2_9,"Economic activity (ISIC-Rev.2): 9. Community, Social and Personal Services",165
-eco_isic2_0,Economic activity (ISIC-Rev.2): 0. Activities not Adequately Defined,166
-eco_details_total,Economic activity (Detailed): Total,167
-eco_details_a,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,168
-eco_details_b,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,169
-eco_details_c,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,170
-eco_details_de,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,171
-eco_details_f,Economic activity (Detailed): Construction ~ISIC rev.4 F,172
-eco_details_g,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,173
-eco_details_hj,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,174
-eco_details_i,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,175
-eco_details_k,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,176
-eco_details_lmn,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,177
-eco_details_o,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,178
-eco_details_p,Economic activity (Detailed): Education ~ISIC rev.4 P,179
-eco_details_q,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,180
-eco_details_rstu,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,181
-eco_aggregate_total,Economic activity (Aggregate): Total,182
-eco_aggregate_agr,Economic activity (Aggregate): Agriculture,183
-eco_aggregate_man,Economic activity (Aggregate): Manufacturing,184
-eco_aggregate_manel,"Economic activity (Aggregate): Manufacturing; Electricity, gas and water supply",185
-eco_aggregate_con,Economic activity (Aggregate): Construction,186
-eco_aggregate_mel,"Economic activity (Aggregate): Mining and quarrying; Electricity, gas and water supply",187
-eco_aggregate_mkt,"Economic activity (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",188
-eco_aggregate_pub,"Economic activity (Aggregate): Public Administration, Community, Social and other Services and Activities",189
-eco_aggregate_x,Economic activity (Aggregate): Not classified,190
-eco_sector_total,Economic activity (Broad sector): Total,191
-eco_sector_agr,Economic activity (Broad sector): Agriculture,192
-eco_sector_nag,Economic activity (Broad sector): Non-agriculture,193
-eco_sector_ind,Economic activity (Broad sector): Industry,194
-eco_sector_ser,Economic activity (Broad sector): Services,195
-eco_sector_x,Economic activity (Broad sector): Not classified,196
-eco_agnag_total,"Economic activity (Agriculture, Non-Agriculture): Total",197
-eco_agnag_agr,"Economic activity (Agriculture, Non-Agriculture): Agriculture",198
-eco_agnag_nag,"Economic activity (Agriculture, Non-Agriculture): Non-agriculture",199
-ec2_isic4_total,"Economic activity (ISIC-Rev.4), 2 digit level: Total",200
-ec2_isic4_a01,"Economic activity (ISIC-Rev.4), 2 digit level: 01 - Crop and animal production, hunting and related service activities",201
-ec2_isic4_a02,"Economic activity (ISIC-Rev.4), 2 digit level: 02 - Forestry and logging",202
-ec2_isic4_a03,"Economic activity (ISIC-Rev.4), 2 digit level: 03 - Fishing and aquaculture",203
-ec2_isic4_b05,"Economic activity (ISIC-Rev.4), 2 digit level: 05 - Mining of coal and lignite",204
-ec2_isic4_b06,"Economic activity (ISIC-Rev.4), 2 digit level: 06 - Extraction of crude petroleum and natural gas",205
-ec2_isic4_b07,"Economic activity (ISIC-Rev.4), 2 digit level: 07 - Mining of metal ores",206
-ec2_isic4_b08,"Economic activity (ISIC-Rev.4), 2 digit level: 08 - Other mining and quarrying",207
-ec2_isic4_b09,"Economic activity (ISIC-Rev.4), 2 digit level: 09 - Mining support service activities",208
-ec2_isic4_c10,"Economic activity (ISIC-Rev.4), 2 digit level: 10 - Manufacture of food products",209
-ec2_isic4_c11,"Economic activity (ISIC-Rev.4), 2 digit level: 11 - Manufacture of beverages",210
-ec2_isic4_c12,"Economic activity (ISIC-Rev.4), 2 digit level: 12 - Manufacture of tobacco products",211
-ec2_isic4_c13,"Economic activity (ISIC-Rev.4), 2 digit level: 13 - Manufacture of textiles",212
-ec2_isic4_c14,"Economic activity (ISIC-Rev.4), 2 digit level: 14 - Manufacture of wearing apparel",213
-ec2_isic4_c15,"Economic activity (ISIC-Rev.4), 2 digit level: 15 - Manufacture of leather and related products",214
-ec2_isic4_c16,"Economic activity (ISIC-Rev.4), 2 digit level: 16 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",215
-ec2_isic4_c17,"Economic activity (ISIC-Rev.4), 2 digit level: 17 - Manufacture of paper and paper products",216
-ec2_isic4_c18,"Economic activity (ISIC-Rev.4), 2 digit level: 18 - Printing and reproduction of recorded media",217
-ec2_isic4_c19,"Economic activity (ISIC-Rev.4), 2 digit level: 19 - Manufacture of coke and refined petroleum products",218
-ec2_isic4_c20,"Economic activity (ISIC-Rev.4), 2 digit level: 20 - Manufacture of chemicals and chemical products",219
-ec2_isic4_c21,"Economic activity (ISIC-Rev.4), 2 digit level: 21 - Manufacture of pharmaceuticals, medicinal chemical and botanical products",220
-ec2_isic4_c22,"Economic activity (ISIC-Rev.4), 2 digit level: 22 - Manufacture of rubber and plastics products",221
-ec2_isic4_c23,"Economic activity (ISIC-Rev.4), 2 digit level: 23 - Manufacture of other non-metallic mineral products",222
-ec2_isic4_c24,"Economic activity (ISIC-Rev.4), 2 digit level: 24 - Manufacture of basic metals",223
-ec2_isic4_c25,"Economic activity (ISIC-Rev.4), 2 digit level: 25 - Manufacture of fabricated metal products, except machinery and equipment",224
-ec2_isic4_c26,"Economic activity (ISIC-Rev.4), 2 digit level: 26 - Manufacture of computer, electronic and optical products",225
-ec2_isic4_c27,"Economic activity (ISIC-Rev.4), 2 digit level: 27 - Manufacture of electrical equipment",226
-ec2_isic4_c28,"Economic activity (ISIC-Rev.4), 2 digit level: 28 - Manufacture of machinery and equipment n.e.c.",227
-ec2_isic4_c29,"Economic activity (ISIC-Rev.4), 2 digit level: 29 - Manufacture of motor vehicles, trailers and semi-trailers",228
-ec2_isic4_c30,"Economic activity (ISIC-Rev.4), 2 digit level: 30 - Manufacture of other transport equipment",229
-ec2_isic4_c31,"Economic activity (ISIC-Rev.4), 2 digit level: 31 - Manufacture of furniture",230
-ec2_isic4_c32,"Economic activity (ISIC-Rev.4), 2 digit level: 32 - Other manufacturing",231
-ec2_isic4_c33,"Economic activity (ISIC-Rev.4), 2 digit level: 33 - Repair and installation of machinery and equipment",232
-ec2_isic4_d35,"Economic activity (ISIC-Rev.4), 2 digit level: 35 - Electricity, gas, steam and air conditioning supply",233
-ec2_isic4_e36,"Economic activity (ISIC-Rev.4), 2 digit level: 36 - Water collection, treatment and supply",234
-ec2_isic4_e37,"Economic activity (ISIC-Rev.4), 2 digit level: 37 - Sewerage",235
-ec2_isic4_e38,"Economic activity (ISIC-Rev.4), 2 digit level: 38 - Waste collection, treatment and disposal activities; materials recovery",236
-ec2_isic4_e39,"Economic activity (ISIC-Rev.4), 2 digit level: 39 - Remediation activities and other waste management services",237
-ec2_isic4_f41,"Economic activity (ISIC-Rev.4), 2 digit level: 41 - Construction of buildings",238
-ec2_isic4_f42,"Economic activity (ISIC-Rev.4), 2 digit level: 42 - Civil engineering",239
-ec2_isic4_f43,"Economic activity (ISIC-Rev.4), 2 digit level: 43 - Specialized construction activities",240
-ec2_isic4_g45,"Economic activity (ISIC-Rev.4), 2 digit level: 45 - Wholesale and retail trade and repair of motor vehicles and motorcycles",241
-ec2_isic4_g46,"Economic activity (ISIC-Rev.4), 2 digit level: 46 - Wholesale trade, except of motor vehicles and motorcycles",242
-ec2_isic4_g47,"Economic activity (ISIC-Rev.4), 2 digit level: 47 - Retail trade, except of motor vehicles and motorcycles",243
-ec2_isic4_h49,"Economic activity (ISIC-Rev.4), 2 digit level: 49 - Land transport and transport via pipelines",244
-ec2_isic4_h50,"Economic activity (ISIC-Rev.4), 2 digit level: 50 - Water transport",245
-ec2_isic4_h51,"Economic activity (ISIC-Rev.4), 2 digit level: 51 - Air transport",246
-ec2_isic4_h52,"Economic activity (ISIC-Rev.4), 2 digit level: 52 - Warehousing and support activities for transportation",247
-ec2_isic4_h53,"Economic activity (ISIC-Rev.4), 2 digit level: 53 - Postal and courier activities",248
-ec2_isic4_i55,"Economic activity (ISIC-Rev.4), 2 digit level: 55 - Accommodation",249
-ec2_isic4_i56,"Economic activity (ISIC-Rev.4), 2 digit level: 56 - Food and beverage service activities",250
-ec2_isic4_j58,"Economic activity (ISIC-Rev.4), 2 digit level: 58 - Publishing activities",251
-ec2_isic4_j59,"Economic activity (ISIC-Rev.4), 2 digit level: 59 - Motion picture, video and television programme production, sound recording and music publishing activities",252
-ec2_isic4_j60,"Economic activity (ISIC-Rev.4), 2 digit level: 60 - Programming and broadcasting activities",253
-ec2_isic4_j61,"Economic activity (ISIC-Rev.4), 2 digit level: 61 - Telecommunications",254
-ec2_isic4_j62,"Economic activity (ISIC-Rev.4), 2 digit level: 62 - Computer programming, consultancy and related activities",255
-ec2_isic4_j63,"Economic activity (ISIC-Rev.4), 2 digit level: 63 - Information service activities",256
-ec2_isic4_k64,"Economic activity (ISIC-Rev.4), 2 digit level: 64 - Financial service activities, except insurance and pension funding",257
-ec2_isic4_k65,"Economic activity (ISIC-Rev.4), 2 digit level: 65 - Insurance, reinsurance and pension funding, except compulsory social security",258
-ec2_isic4_k66,"Economic activity (ISIC-Rev.4), 2 digit level: 66 - Activities auxiliary to financial service and insurance activities",259
-ec2_isic4_l68,"Economic activity (ISIC-Rev.4), 2 digit level: 68 - Real estate activities",260
-ec2_isic4_m69,"Economic activity (ISIC-Rev.4), 2 digit level: 69 - Legal and accounting activities",261
-ec2_isic4_m70,"Economic activity (ISIC-Rev.4), 2 digit level: 70 - Activities of head offices; management consultancy activities",262
-ec2_isic4_m71,"Economic activity (ISIC-Rev.4), 2 digit level: 71 - Architectural and engineering activities; technical testing and analysis",263
-ec2_isic4_m72,"Economic activity (ISIC-Rev.4), 2 digit level: 72 - Scientific research and development",264
-ec2_isic4_m73,"Economic activity (ISIC-Rev.4), 2 digit level: 73 - Advertising and market research",265
-ec2_isic4_m74,"Economic activity (ISIC-Rev.4), 2 digit level: 74 - Other professional, scientific and technical activities",266
-ec2_isic4_m75,"Economic activity (ISIC-Rev.4), 2 digit level: 75 - Veterinary activities",267
-ec2_isic4_n77,"Economic activity (ISIC-Rev.4), 2 digit level: 77 - Rental and leasing activities",268
-ec2_isic4_n78,"Economic activity (ISIC-Rev.4), 2 digit level: 78 - Employment activities",269
-ec2_isic4_n79,"Economic activity (ISIC-Rev.4), 2 digit level: 79 - Travel agency, tour operator, reservation service and related activities",270
-ec2_isic4_n80,"Economic activity (ISIC-Rev.4), 2 digit level: 80 - Security and investigation activities",271
-ec2_isic4_n81,"Economic activity (ISIC-Rev.4), 2 digit level: 81 - Services to buildings and landscape activities",272
-ec2_isic4_n82,"Economic activity (ISIC-Rev.4), 2 digit level: 82 - Office administrative, office support and other business support activities",273
-ec2_isic4_o84,"Economic activity (ISIC-Rev.4), 2 digit level: 84 - Public administration and defence; compulsory social security",274
-ec2_isic4_p85,"Economic activity (ISIC-Rev.4), 2 digit level: 85 - Education",275
-ec2_isic4_q86,"Economic activity (ISIC-Rev.4), 2 digit level: 86 - Human health activities",276
-ec2_isic4_q87,"Economic activity (ISIC-Rev.4), 2 digit level: 87 - Residential care activities",277
-ec2_isic4_q88,"Economic activity (ISIC-Rev.4), 2 digit level: 88 - Social work activities without accommodation",278
-ec2_isic4_r90,"Economic activity (ISIC-Rev.4), 2 digit level: 90 - Creative, arts and entertainment activities",279
-ec2_isic4_r91,"Economic activity (ISIC-Rev.4), 2 digit level: 91 - Libraries, archives, museums and other cultural activities",280
-ec2_isic4_r92,"Economic activity (ISIC-Rev.4), 2 digit level: 92 - Gambling and betting activities",281
-ec2_isic4_r93,"Economic activity (ISIC-Rev.4), 2 digit level: 93 - Sports activities and amusement and recreation activities",282
-ec2_isic4_s94,"Economic activity (ISIC-Rev.4), 2 digit level: 94 - Activities of membership organizations",283
-ec2_isic4_s95,"Economic activity (ISIC-Rev.4), 2 digit level: 95 - Repair of computers and personal and household goods",284
-ec2_isic4_s96,"Economic activity (ISIC-Rev.4), 2 digit level: 96 - Other personal service activities",285
-ec2_isic4_t97,"Economic activity (ISIC-Rev.4), 2 digit level: 97 - Activities of households as employers of domestic personnel",286
-ec2_isic4_t98,"Economic activity (ISIC-Rev.4), 2 digit level: 98 - Undifferentiated goods- and services-producing activities of private households for own use",287
-ec2_isic4_u99,"Economic activity (ISIC-Rev.4), 2 digit level: 99 - Activities of extraterritorial organizations and bodies",288
-ec2_isic4_x,"Economic activity (ISIC-Rev.4), 2 digit level: Not elsewhere classified",289
-ec2_isic3_total,"Economic activity (ISIC-Rev.3.1), 2 digit level: Total",290
-ec2_isic3_a01,"Economic activity (ISIC-Rev.3.1), 2 digit level: 01 - Agriculture, hunting and related service activities",291
-ec2_isic3_a02,"Economic activity (ISIC-Rev.3.1), 2 digit level: 02 - Forestry, logging and related service activities",292
-ec2_isic3_b05,"Economic activity (ISIC-Rev.3.1), 2 digit level: 05 - Fishing, aquaculture and service activities incidental to fishing",293
-ec2_isic3_c10,"Economic activity (ISIC-Rev.3.1), 2 digit level: 10 - Mining of coal and lignite; extraction of peat",294
-ec2_isic3_c11,"Economic activity (ISIC-Rev.3.1), 2 digit level: 11 - Extraction of crude petroleum and natural gas; service activities incidental to oil and gas extraction, excluding surveying",295
-ec2_isic3_c12,"Economic activity (ISIC-Rev.3.1), 2 digit level: 12 - Mining of uranium and thorium ores",296
-ec2_isic3_c13,"Economic activity (ISIC-Rev.3.1), 2 digit level: 13 - Mining of metal ores",297
-ec2_isic3_c14,"Economic activity (ISIC-Rev.3.1), 2 digit level: 14 - Other mining and quarrying",298
-ec2_isic3_d15,"Economic activity (ISIC-Rev.3.1), 2 digit level: 15 - Manufacture of food products and beverages",299
-ec2_isic3_d16,"Economic activity (ISIC-Rev.3.1), 2 digit level: 16 - Manufacture of tobacco products",300
-ec2_isic3_d17,"Economic activity (ISIC-Rev.3.1), 2 digit level: 17 - Manufacture of textiles",301
-ec2_isic3_d18,"Economic activity (ISIC-Rev.3.1), 2 digit level: 18 - Manufacture of wearing apparel; dressing and dyeing of fur",302
-ec2_isic3_d19,"Economic activity (ISIC-Rev.3.1), 2 digit level: 19 - Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",303
-ec2_isic3_d20,"Economic activity (ISIC-Rev.3.1), 2 digit level: 20 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",304
-ec2_isic3_d21,"Economic activity (ISIC-Rev.3.1), 2 digit level: 21 - Manufacture of paper and paper products",305
-ec2_isic3_d22,"Economic activity (ISIC-Rev.3.1), 2 digit level: 22 - Publishing, printing and reproduction of recorded media",306
-ec2_isic3_d23,"Economic activity (ISIC-Rev.3.1), 2 digit level: 23 - Manufacture of coke, refined petroleum products and nuclear fuel",307
-ec2_isic3_d24,"Economic activity (ISIC-Rev.3.1), 2 digit level: 24 - Manufacture of chemicals and chemical products",308
-ec2_isic3_d25,"Economic activity (ISIC-Rev.3.1), 2 digit level: 25 - Manufacture of rubber and plastics products",309
-ec2_isic3_d26,"Economic activity (ISIC-Rev.3.1), 2 digit level: 26 - Manufacture of other non-metallic mineral products",310
-ec2_isic3_d27,"Economic activity (ISIC-Rev.3.1), 2 digit level: 27 - Manufacture of basic metals",311
-ec2_isic3_d28,"Economic activity (ISIC-Rev.3.1), 2 digit level: 28 - Manufacture of fabricated metal products, except machinery and equipment",312
-ec2_isic3_d29,"Economic activity (ISIC-Rev.3.1), 2 digit level: 29 - Manufacture of machinery and equipment n.e.c.",313
-ec2_isic3_d30,"Economic activity (ISIC-Rev.3.1), 2 digit level: 30 - Manufacture of office, accounting and computing machinery",314
-ec2_isic3_d31,"Economic activity (ISIC-Rev.3.1), 2 digit level: 31 - Manufacture of electrical machinery and apparatus n.e.c.",315
-ec2_isic3_d32,"Economic activity (ISIC-Rev.3.1), 2 digit level: 32 - Manufacture of radio, television and communication equipment and apparatus",316
-ec2_isic3_d33,"Economic activity (ISIC-Rev.3.1), 2 digit level: 33 - Manufacture of medical, precision and optical instruments, watches and clocks",317
-ec2_isic3_d34,"Economic activity (ISIC-Rev.3.1), 2 digit level: 34 - Manufacture of motor vehicles, trailers and semi-trailers",318
-ec2_isic3_d35,"Economic activity (ISIC-Rev.3.1), 2 digit level: 35 - Manufacture of other transport equipment",319
-ec2_isic3_d36,"Economic activity (ISIC-Rev.3.1), 2 digit level: 36 - Manufacture of furniture; manufacturing n.e.c.",320
-ec2_isic3_d37,"Economic activity (ISIC-Rev.3.1), 2 digit level: 37 - Recycling",321
-ec2_isic3_e40,"Economic activity (ISIC-Rev.3.1), 2 digit level: 40 - Electricity, gas, steam and hot water supply",322
-ec2_isic3_e41,"Economic activity (ISIC-Rev.3.1), 2 digit level: 41 - Collection, purification and distribution of water",323
-ec2_isic3_f45,"Economic activity (ISIC-Rev.3.1), 2 digit level: 45 - Construction",324
-ec2_isic3_g50,"Economic activity (ISIC-Rev.3.1), 2 digit level: 50 - Sale, maintenance and repair of motor vehicles and motorcycles; retail sale of automotive fuel",325
-ec2_isic3_g51,"Economic activity (ISIC-Rev.3.1), 2 digit level: 51 - Wholesale trade and commission trade, except of motor vehicles and motorcycles",326
-ec2_isic3_g52,"Economic activity (ISIC-Rev.3.1), 2 digit level: 52 - Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",327
-ec2_isic3_h55,"Economic activity (ISIC-Rev.3.1), 2 digit level: 55 - Hotels and restaurants",328
-ec2_isic3_i60,"Economic activity (ISIC-Rev.3.1), 2 digit level: 60 - Land transport; transport via pipelines",329
-ec2_isic3_i61,"Economic activity (ISIC-Rev.3.1), 2 digit level: 61 - Water transport",330
-ec2_isic3_i62,"Economic activity (ISIC-Rev.3.1), 2 digit level: 62 - Air transport",331
-ec2_isic3_i63,"Economic activity (ISIC-Rev.3.1), 2 digit level: 63 - Supporting and auxiliary transport activities; activities of travel agencies",332
-ec2_isic3_i64,"Economic activity (ISIC-Rev.3.1), 2 digit level: 64 - Post and telecommunications",333
-ec2_isic3_j65,"Economic activity (ISIC-Rev.3.1), 2 digit level: 65 - Financial intermediation, except insurance and pension funding",334
-ec2_isic3_j66,"Economic activity (ISIC-Rev.3.1), 2 digit level: 66 - Insurance and pension funding, except compulsory social security",335
-ec2_isic3_j67,"Economic activity (ISIC-Rev.3.1), 2 digit level: 67 - Activities auxiliary to financial intermediation",336
-ec2_isic3_k70,"Economic activity (ISIC-Rev.3.1), 2 digit level: 70 - Real estate activities",337
-ec2_isic3_k71,"Economic activity (ISIC-Rev.3.1), 2 digit level: 71 - Renting of machinery and equipment without operator and of personal and household goods",338
-ec2_isic3_k72,"Economic activity (ISIC-Rev.3.1), 2 digit level: 72 - Computer and related activities",339
-ec2_isic3_k73,"Economic activity (ISIC-Rev.3.1), 2 digit level: 73 - Research and development",340
-ec2_isic3_k74,"Economic activity (ISIC-Rev.3.1), 2 digit level: 74 - Other business activities",341
-ec2_isic3_l75,"Economic activity (ISIC-Rev.3.1), 2 digit level: 75 - Public administration and defence; compulsory social security",342
-ec2_isic3_m80,"Economic activity (ISIC-Rev.3.1), 2 digit level: 80 - Education",343
-ec2_isic3_n85,"Economic activity (ISIC-Rev.3.1), 2 digit level: 85 - Health and social work",344
-ec2_isic3_o90,"Economic activity (ISIC-Rev.3.1), 2 digit level: 90 - Sewage and refuse disposal, sanitation and similar activities",345
-ec2_isic3_o91,"Economic activity (ISIC-Rev.3.1), 2 digit level: 91 - Activities of membership organizations n.e.c.",346
-ec2_isic3_o92,"Economic activity (ISIC-Rev.3.1), 2 digit level: 92 - Recreational, cultural and sporting activities",347
-ec2_isic3_o93,"Economic activity (ISIC-Rev.3.1), 2 digit level: 93 - Other service activities",348
-ec2_isic3_p95,"Economic activity (ISIC-Rev.3.1), 2 digit level: 95 - Activities of private households as employers of domestic staff",349
-ec2_isic3_p96,"Economic activity (ISIC-Rev.3.1), 2 digit level: 96 - Undifferentiated goods-producing activities of private households for own use",350
-ec2_isic3_p97,"Economic activity (ISIC-Rev.3.1), 2 digit level: 97 - Undifferentiated service-producing activities of private households for own use",351
-ec2_isic3_q99,"Economic activity (ISIC-Rev.3.1), 2 digit level: 99 - Extraterritorial organizations and bodies",352
-ec2_isic3_x,"Economic activity (ISIC-Rev.3.1), 2 digit level: Not elsewhere classified",353
-ocu_isco08_total,Occupation (ISCO-08): Total,354
-ocu_isco08_1,Occupation (ISCO-08): 1. Managers,355
-ocu_isco08_2,Occupation (ISCO-08): 2. Professionals,356
-ocu_isco08_3,Occupation (ISCO-08): 3. Technicians and associate professionals,357
-ocu_isco08_4,Occupation (ISCO-08): 4. Clerical support workers,358
-ocu_isco08_5,Occupation (ISCO-08): 5. Service and sales workers,359
-ocu_isco08_6,"Occupation (ISCO-08): 6. Skilled agricultural, forestry and fishery workers",360
-ocu_isco08_7,Occupation (ISCO-08): 7. Craft and related trades workers,361
-ocu_isco08_8,"Occupation (ISCO-08): 8. Plant and machine operators, and assemblers",362
-ocu_isco08_9,Occupation (ISCO-08): 9. Elementary occupations,363
-ocu_isco08_0,Occupation (ISCO-08): 0. Armed forces occupations,364
-ocu_isco08_x,Occupation (ISCO-08): X. Not elsewhere classified,365
-ocu_isco88_total,Occupation (ISCO-88): Total,366
-ocu_isco88_1,"Occupation (ISCO-88): 1. Legislators, senior officials and managers",367
-ocu_isco88_2,Occupation (ISCO-88): 2. Professionals,368
-ocu_isco88_3,Occupation (ISCO-88): 3. Technicians and associate professionals,369
-ocu_isco88_4,Occupation (ISCO-88): 4. Clerks,370
-ocu_isco88_5,Occupation (ISCO-88): 5. Service workers and shop and market sales workers,371
-ocu_isco88_6,Occupation (ISCO-88): 6. Skilled agricultural and fishery workers,372
-ocu_isco88_7,Occupation (ISCO-88): 7. Craft and related trades workers,373
-ocu_isco88_8,Occupation (ISCO-88): 8. Plant and machine operators and assemblers,374
-ocu_isco88_9,Occupation (ISCO-88): 9. Elementary occupations,375
-ocu_isco88_0,Occupation (ISCO-88): 0. Armed forces,376
-ocu_isco88_x,Occupation (ISCO-88): X. Not elsewhere classified,377
-ocu_details_total,Occupation (Detailed): Total,378
-ocu_details_1,Occupation (Detailed): 1. Managers,379
-ocu_details_2,Occupation (Detailed): 2. Professionals,380
-ocu_details_3,Occupation (Detailed): 3. Technicians and associate professionals,381
-ocu_details_4,Occupation (Detailed): 4. Clerical support workers,382
-ocu_details_5,Occupation (Detailed): 5. Service and sales workers,383
-ocu_details_7,Occupation (Detailed): 7. Craft and related trades workers,384
-ocu_details_8,"Occupation (Detailed): 8. Plant and machine operators, and assemblers",385
-ocu_details_96,"Occupation (Detailed): 96. Elementary occupations and skilled agricultural, forestry and fishery workers",386
-ocu_isco68_total,Occupation (ISCO-68): Total,387
-ocu_isco68_0_1,"Occupation (ISCO-68): 0/1. Professional, technical and related workers",388
-ocu_isco68_2,Occupation (ISCO-68): 2. Administrative and managerial workers,389
-ocu_isco68_3,Occupation (ISCO-68): 3. Clerical and related workers,390
-ocu_isco68_4,Occupation (ISCO-68): 4. Sales workers,391
-ocu_isco68_5,Occupation (ISCO-68): 5. Service workers,392
-ocu_isco68_6,"Occupation (ISCO-68): 6. Agriculture, animal husbandry and forestry workers, fishermen and hunters",393
-ocu_isco68_7_9,"Occupation (ISCO-68): 7,8,9. Production and related workers, transport equipment operators and labourers",394
-ocu_isco68_x,Occupation (ISCO-68): X. Not elsewhere classified,395
-ocu_isco68_af,Occupation (ISCO-68): AF. Armed Forces,396
-ocu_skill_total,Occupation (Skill level): Total,397
-ocu_skill_l3_4,Occupation (Skill level): Skill levels 3 and 4 (high),398
-ocu_skill_l2,Occupation (Skill level): Skill level 2 (medium),399
-ocu_skill_l1,Occupation (Skill level): Skill level 1 (low),400
-ocu_skill_x,Occupation (Skill level): Not elsewhere classified,401
-oc2_isco08_total,"Occupation (ISCO-08), 2 digit level: Total",402
-oc2_isco08_01,"Occupation (ISCO-08), 2 digit level: 01 - Commissioned armed forces officers",403
-oc2_isco08_02,"Occupation (ISCO-08), 2 digit level: 02 - Non-commissioned armed forces officers",404
-oc2_isco08_03,"Occupation (ISCO-08), 2 digit level: 03 - Armed forces occupations, other ranks",405
-oc2_isco08_11,"Occupation (ISCO-08), 2 digit level: 11 - Chief executives, senior officials and legislators",406
-oc2_isco08_12,"Occupation (ISCO-08), 2 digit level: 12 - Administrative and commercial managers",407
-oc2_isco08_13,"Occupation (ISCO-08), 2 digit level: 13 - Production and specialised services managers",408
-oc2_isco08_14,"Occupation (ISCO-08), 2 digit level: 14 - Hospitality, retail and other services managers",409
-oc2_isco08_21,"Occupation (ISCO-08), 2 digit level: 21 - Science and engineering professionals",410
-oc2_isco08_22,"Occupation (ISCO-08), 2 digit level: 22 - Health professionals",411
-oc2_isco08_23,"Occupation (ISCO-08), 2 digit level: 23 - Teaching professionals",412
-oc2_isco08_24,"Occupation (ISCO-08), 2 digit level: 24 - Business and administration professionals",413
-oc2_isco08_25,"Occupation (ISCO-08), 2 digit level: 25 - Information and communications technology professionals",414
-oc2_isco08_26,"Occupation (ISCO-08), 2 digit level: 26 - Legal, social and cultural professionals",415
-oc2_isco08_31,"Occupation (ISCO-08), 2 digit level: 31 - Science and engineering associate professionals",416
-oc2_isco08_32,"Occupation (ISCO-08), 2 digit level: 32 - Health associate professionals",417
-oc2_isco08_33,"Occupation (ISCO-08), 2 digit level: 33 - Business and administration associate professionals",418
-oc2_isco08_34,"Occupation (ISCO-08), 2 digit level: 34 - Legal, social, cultural and related associate professionals",419
-oc2_isco08_35,"Occupation (ISCO-08), 2 digit level: 35 - Information and communications technicians",420
-oc2_isco08_41,"Occupation (ISCO-08), 2 digit level: 41 - General and keyboard clerks",421
-oc2_isco08_42,"Occupation (ISCO-08), 2 digit level: 42 - Customer services clerks",422
-oc2_isco08_43,"Occupation (ISCO-08), 2 digit level: 43 - Numerical and material recording clerks",423
-oc2_isco08_44,"Occupation (ISCO-08), 2 digit level: 44 - Other clerical support workers",424
-oc2_isco08_51,"Occupation (ISCO-08), 2 digit level: 51 - Personal service workers",425
-oc2_isco08_52,"Occupation (ISCO-08), 2 digit level: 52 - Sales workers",426
-oc2_isco08_53,"Occupation (ISCO-08), 2 digit level: 53 - Personal care workers",427
-oc2_isco08_54,"Occupation (ISCO-08), 2 digit level: 54 - Protective services workers",428
-oc2_isco08_61,"Occupation (ISCO-08), 2 digit level: 61 - Market-oriented skilled agricultural workers",429
-oc2_isco08_62,"Occupation (ISCO-08), 2 digit level: 62 - Market-oriented skilled forestry, fishery and hunting workers",430
-oc2_isco08_63,"Occupation (ISCO-08), 2 digit level: 63 - Subsistence farmers, fishers, hunters and gatherers",431
-oc2_isco08_71,"Occupation (ISCO-08), 2 digit level: 71 - Building and related trades workers, excluding electricians",432
-oc2_isco08_72,"Occupation (ISCO-08), 2 digit level: 72 - Metal, machinery and related trades workers",433
-oc2_isco08_73,"Occupation (ISCO-08), 2 digit level: 73 - Handicraft and printing workers",434
-oc2_isco08_74,"Occupation (ISCO-08), 2 digit level: 74 - Electrical and electronic trades workers",435
-oc2_isco08_75,"Occupation (ISCO-08), 2 digit level: 75 - Food processing, wood working, garment and other craft and related trades workers",436
-oc2_isco08_81,"Occupation (ISCO-08), 2 digit level: 81 - Stationary plant and machine operators",437
-oc2_isco08_82,"Occupation (ISCO-08), 2 digit level: 82 - Assemblers",438
-oc2_isco08_83,"Occupation (ISCO-08), 2 digit level: 83 - Drivers and mobile plant operators",439
-oc2_isco08_91,"Occupation (ISCO-08), 2 digit level: 91 - Cleaners and helpers",440
-oc2_isco08_92,"Occupation (ISCO-08), 2 digit level: 92 - Agricultural, forestry and fishery labourers",441
-oc2_isco08_93,"Occupation (ISCO-08), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",442
-oc2_isco08_94,"Occupation (ISCO-08), 2 digit level: 94 - Food preparation assistants",443
-oc2_isco08_95,"Occupation (ISCO-08), 2 digit level: 95 - Street and related sales and service workers",444
-oc2_isco08_96,"Occupation (ISCO-08), 2 digit level: 96 - Refuse workers and other elementary workers",445
-oc2_isco08_x,"Occupation (ISCO-08), 2 digit level: Not elsewhere classified",446
-oc2_isco88_total,"Occupation (ISCO-88), 2 digit level: Total",447
-oc2_isco88_01,"Occupation (ISCO-88), 2 digit level: 01 - Armed forces",448
-oc2_isco88_11,"Occupation (ISCO-88), 2 digit level: 11 - Legislators and senior officials",449
-oc2_isco88_12,"Occupation (ISCO-88), 2 digit level: 12 - Corporate managers",450
-oc2_isco88_13,"Occupation (ISCO-88), 2 digit level: 13 - General managers",451
-oc2_isco88_21,"Occupation (ISCO-88), 2 digit level: 21 - Physical, mathematical and engineering science professionals",452
-oc2_isco88_22,"Occupation (ISCO-88), 2 digit level: 22 - Life science and health professionals",453
-oc2_isco88_23,"Occupation (ISCO-88), 2 digit level: 23 - Teaching professionals",454
-oc2_isco88_24,"Occupation (ISCO-88), 2 digit level: 24 - Other professionals",455
-oc2_isco88_31,"Occupation (ISCO-88), 2 digit level: 31 - Physical and engineering science associate professionals",456
-oc2_isco88_32,"Occupation (ISCO-88), 2 digit level: 32 - Life science and health associate professionals",457
-oc2_isco88_33,"Occupation (ISCO-88), 2 digit level: 33 - Teaching associate professionals",458
-oc2_isco88_34,"Occupation (ISCO-88), 2 digit level: 34 - Other associate professionals",459
-oc2_isco88_41,"Occupation (ISCO-88), 2 digit level: 41 - Office clerks",460
-oc2_isco88_42,"Occupation (ISCO-88), 2 digit level: 42 - Customer services clerks",461
-oc2_isco88_51,"Occupation (ISCO-88), 2 digit level: 51 - Personal and protective services workers",462
-oc2_isco88_52,"Occupation (ISCO-88), 2 digit level: 52 - Models, salespersons and demonstrators",463
-oc2_isco88_61,"Occupation (ISCO-88), 2 digit level: 61 - Market-oriented skilled agricultural and fishery workers",464
-oc2_isco88_62,"Occupation (ISCO-88), 2 digit level: 62 - Subsistence agricultural and fishery workers",465
-oc2_isco88_71,"Occupation (ISCO-88), 2 digit level: 71 - Extraction and building trades workers",466
-oc2_isco88_72,"Occupation (ISCO-88), 2 digit level: 72 - Metal, machinery and related trades workers",467
-oc2_isco88_73,"Occupation (ISCO-88), 2 digit level: 73 - Precision, handicraft, printing and related trades workers",468
-oc2_isco88_74,"Occupation (ISCO-88), 2 digit level: 74 - Other craft and related trades workers",469
-oc2_isco88_81,"Occupation (ISCO-88), 2 digit level: 81 - Stationary-plant and related operators",470
-oc2_isco88_82,"Occupation (ISCO-88), 2 digit level: 82 - Machine operators and assemblers",471
-oc2_isco88_83,"Occupation (ISCO-88), 2 digit level: 83 - Drivers and mobile-plant operators",472
-oc2_isco88_91,"Occupation (ISCO-88), 2 digit level: 91 - Sales and services elementary occupations",473
-oc2_isco88_92,"Occupation (ISCO-88), 2 digit level: 92 - Agricultural, fishery and related labourers",474
-oc2_isco88_93,"Occupation (ISCO-88), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",475
-oc2_isco88_x,"Occupation (ISCO-88), 2 digit level: Not elsewhere classified",476
-gov_lvl_pse,Government level: Total public sector,477
-gov_lvl_gg,Government level: General government,478
-gov_lvl_ggcentral,Government level: General government - Central,479
-gov_lvl_ggregion,Government level: General government - Regional,480
-gov_lvl_gglocal,Government level: General government - Local,481
-gov_lvl_ggss,Government level: General government - Social security,482
-gov_lvl_pubcorp,Government level: Public corporations,483
-gov_lvl_prv,Government level: Private sector,484
-gov_lvl_x,Government level: Not classified,485
-gov_lvl_total,Government level: Total employment,486
-how_bands_total,Hour bands: Total,487
-how_bands_h00,Hour bands: No hours actually worked,488
-how_bands_h01_14,Hour bands: 01-14,489
-how_bands_h15_24,Hour bands: 15-24,490
-how_bands_h15_29,Hour bands: 15-29,491
-how_bands_hlt25,Hour bands: <25,492
-how_bands_h25_34,Hour bands: 25-34,493
-how_bands_h30_34,Hour bands: 30-34,494
-how_bands_h35_39,Hour bands: 35-39,495
-how_bands_h40_48,Hour bands: 40-48,496
-how_bands_hge40,Hour bands: 40+,497
-how_bands_hge49,Hour bands: 49+,498
-how_bands_hge50,Hour bands: 50+,499
-how_bands_hge60,Hour bands: 60+,500
-how_bands_vary,Hour bands: Hours vary,501
-how_bands_x,Hour bands: Not elsewhere classified,502
-cat_une_total,Type of unemployment: Total,503
-cat_une_pre,Type of unemployment: Unemployed previously employed,504
-cat_une_fjs,Type of unemployment: Unemployed seeking their first job,505
-cat_une_unk,Type of unemployment: Not elsewhere classified,506
-dur_details_total,Duration (Detailed): Total,507
-dur_details_mlt1,Duration (Detailed): Less than 1 month,508
-dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,509
-dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,510
-dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,511
-dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,512
-dur_details_mge24,Duration (Detailed): 24 months or more,513
-dur_details_x,Duration (Detailed): Not elsewhere classified,514
-dur_aggregate_total,Duration (Aggregate): Total,515
-dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,516
-dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,517
-dur_aggregate_mge12,Duration (Aggregate): 12 months or more,518
-dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,519
-qtl_decile_01,Decile: Decile 1,520
-qtl_decile_02,Decile: Decile 2,521
-qtl_decile_03,Decile: Decile 3,522
-qtl_decile_04,Decile: Decile 4,523
-qtl_decile_05,Decile: Decile 5,524
-qtl_decile_06,Decile: Decile 6,525
-qtl_decile_07,Decile: Decile 7,526
-qtl_decile_08,Decile: Decile 8,527
-qtl_decile_09,Decile: Decile 9,528
-qtl_decile_10,Decile: Decile 10,529
-inj_incapacity_total,Type of incapacity: Total,530
-inj_incapacity_prm,Type of incapacity: Permanent incapacity,531
-inj_incapacity_tmp,Type of incapacity: Temporary incapacity,532
-coi_component_gen,COICOP (Selected categories): General,533
-coi_component_gex,COICOP (Selected categories): General excluding actual and imputed rentals for housing,534
-coi_component_foo,COICOP (Selected categories): Food and non-alcoholic beverages,535
-coi_component_clo,COICOP (Selected categories): Clothing and footwear,536
-coi_component_egf,"COICOP (Selected categories): Electricity, gas and other fuels",537
-coi_component_hou,COICOP (Selected categories): Actual and imputed rentals for housing,538
-coi_coicop_cp01t12,COICOP2012: General - Individual consumption expenditure of households,539
-coi_coicop_cp01,COICOP2012: 1. Food and non-alcoholic beverages,540
-coi_coicop_cp02,"COICOP2012: 2. Alcoholic beverages, tobacco and narcotics",541
-coi_coicop_cp03,COICOP2012: 3. Clothing and footwear,542
-coi_coicop_cp04,"COICOP2012: 4. Housing, water, electricity, gas and other fuels",543
-coi_coicop_cp05,"COICOP2012: 5. Furnishings, household equipment and routine household maintenance",544
-coi_coicop_cp06,COICOP2012: 6. Health,545
-coi_coicop_cp07,COICOP2012: 7. Transport,546
-coi_coicop_cp08,COICOP2012: 8. Communication,547
-coi_coicop_cp09,COICOP2012: 9. Recreation and culture,548
-coi_coicop_cp10,COICOP2012: 10. Education,549
-coi_coicop_cp11,COICOP2012: 11. Restaurants and hotels,550
-coi_coicop_cp12,COICOP2012: 12. Miscellaneous goods and services,551
-job_fte_fte40,Full-time equivalence: Based on 40 hours per week,552
-job_fte_fte48,Full-time equivalence: Based on 48 hours per week,553
-soc_contig_total,Contingency: Population covered by at least one social protection benefit,554
-soc_contig_pension,Contingency: Persons above retirement age receiving a pension,555
-soc_contig_disab,Contingency: Persons with severe disabilities collecting disability social protection benefits,556
-soc_contig_une,Contingency: Unemployed receiving unemployment benefits,557
-soc_contig_mat,Contingency: Mothers with newborns receiving maternity benefits,558
-soc_contig_inj,Contingency: Employed covered in the event of work injury,559
-soc_contig_child,Contingency: Children/households receiving child/family cash benefits,560
-soc_contig_poor,Contingency: Poor persons covered by social protection systems,561
-soc_contig_vuln,Contingency: Vulnerable persons covered by social assistance,562
-mig_status_total,Migrant status: Total,563
-mig_status_migrant,Migrant status: Migrants,564
-mig_status_nonmig,Migrant status: Non migrants,565
-mig_status_migranteu,Migrant status: EU Migrants,566
-mig_status_migrantnoteu,Migrant status: Migrants excluding EU,567
-mig_status_x,Migrant status: Unknown,568
-cur_type_lcu,Currency: Local currency,569
-cur_type_ppp,Currency: 2017 PPP $,570
-cur_type_usd,Currency: U.S. dollars,571
-cbr_brt_total,Country of birth: Total,572
-cct_ctz_total,Country of citizenship: Total,573
-cbr_brt_afg,Country of birth: Afghanistan,574
-cct_ctz_afg,Country of citizenship: Afghanistan,575
-cbr_brt_alb,Country of birth: Albania,576
-cct_ctz_alb,Country of citizenship: Albania,577
-cct_ctz_dza,Country of citizenship: Algeria,578
-cbr_brt_dza,Country of birth: Algeria,579
-cct_ctz_asm,Country of citizenship: American Samoa,580
-cct_ctz_and,Country of citizenship: Andorra,581
-cbr_brt_ago,Country of birth: Angola,582
-cct_ctz_ago,Country of citizenship: Angola,583
-cct_ctz_arg,Country of citizenship: Argentina,584
-cbr_brt_arg,Country of birth: Argentina,585
-cbr_brt_arm,Country of birth: Armenia,586
-cct_ctz_arm,Country of citizenship: Armenia,587
-cct_ctz_aus,Country of citizenship: Australia,588
-cbr_brt_aus,Country of birth: Australia,589
-cct_ctz_aut,Country of citizenship: Austria,590
-cbr_brt_aut,Country of birth: Austria,591
-cct_ctz_aze,Country of citizenship: Azerbaijan,592
-cbr_brt_aze,Country of birth: Azerbaijan,593
-cct_ctz_bhs,Country of citizenship: Bahamas,594
-cbr_brt_bhs,Country of birth: Bahamas,595
-cct_ctz_bhr,Country of citizenship: Bahrain,596
-cbr_brt_bhr,Country of birth: Bahrain,597
-cct_ctz_bgd,Country of citizenship: Bangladesh,598
-cbr_brt_bgd,Country of birth: Bangladesh,599
-cct_ctz_brb,Country of citizenship: Barbados,600
-cbr_brt_blr,Country of birth: Belarus,601
-cct_ctz_blr,Country of citizenship: Belarus,602
-cct_ctz_bel,Country of citizenship: Belgium,603
-cbr_brt_bel,Country of birth: Belgium,604
-cct_ctz_blz,Country of citizenship: Belize,605
-cbr_brt_blz,Country of birth: Belize,606
-cct_ctz_ben,Country of citizenship: Benin,607
-cbr_brt_ben,Country of birth: Benin,608
-cct_ctz_bmu,Country of citizenship: Bermuda,609
-cbr_brt_btn,Country of birth: Bhutan,610
-cct_ctz_btn,Country of citizenship: Bhutan,611
-cct_ctz_bol,Country of citizenship: Bolivia,612
-cbr_brt_bol,Country of birth: Bolivia,613
-cct_ctz_bih,Country of citizenship: Bosnia and Herzegovina,614
-cbr_brt_bih,Country of birth: Bosnia and Herzegovina,615
-cct_ctz_bwa,Country of citizenship: Botswana,616
-cbr_brt_bwa,Country of birth: Botswana,617
-cct_ctz_bra,Country of citizenship: Brazil,618
-cbr_brt_bra,Country of birth: Brazil,619
-cct_ctz_vgb,Country of citizenship: British Virgin Islands,620
-cct_ctz_brn,Country of citizenship: Brunei Darussalam,621
-cbr_brt_brn,Country of birth: Brunei Darussalam,622
-cct_ctz_bgr,Country of citizenship: Bulgaria,623
-cbr_brt_bgr,Country of birth: Bulgaria,624
-cct_ctz_bfa,Country of citizenship: Burkina Faso,625
-cbr_brt_bfa,Country of birth: Burkina Faso,626
-cct_ctz_bdi,Country of citizenship: Burundi,627
-cbr_brt_bdi,Country of birth: Burundi,628
-cct_ctz_khm,Country of citizenship: Cambodia,629
-cbr_brt_khm,Country of birth: Cambodia,630
-cct_ctz_cmr,Country of citizenship: Cameroon,631
-cbr_brt_cmr,Country of birth: Cameroon,632
-cbr_brt_can,Country of birth: Canada,633
-cct_ctz_can,Country of citizenship: Canada,634
-cbr_brt_cpv,Country of birth: Cape Verde,635
-cct_ctz_cpv,Country of citizenship: Cape Verde,636
-cct_ctz_cym,Country of citizenship: Cayman Islands,637
-cct_ctz_caf,Country of citizenship: Central African Republic,638
-cct_ctz_tcd,Country of citizenship: Chad,639
-cct_ctz_cha,Country of citizenship: Channel Islands,640
-cct_ctz_chl,Country of citizenship: Chile,641
-cbr_brt_chl,Country of birth: Chile,642
-cct_ctz_chn,Country of citizenship: China,643
-cbr_brt_chn,Country of birth: China,644
-cct_ctz_col,Country of citizenship: Colombia,645
-cbr_brt_col,Country of birth: Colombia,646
-cct_ctz_com,Country of citizenship: Comoros,647
-cbr_brt_com,Country of birth: Comoros,648
-cct_ctz_cog,Country of citizenship: Congo,649
-cbr_brt_cog,Country of birth: Congo,650
-cbr_brt_cod,"Country of birth: Congo, Democratic Republic of the",651
-cct_ctz_cod,"Country of citizenship: Congo, Democratic Republic of the",652
-cct_ctz_cok,Country of citizenship: Cook Islands,653
-cct_ctz_cri,Country of citizenship: Costa Rica,654
-cbr_brt_cri,Country of birth: Costa Rica,655
-cct_ctz_hrv,Country of citizenship: Croatia,656
-cbr_brt_hrv,Country of birth: Croatia,657
-cct_ctz_cub,Country of citizenship: Cuba,658
-cbr_brt_cub,Country of birth: Cuba,659
-cct_ctz_cuw,Country of citizenship: Curaçao,660
-cct_ctz_cyp,Country of citizenship: Cyprus,661
-cbr_brt_cyp,Country of birth: Cyprus,662
-cct_ctz_cze,Country of citizenship: Czech Republic,663
-cbr_brt_cze,Country of birth: Czech Republic,664
-cct_ctz_civ,Country of citizenship: Côte d'Ivoire,665
-cbr_brt_civ,Country of birth: Côte d'Ivoire,666
-cbr_brt_dnk,Country of birth: Denmark,667
-cct_ctz_dnk,Country of citizenship: Denmark,668
-cct_ctz_dji,Country of citizenship: Djibouti,669
-cbr_brt_dji,Country of birth: Djibouti,670
-cct_ctz_dma,Country of citizenship: Dominica,671
-cct_ctz_dom,Country of citizenship: Dominican Republic,672
-cbr_brt_dom,Country of birth: Dominican Republic,673
-cct_ctz_ecu,Country of citizenship: Ecuador,674
-cbr_brt_ecu,Country of birth: Ecuador,675
-cct_ctz_egy,Country of citizenship: Egypt,676
-cbr_brt_egy,Country of birth: Egypt,677
-cbr_brt_slv,Country of birth: El Salvador,678
-cct_ctz_slv,Country of citizenship: El Salvador,679
-cct_ctz_eri,Country of citizenship: Eritrea,680
-cbr_brt_eri,Country of birth: Eritrea,681
-cct_ctz_est,Country of citizenship: Estonia,682
-cbr_brt_est,Country of birth: Estonia,683
-cct_ctz_eth,Country of citizenship: Ethiopia,684
-cct_ctz_flk,Country of citizenship: Falkland Islands (Malvinas),685
-cct_ctz_fji,Country of citizenship: Fiji,686
-cct_ctz_fin,Country of citizenship: Finland,687
-cbr_brt_fin,Country of birth: Finland,688
-cct_ctz_fra,Country of citizenship: France,689
-cbr_brt_fra,Country of birth: France,690
-cct_ctz_pyf,Country of citizenship: French Polynesia,691
-cct_ctz_gab,Country of citizenship: Gabon,692
-cbr_brt_gab,Country of birth: Gabon,693
-cct_ctz_gmb,Country of citizenship: Gambia,694
-cbr_brt_gmb,Country of birth: Gambia,695
-cbr_brt_geo,Country of birth: Georgia,696
-cct_ctz_geo,Country of citizenship: Georgia,697
-cct_ctz_deu,Country of citizenship: Germany,698
-cbr_brt_deu,Country of birth: Germany,699
-cct_ctz_gha,Country of citizenship: Ghana,700
-cbr_brt_gha,Country of birth: Ghana,701
-cct_ctz_gib,Country of citizenship: Gibraltar,702
-cbr_brt_gib,Country of birth: Gibraltar,703
-cct_ctz_grc,Country of citizenship: Greece,704
-cbr_brt_grc,Country of birth: Greece,705
-cct_ctz_grl,Country of citizenship: Greenland,706
-cct_ctz_grd,Country of citizenship: Grenada,707
-cct_ctz_gum,Country of citizenship: Guam,708
-cct_ctz_gtm,Country of citizenship: Guatemala,709
-cbr_brt_gtm,Country of birth: Guatemala,710
-cct_ctz_gin,Country of citizenship: Guinea,711
-cbr_brt_gin,Country of birth: Guinea,712
-cct_ctz_gnb,Country of citizenship: Guinea-Bissau,713
-cbr_brt_gnb,Country of birth: Guinea-Bissau,714
-cct_ctz_guy,Country of citizenship: Guyana,715
-cbr_brt_hti,Country of birth: Haiti,716
-cct_ctz_hti,Country of citizenship: Haiti,717
-cct_ctz_hnd,Country of citizenship: Honduras,718
-cbr_brt_hnd,Country of birth: Honduras,719
-cct_ctz_hkg,"Country of citizenship: Hong Kong, China",720
-cbr_brt_hkg,"Country of birth: Hong Kong, China",721
-cct_ctz_hun,Country of citizenship: Hungary,722
-cbr_brt_hun,Country of birth: Hungary,723
-cct_ctz_isl,Country of citizenship: Iceland,724
-cct_ctz_ind,Country of citizenship: India,725
-cbr_brt_ind,Country of birth: India,726
-cct_ctz_idn,Country of citizenship: Indonesia,727
-cbr_brt_idn,Country of birth: Indonesia,728
-cct_ctz_irn,"Country of citizenship: Iran, Islamic Rep. of",729
-cbr_brt_irn,"Country of birth: Iran, Islamic Rep. of",730
-cct_ctz_irq,Country of citizenship: Iraq,731
-cbr_brt_irq,Country of birth: Iraq,732
-cct_ctz_irl,Country of citizenship: Ireland,733
-cbr_brt_irl,Country of birth: Ireland,734
-cct_ctz_isr,Country of citizenship: Israel,735
-cbr_brt_isr,Country of birth: Israel,736
-cct_ctz_ita,Country of citizenship: Italy,737
-cbr_brt_ita,Country of birth: Italy,738
-cct_ctz_jam,Country of citizenship: Jamaica,739
-cbr_brt_jam,Country of birth: Jamaica,740
-cbr_brt_jpn,Country of birth: Japan,741
-cct_ctz_jpn,Country of citizenship: Japan,742
-cct_ctz_jor,Country of citizenship: Jordan,743
-cbr_brt_jor,Country of birth: Jordan,744
-cct_ctz_kaz,Country of citizenship: Kazakhstan,745
-cbr_brt_kaz,Country of birth: Kazakhstan,746
-cct_ctz_ken,Country of citizenship: Kenya,747
-cbr_brt_ken,Country of birth: Kenya,748
-cct_ctz_kir,Country of citizenship: Kiribati,749
-cbr_brt_prk,"Country of birth: Korea, Dem. People's Rep. of",750
-cct_ctz_prk,"Country of citizenship: Korea, Dem. People's Rep. of",751
-cct_ctz_kor,"Country of citizenship: Korea, Republic of",752
-cbr_brt_kor,"Country of birth: Korea, Republic of",753
-cct_ctz_kos,Country of citizenship: Kosovo,754
-cbr_brt_kos,Country of birth: Kosovo,755
-cct_ctz_kwt,Country of citizenship: Kuwait,756
-cct_ctz_kgz,Country of citizenship: Kyrgyzstan,757
-cbr_brt_kgz,Country of birth: Kyrgyzstan,758
-cbr_brt_lao,Country of birth: Lao People's Dem. Rep.,759
-cct_ctz_lao,Country of citizenship: Lao People's Dem. Rep.,760
-cct_ctz_lva,Country of citizenship: Latvia,761
-cbr_brt_lva,Country of birth: Latvia,762
-cct_ctz_lbn,Country of citizenship: Lebanon,763
-cbr_brt_lbn,Country of birth: Lebanon,764
-cct_ctz_lso,Country of citizenship: Lesotho,765
-cbr_brt_lbr,Country of birth: Liberia,766
-cct_ctz_lbr,Country of citizenship: Liberia,767
-cbr_brt_lby,Country of birth: Libyan Arab Jamahiriya,768
-cct_ctz_lby,Country of citizenship: Libyan Arab Jamahiriya,769
-cct_ctz_lie,Country of citizenship: Liechtenstein,770
-cbr_brt_ltu,Country of birth: Lithuania,771
-cct_ctz_ltu,Country of citizenship: Lithuania,772
-cbr_brt_lux,Country of birth: Luxembourg,773
-cct_ctz_lux,Country of citizenship: Luxembourg,774
-cbr_brt_mac,"Country of birth: Macau, China",775
-cct_ctz_mac,"Country of citizenship: Macau, China",776
-cbr_brt_mkd,"Country of birth: Macedonia, The former Yugoslav Rep. of",777
-cct_ctz_mkd,"Country of citizenship: Macedonia, The former Yugoslav Rep. of",778
-cbr_brt_mdg,Country of birth: Madagascar,779
-cct_ctz_mdg,Country of citizenship: Madagascar,780
-cct_ctz_mwi,Country of citizenship: Malawi,781
-cbr_brt_mys,Country of birth: Malaysia,782
-cct_ctz_mys,Country of citizenship: Malaysia,783
-cbr_brt_mdv,Country of birth: Maldives,784
-cct_ctz_mdv,Country of citizenship: Maldives,785
-cbr_brt_mli,Country of birth: Mali,786
-cct_ctz_mli,Country of citizenship: Mali,787
-cct_ctz_mlt,Country of citizenship: Malta,788
-cct_ctz_mhl,Country of citizenship: Marshall Islands,789
-cct_ctz_mrt,Country of citizenship: Mauritania,790
-cbr_brt_mrt,Country of birth: Mauritania,791
-cct_ctz_mus,Country of citizenship: Mauritius,792
-cbr_brt_mex,Country of birth: Mexico,793
-cct_ctz_mex,Country of citizenship: Mexico,794
-cbr_brt_mda,"Country of birth: Moldova, Republic of",795
-cct_ctz_mda,"Country of citizenship: Moldova, Republic of",796
-cct_ctz_mco,Country of citizenship: Monaco,797
-cbr_brt_mng,Country of birth: Mongolia,798
-cct_ctz_mng,Country of citizenship: Mongolia,799
-cbr_brt_mne,Country of birth: Montenegro,800
-cct_ctz_mne,Country of citizenship: Montenegro,801
-cct_ctz_msr,Country of citizenship: Montserrat,802
-cbr_brt_mar,Country of birth: Morocco,803
-cct_ctz_mar,Country of citizenship: Morocco,804
-cbr_brt_moz,Country of birth: Mozambique,805
-cct_ctz_moz,Country of citizenship: Mozambique,806
-cct_ctz_mmr,Country of citizenship: Myanmar,807
-cbr_brt_mmr,Country of birth: Myanmar,808
-cct_ctz_nam,Country of citizenship: Namibia,809
-cct_ctz_nru,Country of citizenship: Nauru,810
-cbr_brt_npl,Country of birth: Nepal,811
-cct_ctz_npl,Country of citizenship: Nepal,812
-cbr_brt_nld,Country of birth: Netherlands,813
-cct_ctz_nld,Country of citizenship: Netherlands,814
-cct_ctz_ncl,Country of citizenship: New Caledonia,815
-cbr_brt_nzl,Country of birth: New Zealand,816
-cct_ctz_nzl,Country of citizenship: New Zealand,817
-cbr_brt_nic,Country of birth: Nicaragua,818
-cct_ctz_nic,Country of citizenship: Nicaragua,819
-cbr_brt_ner,Country of birth: Niger,820
-cct_ctz_ner,Country of citizenship: Niger,821
-cbr_brt_nga,Country of birth: Nigeria,822
-cct_ctz_nga,Country of citizenship: Nigeria,823
-cct_ctz_niu,Country of citizenship: Niue,824
-cct_ctz_nfk,Country of citizenship: Norfolk Island,825
-cbr_brt_nor,Country of birth: Norway,826
-cct_ctz_nor,Country of citizenship: Norway,827
-cbr_brt_pse,Country of birth: West Bank and Gaza Strip,828
-cct_ctz_pse,Country of citizenship: West Bank and Gaza Strip,829
-cct_ctz_omn,Country of citizenship: Oman,830
-cbr_brt_pak,Country of birth: Pakistan,831
-cct_ctz_pak,Country of citizenship: Pakistan,832
-cbr_brt_pan,Country of birth: Panama,833
-cct_ctz_pan,Country of citizenship: Panama,834
-cct_ctz_png,Country of citizenship: Papua New Guinea,835
-cbr_brt_pry,Country of birth: Paraguay,836
-cct_ctz_pry,Country of citizenship: Paraguay,837
-cbr_brt_per,Country of birth: Peru,838
-cct_ctz_per,Country of citizenship: Peru,839
-cbr_brt_phl,Country of birth: Philippines,840
-cct_ctz_phl,Country of citizenship: Philippines,841
-cbr_brt_pol,Country of birth: Poland,842
-cct_ctz_pol,Country of citizenship: Poland,843
-cbr_brt_prt,Country of birth: Portugal,844
-cct_ctz_prt,Country of citizenship: Portugal,845
-cct_ctz_pri,Country of citizenship: Puerto Rico,846
-cct_ctz_qat,Country of citizenship: Qatar,847
-cbr_brt_rou,Country of birth: Romania,848
-cct_ctz_rou,Country of citizenship: Romania,849
-cbr_brt_rus,Country of birth: Russian Federation,850
-cct_ctz_rus,Country of citizenship: Russian Federation,851
-cct_ctz_rwa,Country of citizenship: Rwanda,852
-cct_ctz_reu,Country of citizenship: Réunion,853
-cct_ctz_kna,Country of citizenship: Saint Kitts and Nevis,854
-cct_ctz_wsm,Country of citizenship: Samoa,855
-cct_ctz_smr,Country of citizenship: San Marino,856
-cbr_brt_stp,Country of birth: Sao Tome and Principe,857
-cbr_brt_sau,Country of birth: Saudi Arabia,858
-cct_ctz_sau,Country of citizenship: Saudi Arabia,859
-cbr_brt_sen,Country of birth: Senegal,860
-cct_ctz_sen,Country of citizenship: Senegal,861
-cbr_brt_srb,Country of birth: Serbia,862
-cct_ctz_srb,Country of citizenship: Serbia,863
-cct_ctz_syc,Country of citizenship: Seychelles,864
-cbr_brt_sle,Country of birth: Sierra Leone,865
-cct_ctz_sle,Country of citizenship: Sierra Leone,866
-cbr_brt_sgp,Country of birth: Singapore,867
-cct_ctz_sgp,Country of citizenship: Singapore,868
-cbr_brt_svk,Country of birth: Slovakia,869
-cct_ctz_svk,Country of citizenship: Slovakia,870
-cbr_brt_svn,Country of birth: Slovenia,871
-cct_ctz_svn,Country of citizenship: Slovenia,872
-cct_ctz_slb,Country of citizenship: Solomon Islands,873
-cbr_brt_som,Country of birth: Somalia,874
-cct_ctz_som,Country of citizenship: Somalia,875
-cbr_brt_zaf,Country of birth: South Africa,876
-cct_ctz_zaf,Country of citizenship: South Africa,877
-cct_ctz_ssd,"Country of citizenship: South Sudan, The Republic of",878
-cct_ctz_esp,Country of citizenship: Spain,879
-cbr_brt_esp,Country of birth: Spain,880
-cct_ctz_lka,Country of citizenship: Sri Lanka,881
-cbr_brt_lka,Country of birth: Sri Lanka,882
-cbr_brt_sdn,"Country of birth: Sudan, The Republic of",883
-cct_ctz_sdn,"Country of citizenship: Sudan, The Republic of",884
-cct_ctz_sur,Country of citizenship: Suriname,885
-cct_ctz_swz,Country of citizenship: Swaziland,886
-cbr_brt_swe,Country of birth: Sweden,887
-cct_ctz_swe,Country of citizenship: Sweden,888
-cct_ctz_che,Country of citizenship: Switzerland,889
-cbr_brt_che,Country of birth: Switzerland,890
-cbr_brt_syr,Country of birth: Syrian Arab Republic,891
-cct_ctz_syr,Country of citizenship: Syrian Arab Republic,892
-cbr_brt_twn,"Country of birth: Taiwan, China",893
-cct_ctz_twn,"Country of citizenship: Taiwan, China",894
-cbr_brt_tjk,Country of birth: Tajikistan,895
-cct_ctz_tjk,Country of citizenship: Tajikistan,896
-cbr_brt_tza,"Country of birth: Tanzania, United Republic of",897
-cct_ctz_tza,"Country of citizenship: Tanzania, United Republic of",898
-cbr_brt_tha,Country of birth: Thailand,899
-cct_ctz_tha,Country of citizenship: Thailand,900
-cbr_brt_tls,Country of birth: Timor-Leste,901
-cct_ctz_tls,Country of citizenship: Timor-Leste,902
-cbr_brt_tgo,Country of birth: Togo,903
-cct_ctz_tgo,Country of citizenship: Togo,904
-cct_ctz_tkl,Country of citizenship: Tokelau,905
-cct_ctz_ton,Country of citizenship: Tonga,906
-cct_ctz_tto,Country of citizenship: Trinidad and Tobago,907
-cbr_brt_tun,Country of birth: Tunisia,908
-cct_ctz_tun,Country of citizenship: Tunisia,909
-cbr_brt_tur,Country of birth: Turkey,910
-cct_ctz_tur,Country of citizenship: Turkey,911
-cbr_brt_tkm,Country of birth: Turkmenistan,912
-cct_ctz_tkm,Country of citizenship: Turkmenistan,913
-cct_ctz_tuv,Country of citizenship: Tuvalu,914
-cbr_brt_uga,Country of birth: Uganda,915
-cct_ctz_uga,Country of citizenship: Uganda,916
-cbr_brt_ukr,Country of birth: Ukraine,917
-cct_ctz_ukr,Country of citizenship: Ukraine,918
-cct_ctz_are,Country of citizenship: United Arab Emirates,919
-cbr_brt_are,Country of birth: United Arab Emirates,920
-cct_ctz_gbr,Country of citizenship: United Kingdom,921
-cbr_brt_gbr,Country of birth: United Kingdom,922
-cbr_brt_usa,Country of birth: United States,923
-cct_ctz_usa,Country of citizenship: United States,924
-cbr_brt_usacan,Country of birth: United States and Canada,925
-cbr_brt_ury,Country of birth: Uruguay,926
-cct_ctz_ury,Country of citizenship: Uruguay,927
-cbr_brt_uzb,Country of birth: Uzbekistan,928
-cct_ctz_uzb,Country of citizenship: Uzbekistan,929
-cct_ctz_vut,Country of citizenship: Vanuatu,930
-cbr_brt_ven,"Country of birth: Venezuela, Bolivarian Rep. of",931
-cct_ctz_ven,"Country of citizenship: Venezuela, Bolivarian Rep. of",932
-cbr_brt_vnm,Country of birth: Viet Nam,933
-cct_ctz_vnm,Country of citizenship: Viet Nam,934
-cct_ctz_wlf,Country of citizenship: Wallis and Futuna Islands,935
-cct_ctz_esh,Country of citizenship: Western Sahara,936
-cct_ctz_yem,Country of citizenship: Yemen,937
-cbr_brt_zmb,Country of birth: Zambia,938
-cct_ctz_zmb,Country of citizenship: Zambia,939
-cct_ctz_zwe,Country of citizenship: Zimbabwe,940
-cct_ctz_asia,Country of citizenship: Asia,941
-cbr_brt_asia,Country of birth: Asia,942
-cct_ctz_baltic,Country of citizenship: Baltics,943
-cct_ctz_cis,Country of citizenship: Commonwealth of Independent States,944
-cbr_brt_cis,Country of birth: Commonwealth of Independent States,945
-cct_ctz_eur,Country of citizenship: Europe,946
-cbr_brt_eur,Country of birth: Europe,947
-cct_ctz_amen,Country of citizenship: North America,948
-cct_ctz_oce,Country of citizenship: Oceania,949
-cct_ctz_xasia,Country of citizenship: Rest of Asia,950
-cbr_brt_x,Country of birth: Other countries,951
-cct_ctz_x,Country of citizenship: Other countries,952
-cbr_bir_total,Place of birth: Total,953
-cct_cit_total,Citizenship: Total,954
-cbr_bir_native,Place of birth: Native-born,955
-cct_cit_citizen,Citizenship: Citizens,956
-cbr_bir_foreign,Place of birth: Foreign-born,957
-cct_cit_noncit,Citizenship: Non-citizens,958
-cbr_bir_x,Place of birth: Status unknown,959
-cct_cit_x,Citizenship: Status unknown,960
-hht_aggregate_total,Household type: Total,961
-hht_aggregate_o,Household type: One person,962
-hht_aggregate_c,Household type: Couple without children,963
-hht_aggregate_k,Household type: Couple with children,964
-hht_aggregate_l,Household type: Lone parent,965
-hht_aggregate_e,Household type: Extended family,966
-crs_res_total,Residence: Total,967
-crs_res_arg,Residence: Argentina,968
-crs_res_aus,Residence: Australia,969
-crs_res_ben,Residence: Benin,970
-crs_res_bfa,Residence: Burkina Faso,971
-crs_res_can,Residence: Canada,972
-crs_res_chn,Residence: China,973
-crs_res_cze,Residence: Czech Republic,974
-crs_res_civ,Residence: Côte d'Ivoire,975
-crs_res_fra,Residence: France,976
-crs_res_gmb,Residence: Gambia,977
-crs_res_deu,Residence: Germany,978
-crs_res_gha,Residence: Ghana,979
-crs_res_gnb,Residence: Guinea-Bissau,980
-crs_res_kaz,Residence: Kazakhstan,981
-crs_res_kwt,Residence: Kuwait,982
-crs_res_lbr,Residence: Liberia,983
-crs_res_mys,Residence: Malaysia,984
-crs_res_nzl,Residence: New Zealand,985
-crs_res_nga,Residence: Nigeria,986
-crs_res_omn,Residence: Oman,987
-crs_res_qat,Residence: Qatar,988
-crs_res_rus,Residence: Russian Federation,989
-crs_res_sau,Residence: Saudi Arabia,990
-crs_res_sen,Residence: Senegal,991
-crs_res_sgp,Residence: Singapore,992
-crs_res_tha,Residence: Thailand,993
-crs_res_ukr,Residence: Ukraine,994
-crs_res_are,Residence: United Arab Emirates,995
-crs_res_usa,Residence: United States,996
-crs_res_ven,"Residence: Venezuela, Bolivarian Rep. of",997
-crs_res_cis,Residence: Commonwealth of Independent States,998
-crs_res_usacan,Residence: United States and Canada,999
-crs_res_x,Residence: Other countries,1000
-cpr_prv_total,Previous residence: Total,1001
-cpr_prv_alb,Previous residence: Albania,1002
-cpr_prv_dza,Previous residence: Algeria,1003
-cpr_prv_asm,Previous residence: American Samoa,1004
-cpr_prv_arg,Previous residence: Argentina,1005
-cpr_prv_aus,Previous residence: Australia,1006
-cpr_prv_aut,Previous residence: Austria,1007
-cpr_prv_blr,Previous residence: Belarus,1008
-cpr_prv_bel,Previous residence: Belgium,1009
-cpr_prv_bol,Previous residence: Bolivia,1010
-cpr_prv_bih,Previous residence: Bosnia and Herzegovina,1011
-cpr_prv_bra,Previous residence: Brazil,1012
-cpr_prv_brn,Previous residence: Brunei Darussalam,1013
-cpr_prv_bgr,Previous residence: Bulgaria,1014
-cpr_prv_can,Previous residence: Canada,1015
-cpr_prv_chl,Previous residence: Chile,1016
-cpr_prv_chn,Previous residence: China,1017
-cpr_prv_col,Previous residence: Colombia,1018
-cpr_prv_cod,"Previous residence: Congo, Democratic Republic of the",1019
-cpr_prv_hrv,Previous residence: Croatia,1020
-cpr_prv_cub,Previous residence: Cuba,1021
-cpr_prv_cyp,Previous residence: Cyprus,1022
-cpr_prv_cze,Previous residence: Czech Republic,1023
-cpr_prv_civ,Previous residence: Côte d'Ivoire,1024
-cpr_prv_dnk,Previous residence: Denmark,1025
-cpr_prv_dji,Previous residence: Djibouti,1026
-cpr_prv_dom,Previous residence: Dominican Republic,1027
-cpr_prv_ecu,Previous residence: Ecuador,1028
-cpr_prv_est,Previous residence: Estonia,1029
-cpr_prv_fin,Previous residence: Finland,1030
-cpr_prv_fra,Previous residence: France,1031
-cpr_prv_deu,Previous residence: Germany,1032
-cpr_prv_de2,"Previous residence: Germany, Fed. Rep. of before 3.10.1990",1033
-cpr_prv_gib,Previous residence: Gibraltar,1034
-cpr_prv_grc,Previous residence: Greece,1035
-cpr_prv_hun,Previous residence: Hungary,1036
-cpr_prv_isl,Previous residence: Iceland,1037
-cpr_prv_ind,Previous residence: India,1038
-cpr_prv_irl,Previous residence: Ireland,1039
-cpr_prv_isr,Previous residence: Israel,1040
-cpr_prv_ita,Previous residence: Italy,1041
-cpr_prv_jpn,Previous residence: Japan,1042
-cpr_prv_kir,Previous residence: Kiribati,1043
-cpr_prv_kor,"Previous residence: Korea, Republic of",1044
-cpr_prv_kos,Previous residence: Kosovo,1045
-cpr_prv_kgz,Previous residence: Kyrgyzstan,1046
-cpr_prv_lbr,Previous residence: Liberia,1047
-cpr_prv_lux,Previous residence: Luxembourg,1048
-cpr_prv_mkd,"Previous residence: Macedonia, The former Yugoslav Rep. of",1049
-cpr_prv_mys,Previous residence: Malaysia,1050
-cpr_prv_mli,Previous residence: Mali,1051
-cpr_prv_mlt,Previous residence: Malta,1052
-cpr_prv_mex,Previous residence: Mexico,1053
-cpr_prv_mda,"Previous residence: Moldova, Republic of",1054
-cpr_prv_mar,Previous residence: Morocco,1055
-cpr_prv_nld,Previous residence: Netherlands,1056
-cpr_prv_ant,Previous residence: Netherlands Antilles,1057
-cpr_prv_nzl,Previous residence: New Zealand,1058
-cpr_prv_nor,Previous residence: Norway,1059
-cpr_prv_png,Previous residence: Papua New Guinea,1060
-cpr_prv_per,Previous residence: Peru,1061
-cpr_prv_phl,Previous residence: Philippines,1062
-cpr_prv_prt,Previous residence: Portugal,1063
-cpr_prv_rus,Previous residence: Russian Federation,1064
-cpr_prv_rwa,Previous residence: Rwanda,1065
-cpr_prv_sau,Previous residence: Saudi Arabia,1066
-cpr_prv_sen,Previous residence: Senegal,1067
-cpr_prv_srb,Previous residence: Serbia,1068
-cpr_prv_sle,Previous residence: Sierra Leone,1069
-cpr_prv_sgp,Previous residence: Singapore,1070
-cpr_prv_svk,Previous residence: Slovakia,1071
-cpr_prv_svn,Previous residence: Slovenia,1072
-cpr_prv_zaf,Previous residence: South Africa,1073
-cpr_prv_esp,Previous residence: Spain,1074
-cpr_prv_sdn,"Previous residence: Sudan, The Republic of",1075
-cpr_prv_swe,Previous residence: Sweden,1076
-cpr_prv_che,Previous residence: Switzerland,1077
-cpr_prv_tha,Previous residence: Thailand,1078
-cpr_prv_ton,Previous residence: Tonga,1079
-cpr_prv_tun,Previous residence: Tunisia,1080
-cpr_prv_tur,Previous residence: Turkey,1081
-cpr_prv_ukr,Previous residence: Ukraine,1082
-cpr_prv_are,Previous residence: United Arab Emirates,1083
-cpr_prv_gbr,Previous residence: United Kingdom,1084
-cpr_prv_usa,Previous residence: United States,1085
-cpr_prv_uzb,Previous residence: Uzbekistan,1086
-cpr_prv_vut,Previous residence: Vanuatu,1087
-cpr_prv_ven,"Previous residence: Venezuela, Bolivarian Rep. of",1088
-cpr_prv_yem,Previous residence: Yemen,1089
-cpr_prv_eur,Previous residence: Europe,1090
-cpr_prv_usacan,Previous residence: United States and Canada,1091
-cpr_prv_x,Previous residence: Other countries,1092
-cds_des_total,Destination: Total,1093
-cds_des_aus,Destination: Australia,1094
-cds_des_aut,Destination: Austria,1095
-cds_des_bhr,Destination: Bahrain,1096
-cds_des_blr,Destination: Belarus,1097
-cds_des_ben,Destination: Benin,1098
-cds_des_bih,Destination: Bosnia and Herzegovina,1099
-cds_des_bfa,Destination: Burkina Faso,1100
-cds_des_can,Destination: Canada,1101
-cds_des_chn,Destination: China,1102
-cds_des_hrv,Destination: Croatia,1103
-cds_des_cze,Destination: Czech Republic,1104
-cds_des_civ,Destination: Côte d'Ivoire,1105
-cds_des_ecu,Destination: Ecuador,1106
-cds_des_fra,Destination: France,1107
-cds_des_gmb,Destination: Gambia,1108
-cds_des_deu,Destination: Germany,1109
-cds_des_gha,Destination: Ghana,1110
-cds_des_gnb,Destination: Guinea-Bissau,1111
-cds_des_hkg,"Destination: Hong Kong, China",1112
-cds_des_ind,Destination: India,1113
-cds_des_irl,Destination: Ireland,1114
-cds_des_isr,Destination: Israel,1115
-cds_des_ita,Destination: Italy,1116
-cds_des_jpn,Destination: Japan,1117
-cds_des_kaz,Destination: Kazakhstan,1118
-cds_des_kor,"Destination: Korea, Republic of",1119
-cds_des_kwt,Destination: Kuwait,1120
-cds_des_lbr,Destination: Liberia,1121
-cds_des_lux,Destination: Luxembourg,1122
-cds_des_mys,Destination: Malaysia,1123
-cds_des_nld,Destination: Netherlands,1124
-cds_des_nzl,Destination: New Zealand,1125
-cds_des_nga,Destination: Nigeria,1126
-cds_des_omn,Destination: Oman,1127
-cds_des_pol,Destination: Poland,1128
-cds_des_qat,Destination: Qatar,1129
-cds_des_rou,Destination: Romania,1130
-cds_des_rus,Destination: Russian Federation,1131
-cds_des_sau,Destination: Saudi Arabia,1132
-cds_des_sen,Destination: Senegal,1133
-cds_des_srb,Destination: Serbia,1134
-cds_des_sgp,Destination: Singapore,1135
-cds_des_esp,Destination: Spain,1136
-cds_des_swe,Destination: Sweden,1137
-cds_des_che,Destination: Switzerland,1138
-cds_des_twn,"Destination: Taiwan, China",1139
-cds_des_tha,Destination: Thailand,1140
-cds_des_tur,Destination: Turkey,1141
-cds_des_ukr,Destination: Ukraine,1142
-cds_des_are,Destination: United Arab Emirates,1143
-cds_des_gbr,Destination: United Kingdom,1144
-cds_des_usa,Destination: United States,1145
-cds_des_uzb,Destination: Uzbekistan,1146
-cds_des_eur,Destination: Europe,1147
-cds_des_x,Destination: Other countries,1148
+dsb_status_total,Disability status: Total,75
+dsb_status_dis,Disability status: Persons with disability,76
+dsb_status_nodis,Disability status: Persons without disability,77
+mts_details_total,Marital status (detailed): Total,78
+mts_details_sgle,Marital status (detailed): Single,79
+mts_details_mrd,Marital status (detailed): Married,80
+mts_details_union,Marital status (detailed): Union / Cohabiting,81
+mts_details_wid,Marital status (detailed): Widowed,82
+mts_details_sep,Marital status (detailed): Divorced or legally separated,83
+mts_details_x,Marital status (detailed): Not elsewhere classified,84
+mts_aggregate_total,Marital status (aggregate): Total,85
+mts_aggregate_1,Marital status (aggregate): Single / Widowed / Divorced,86
+mts_aggregate_2,Marital status (aggregate): Married / Union / Cohabiting,87
+mts_aggregate_x,Marital status (aggregate): Not elsewhere classified,88
+geo_cov_nat,Area type: National,89
+geo_cov_rur,Area type: Rural,90
+geo_cov_urb,Area type: Urban,91
+geo_cov_x,Area type: Not elsewhere classified,92
+mjh_aggregate_total,Multiple job holders: Total,93
+mjh_aggregate_one,Multiple job holders: One job only ,94
+mjh_aggregate_multi,Multiple job holders: More than one job,95
+ste_icse93_total,Status in employment (ICSE-93): Total,96
+ste_icse93_1,Status in employment (ICSE-93): 1. Employees,97
+ste_icse93_2,Status in employment (ICSE-93): 2. Employers,98
+ste_icse93_3,Status in employment (ICSE-93): 3. Own-account workers,99
+ste_icse93_4,Status in employment (ICSE-93): 4. Members of producers' cooperatives,100
+ste_icse93_5,Status in employment (ICSE-93): 5. Contributing family workers,101
+ste_icse93_6,Status in employment (ICSE-93): 6. Workers not classifiable by status,102
+ste_aggregate_total,Status in employment (Aggregate): Total,103
+ste_aggregate_ees,Status in employment (Aggregate): Employees,104
+ste_aggregate_slf,Status in employment (Aggregate): Self-employed,105
+ste_aggregate_x,Status in employment (Aggregate): Workers not classifiable by status,106
+ins_sector_total,Institutional Sector: Total,107
+ins_sector_pub,Institutional Sector: Public,108
+ins_sector_pri,Institutional Sector: Private,109
+eco_isic4_total,Economic activity (ISIC-Rev.4): Total,110
+eco_isic4_a,Economic activity (ISIC-Rev.4): A. Agriculture; forestry and fishing,111
+eco_isic4_b,Economic activity (ISIC-Rev.4): B. Mining and quarrying,112
+eco_isic4_c,Economic activity (ISIC-Rev.4): C. Manufacturing,113
+eco_isic4_d,"Economic activity (ISIC-Rev.4): D. Electricity; gas, steam and air conditioning supply",114
+eco_isic4_e,"Economic activity (ISIC-Rev.4): E. Water supply; sewerage, waste management and remediation activities",115
+eco_isic4_f,Economic activity (ISIC-Rev.4): F. Construction,116
+eco_isic4_g,Economic activity (ISIC-Rev.4): G. Wholesale and retail trade; repair of motor vehicles and motorcycles,117
+eco_isic4_h,Economic activity (ISIC-Rev.4): H. Transportation and storage,118
+eco_isic4_i,Economic activity (ISIC-Rev.4): I. Accommodation and food service activities,119
+eco_isic4_j,Economic activity (ISIC-Rev.4): J. Information and communication,120
+eco_isic4_k,Economic activity (ISIC-Rev.4): K. Financial and insurance activities,121
+eco_isic4_l,Economic activity (ISIC-Rev.4): L. Real estate activities,122
+eco_isic4_m,"Economic activity (ISIC-Rev.4): M. Professional, scientific and technical activities",123
+eco_isic4_n,Economic activity (ISIC-Rev.4): N. Administrative and support service activities,124
+eco_isic4_o,Economic activity (ISIC-Rev.4): O. Public administration and defence; compulsory social security,125
+eco_isic4_p,Economic activity (ISIC-Rev.4): P. Education,126
+eco_isic4_q,Economic activity (ISIC-Rev.4): Q. Human health and social work activities,127
+eco_isic4_r,"Economic activity (ISIC-Rev.4): R. Arts, entertainment and recreation",128
+eco_isic4_s,Economic activity (ISIC-Rev.4): S. Other service activities,129
+eco_isic4_t,Economic activity (ISIC-Rev.4): T. Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,130
+eco_isic4_u,Economic activity (ISIC-Rev.4): U. Activities of extraterritorial organizations and bodies,131
+eco_isic4_x,Economic activity (ISIC-Rev.4): X. Not elsewhere classified,132
+eco_isic3_total,Economic activity (ISIC-Rev.3.1): Total,133
+eco_isic3_a,"Economic activity (ISIC-Rev.3.1): A. Agriculture, hunting and forestry",134
+eco_isic3_b,Economic activity (ISIC-Rev.3.1): B. Fishing,135
+eco_isic3_c,Economic activity (ISIC-Rev.3.1): C. Mining and quarrying,136
+eco_isic3_d,Economic activity (ISIC-Rev.3.1): D. Manufacturing,137
+eco_isic3_e,"Economic activity (ISIC-Rev.3.1): E. Electricity, gas and water supply",138
+eco_isic3_f,Economic activity (ISIC-Rev.3.1): F. Construction,139
+eco_isic3_g,"Economic activity (ISIC-Rev.3.1): G. Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods",140
+eco_isic3_h,Economic activity (ISIC-Rev.3.1): H. Hotels and restaurants,141
+eco_isic3_i,"Economic activity (ISIC-Rev.3.1): I. Transport, storage and communications",142
+eco_isic3_j,Economic activity (ISIC-Rev.3.1): J. Financial intermediation,143
+eco_isic3_k,"Economic activity (ISIC-Rev.3.1): K. Real estate, renting and business activities",144
+eco_isic3_l,Economic activity (ISIC-Rev.3.1): L. Public administration and defence; compulsory social security,145
+eco_isic3_m,Economic activity (ISIC-Rev.3.1): M. Education,146
+eco_isic3_n,Economic activity (ISIC-Rev.3.1): N. Health and social work,147
+eco_isic3_o,"Economic activity (ISIC-Rev.3.1): O. Other community, social and personal service activities",148
+eco_isic3_p,Economic activity (ISIC-Rev.3.1): P. Activities of private households as employers and undifferentiated production activities of private households,149
+eco_isic3_q,Economic activity (ISIC-Rev.3.1): Q. Extraterritorial organizations and bodies,150
+eco_isic3_x,Economic activity (ISIC-Rev.3.1): X. Not elsewhere classified,151
+eco_isic2_total,Economic activity (ISIC-Rev.2): Total,152
+eco_isic2_1,"Economic activity (ISIC-Rev.2): 1. Agriculture, Hunting, Forestry and Fishing",153
+eco_isic2_2,Economic activity (ISIC-Rev.2): 2. Mining and Quarrying,154
+eco_isic2_3,Economic activity (ISIC-Rev.2): 3. Manufacturing,155
+eco_isic2_4,"Economic activity (ISIC-Rev.2): 4. Electricity, Gas and Water",156
+eco_isic2_5,Economic activity (ISIC-Rev.2): 5. Construction,157
+eco_isic2_6,Economic activity (ISIC-Rev.2): 6. Wholesale and Retail Trade and Restaurants and Hotels,158
+eco_isic2_7,"Economic activity (ISIC-Rev.2): 7. Transport, Storage and Communication",159
+eco_isic2_8,"Economic activity (ISIC-Rev.2): 8. Financing, Insurance, Real Estate and Business Services",160
+eco_isic2_9,"Economic activity (ISIC-Rev.2): 9. Community, Social and Personal Services",161
+eco_isic2_0,Economic activity (ISIC-Rev.2): 0. Activities not Adequately Defined,162
+eco_details_total,Economic activity (Detailed): Total,163
+eco_details_a,Economic activity (Detailed): Agriculture; forestry and fishing ~ISIC rev.4 A,164
+eco_details_b,Economic activity (Detailed): Mining and quarrying ~ISIC rev.4 B,165
+eco_details_c,Economic activity (Detailed): Manufacturing ~ISIC rev.4 C,166
+eco_details_de,Economic activity (Detailed): Utilities ~ISIC rev.4 D; E,167
+eco_details_f,Economic activity (Detailed): Construction ~ISIC rev.4 F,168
+eco_details_g,Economic activity (Detailed): Wholesale and retail trade; repair of motor vehicles and motorcycles ~ISIC rev.4 G,169
+eco_details_hj,Economic activity (Detailed): Transport; storage and communication ~ISIC rev.4 H; J,170
+eco_details_i,Economic activity (Detailed): Accommodation and food service activities ~ISIC rev.4 I,171
+eco_details_k,Economic activity (Detailed): Financial and insurance activities ~ISIC rev.4 K,172
+eco_details_lmn,Economic activity (Detailed): Real estate; business and administrative activities ~ISIC rev.4 L; M; N,173
+eco_details_o,Economic activity (Detailed): Public administration and defence; compulsory social security ~ISIC rev.4 O,174
+eco_details_p,Economic activity (Detailed): Education ~ISIC rev.4 P,175
+eco_details_q,Economic activity (Detailed): Human health and social work activities ~ISIC rev.4 Q,176
+eco_details_rstu,Economic activity (Detailed): Other services ~ISIC rev.4 R; S; T; U,177
+eco_aggregate_total,Economic activity (Aggregate): Total,178
+eco_aggregate_agr,Economic activity (Aggregate): Agriculture,179
+eco_aggregate_man,Economic activity (Aggregate): Manufacturing,180
+eco_aggregate_manel,"Economic activity (Aggregate): Manufacturing; Electricity, gas and water supply",181
+eco_aggregate_con,Economic activity (Aggregate): Construction,182
+eco_aggregate_mel,"Economic activity (Aggregate): Mining and quarrying; Electricity, gas and water supply",183
+eco_aggregate_mkt,"Economic activity (Aggregate): Trade, Transportation, Accommodation and Food, and Business and Administrative Services",184
+eco_aggregate_pub,"Economic activity (Aggregate): Public Administration, Community, Social and other Services and Activities",185
+eco_aggregate_x,Economic activity (Aggregate): Not classified,186
+eco_sector_total,Economic activity (Broad sector): Total,187
+eco_sector_agr,Economic activity (Broad sector): Agriculture,188
+eco_sector_nag,Economic activity (Broad sector): Non-agriculture,189
+eco_sector_ind,Economic activity (Broad sector): Industry,190
+eco_sector_ser,Economic activity (Broad sector): Services,191
+eco_sector_x,Economic activity (Broad sector): Not classified,192
+eco_agnag_total,"Economic activity (Agriculture, Non-Agriculture): Total",193
+eco_agnag_agr,"Economic activity (Agriculture, Non-Agriculture): Agriculture",194
+eco_agnag_nag,"Economic activity (Agriculture, Non-Agriculture): Non-agriculture",195
+ec2_isic4_total,"Economic activity (ISIC-Rev.4), 2 digit level: Total",196
+ec2_isic4_a01,"Economic activity (ISIC-Rev.4), 2 digit level: 01 - Crop and animal production, hunting and related service activities",197
+ec2_isic4_a02,"Economic activity (ISIC-Rev.4), 2 digit level: 02 - Forestry and logging",198
+ec2_isic4_a03,"Economic activity (ISIC-Rev.4), 2 digit level: 03 - Fishing and aquaculture",199
+ec2_isic4_b05,"Economic activity (ISIC-Rev.4), 2 digit level: 05 - Mining of coal and lignite",200
+ec2_isic4_b06,"Economic activity (ISIC-Rev.4), 2 digit level: 06 - Extraction of crude petroleum and natural gas",201
+ec2_isic4_b07,"Economic activity (ISIC-Rev.4), 2 digit level: 07 - Mining of metal ores",202
+ec2_isic4_b08,"Economic activity (ISIC-Rev.4), 2 digit level: 08 - Other mining and quarrying",203
+ec2_isic4_b09,"Economic activity (ISIC-Rev.4), 2 digit level: 09 - Mining support service activities",204
+ec2_isic4_c10,"Economic activity (ISIC-Rev.4), 2 digit level: 10 - Manufacture of food products",205
+ec2_isic4_c11,"Economic activity (ISIC-Rev.4), 2 digit level: 11 - Manufacture of beverages",206
+ec2_isic4_c12,"Economic activity (ISIC-Rev.4), 2 digit level: 12 - Manufacture of tobacco products",207
+ec2_isic4_c13,"Economic activity (ISIC-Rev.4), 2 digit level: 13 - Manufacture of textiles",208
+ec2_isic4_c14,"Economic activity (ISIC-Rev.4), 2 digit level: 14 - Manufacture of wearing apparel",209
+ec2_isic4_c15,"Economic activity (ISIC-Rev.4), 2 digit level: 15 - Manufacture of leather and related products",210
+ec2_isic4_c16,"Economic activity (ISIC-Rev.4), 2 digit level: 16 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",211
+ec2_isic4_c17,"Economic activity (ISIC-Rev.4), 2 digit level: 17 - Manufacture of paper and paper products",212
+ec2_isic4_c18,"Economic activity (ISIC-Rev.4), 2 digit level: 18 - Printing and reproduction of recorded media",213
+ec2_isic4_c19,"Economic activity (ISIC-Rev.4), 2 digit level: 19 - Manufacture of coke and refined petroleum products",214
+ec2_isic4_c20,"Economic activity (ISIC-Rev.4), 2 digit level: 20 - Manufacture of chemicals and chemical products",215
+ec2_isic4_c21,"Economic activity (ISIC-Rev.4), 2 digit level: 21 - Manufacture of pharmaceuticals, medicinal chemical and botanical products",216
+ec2_isic4_c22,"Economic activity (ISIC-Rev.4), 2 digit level: 22 - Manufacture of rubber and plastics products",217
+ec2_isic4_c23,"Economic activity (ISIC-Rev.4), 2 digit level: 23 - Manufacture of other non-metallic mineral products",218
+ec2_isic4_c24,"Economic activity (ISIC-Rev.4), 2 digit level: 24 - Manufacture of basic metals",219
+ec2_isic4_c25,"Economic activity (ISIC-Rev.4), 2 digit level: 25 - Manufacture of fabricated metal products, except machinery and equipment",220
+ec2_isic4_c26,"Economic activity (ISIC-Rev.4), 2 digit level: 26 - Manufacture of computer, electronic and optical products",221
+ec2_isic4_c27,"Economic activity (ISIC-Rev.4), 2 digit level: 27 - Manufacture of electrical equipment",222
+ec2_isic4_c28,"Economic activity (ISIC-Rev.4), 2 digit level: 28 - Manufacture of machinery and equipment n.e.c.",223
+ec2_isic4_c29,"Economic activity (ISIC-Rev.4), 2 digit level: 29 - Manufacture of motor vehicles, trailers and semi-trailers",224
+ec2_isic4_c30,"Economic activity (ISIC-Rev.4), 2 digit level: 30 - Manufacture of other transport equipment",225
+ec2_isic4_c31,"Economic activity (ISIC-Rev.4), 2 digit level: 31 - Manufacture of furniture",226
+ec2_isic4_c32,"Economic activity (ISIC-Rev.4), 2 digit level: 32 - Other manufacturing",227
+ec2_isic4_c33,"Economic activity (ISIC-Rev.4), 2 digit level: 33 - Repair and installation of machinery and equipment",228
+ec2_isic4_d35,"Economic activity (ISIC-Rev.4), 2 digit level: 35 - Electricity, gas, steam and air conditioning supply",229
+ec2_isic4_e36,"Economic activity (ISIC-Rev.4), 2 digit level: 36 - Water collection, treatment and supply",230
+ec2_isic4_e37,"Economic activity (ISIC-Rev.4), 2 digit level: 37 - Sewerage",231
+ec2_isic4_e38,"Economic activity (ISIC-Rev.4), 2 digit level: 38 - Waste collection, treatment and disposal activities; materials recovery",232
+ec2_isic4_e39,"Economic activity (ISIC-Rev.4), 2 digit level: 39 - Remediation activities and other waste management services",233
+ec2_isic4_f41,"Economic activity (ISIC-Rev.4), 2 digit level: 41 - Construction of buildings",234
+ec2_isic4_f42,"Economic activity (ISIC-Rev.4), 2 digit level: 42 - Civil engineering",235
+ec2_isic4_f43,"Economic activity (ISIC-Rev.4), 2 digit level: 43 - Specialized construction activities",236
+ec2_isic4_g45,"Economic activity (ISIC-Rev.4), 2 digit level: 45 - Wholesale and retail trade and repair of motor vehicles and motorcycles",237
+ec2_isic4_g46,"Economic activity (ISIC-Rev.4), 2 digit level: 46 - Wholesale trade, except of motor vehicles and motorcycles",238
+ec2_isic4_g47,"Economic activity (ISIC-Rev.4), 2 digit level: 47 - Retail trade, except of motor vehicles and motorcycles",239
+ec2_isic4_h49,"Economic activity (ISIC-Rev.4), 2 digit level: 49 - Land transport and transport via pipelines",240
+ec2_isic4_h50,"Economic activity (ISIC-Rev.4), 2 digit level: 50 - Water transport",241
+ec2_isic4_h51,"Economic activity (ISIC-Rev.4), 2 digit level: 51 - Air transport",242
+ec2_isic4_h52,"Economic activity (ISIC-Rev.4), 2 digit level: 52 - Warehousing and support activities for transportation",243
+ec2_isic4_h53,"Economic activity (ISIC-Rev.4), 2 digit level: 53 - Postal and courier activities",244
+ec2_isic4_i55,"Economic activity (ISIC-Rev.4), 2 digit level: 55 - Accommodation",245
+ec2_isic4_i56,"Economic activity (ISIC-Rev.4), 2 digit level: 56 - Food and beverage service activities",246
+ec2_isic4_j58,"Economic activity (ISIC-Rev.4), 2 digit level: 58 - Publishing activities",247
+ec2_isic4_j59,"Economic activity (ISIC-Rev.4), 2 digit level: 59 - Motion picture, video and television programme production, sound recording and music publishing activities",248
+ec2_isic4_j60,"Economic activity (ISIC-Rev.4), 2 digit level: 60 - Programming and broadcasting activities",249
+ec2_isic4_j61,"Economic activity (ISIC-Rev.4), 2 digit level: 61 - Telecommunications",250
+ec2_isic4_j62,"Economic activity (ISIC-Rev.4), 2 digit level: 62 - Computer programming, consultancy and related activities",251
+ec2_isic4_j63,"Economic activity (ISIC-Rev.4), 2 digit level: 63 - Information service activities",252
+ec2_isic4_k64,"Economic activity (ISIC-Rev.4), 2 digit level: 64 - Financial service activities, except insurance and pension funding",253
+ec2_isic4_k65,"Economic activity (ISIC-Rev.4), 2 digit level: 65 - Insurance, reinsurance and pension funding, except compulsory social security",254
+ec2_isic4_k66,"Economic activity (ISIC-Rev.4), 2 digit level: 66 - Activities auxiliary to financial service and insurance activities",255
+ec2_isic4_l68,"Economic activity (ISIC-Rev.4), 2 digit level: 68 - Real estate activities",256
+ec2_isic4_m69,"Economic activity (ISIC-Rev.4), 2 digit level: 69 - Legal and accounting activities",257
+ec2_isic4_m70,"Economic activity (ISIC-Rev.4), 2 digit level: 70 - Activities of head offices; management consultancy activities",258
+ec2_isic4_m71,"Economic activity (ISIC-Rev.4), 2 digit level: 71 - Architectural and engineering activities; technical testing and analysis",259
+ec2_isic4_m72,"Economic activity (ISIC-Rev.4), 2 digit level: 72 - Scientific research and development",260
+ec2_isic4_m73,"Economic activity (ISIC-Rev.4), 2 digit level: 73 - Advertising and market research",261
+ec2_isic4_m74,"Economic activity (ISIC-Rev.4), 2 digit level: 74 - Other professional, scientific and technical activities",262
+ec2_isic4_m75,"Economic activity (ISIC-Rev.4), 2 digit level: 75 - Veterinary activities",263
+ec2_isic4_n77,"Economic activity (ISIC-Rev.4), 2 digit level: 77 - Rental and leasing activities",264
+ec2_isic4_n78,"Economic activity (ISIC-Rev.4), 2 digit level: 78 - Employment activities",265
+ec2_isic4_n79,"Economic activity (ISIC-Rev.4), 2 digit level: 79 - Travel agency, tour operator, reservation service and related activities",266
+ec2_isic4_n80,"Economic activity (ISIC-Rev.4), 2 digit level: 80 - Security and investigation activities",267
+ec2_isic4_n81,"Economic activity (ISIC-Rev.4), 2 digit level: 81 - Services to buildings and landscape activities",268
+ec2_isic4_n82,"Economic activity (ISIC-Rev.4), 2 digit level: 82 - Office administrative, office support and other business support activities",269
+ec2_isic4_o84,"Economic activity (ISIC-Rev.4), 2 digit level: 84 - Public administration and defence; compulsory social security",270
+ec2_isic4_p85,"Economic activity (ISIC-Rev.4), 2 digit level: 85 - Education",271
+ec2_isic4_q86,"Economic activity (ISIC-Rev.4), 2 digit level: 86 - Human health activities",272
+ec2_isic4_q87,"Economic activity (ISIC-Rev.4), 2 digit level: 87 - Residential care activities",273
+ec2_isic4_q88,"Economic activity (ISIC-Rev.4), 2 digit level: 88 - Social work activities without accommodation",274
+ec2_isic4_r90,"Economic activity (ISIC-Rev.4), 2 digit level: 90 - Creative, arts and entertainment activities",275
+ec2_isic4_r91,"Economic activity (ISIC-Rev.4), 2 digit level: 91 - Libraries, archives, museums and other cultural activities",276
+ec2_isic4_r92,"Economic activity (ISIC-Rev.4), 2 digit level: 92 - Gambling and betting activities",277
+ec2_isic4_r93,"Economic activity (ISIC-Rev.4), 2 digit level: 93 - Sports activities and amusement and recreation activities",278
+ec2_isic4_s94,"Economic activity (ISIC-Rev.4), 2 digit level: 94 - Activities of membership organizations",279
+ec2_isic4_s95,"Economic activity (ISIC-Rev.4), 2 digit level: 95 - Repair of computers and personal and household goods",280
+ec2_isic4_s96,"Economic activity (ISIC-Rev.4), 2 digit level: 96 - Other personal service activities",281
+ec2_isic4_t97,"Economic activity (ISIC-Rev.4), 2 digit level: 97 - Activities of households as employers of domestic personnel",282
+ec2_isic4_t98,"Economic activity (ISIC-Rev.4), 2 digit level: 98 - Undifferentiated goods- and services-producing activities of private households for own use",283
+ec2_isic4_u99,"Economic activity (ISIC-Rev.4), 2 digit level: 99 - Activities of extraterritorial organizations and bodies",284
+ec2_isic4_x,"Economic activity (ISIC-Rev.4), 2 digit level: Not elsewhere classified",285
+ec2_isic3_total,"Economic activity (ISIC-Rev.3.1), 2 digit level: Total",286
+ec2_isic3_a01,"Economic activity (ISIC-Rev.3.1), 2 digit level: 01 - Agriculture, hunting and related service activities",287
+ec2_isic3_a02,"Economic activity (ISIC-Rev.3.1), 2 digit level: 02 - Forestry, logging and related service activities",288
+ec2_isic3_b05,"Economic activity (ISIC-Rev.3.1), 2 digit level: 05 - Fishing, aquaculture and service activities incidental to fishing",289
+ec2_isic3_c10,"Economic activity (ISIC-Rev.3.1), 2 digit level: 10 - Mining of coal and lignite; extraction of peat",290
+ec2_isic3_c11,"Economic activity (ISIC-Rev.3.1), 2 digit level: 11 - Extraction of crude petroleum and natural gas; service activities incidental to oil and gas extraction, excluding surveying",291
+ec2_isic3_c12,"Economic activity (ISIC-Rev.3.1), 2 digit level: 12 - Mining of uranium and thorium ores",292
+ec2_isic3_c13,"Economic activity (ISIC-Rev.3.1), 2 digit level: 13 - Mining of metal ores",293
+ec2_isic3_c14,"Economic activity (ISIC-Rev.3.1), 2 digit level: 14 - Other mining and quarrying",294
+ec2_isic3_d15,"Economic activity (ISIC-Rev.3.1), 2 digit level: 15 - Manufacture of food products and beverages",295
+ec2_isic3_d16,"Economic activity (ISIC-Rev.3.1), 2 digit level: 16 - Manufacture of tobacco products",296
+ec2_isic3_d17,"Economic activity (ISIC-Rev.3.1), 2 digit level: 17 - Manufacture of textiles",297
+ec2_isic3_d18,"Economic activity (ISIC-Rev.3.1), 2 digit level: 18 - Manufacture of wearing apparel; dressing and dyeing of fur",298
+ec2_isic3_d19,"Economic activity (ISIC-Rev.3.1), 2 digit level: 19 - Tanning and dressing of leather; manufacture of luggage, handbags, saddlery, harness and footwear",299
+ec2_isic3_d20,"Economic activity (ISIC-Rev.3.1), 2 digit level: 20 - Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",300
+ec2_isic3_d21,"Economic activity (ISIC-Rev.3.1), 2 digit level: 21 - Manufacture of paper and paper products",301
+ec2_isic3_d22,"Economic activity (ISIC-Rev.3.1), 2 digit level: 22 - Publishing, printing and reproduction of recorded media",302
+ec2_isic3_d23,"Economic activity (ISIC-Rev.3.1), 2 digit level: 23 - Manufacture of coke, refined petroleum products and nuclear fuel",303
+ec2_isic3_d24,"Economic activity (ISIC-Rev.3.1), 2 digit level: 24 - Manufacture of chemicals and chemical products",304
+ec2_isic3_d25,"Economic activity (ISIC-Rev.3.1), 2 digit level: 25 - Manufacture of rubber and plastics products",305
+ec2_isic3_d26,"Economic activity (ISIC-Rev.3.1), 2 digit level: 26 - Manufacture of other non-metallic mineral products",306
+ec2_isic3_d27,"Economic activity (ISIC-Rev.3.1), 2 digit level: 27 - Manufacture of basic metals",307
+ec2_isic3_d28,"Economic activity (ISIC-Rev.3.1), 2 digit level: 28 - Manufacture of fabricated metal products, except machinery and equipment",308
+ec2_isic3_d29,"Economic activity (ISIC-Rev.3.1), 2 digit level: 29 - Manufacture of machinery and equipment n.e.c.",309
+ec2_isic3_d30,"Economic activity (ISIC-Rev.3.1), 2 digit level: 30 - Manufacture of office, accounting and computing machinery",310
+ec2_isic3_d31,"Economic activity (ISIC-Rev.3.1), 2 digit level: 31 - Manufacture of electrical machinery and apparatus n.e.c.",311
+ec2_isic3_d32,"Economic activity (ISIC-Rev.3.1), 2 digit level: 32 - Manufacture of radio, television and communication equipment and apparatus",312
+ec2_isic3_d33,"Economic activity (ISIC-Rev.3.1), 2 digit level: 33 - Manufacture of medical, precision and optical instruments, watches and clocks",313
+ec2_isic3_d34,"Economic activity (ISIC-Rev.3.1), 2 digit level: 34 - Manufacture of motor vehicles, trailers and semi-trailers",314
+ec2_isic3_d35,"Economic activity (ISIC-Rev.3.1), 2 digit level: 35 - Manufacture of other transport equipment",315
+ec2_isic3_d36,"Economic activity (ISIC-Rev.3.1), 2 digit level: 36 - Manufacture of furniture; manufacturing n.e.c.",316
+ec2_isic3_d37,"Economic activity (ISIC-Rev.3.1), 2 digit level: 37 - Recycling",317
+ec2_isic3_e40,"Economic activity (ISIC-Rev.3.1), 2 digit level: 40 - Electricity, gas, steam and hot water supply",318
+ec2_isic3_e41,"Economic activity (ISIC-Rev.3.1), 2 digit level: 41 - Collection, purification and distribution of water",319
+ec2_isic3_f45,"Economic activity (ISIC-Rev.3.1), 2 digit level: 45 - Construction",320
+ec2_isic3_g50,"Economic activity (ISIC-Rev.3.1), 2 digit level: 50 - Sale, maintenance and repair of motor vehicles and motorcycles; retail sale of automotive fuel",321
+ec2_isic3_g51,"Economic activity (ISIC-Rev.3.1), 2 digit level: 51 - Wholesale trade and commission trade, except of motor vehicles and motorcycles",322
+ec2_isic3_g52,"Economic activity (ISIC-Rev.3.1), 2 digit level: 52 - Retail trade, except of motor vehicles and motorcycles; repair of personal and household goods",323
+ec2_isic3_h55,"Economic activity (ISIC-Rev.3.1), 2 digit level: 55 - Hotels and restaurants",324
+ec2_isic3_i60,"Economic activity (ISIC-Rev.3.1), 2 digit level: 60 - Land transport; transport via pipelines",325
+ec2_isic3_i61,"Economic activity (ISIC-Rev.3.1), 2 digit level: 61 - Water transport",326
+ec2_isic3_i62,"Economic activity (ISIC-Rev.3.1), 2 digit level: 62 - Air transport",327
+ec2_isic3_i63,"Economic activity (ISIC-Rev.3.1), 2 digit level: 63 - Supporting and auxiliary transport activities; activities of travel agencies",328
+ec2_isic3_i64,"Economic activity (ISIC-Rev.3.1), 2 digit level: 64 - Post and telecommunications",329
+ec2_isic3_j65,"Economic activity (ISIC-Rev.3.1), 2 digit level: 65 - Financial intermediation, except insurance and pension funding",330
+ec2_isic3_j66,"Economic activity (ISIC-Rev.3.1), 2 digit level: 66 - Insurance and pension funding, except compulsory social security",331
+ec2_isic3_j67,"Economic activity (ISIC-Rev.3.1), 2 digit level: 67 - Activities auxiliary to financial intermediation",332
+ec2_isic3_k70,"Economic activity (ISIC-Rev.3.1), 2 digit level: 70 - Real estate activities",333
+ec2_isic3_k71,"Economic activity (ISIC-Rev.3.1), 2 digit level: 71 - Renting of machinery and equipment without operator and of personal and household goods",334
+ec2_isic3_k72,"Economic activity (ISIC-Rev.3.1), 2 digit level: 72 - Computer and related activities",335
+ec2_isic3_k73,"Economic activity (ISIC-Rev.3.1), 2 digit level: 73 - Research and development",336
+ec2_isic3_k74,"Economic activity (ISIC-Rev.3.1), 2 digit level: 74 - Other business activities",337
+ec2_isic3_l75,"Economic activity (ISIC-Rev.3.1), 2 digit level: 75 - Public administration and defence; compulsory social security",338
+ec2_isic3_m80,"Economic activity (ISIC-Rev.3.1), 2 digit level: 80 - Education",339
+ec2_isic3_n85,"Economic activity (ISIC-Rev.3.1), 2 digit level: 85 - Health and social work",340
+ec2_isic3_o90,"Economic activity (ISIC-Rev.3.1), 2 digit level: 90 - Sewage and refuse disposal, sanitation and similar activities",341
+ec2_isic3_o91,"Economic activity (ISIC-Rev.3.1), 2 digit level: 91 - Activities of membership organizations n.e.c.",342
+ec2_isic3_o92,"Economic activity (ISIC-Rev.3.1), 2 digit level: 92 - Recreational, cultural and sporting activities",343
+ec2_isic3_o93,"Economic activity (ISIC-Rev.3.1), 2 digit level: 93 - Other service activities",344
+ec2_isic3_p95,"Economic activity (ISIC-Rev.3.1), 2 digit level: 95 - Activities of private households as employers of domestic staff",345
+ec2_isic3_p96,"Economic activity (ISIC-Rev.3.1), 2 digit level: 96 - Undifferentiated goods-producing activities of private households for own use",346
+ec2_isic3_p97,"Economic activity (ISIC-Rev.3.1), 2 digit level: 97 - Undifferentiated service-producing activities of private households for own use",347
+ec2_isic3_q99,"Economic activity (ISIC-Rev.3.1), 2 digit level: 99 - Extraterritorial organizations and bodies",348
+ec2_isic3_x,"Economic activity (ISIC-Rev.3.1), 2 digit level: Not elsewhere classified",349
+ocu_isco08_total,Occupation (ISCO-08): Total,350
+ocu_isco08_1,Occupation (ISCO-08): 1. Managers,351
+ocu_isco08_2,Occupation (ISCO-08): 2. Professionals,352
+ocu_isco08_3,Occupation (ISCO-08): 3. Technicians and associate professionals,353
+ocu_isco08_4,Occupation (ISCO-08): 4. Clerical support workers,354
+ocu_isco08_5,Occupation (ISCO-08): 5. Service and sales workers,355
+ocu_isco08_6,"Occupation (ISCO-08): 6. Skilled agricultural, forestry and fishery workers",356
+ocu_isco08_7,Occupation (ISCO-08): 7. Craft and related trades workers,357
+ocu_isco08_8,"Occupation (ISCO-08): 8. Plant and machine operators, and assemblers",358
+ocu_isco08_9,Occupation (ISCO-08): 9. Elementary occupations,359
+ocu_isco08_0,Occupation (ISCO-08): 0. Armed forces occupations,360
+ocu_isco08_x,Occupation (ISCO-08): X. Not elsewhere classified,361
+ocu_isco88_total,Occupation (ISCO-88): Total,362
+ocu_isco88_1,"Occupation (ISCO-88): 1. Legislators, senior officials and managers",363
+ocu_isco88_2,Occupation (ISCO-88): 2. Professionals,364
+ocu_isco88_3,Occupation (ISCO-88): 3. Technicians and associate professionals,365
+ocu_isco88_4,Occupation (ISCO-88): 4. Clerks,366
+ocu_isco88_5,Occupation (ISCO-88): 5. Service workers and shop and market sales workers,367
+ocu_isco88_6,Occupation (ISCO-88): 6. Skilled agricultural and fishery workers,368
+ocu_isco88_7,Occupation (ISCO-88): 7. Craft and related trades workers,369
+ocu_isco88_8,Occupation (ISCO-88): 8. Plant and machine operators and assemblers,370
+ocu_isco88_9,Occupation (ISCO-88): 9. Elementary occupations,371
+ocu_isco88_0,Occupation (ISCO-88): 0. Armed forces,372
+ocu_isco88_x,Occupation (ISCO-88): X. Not elsewhere classified,373
+ocu_details_total,Occupation (Detailed): Total,374
+ocu_details_1,Occupation (Detailed): 1. Managers,375
+ocu_details_2,Occupation (Detailed): 2. Professionals,376
+ocu_details_3,Occupation (Detailed): 3. Technicians and associate professionals,377
+ocu_details_4,Occupation (Detailed): 4. Clerical support workers,378
+ocu_details_5,Occupation (Detailed): 5. Service and sales workers,379
+ocu_details_7,Occupation (Detailed): 7. Craft and related trades workers,380
+ocu_details_8,"Occupation (Detailed): 8. Plant and machine operators, and assemblers",381
+ocu_details_96,"Occupation (Detailed): 96. Elementary occupations and skilled agricultural, forestry and fishery workers",382
+ocu_isco68_total,Occupation (ISCO-68): Total,383
+ocu_isco68_0_1,"Occupation (ISCO-68): 0/1. Professional, technical and related workers",384
+ocu_isco68_2,Occupation (ISCO-68): 2. Administrative and managerial workers,385
+ocu_isco68_3,Occupation (ISCO-68): 3. Clerical and related workers,386
+ocu_isco68_4,Occupation (ISCO-68): 4. Sales workers,387
+ocu_isco68_5,Occupation (ISCO-68): 5. Service workers,388
+ocu_isco68_6,"Occupation (ISCO-68): 6. Agriculture, animal husbandry and forestry workers, fishermen and hunters",389
+ocu_isco68_7_9,"Occupation (ISCO-68): 7,8,9. Production and related workers, transport equipment operators and labourers",390
+ocu_isco68_x,Occupation (ISCO-68): X. Not elsewhere classified,391
+ocu_isco68_af,Occupation (ISCO-68): AF. Armed Forces,392
+ocu_skill_total,Occupation (Skill level): Total,393
+ocu_skill_l3_4,Occupation (Skill level): Skill levels 3 and 4 (high),394
+ocu_skill_l2,Occupation (Skill level): Skill level 2 (medium),395
+ocu_skill_l1,Occupation (Skill level): Skill level 1 (low),396
+ocu_skill_x,Occupation (Skill level): Not elsewhere classified,397
+oc2_isco08_total,"Occupation (ISCO-08), 2 digit level: Total",398
+oc2_isco08_01,"Occupation (ISCO-08), 2 digit level: 01 - Commissioned armed forces officers",399
+oc2_isco08_02,"Occupation (ISCO-08), 2 digit level: 02 - Non-commissioned armed forces officers",400
+oc2_isco08_03,"Occupation (ISCO-08), 2 digit level: 03 - Armed forces occupations, other ranks",401
+oc2_isco08_11,"Occupation (ISCO-08), 2 digit level: 11 - Chief executives, senior officials and legislators",402
+oc2_isco08_12,"Occupation (ISCO-08), 2 digit level: 12 - Administrative and commercial managers",403
+oc2_isco08_13,"Occupation (ISCO-08), 2 digit level: 13 - Production and specialised services managers",404
+oc2_isco08_14,"Occupation (ISCO-08), 2 digit level: 14 - Hospitality, retail and other services managers",405
+oc2_isco08_21,"Occupation (ISCO-08), 2 digit level: 21 - Science and engineering professionals",406
+oc2_isco08_22,"Occupation (ISCO-08), 2 digit level: 22 - Health professionals",407
+oc2_isco08_23,"Occupation (ISCO-08), 2 digit level: 23 - Teaching professionals",408
+oc2_isco08_24,"Occupation (ISCO-08), 2 digit level: 24 - Business and administration professionals",409
+oc2_isco08_25,"Occupation (ISCO-08), 2 digit level: 25 - Information and communications technology professionals",410
+oc2_isco08_26,"Occupation (ISCO-08), 2 digit level: 26 - Legal, social and cultural professionals",411
+oc2_isco08_31,"Occupation (ISCO-08), 2 digit level: 31 - Science and engineering associate professionals",412
+oc2_isco08_32,"Occupation (ISCO-08), 2 digit level: 32 - Health associate professionals",413
+oc2_isco08_33,"Occupation (ISCO-08), 2 digit level: 33 - Business and administration associate professionals",414
+oc2_isco08_34,"Occupation (ISCO-08), 2 digit level: 34 - Legal, social, cultural and related associate professionals",415
+oc2_isco08_35,"Occupation (ISCO-08), 2 digit level: 35 - Information and communications technicians",416
+oc2_isco08_41,"Occupation (ISCO-08), 2 digit level: 41 - General and keyboard clerks",417
+oc2_isco08_42,"Occupation (ISCO-08), 2 digit level: 42 - Customer services clerks",418
+oc2_isco08_43,"Occupation (ISCO-08), 2 digit level: 43 - Numerical and material recording clerks",419
+oc2_isco08_44,"Occupation (ISCO-08), 2 digit level: 44 - Other clerical support workers",420
+oc2_isco08_51,"Occupation (ISCO-08), 2 digit level: 51 - Personal service workers",421
+oc2_isco08_52,"Occupation (ISCO-08), 2 digit level: 52 - Sales workers",422
+oc2_isco08_53,"Occupation (ISCO-08), 2 digit level: 53 - Personal care workers",423
+oc2_isco08_54,"Occupation (ISCO-08), 2 digit level: 54 - Protective services workers",424
+oc2_isco08_61,"Occupation (ISCO-08), 2 digit level: 61 - Market-oriented skilled agricultural workers",425
+oc2_isco08_62,"Occupation (ISCO-08), 2 digit level: 62 - Market-oriented skilled forestry, fishery and hunting workers",426
+oc2_isco08_63,"Occupation (ISCO-08), 2 digit level: 63 - Subsistence farmers, fishers, hunters and gatherers",427
+oc2_isco08_71,"Occupation (ISCO-08), 2 digit level: 71 - Building and related trades workers, excluding electricians",428
+oc2_isco08_72,"Occupation (ISCO-08), 2 digit level: 72 - Metal, machinery and related trades workers",429
+oc2_isco08_73,"Occupation (ISCO-08), 2 digit level: 73 - Handicraft and printing workers",430
+oc2_isco08_74,"Occupation (ISCO-08), 2 digit level: 74 - Electrical and electronic trades workers",431
+oc2_isco08_75,"Occupation (ISCO-08), 2 digit level: 75 - Food processing, wood working, garment and other craft and related trades workers",432
+oc2_isco08_81,"Occupation (ISCO-08), 2 digit level: 81 - Stationary plant and machine operators",433
+oc2_isco08_82,"Occupation (ISCO-08), 2 digit level: 82 - Assemblers",434
+oc2_isco08_83,"Occupation (ISCO-08), 2 digit level: 83 - Drivers and mobile plant operators",435
+oc2_isco08_91,"Occupation (ISCO-08), 2 digit level: 91 - Cleaners and helpers",436
+oc2_isco08_92,"Occupation (ISCO-08), 2 digit level: 92 - Agricultural, forestry and fishery labourers",437
+oc2_isco08_93,"Occupation (ISCO-08), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",438
+oc2_isco08_94,"Occupation (ISCO-08), 2 digit level: 94 - Food preparation assistants",439
+oc2_isco08_95,"Occupation (ISCO-08), 2 digit level: 95 - Street and related sales and service workers",440
+oc2_isco08_96,"Occupation (ISCO-08), 2 digit level: 96 - Refuse workers and other elementary workers",441
+oc2_isco08_x,"Occupation (ISCO-08), 2 digit level: Not elsewhere classified",442
+oc2_isco88_total,"Occupation (ISCO-88), 2 digit level: Total",443
+oc2_isco88_01,"Occupation (ISCO-88), 2 digit level: 01 - Armed forces",444
+oc2_isco88_11,"Occupation (ISCO-88), 2 digit level: 11 - Legislators and senior officials",445
+oc2_isco88_12,"Occupation (ISCO-88), 2 digit level: 12 - Corporate managers",446
+oc2_isco88_13,"Occupation (ISCO-88), 2 digit level: 13 - General managers",447
+oc2_isco88_21,"Occupation (ISCO-88), 2 digit level: 21 - Physical, mathematical and engineering science professionals",448
+oc2_isco88_22,"Occupation (ISCO-88), 2 digit level: 22 - Life science and health professionals",449
+oc2_isco88_23,"Occupation (ISCO-88), 2 digit level: 23 - Teaching professionals",450
+oc2_isco88_24,"Occupation (ISCO-88), 2 digit level: 24 - Other professionals",451
+oc2_isco88_31,"Occupation (ISCO-88), 2 digit level: 31 - Physical and engineering science associate professionals",452
+oc2_isco88_32,"Occupation (ISCO-88), 2 digit level: 32 - Life science and health associate professionals",453
+oc2_isco88_33,"Occupation (ISCO-88), 2 digit level: 33 - Teaching associate professionals",454
+oc2_isco88_34,"Occupation (ISCO-88), 2 digit level: 34 - Other associate professionals",455
+oc2_isco88_41,"Occupation (ISCO-88), 2 digit level: 41 - Office clerks",456
+oc2_isco88_42,"Occupation (ISCO-88), 2 digit level: 42 - Customer services clerks",457
+oc2_isco88_51,"Occupation (ISCO-88), 2 digit level: 51 - Personal and protective services workers",458
+oc2_isco88_52,"Occupation (ISCO-88), 2 digit level: 52 - Models, salespersons and demonstrators",459
+oc2_isco88_61,"Occupation (ISCO-88), 2 digit level: 61 - Market-oriented skilled agricultural and fishery workers",460
+oc2_isco88_62,"Occupation (ISCO-88), 2 digit level: 62 - Subsistence agricultural and fishery workers",461
+oc2_isco88_71,"Occupation (ISCO-88), 2 digit level: 71 - Extraction and building trades workers",462
+oc2_isco88_72,"Occupation (ISCO-88), 2 digit level: 72 - Metal, machinery and related trades workers",463
+oc2_isco88_73,"Occupation (ISCO-88), 2 digit level: 73 - Precision, handicraft, printing and related trades workers",464
+oc2_isco88_74,"Occupation (ISCO-88), 2 digit level: 74 - Other craft and related trades workers",465
+oc2_isco88_81,"Occupation (ISCO-88), 2 digit level: 81 - Stationary-plant and related operators",466
+oc2_isco88_82,"Occupation (ISCO-88), 2 digit level: 82 - Machine operators and assemblers",467
+oc2_isco88_83,"Occupation (ISCO-88), 2 digit level: 83 - Drivers and mobile-plant operators",468
+oc2_isco88_91,"Occupation (ISCO-88), 2 digit level: 91 - Sales and services elementary occupations",469
+oc2_isco88_92,"Occupation (ISCO-88), 2 digit level: 92 - Agricultural, fishery and related labourers",470
+oc2_isco88_93,"Occupation (ISCO-88), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",471
+oc2_isco88_x,"Occupation (ISCO-88), 2 digit level: Not elsewhere classified",472
+gov_lvl_pse,Government level: Total public sector,473
+gov_lvl_gg,Government level: General government,474
+gov_lvl_ggcentral,Government level: General government - Central,475
+gov_lvl_ggregion,Government level: General government - Regional,476
+gov_lvl_gglocal,Government level: General government - Local,477
+gov_lvl_ggss,Government level: General government - Social security,478
+gov_lvl_pubcorp,Government level: Public corporations,479
+gov_lvl_prv,Government level: Private sector,480
+gov_lvl_x,Government level: Not classified,481
+gov_lvl_total,Government level: Total employment,482
+how_bands_total,Hour bands: Total,483
+how_bands_h00,Hour bands: No hours actually worked,484
+how_bands_h01_14,Hour bands: 01-14,485
+how_bands_h15_24,Hour bands: 15-24,486
+how_bands_h15_29,Hour bands: 15-29,487
+how_bands_hlt25,Hour bands: <25,488
+how_bands_h25_34,Hour bands: 25-34,489
+how_bands_h30_34,Hour bands: 30-34,490
+how_bands_h35_39,Hour bands: 35-39,491
+how_bands_h40_48,Hour bands: 40-48,492
+how_bands_hge40,Hour bands: 40+,493
+how_bands_hge49,Hour bands: 49+,494
+how_bands_hge50,Hour bands: 50+,495
+how_bands_hge60,Hour bands: 60+,496
+how_bands_vary,Hour bands: Hours vary,497
+how_bands_x,Hour bands: Not elsewhere classified,498
+cat_une_total,Type of unemployment: Total,499
+cat_une_pre,Type of unemployment: Unemployed previously employed,500
+cat_une_fjs,Type of unemployment: Unemployed seeking their first job,501
+cat_une_unk,Type of unemployment: Not elsewhere classified,502
+dur_details_total,Duration (Detailed): Total,503
+dur_details_mlt1,Duration (Detailed): Less than 1 month,504
+dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,505
+dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,506
+dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,507
+dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,508
+dur_details_mge24,Duration (Detailed): 24 months or more,509
+dur_details_x,Duration (Detailed): Not elsewhere classified,510
+dur_aggregate_total,Duration (Aggregate): Total,511
+dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,512
+dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,513
+dur_aggregate_mge12,Duration (Aggregate): 12 months or more,514
+dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,515
+qtl_decile_01,Decile: Decile 1,516
+qtl_decile_02,Decile: Decile 2,517
+qtl_decile_03,Decile: Decile 3,518
+qtl_decile_04,Decile: Decile 4,519
+qtl_decile_05,Decile: Decile 5,520
+qtl_decile_06,Decile: Decile 6,521
+qtl_decile_07,Decile: Decile 7,522
+qtl_decile_08,Decile: Decile 8,523
+qtl_decile_09,Decile: Decile 9,524
+qtl_decile_10,Decile: Decile 10,525
+inj_incapacity_total,Type of incapacity: Total,526
+inj_incapacity_prm,Type of incapacity: Permanent incapacity,527
+inj_incapacity_tmp,Type of incapacity: Temporary incapacity,528
+coi_component_gen,COICOP (Selected categories): General,529
+coi_component_gex,COICOP (Selected categories): General excluding actual and imputed rentals for housing,530
+coi_component_foo,COICOP (Selected categories): Food and non-alcoholic beverages,531
+coi_component_clo,COICOP (Selected categories): Clothing and footwear,532
+coi_component_egf,"COICOP (Selected categories): Electricity, gas and other fuels",533
+coi_component_hou,COICOP (Selected categories): Actual and imputed rentals for housing,534
+coi_coicop_cp01t12,COICOP2012: General - Individual consumption expenditure of households,535
+coi_coicop_cp01,COICOP2012: 1. Food and non-alcoholic beverages,536
+coi_coicop_cp02,"COICOP2012: 2. Alcoholic beverages, tobacco and narcotics",537
+coi_coicop_cp03,COICOP2012: 3. Clothing and footwear,538
+coi_coicop_cp04,"COICOP2012: 4. Housing, water, electricity, gas and other fuels",539
+coi_coicop_cp05,"COICOP2012: 5. Furnishings, household equipment and routine household maintenance",540
+coi_coicop_cp06,COICOP2012: 6. Health,541
+coi_coicop_cp07,COICOP2012: 7. Transport,542
+coi_coicop_cp08,COICOP2012: 8. Communication,543
+coi_coicop_cp09,COICOP2012: 9. Recreation and culture,544
+coi_coicop_cp10,COICOP2012: 10. Education,545
+coi_coicop_cp11,COICOP2012: 11. Restaurants and hotels,546
+coi_coicop_cp12,COICOP2012: 12. Miscellaneous goods and services,547
+job_fte_fte40,Full-time equivalence: Based on 40 hours per week,548
+job_fte_fte48,Full-time equivalence: Based on 48 hours per week,549
+soc_contig_total,Contingency: Population covered by at least one social protection benefit,550
+soc_contig_pension,Contingency: Persons above retirement age receiving a pension,551
+soc_contig_disab,Contingency: Persons with severe disabilities collecting disability social protection benefits,552
+soc_contig_une,Contingency: Unemployed receiving unemployment benefits,553
+soc_contig_mat,Contingency: Mothers with newborns receiving maternity benefits,554
+soc_contig_inj,Contingency: Employed covered in the event of work injury,555
+soc_contig_child,Contingency: Children/households receiving child/family cash benefits,556
+soc_contig_poor,Contingency: Poor persons covered by social protection systems,557
+soc_contig_vuln,Contingency: Vulnerable persons covered by social assistance,558
+mig_status_total,Migrant status: Total,559
+mig_status_migrant,Migrant status: Migrants,560
+mig_status_nonmig,Migrant status: Non migrants,561
+mig_status_migranteu,Migrant status: EU Migrants,562
+mig_status_migrantnoteu,Migrant status: Migrants excluding EU,563
+mig_status_x,Migrant status: Unknown,564
+cur_type_lcu,Currency: Local currency,565
+cur_type_ppp,Currency: 2017 PPP $,566
+cur_type_usd,Currency: U.S. dollars,567
+cbr_brt_total,Country of birth: Total,568
+cct_ctz_total,Country of citizenship: Total,569
+cbr_brt_afg,Country of birth: Afghanistan,570
+cct_ctz_afg,Country of citizenship: Afghanistan,571
+cbr_brt_alb,Country of birth: Albania,572
+cct_ctz_alb,Country of citizenship: Albania,573
+cbr_brt_dza,Country of birth: Algeria,574
+cct_ctz_dza,Country of citizenship: Algeria,575
+cct_ctz_asm,Country of citizenship: American Samoa,576
+cct_ctz_and,Country of citizenship: Andorra,577
+cbr_brt_ago,Country of birth: Angola,578
+cct_ctz_ago,Country of citizenship: Angola,579
+cct_ctz_arg,Country of citizenship: Argentina,580
+cbr_brt_arg,Country of birth: Argentina,581
+cct_ctz_arm,Country of citizenship: Armenia,582
+cbr_brt_arm,Country of birth: Armenia,583
+cbr_brt_aus,Country of birth: Australia,584
+cct_ctz_aus,Country of citizenship: Australia,585
+cbr_brt_aut,Country of birth: Austria,586
+cct_ctz_aut,Country of citizenship: Austria,587
+cct_ctz_aze,Country of citizenship: Azerbaijan,588
+cbr_brt_aze,Country of birth: Azerbaijan,589
+cct_ctz_bhs,Country of citizenship: Bahamas,590
+cbr_brt_bhs,Country of birth: Bahamas,591
+cct_ctz_bhr,Country of citizenship: Bahrain,592
+cbr_brt_bhr,Country of birth: Bahrain,593
+cct_ctz_bgd,Country of citizenship: Bangladesh,594
+cbr_brt_bgd,Country of birth: Bangladesh,595
+cct_ctz_brb,Country of citizenship: Barbados,596
+cbr_brt_blr,Country of birth: Belarus,597
+cct_ctz_blr,Country of citizenship: Belarus,598
+cct_ctz_bel,Country of citizenship: Belgium,599
+cbr_brt_bel,Country of birth: Belgium,600
+cct_ctz_blz,Country of citizenship: Belize,601
+cbr_brt_blz,Country of birth: Belize,602
+cct_ctz_ben,Country of citizenship: Benin,603
+cbr_brt_ben,Country of birth: Benin,604
+cct_ctz_bmu,Country of citizenship: Bermuda,605
+cct_ctz_btn,Country of citizenship: Bhutan,606
+cbr_brt_btn,Country of birth: Bhutan,607
+cct_ctz_bol,Country of citizenship: Bolivia,608
+cbr_brt_bol,Country of birth: Bolivia,609
+cct_ctz_bih,Country of citizenship: Bosnia and Herzegovina,610
+cbr_brt_bih,Country of birth: Bosnia and Herzegovina,611
+cct_ctz_bwa,Country of citizenship: Botswana,612
+cbr_brt_bwa,Country of birth: Botswana,613
+cct_ctz_bra,Country of citizenship: Brazil,614
+cbr_brt_bra,Country of birth: Brazil,615
+cct_ctz_vgb,Country of citizenship: British Virgin Islands,616
+cct_ctz_brn,Country of citizenship: Brunei Darussalam,617
+cbr_brt_brn,Country of birth: Brunei Darussalam,618
+cct_ctz_bgr,Country of citizenship: Bulgaria,619
+cbr_brt_bgr,Country of birth: Bulgaria,620
+cct_ctz_bfa,Country of citizenship: Burkina Faso,621
+cbr_brt_bfa,Country of birth: Burkina Faso,622
+cct_ctz_bdi,Country of citizenship: Burundi,623
+cbr_brt_bdi,Country of birth: Burundi,624
+cct_ctz_khm,Country of citizenship: Cambodia,625
+cbr_brt_khm,Country of birth: Cambodia,626
+cct_ctz_cmr,Country of citizenship: Cameroon,627
+cbr_brt_cmr,Country of birth: Cameroon,628
+cct_ctz_can,Country of citizenship: Canada,629
+cbr_brt_can,Country of birth: Canada,630
+cbr_brt_cpv,Country of birth: Cape Verde,631
+cct_ctz_cpv,Country of citizenship: Cape Verde,632
+cct_ctz_cym,Country of citizenship: Cayman Islands,633
+cct_ctz_caf,Country of citizenship: Central African Republic,634
+cct_ctz_tcd,Country of citizenship: Chad,635
+cct_ctz_cha,Country of citizenship: Channel Islands,636
+cct_ctz_chl,Country of citizenship: Chile,637
+cbr_brt_chl,Country of birth: Chile,638
+cbr_brt_chn,Country of birth: China,639
+cct_ctz_chn,Country of citizenship: China,640
+cct_ctz_col,Country of citizenship: Colombia,641
+cbr_brt_col,Country of birth: Colombia,642
+cct_ctz_com,Country of citizenship: Comoros,643
+cbr_brt_com,Country of birth: Comoros,644
+cct_ctz_cog,Country of citizenship: Congo,645
+cbr_brt_cog,Country of birth: Congo,646
+cct_ctz_cod,"Country of citizenship: Congo, Democratic Republic of the",647
+cbr_brt_cod,"Country of birth: Congo, Democratic Republic of the",648
+cct_ctz_cok,Country of citizenship: Cook Islands,649
+cct_ctz_cri,Country of citizenship: Costa Rica,650
+cbr_brt_cri,Country of birth: Costa Rica,651
+cct_ctz_hrv,Country of citizenship: Croatia,652
+cbr_brt_hrv,Country of birth: Croatia,653
+cct_ctz_cub,Country of citizenship: Cuba,654
+cbr_brt_cub,Country of birth: Cuba,655
+cct_ctz_cuw,Country of citizenship: Curaçao,656
+cct_ctz_cyp,Country of citizenship: Cyprus,657
+cbr_brt_cyp,Country of birth: Cyprus,658
+cct_ctz_cze,Country of citizenship: Czech Republic,659
+cbr_brt_cze,Country of birth: Czech Republic,660
+cct_ctz_civ,Country of citizenship: Côte d'Ivoire,661
+cbr_brt_civ,Country of birth: Côte d'Ivoire,662
+cct_ctz_dnk,Country of citizenship: Denmark,663
+cbr_brt_dnk,Country of birth: Denmark,664
+cbr_brt_dji,Country of birth: Djibouti,665
+cct_ctz_dji,Country of citizenship: Djibouti,666
+cct_ctz_dma,Country of citizenship: Dominica,667
+cct_ctz_dom,Country of citizenship: Dominican Republic,668
+cbr_brt_dom,Country of birth: Dominican Republic,669
+cct_ctz_ecu,Country of citizenship: Ecuador,670
+cbr_brt_ecu,Country of birth: Ecuador,671
+cct_ctz_egy,Country of citizenship: Egypt,672
+cbr_brt_egy,Country of birth: Egypt,673
+cbr_brt_slv,Country of birth: El Salvador,674
+cct_ctz_slv,Country of citizenship: El Salvador,675
+cct_ctz_eri,Country of citizenship: Eritrea,676
+cbr_brt_eri,Country of birth: Eritrea,677
+cct_ctz_est,Country of citizenship: Estonia,678
+cbr_brt_est,Country of birth: Estonia,679
+cct_ctz_eth,Country of citizenship: Ethiopia,680
+cct_ctz_flk,Country of citizenship: Falkland Islands (Malvinas),681
+cct_ctz_fji,Country of citizenship: Fiji,682
+cct_ctz_fin,Country of citizenship: Finland,683
+cbr_brt_fin,Country of birth: Finland,684
+cct_ctz_fra,Country of citizenship: France,685
+cbr_brt_fra,Country of birth: France,686
+cct_ctz_pyf,Country of citizenship: French Polynesia,687
+cct_ctz_gab,Country of citizenship: Gabon,688
+cbr_brt_gab,Country of birth: Gabon,689
+cct_ctz_gmb,Country of citizenship: Gambia,690
+cbr_brt_gmb,Country of birth: Gambia,691
+cbr_brt_geo,Country of birth: Georgia,692
+cct_ctz_geo,Country of citizenship: Georgia,693
+cct_ctz_deu,Country of citizenship: Germany,694
+cbr_brt_deu,Country of birth: Germany,695
+cct_ctz_gha,Country of citizenship: Ghana,696
+cbr_brt_gha,Country of birth: Ghana,697
+cct_ctz_gib,Country of citizenship: Gibraltar,698
+cbr_brt_gib,Country of birth: Gibraltar,699
+cct_ctz_grc,Country of citizenship: Greece,700
+cbr_brt_grc,Country of birth: Greece,701
+cct_ctz_grl,Country of citizenship: Greenland,702
+cct_ctz_grd,Country of citizenship: Grenada,703
+cct_ctz_gum,Country of citizenship: Guam,704
+cct_ctz_gtm,Country of citizenship: Guatemala,705
+cbr_brt_gtm,Country of birth: Guatemala,706
+cct_ctz_gin,Country of citizenship: Guinea,707
+cbr_brt_gin,Country of birth: Guinea,708
+cct_ctz_gnb,Country of citizenship: Guinea-Bissau,709
+cbr_brt_gnb,Country of birth: Guinea-Bissau,710
+cct_ctz_guy,Country of citizenship: Guyana,711
+cct_ctz_hti,Country of citizenship: Haiti,712
+cbr_brt_hti,Country of birth: Haiti,713
+cct_ctz_hnd,Country of citizenship: Honduras,714
+cbr_brt_hnd,Country of birth: Honduras,715
+cct_ctz_hkg,"Country of citizenship: Hong Kong, China",716
+cbr_brt_hkg,"Country of birth: Hong Kong, China",717
+cct_ctz_hun,Country of citizenship: Hungary,718
+cbr_brt_hun,Country of birth: Hungary,719
+cct_ctz_isl,Country of citizenship: Iceland,720
+cct_ctz_ind,Country of citizenship: India,721
+cbr_brt_ind,Country of birth: India,722
+cct_ctz_idn,Country of citizenship: Indonesia,723
+cbr_brt_idn,Country of birth: Indonesia,724
+cct_ctz_irn,"Country of citizenship: Iran, Islamic Rep. of",725
+cbr_brt_irn,"Country of birth: Iran, Islamic Rep. of",726
+cct_ctz_irq,Country of citizenship: Iraq,727
+cbr_brt_irq,Country of birth: Iraq,728
+cct_ctz_irl,Country of citizenship: Ireland,729
+cbr_brt_irl,Country of birth: Ireland,730
+cct_ctz_isr,Country of citizenship: Israel,731
+cbr_brt_isr,Country of birth: Israel,732
+cct_ctz_ita,Country of citizenship: Italy,733
+cbr_brt_ita,Country of birth: Italy,734
+cct_ctz_jam,Country of citizenship: Jamaica,735
+cbr_brt_jam,Country of birth: Jamaica,736
+cct_ctz_jpn,Country of citizenship: Japan,737
+cbr_brt_jpn,Country of birth: Japan,738
+cct_ctz_jor,Country of citizenship: Jordan,739
+cbr_brt_jor,Country of birth: Jordan,740
+cct_ctz_kaz,Country of citizenship: Kazakhstan,741
+cbr_brt_kaz,Country of birth: Kazakhstan,742
+cct_ctz_ken,Country of citizenship: Kenya,743
+cbr_brt_ken,Country of birth: Kenya,744
+cct_ctz_kir,Country of citizenship: Kiribati,745
+cbr_brt_prk,"Country of birth: Korea, Dem. People's Rep. of",746
+cct_ctz_prk,"Country of citizenship: Korea, Dem. People's Rep. of",747
+cct_ctz_kor,"Country of citizenship: Korea, Republic of",748
+cbr_brt_kor,"Country of birth: Korea, Republic of",749
+cct_ctz_kos,Country of citizenship: Kosovo,750
+cbr_brt_kos,Country of birth: Kosovo,751
+cct_ctz_kwt,Country of citizenship: Kuwait,752
+cct_ctz_kgz,Country of citizenship: Kyrgyzstan,753
+cbr_brt_kgz,Country of birth: Kyrgyzstan,754
+cct_ctz_lao,Country of citizenship: Lao People's Dem. Rep.,755
+cbr_brt_lao,Country of birth: Lao People's Dem. Rep.,756
+cct_ctz_lva,Country of citizenship: Latvia,757
+cbr_brt_lva,Country of birth: Latvia,758
+cct_ctz_lbn,Country of citizenship: Lebanon,759
+cbr_brt_lbn,Country of birth: Lebanon,760
+cct_ctz_lso,Country of citizenship: Lesotho,761
+cct_ctz_lbr,Country of citizenship: Liberia,762
+cbr_brt_lbr,Country of birth: Liberia,763
+cct_ctz_lby,Country of citizenship: Libyan Arab Jamahiriya,764
+cbr_brt_lby,Country of birth: Libyan Arab Jamahiriya,765
+cct_ctz_lie,Country of citizenship: Liechtenstein,766
+cbr_brt_ltu,Country of birth: Lithuania,767
+cct_ctz_ltu,Country of citizenship: Lithuania,768
+cbr_brt_lux,Country of birth: Luxembourg,769
+cct_ctz_lux,Country of citizenship: Luxembourg,770
+cbr_brt_mac,"Country of birth: Macau, China",771
+cct_ctz_mac,"Country of citizenship: Macau, China",772
+cbr_brt_mkd,"Country of birth: Macedonia, The former Yugoslav Rep. of",773
+cct_ctz_mkd,"Country of citizenship: Macedonia, The former Yugoslav Rep. of",774
+cbr_brt_mdg,Country of birth: Madagascar,775
+cct_ctz_mdg,Country of citizenship: Madagascar,776
+cct_ctz_mwi,Country of citizenship: Malawi,777
+cbr_brt_mys,Country of birth: Malaysia,778
+cct_ctz_mys,Country of citizenship: Malaysia,779
+cbr_brt_mdv,Country of birth: Maldives,780
+cct_ctz_mdv,Country of citizenship: Maldives,781
+cbr_brt_mli,Country of birth: Mali,782
+cct_ctz_mli,Country of citizenship: Mali,783
+cct_ctz_mlt,Country of citizenship: Malta,784
+cct_ctz_mhl,Country of citizenship: Marshall Islands,785
+cct_ctz_mrt,Country of citizenship: Mauritania,786
+cbr_brt_mrt,Country of birth: Mauritania,787
+cct_ctz_mus,Country of citizenship: Mauritius,788
+cbr_brt_mex,Country of birth: Mexico,789
+cct_ctz_mex,Country of citizenship: Mexico,790
+cbr_brt_mda,"Country of birth: Moldova, Republic of",791
+cct_ctz_mda,"Country of citizenship: Moldova, Republic of",792
+cct_ctz_mco,Country of citizenship: Monaco,793
+cbr_brt_mng,Country of birth: Mongolia,794
+cct_ctz_mng,Country of citizenship: Mongolia,795
+cbr_brt_mne,Country of birth: Montenegro,796
+cct_ctz_mne,Country of citizenship: Montenegro,797
+cct_ctz_msr,Country of citizenship: Montserrat,798
+cbr_brt_mar,Country of birth: Morocco,799
+cct_ctz_mar,Country of citizenship: Morocco,800
+cbr_brt_moz,Country of birth: Mozambique,801
+cct_ctz_moz,Country of citizenship: Mozambique,802
+cct_ctz_mmr,Country of citizenship: Myanmar,803
+cbr_brt_mmr,Country of birth: Myanmar,804
+cct_ctz_nam,Country of citizenship: Namibia,805
+cct_ctz_nru,Country of citizenship: Nauru,806
+cbr_brt_npl,Country of birth: Nepal,807
+cct_ctz_npl,Country of citizenship: Nepal,808
+cbr_brt_nld,Country of birth: Netherlands,809
+cct_ctz_nld,Country of citizenship: Netherlands,810
+cct_ctz_ncl,Country of citizenship: New Caledonia,811
+cbr_brt_nzl,Country of birth: New Zealand,812
+cct_ctz_nzl,Country of citizenship: New Zealand,813
+cbr_brt_nic,Country of birth: Nicaragua,814
+cct_ctz_nic,Country of citizenship: Nicaragua,815
+cbr_brt_ner,Country of birth: Niger,816
+cct_ctz_ner,Country of citizenship: Niger,817
+cbr_brt_nga,Country of birth: Nigeria,818
+cct_ctz_nga,Country of citizenship: Nigeria,819
+cct_ctz_niu,Country of citizenship: Niue,820
+cct_ctz_nfk,Country of citizenship: Norfolk Island,821
+cbr_brt_nor,Country of birth: Norway,822
+cct_ctz_nor,Country of citizenship: Norway,823
+cbr_brt_pse,Country of birth: West Bank and Gaza Strip,824
+cct_ctz_pse,Country of citizenship: West Bank and Gaza Strip,825
+cct_ctz_omn,Country of citizenship: Oman,826
+cbr_brt_pak,Country of birth: Pakistan,827
+cct_ctz_pak,Country of citizenship: Pakistan,828
+cbr_brt_pan,Country of birth: Panama,829
+cct_ctz_pan,Country of citizenship: Panama,830
+cct_ctz_png,Country of citizenship: Papua New Guinea,831
+cbr_brt_pry,Country of birth: Paraguay,832
+cct_ctz_pry,Country of citizenship: Paraguay,833
+cbr_brt_per,Country of birth: Peru,834
+cct_ctz_per,Country of citizenship: Peru,835
+cbr_brt_phl,Country of birth: Philippines,836
+cct_ctz_phl,Country of citizenship: Philippines,837
+cbr_brt_pol,Country of birth: Poland,838
+cct_ctz_pol,Country of citizenship: Poland,839
+cbr_brt_prt,Country of birth: Portugal,840
+cct_ctz_prt,Country of citizenship: Portugal,841
+cct_ctz_pri,Country of citizenship: Puerto Rico,842
+cct_ctz_qat,Country of citizenship: Qatar,843
+cbr_brt_rou,Country of birth: Romania,844
+cct_ctz_rou,Country of citizenship: Romania,845
+cbr_brt_rus,Country of birth: Russian Federation,846
+cct_ctz_rus,Country of citizenship: Russian Federation,847
+cct_ctz_rwa,Country of citizenship: Rwanda,848
+cct_ctz_reu,Country of citizenship: Réunion,849
+cct_ctz_kna,Country of citizenship: Saint Kitts and Nevis,850
+cct_ctz_wsm,Country of citizenship: Samoa,851
+cct_ctz_smr,Country of citizenship: San Marino,852
+cbr_brt_stp,Country of birth: Sao Tome and Principe,853
+cbr_brt_sau,Country of birth: Saudi Arabia,854
+cct_ctz_sau,Country of citizenship: Saudi Arabia,855
+cbr_brt_sen,Country of birth: Senegal,856
+cct_ctz_sen,Country of citizenship: Senegal,857
+cbr_brt_srb,Country of birth: Serbia,858
+cct_ctz_srb,Country of citizenship: Serbia,859
+cct_ctz_syc,Country of citizenship: Seychelles,860
+cbr_brt_sle,Country of birth: Sierra Leone,861
+cct_ctz_sle,Country of citizenship: Sierra Leone,862
+cbr_brt_sgp,Country of birth: Singapore,863
+cct_ctz_sgp,Country of citizenship: Singapore,864
+cbr_brt_svk,Country of birth: Slovakia,865
+cct_ctz_svk,Country of citizenship: Slovakia,866
+cbr_brt_svn,Country of birth: Slovenia,867
+cct_ctz_svn,Country of citizenship: Slovenia,868
+cct_ctz_slb,Country of citizenship: Solomon Islands,869
+cbr_brt_som,Country of birth: Somalia,870
+cct_ctz_som,Country of citizenship: Somalia,871
+cbr_brt_zaf,Country of birth: South Africa,872
+cct_ctz_zaf,Country of citizenship: South Africa,873
+cct_ctz_ssd,"Country of citizenship: South Sudan, The Republic of",874
+cct_ctz_esp,Country of citizenship: Spain,875
+cbr_brt_esp,Country of birth: Spain,876
+cct_ctz_lka,Country of citizenship: Sri Lanka,877
+cbr_brt_lka,Country of birth: Sri Lanka,878
+cbr_brt_sdn,"Country of birth: Sudan, The Republic of",879
+cct_ctz_sdn,"Country of citizenship: Sudan, The Republic of",880
+cct_ctz_sur,Country of citizenship: Suriname,881
+cct_ctz_swz,Country of citizenship: Swaziland,882
+cbr_brt_swe,Country of birth: Sweden,883
+cct_ctz_swe,Country of citizenship: Sweden,884
+cct_ctz_che,Country of citizenship: Switzerland,885
+cbr_brt_che,Country of birth: Switzerland,886
+cbr_brt_syr,Country of birth: Syrian Arab Republic,887
+cct_ctz_syr,Country of citizenship: Syrian Arab Republic,888
+cbr_brt_twn,"Country of birth: Taiwan, China",889
+cct_ctz_twn,"Country of citizenship: Taiwan, China",890
+cbr_brt_tjk,Country of birth: Tajikistan,891
+cct_ctz_tjk,Country of citizenship: Tajikistan,892
+cbr_brt_tza,"Country of birth: Tanzania, United Republic of",893
+cct_ctz_tza,"Country of citizenship: Tanzania, United Republic of",894
+cbr_brt_tha,Country of birth: Thailand,895
+cct_ctz_tha,Country of citizenship: Thailand,896
+cbr_brt_tls,Country of birth: Timor-Leste,897
+cct_ctz_tls,Country of citizenship: Timor-Leste,898
+cbr_brt_tgo,Country of birth: Togo,899
+cct_ctz_tgo,Country of citizenship: Togo,900
+cct_ctz_tkl,Country of citizenship: Tokelau,901
+cct_ctz_ton,Country of citizenship: Tonga,902
+cct_ctz_tto,Country of citizenship: Trinidad and Tobago,903
+cbr_brt_tun,Country of birth: Tunisia,904
+cct_ctz_tun,Country of citizenship: Tunisia,905
+cbr_brt_tur,Country of birth: Turkey,906
+cct_ctz_tur,Country of citizenship: Turkey,907
+cbr_brt_tkm,Country of birth: Turkmenistan,908
+cct_ctz_tkm,Country of citizenship: Turkmenistan,909
+cct_ctz_tuv,Country of citizenship: Tuvalu,910
+cbr_brt_uga,Country of birth: Uganda,911
+cct_ctz_uga,Country of citizenship: Uganda,912
+cbr_brt_ukr,Country of birth: Ukraine,913
+cct_ctz_ukr,Country of citizenship: Ukraine,914
+cct_ctz_are,Country of citizenship: United Arab Emirates,915
+cbr_brt_are,Country of birth: United Arab Emirates,916
+cct_ctz_gbr,Country of citizenship: United Kingdom,917
+cbr_brt_gbr,Country of birth: United Kingdom,918
+cbr_brt_usa,Country of birth: United States,919
+cct_ctz_usa,Country of citizenship: United States,920
+cbr_brt_usacan,Country of birth: United States and Canada,921
+cbr_brt_ury,Country of birth: Uruguay,922
+cct_ctz_ury,Country of citizenship: Uruguay,923
+cbr_brt_uzb,Country of birth: Uzbekistan,924
+cct_ctz_uzb,Country of citizenship: Uzbekistan,925
+cct_ctz_vut,Country of citizenship: Vanuatu,926
+cbr_brt_ven,"Country of birth: Venezuela, Bolivarian Rep. of",927
+cct_ctz_ven,"Country of citizenship: Venezuela, Bolivarian Rep. of",928
+cbr_brt_vnm,Country of birth: Viet Nam,929
+cct_ctz_vnm,Country of citizenship: Viet Nam,930
+cct_ctz_wlf,Country of citizenship: Wallis and Futuna Islands,931
+cct_ctz_esh,Country of citizenship: Western Sahara,932
+cct_ctz_yem,Country of citizenship: Yemen,933
+cbr_brt_zmb,Country of birth: Zambia,934
+cct_ctz_zmb,Country of citizenship: Zambia,935
+cct_ctz_zwe,Country of citizenship: Zimbabwe,936
+cct_ctz_asia,Country of citizenship: Asia,937
+cbr_brt_asia,Country of birth: Asia,938
+cct_ctz_baltic,Country of citizenship: Baltics,939
+cct_ctz_cis,Country of citizenship: Commonwealth of Independent States,940
+cbr_brt_cis,Country of birth: Commonwealth of Independent States,941
+cct_ctz_eur,Country of citizenship: Europe,942
+cbr_brt_eur,Country of birth: Europe,943
+cct_ctz_amen,Country of citizenship: North America,944
+cct_ctz_oce,Country of citizenship: Oceania,945
+cct_ctz_xasia,Country of citizenship: Rest of Asia,946
+cbr_brt_x,Country of birth: Other countries,947
+cct_ctz_x,Country of citizenship: Other countries,948
+cbr_bir_total,Place of birth: Total,949
+cct_cit_total,Citizenship: Total,950
+cbr_bir_native,Place of birth: Native-born,951
+cct_cit_citizen,Citizenship: Citizens,952
+cbr_bir_foreign,Place of birth: Foreign-born,953
+cct_cit_noncit,Citizenship: Non-citizens,954
+cbr_bir_x,Place of birth: Status unknown,955
+cct_cit_x,Citizenship: Status unknown,956
+hht_aggregate_total,Household type: Total,957
+hht_aggregate_o,Household type: One person,958
+hht_aggregate_c,Household type: Couple without children,959
+hht_aggregate_k,Household type: Couple with children,960
+hht_aggregate_l,Household type: Lone parent,961
+hht_aggregate_e,Household type: Extended family,962
+crs_res_total,Residence: Total,963
+crs_res_arg,Residence: Argentina,964
+crs_res_aus,Residence: Australia,965
+crs_res_ben,Residence: Benin,966
+crs_res_bfa,Residence: Burkina Faso,967
+crs_res_can,Residence: Canada,968
+crs_res_chn,Residence: China,969
+crs_res_cze,Residence: Czech Republic,970
+crs_res_civ,Residence: Côte d'Ivoire,971
+crs_res_fra,Residence: France,972
+crs_res_gmb,Residence: Gambia,973
+crs_res_deu,Residence: Germany,974
+crs_res_gha,Residence: Ghana,975
+crs_res_gnb,Residence: Guinea-Bissau,976
+crs_res_kaz,Residence: Kazakhstan,977
+crs_res_kwt,Residence: Kuwait,978
+crs_res_lbr,Residence: Liberia,979
+crs_res_mys,Residence: Malaysia,980
+crs_res_nzl,Residence: New Zealand,981
+crs_res_nga,Residence: Nigeria,982
+crs_res_omn,Residence: Oman,983
+crs_res_qat,Residence: Qatar,984
+crs_res_rus,Residence: Russian Federation,985
+crs_res_sau,Residence: Saudi Arabia,986
+crs_res_sen,Residence: Senegal,987
+crs_res_sgp,Residence: Singapore,988
+crs_res_tha,Residence: Thailand,989
+crs_res_ukr,Residence: Ukraine,990
+crs_res_are,Residence: United Arab Emirates,991
+crs_res_usa,Residence: United States,992
+crs_res_ven,"Residence: Venezuela, Bolivarian Rep. of",993
+crs_res_cis,Residence: Commonwealth of Independent States,994
+crs_res_usacan,Residence: United States and Canada,995
+crs_res_x,Residence: Other countries,996
+cpr_prv_total,Previous residence: Total,997
+cpr_prv_alb,Previous residence: Albania,998
+cpr_prv_dza,Previous residence: Algeria,999
+cpr_prv_asm,Previous residence: American Samoa,1000
+cpr_prv_arg,Previous residence: Argentina,1001
+cpr_prv_aus,Previous residence: Australia,1002
+cpr_prv_aut,Previous residence: Austria,1003
+cpr_prv_blr,Previous residence: Belarus,1004
+cpr_prv_bel,Previous residence: Belgium,1005
+cpr_prv_bol,Previous residence: Bolivia,1006
+cpr_prv_bih,Previous residence: Bosnia and Herzegovina,1007
+cpr_prv_bra,Previous residence: Brazil,1008
+cpr_prv_brn,Previous residence: Brunei Darussalam,1009
+cpr_prv_bgr,Previous residence: Bulgaria,1010
+cpr_prv_can,Previous residence: Canada,1011
+cpr_prv_chl,Previous residence: Chile,1012
+cpr_prv_chn,Previous residence: China,1013
+cpr_prv_col,Previous residence: Colombia,1014
+cpr_prv_cod,"Previous residence: Congo, Democratic Republic of the",1015
+cpr_prv_hrv,Previous residence: Croatia,1016
+cpr_prv_cub,Previous residence: Cuba,1017
+cpr_prv_cyp,Previous residence: Cyprus,1018
+cpr_prv_cze,Previous residence: Czech Republic,1019
+cpr_prv_civ,Previous residence: Côte d'Ivoire,1020
+cpr_prv_dnk,Previous residence: Denmark,1021
+cpr_prv_dji,Previous residence: Djibouti,1022
+cpr_prv_dom,Previous residence: Dominican Republic,1023
+cpr_prv_ecu,Previous residence: Ecuador,1024
+cpr_prv_est,Previous residence: Estonia,1025
+cpr_prv_fin,Previous residence: Finland,1026
+cpr_prv_fra,Previous residence: France,1027
+cpr_prv_deu,Previous residence: Germany,1028
+cpr_prv_de2,"Previous residence: Germany, Fed. Rep. of before 3.10.1990",1029
+cpr_prv_gib,Previous residence: Gibraltar,1030
+cpr_prv_grc,Previous residence: Greece,1031
+cpr_prv_hun,Previous residence: Hungary,1032
+cpr_prv_isl,Previous residence: Iceland,1033
+cpr_prv_ind,Previous residence: India,1034
+cpr_prv_irl,Previous residence: Ireland,1035
+cpr_prv_isr,Previous residence: Israel,1036
+cpr_prv_ita,Previous residence: Italy,1037
+cpr_prv_jpn,Previous residence: Japan,1038
+cpr_prv_kir,Previous residence: Kiribati,1039
+cpr_prv_kor,"Previous residence: Korea, Republic of",1040
+cpr_prv_kos,Previous residence: Kosovo,1041
+cpr_prv_kgz,Previous residence: Kyrgyzstan,1042
+cpr_prv_lbr,Previous residence: Liberia,1043
+cpr_prv_lux,Previous residence: Luxembourg,1044
+cpr_prv_mkd,"Previous residence: Macedonia, The former Yugoslav Rep. of",1045
+cpr_prv_mys,Previous residence: Malaysia,1046
+cpr_prv_mli,Previous residence: Mali,1047
+cpr_prv_mlt,Previous residence: Malta,1048
+cpr_prv_mex,Previous residence: Mexico,1049
+cpr_prv_mda,"Previous residence: Moldova, Republic of",1050
+cpr_prv_mar,Previous residence: Morocco,1051
+cpr_prv_nld,Previous residence: Netherlands,1052
+cpr_prv_ant,Previous residence: Netherlands Antilles,1053
+cpr_prv_nzl,Previous residence: New Zealand,1054
+cpr_prv_nor,Previous residence: Norway,1055
+cpr_prv_png,Previous residence: Papua New Guinea,1056
+cpr_prv_per,Previous residence: Peru,1057
+cpr_prv_phl,Previous residence: Philippines,1058
+cpr_prv_prt,Previous residence: Portugal,1059
+cpr_prv_rus,Previous residence: Russian Federation,1060
+cpr_prv_rwa,Previous residence: Rwanda,1061
+cpr_prv_sau,Previous residence: Saudi Arabia,1062
+cpr_prv_sen,Previous residence: Senegal,1063
+cpr_prv_srb,Previous residence: Serbia,1064
+cpr_prv_sle,Previous residence: Sierra Leone,1065
+cpr_prv_sgp,Previous residence: Singapore,1066
+cpr_prv_svk,Previous residence: Slovakia,1067
+cpr_prv_svn,Previous residence: Slovenia,1068
+cpr_prv_zaf,Previous residence: South Africa,1069
+cpr_prv_esp,Previous residence: Spain,1070
+cpr_prv_sdn,"Previous residence: Sudan, The Republic of",1071
+cpr_prv_swe,Previous residence: Sweden,1072
+cpr_prv_che,Previous residence: Switzerland,1073
+cpr_prv_tha,Previous residence: Thailand,1074
+cpr_prv_ton,Previous residence: Tonga,1075
+cpr_prv_tun,Previous residence: Tunisia,1076
+cpr_prv_tur,Previous residence: Turkey,1077
+cpr_prv_ukr,Previous residence: Ukraine,1078
+cpr_prv_are,Previous residence: United Arab Emirates,1079
+cpr_prv_gbr,Previous residence: United Kingdom,1080
+cpr_prv_usa,Previous residence: United States,1081
+cpr_prv_uzb,Previous residence: Uzbekistan,1082
+cpr_prv_vut,Previous residence: Vanuatu,1083
+cpr_prv_ven,"Previous residence: Venezuela, Bolivarian Rep. of",1084
+cpr_prv_yem,Previous residence: Yemen,1085
+cpr_prv_eur,Previous residence: Europe,1086
+cpr_prv_usacan,Previous residence: United States and Canada,1087
+cpr_prv_x,Previous residence: Other countries,1088
+cds_des_total,Destination: Total,1089
+cds_des_aus,Destination: Australia,1090
+cds_des_aut,Destination: Austria,1091
+cds_des_bhr,Destination: Bahrain,1092
+cds_des_blr,Destination: Belarus,1093
+cds_des_ben,Destination: Benin,1094
+cds_des_bih,Destination: Bosnia and Herzegovina,1095
+cds_des_bfa,Destination: Burkina Faso,1096
+cds_des_can,Destination: Canada,1097
+cds_des_chn,Destination: China,1098
+cds_des_hrv,Destination: Croatia,1099
+cds_des_cze,Destination: Czech Republic,1100
+cds_des_civ,Destination: Côte d'Ivoire,1101
+cds_des_ecu,Destination: Ecuador,1102
+cds_des_fra,Destination: France,1103
+cds_des_gmb,Destination: Gambia,1104
+cds_des_deu,Destination: Germany,1105
+cds_des_gha,Destination: Ghana,1106
+cds_des_gnb,Destination: Guinea-Bissau,1107
+cds_des_hkg,"Destination: Hong Kong, China",1108
+cds_des_ind,Destination: India,1109
+cds_des_irl,Destination: Ireland,1110
+cds_des_isr,Destination: Israel,1111
+cds_des_ita,Destination: Italy,1112
+cds_des_jpn,Destination: Japan,1113
+cds_des_kaz,Destination: Kazakhstan,1114
+cds_des_kor,"Destination: Korea, Republic of",1115
+cds_des_kwt,Destination: Kuwait,1116
+cds_des_lbr,Destination: Liberia,1117
+cds_des_lux,Destination: Luxembourg,1118
+cds_des_mys,Destination: Malaysia,1119
+cds_des_nld,Destination: Netherlands,1120
+cds_des_nzl,Destination: New Zealand,1121
+cds_des_nga,Destination: Nigeria,1122
+cds_des_omn,Destination: Oman,1123
+cds_des_pol,Destination: Poland,1124
+cds_des_qat,Destination: Qatar,1125
+cds_des_rou,Destination: Romania,1126
+cds_des_rus,Destination: Russian Federation,1127
+cds_des_sau,Destination: Saudi Arabia,1128
+cds_des_sen,Destination: Senegal,1129
+cds_des_srb,Destination: Serbia,1130
+cds_des_sgp,Destination: Singapore,1131
+cds_des_esp,Destination: Spain,1132
+cds_des_swe,Destination: Sweden,1133
+cds_des_che,Destination: Switzerland,1134
+cds_des_twn,"Destination: Taiwan, China",1135
+cds_des_tha,Destination: Thailand,1136
+cds_des_tur,Destination: Turkey,1137
+cds_des_ukr,Destination: Ukraine,1138
+cds_des_are,Destination: United Arab Emirates,1139
+cds_des_gbr,Destination: United Kingdom,1140
+cds_des_usa,Destination: United States,1141
+cds_des_uzb,Destination: Uzbekistan,1142
+cds_des_eur,Destination: Europe,1143
+cds_des_x,Destination: Other countries,1144
