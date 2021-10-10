@@ -5641,6 +5641,15 @@ irq,sex_t,ins_sector_pub,2007,2381.564
 irq,sex_t,ins_sector_pub,2012,2917.835
 irq,sex_t,ins_sector_total,2007,6904.887
 irq,sex_t,ins_sector_total,2012,7613.335
+isr,sex_f,ins_sector_pri,2020,636.18
+isr,sex_f,ins_sector_pub,2020,1247.579
+isr,sex_f,ins_sector_total,2020,1883.758
+isr,sex_m,ins_sector_pri,2020,409.145
+isr,sex_m,ins_sector_pub,2020,1620.522
+isr,sex_m,ins_sector_total,2020,2029.666
+isr,sex_t,ins_sector_pri,2020,1045.325
+isr,sex_t,ins_sector_pub,2020,2868.1
+isr,sex_t,ins_sector_total,2020,3913.425
 jam,sex_f,ins_sector_pri,2017,444.934
 jam,sex_f,ins_sector_pub,2017,88.491
 jam,sex_f,ins_sector_total,2017,533.425
@@ -11165,6 +11174,7 @@ ven,sex_f,ins_sector_pri,2012,3464.897
 ven,sex_f,ins_sector_pri,2013,3656.72
 ven,sex_f,ins_sector_pri,2016,3600.463
 ven,sex_f,ins_sector_pri,2017,4178.927
+ven,sex_f,ins_sector_pri,2020,3851.265
 ven,sex_f,ins_sector_pub,2005,933.207
 ven,sex_f,ins_sector_pub,2006,1053.718
 ven,sex_f,ins_sector_pub,2007,1107.542
@@ -11176,6 +11186,7 @@ ven,sex_f,ins_sector_pub,2012,1398.544
 ven,sex_f,ins_sector_pub,2013,1420.605
 ven,sex_f,ins_sector_pub,2016,1519.774
 ven,sex_f,ins_sector_pub,2017,1706.049
+ven,sex_f,ins_sector_pub,2020,1513.513
 ven,sex_f,ins_sector_total,2005,3956.855
 ven,sex_f,ins_sector_total,2006,4219.857
 ven,sex_f,ins_sector_total,2007,4373.334
@@ -11187,6 +11198,7 @@ ven,sex_f,ins_sector_total,2012,4863.441
 ven,sex_f,ins_sector_total,2013,5077.325
 ven,sex_f,ins_sector_total,2016,5120.237
 ven,sex_f,ins_sector_total,2017,5884.976
+ven,sex_f,ins_sector_total,2020,5364.778
 ven,sex_m,ins_sector_pri,2005,5741.59
 ven,sex_m,ins_sector_pri,2006,6015.757
 ven,sex_m,ins_sector_pri,2007,6136.616
@@ -11198,6 +11210,7 @@ ven,sex_m,ins_sector_pri,2012,6418.247
 ven,sex_m,ins_sector_pri,2013,6693.381
 ven,sex_m,ins_sector_pri,2016,6612.512
 ven,sex_m,ins_sector_pri,2017,7286.924
+ven,sex_m,ins_sector_pri,2020,6407.376
 ven,sex_m,ins_sector_pub,2005,706.267
 ven,sex_m,ins_sector_pub,2006,781.051
 ven,sex_m,ins_sector_pub,2007,840.083
@@ -11209,6 +11222,7 @@ ven,sex_m,ins_sector_pub,2012,1136.63
 ven,sex_m,ins_sector_pub,2013,1177.362
 ven,sex_m,ins_sector_pub,2016,1302.742
 ven,sex_m,ins_sector_pub,2017,1408.385
+ven,sex_m,ins_sector_pub,2020,1779.251
 ven,sex_m,ins_sector_total,2005,6447.857
 ven,sex_m,ins_sector_total,2006,6796.808
 ven,sex_m,ins_sector_total,2007,6976.699
@@ -11220,6 +11234,7 @@ ven,sex_m,ins_sector_total,2012,7554.877
 ven,sex_m,ins_sector_total,2013,7870.743
 ven,sex_m,ins_sector_total,2016,7915.254
 ven,sex_m,ins_sector_total,2017,8695.309
+ven,sex_m,ins_sector_total,2020,8186.627
 ven,sex_t,ins_sector_pri,2005,8765.239
 ven,sex_t,ins_sector_pri,2006,9181.897
 ven,sex_t,ins_sector_pri,2007,9402.408
@@ -11231,6 +11246,7 @@ ven,sex_t,ins_sector_pri,2012,9883.144
 ven,sex_t,ins_sector_pri,2013,10350.101
 ven,sex_t,ins_sector_pri,2016,10212.975
 ven,sex_t,ins_sector_pri,2017,11465.851
+ven,sex_t,ins_sector_pri,2020,10258.641
 ven,sex_t,ins_sector_pub,2005,1639.474
 ven,sex_t,ins_sector_pub,2006,1834.769
 ven,sex_t,ins_sector_pub,2007,1947.625
@@ -11242,6 +11258,7 @@ ven,sex_t,ins_sector_pub,2012,2535.174
 ven,sex_t,ins_sector_pub,2013,2597.967
 ven,sex_t,ins_sector_pub,2016,2822.516
 ven,sex_t,ins_sector_pub,2017,3114.434
+ven,sex_t,ins_sector_pub,2020,3292.764
 ven,sex_t,ins_sector_total,2005,10404.712
 ven,sex_t,ins_sector_total,2006,11016.665
 ven,sex_t,ins_sector_total,2007,11350.032
@@ -11253,6 +11270,7 @@ ven,sex_t,ins_sector_total,2012,12418.318
 ven,sex_t,ins_sector_total,2013,12948.068
 ven,sex_t,ins_sector_total,2016,13035.491
 ven,sex_t,ins_sector_total,2017,14580.285
+ven,sex_t,ins_sector_total,2020,13551.405
 vnm,sex_f,ins_sector_pri,2007,20326.6
 vnm,sex_f,ins_sector_pri,2009,21157.252
 vnm,sex_f,ins_sector_pri,2010,21789.945

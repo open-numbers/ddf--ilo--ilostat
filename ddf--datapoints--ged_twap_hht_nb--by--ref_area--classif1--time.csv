@@ -19,16 +19,22 @@ afg,hht_aggregate_total,2017,7366.845
 afg,hht_aggregate_total,2020,8174.59
 ago,hht_aggregate_c,2011,105.187
 ago,hht_aggregate_c,2014,186.277
+ago,hht_aggregate_c,2019,89.836
 ago,hht_aggregate_e,2011,1602.438
 ago,hht_aggregate_e,2014,2723.787
+ago,hht_aggregate_e,2019,867.431
 ago,hht_aggregate_k,2011,2607.782
 ago,hht_aggregate_k,2014,2616.08
+ago,hht_aggregate_k,2019,1342.827
 ago,hht_aggregate_l,2011,232.511
 ago,hht_aggregate_l,2014,541.225
+ago,hht_aggregate_l,2019,206.416
 ago,hht_aggregate_o,2011,65.345
 ago,hht_aggregate_o,2014,317.393
+ago,hht_aggregate_o,2019,118.532
 ago,hht_aggregate_total,2011,4613.263
 ago,hht_aggregate_total,2014,6384.763
+ago,hht_aggregate_total,2019,2625.042
 alb,hht_aggregate_c,2012,42.375
 alb,hht_aggregate_c,2018,36.847
 alb,hht_aggregate_c,2019,37.764
@@ -1523,6 +1529,7 @@ hnd,hht_aggregate_c,2016,70.266
 hnd,hht_aggregate_c,2017,78.187
 hnd,hht_aggregate_c,2018,96.694
 hnd,hht_aggregate_c,2019,93.158
+hnd,hht_aggregate_c,2020,156.38
 hnd,hht_aggregate_e,2013,945.102
 hnd,hht_aggregate_e,2014,910.383
 hnd,hht_aggregate_e,2015,910.38
@@ -1530,6 +1537,7 @@ hnd,hht_aggregate_e,2016,960.558
 hnd,hht_aggregate_e,2017,940.412
 hnd,hht_aggregate_e,2018,1060.268
 hnd,hht_aggregate_e,2019,1053.888
+hnd,hht_aggregate_e,2020,1130.724
 hnd,hht_aggregate_k,2013,1078.64
 hnd,hht_aggregate_k,2014,1138.067
 hnd,hht_aggregate_k,2015,1199.466
@@ -1537,6 +1545,7 @@ hnd,hht_aggregate_k,2016,1239.217
 hnd,hht_aggregate_k,2017,1285.421
 hnd,hht_aggregate_k,2018,1245.144
 hnd,hht_aggregate_k,2019,1239.881
+hnd,hht_aggregate_k,2020,1329.204
 hnd,hht_aggregate_l,2013,144.681
 hnd,hht_aggregate_l,2014,161.833
 hnd,hht_aggregate_l,2015,158.895
@@ -1544,6 +1553,7 @@ hnd,hht_aggregate_l,2016,146.205
 hnd,hht_aggregate_l,2017,159.669
 hnd,hht_aggregate_l,2018,149.526
 hnd,hht_aggregate_l,2019,180.816
+hnd,hht_aggregate_l,2020,225.81
 hnd,hht_aggregate_o,2013,34.341
 hnd,hht_aggregate_o,2014,46.255
 hnd,hht_aggregate_o,2015,38.762
@@ -1551,6 +1561,7 @@ hnd,hht_aggregate_o,2016,42.92
 hnd,hht_aggregate_o,2017,36.84
 hnd,hht_aggregate_o,2018,46.616
 hnd,hht_aggregate_o,2019,48.336
+hnd,hht_aggregate_o,2020,131.717
 hnd,hht_aggregate_total,2013,2283.47
 hnd,hht_aggregate_total,2014,2349.524
 hnd,hht_aggregate_total,2015,2382.095
@@ -1558,6 +1569,7 @@ hnd,hht_aggregate_total,2016,2459.166
 hnd,hht_aggregate_total,2017,2500.529
 hnd,hht_aggregate_total,2018,2598.247
 hnd,hht_aggregate_total,2019,2616.079
+hnd,hht_aggregate_total,2020,2973.836
 hrv,hht_aggregate_c,2010,108.946
 hrv,hht_aggregate_c,2011,97.839
 hrv,hht_aggregate_c,2012,89.978
@@ -1688,26 +1700,32 @@ ind,hht_aggregate_c,2010,18613.881
 ind,hht_aggregate_c,2012,18980.985
 ind,hht_aggregate_c,2018,19230.857
 ind,hht_aggregate_c,2019,20484.654
+ind,hht_aggregate_c,2020,21126.607
 ind,hht_aggregate_e,2010,159835.414
 ind,hht_aggregate_e,2012,170313.564
 ind,hht_aggregate_e,2018,174534.336
 ind,hht_aggregate_e,2019,174103.849
+ind,hht_aggregate_e,2020,183169.826
 ind,hht_aggregate_k,2010,192285.934
 ind,hht_aggregate_k,2012,209284.304
 ind,hht_aggregate_k,2018,206808.736
 ind,hht_aggregate_k,2019,207643.672
+ind,hht_aggregate_k,2020,211982.338
 ind,hht_aggregate_l,2010,10108.009
 ind,hht_aggregate_l,2012,11144.234
 ind,hht_aggregate_l,2018,12404.69
 ind,hht_aggregate_l,2019,13119.796
+ind,hht_aggregate_l,2020,13494.718
 ind,hht_aggregate_o,2010,6278.581
 ind,hht_aggregate_o,2012,6880.537
 ind,hht_aggregate_o,2018,5048.155
 ind,hht_aggregate_o,2019,5207.028
+ind,hht_aggregate_o,2020,6177.141
 ind,hht_aggregate_total,2010,387121.82
 ind,hht_aggregate_total,2012,416603.624
 ind,hht_aggregate_total,2018,418026.773
 ind,hht_aggregate_total,2019,420559
+ind,hht_aggregate_total,2020,435950.63
 irl,hht_aggregate_c,2010,279.777
 irl,hht_aggregate_c,2011,271.869
 irl,hht_aggregate_c,2012,264.98
@@ -2216,8 +2234,8 @@ mex,hht_aggregate_c,2016,2672.722
 mex,hht_aggregate_c,2017,2756.232
 mex,hht_aggregate_c,2018,2848.652
 mex,hht_aggregate_c,2019,2876.159
-mex,hht_aggregate_c,2020,3346.116
-mex,hht_aggregate_c,2021,3143.474
+mex,hht_aggregate_c,2020,3348.82
+mex,hht_aggregate_c,2021,3108.424
 mex,hht_aggregate_e,2010,12842.181
 mex,hht_aggregate_e,2011,13025.224
 mex,hht_aggregate_e,2012,13314.991
@@ -2228,8 +2246,8 @@ mex,hht_aggregate_e,2016,14821.126
 mex,hht_aggregate_e,2017,15103.859
 mex,hht_aggregate_e,2018,15470.945
 mex,hht_aggregate_e,2019,16134.929
-mex,hht_aggregate_e,2020,15357.906
-mex,hht_aggregate_e,2021,15495.315
+mex,hht_aggregate_e,2020,15285.713
+mex,hht_aggregate_e,2021,15720.386
 mex,hht_aggregate_k,2010,21933.128
 mex,hht_aggregate_k,2011,22143.083
 mex,hht_aggregate_k,2012,22259.67
@@ -2240,8 +2258,8 @@ mex,hht_aggregate_k,2016,22701.898
 mex,hht_aggregate_k,2017,22751.827
 mex,hht_aggregate_k,2018,22701.624
 mex,hht_aggregate_k,2019,22219.653
-mex,hht_aggregate_k,2020,22306.333
-mex,hht_aggregate_k,2021,22701.792
+mex,hht_aggregate_k,2020,22261.627
+mex,hht_aggregate_k,2021,22459.705
 mex,hht_aggregate_l,2010,2133.994
 mex,hht_aggregate_l,2011,2105.388
 mex,hht_aggregate_l,2012,2137.615
@@ -2252,8 +2270,8 @@ mex,hht_aggregate_l,2016,2291.871
 mex,hht_aggregate_l,2017,2342.281
 mex,hht_aggregate_l,2018,2354.313
 mex,hht_aggregate_l,2019,2415.883
-mex,hht_aggregate_l,2020,3016.754
-mex,hht_aggregate_l,2021,2670.665
+mex,hht_aggregate_l,2020,3007.81
+mex,hht_aggregate_l,2021,2672.118
 mex,hht_aggregate_o,2010,1070.017
 mex,hht_aggregate_o,2011,1138.678
 mex,hht_aggregate_o,2012,1155.065
@@ -2264,8 +2282,8 @@ mex,hht_aggregate_o,2016,1251.985
 mex,hht_aggregate_o,2017,1270.928
 mex,hht_aggregate_o,2018,1305.468
 mex,hht_aggregate_o,2019,1341.025
-mex,hht_aggregate_o,2020,2077.498
-mex,hht_aggregate_o,2021,1695.631
+mex,hht_aggregate_o,2020,2078.786
+mex,hht_aggregate_o,2021,1679.8
 mex,hht_aggregate_total,2010,40021.202
 mex,hht_aggregate_total,2011,40585.497
 mex,hht_aggregate_total,2012,41077.562
@@ -2276,8 +2294,8 @@ mex,hht_aggregate_total,2016,43739.602
 mex,hht_aggregate_total,2017,44225.128
 mex,hht_aggregate_total,2018,44681.002
 mex,hht_aggregate_total,2019,44987.649
-mex,hht_aggregate_total,2020,46104.607
-mex,hht_aggregate_total,2021,45706.877
+mex,hht_aggregate_total,2020,45982.756
+mex,hht_aggregate_total,2021,45640.434
 mhl,hht_aggregate_c,2019,3.203
 mhl,hht_aggregate_e,2019,9.998
 mhl,hht_aggregate_k,2019,6.553
@@ -3044,6 +3062,7 @@ rou,hht_aggregate_c,2016,923.971
 rou,hht_aggregate_c,2017,918.285
 rou,hht_aggregate_c,2018,883.534
 rou,hht_aggregate_c,2019,880.78
+rou,hht_aggregate_c,2020,926.51
 rou,hht_aggregate_e,2010,1709.713
 rou,hht_aggregate_e,2011,1940.291
 rou,hht_aggregate_e,2012,1992.594
@@ -3054,6 +3073,7 @@ rou,hht_aggregate_e,2016,2143.488
 rou,hht_aggregate_e,2017,2064.611
 rou,hht_aggregate_e,2018,2030.681
 rou,hht_aggregate_e,2019,2041.666
+rou,hht_aggregate_e,2020,1982.099
 rou,hht_aggregate_k,2010,3956.925
 rou,hht_aggregate_k,2011,3896.514
 rou,hht_aggregate_k,2012,3752.738
@@ -3064,6 +3084,7 @@ rou,hht_aggregate_k,2016,3576.351
 rou,hht_aggregate_k,2017,3578.987
 rou,hht_aggregate_k,2018,3606.278
 rou,hht_aggregate_k,2019,3616.959
+rou,hht_aggregate_k,2020,3555.499
 rou,hht_aggregate_l,2010,244.053
 rou,hht_aggregate_l,2011,240.048
 rou,hht_aggregate_l,2012,233.431
@@ -3074,6 +3095,7 @@ rou,hht_aggregate_l,2016,247.732
 rou,hht_aggregate_l,2017,246.262
 rou,hht_aggregate_l,2018,239.884
 rou,hht_aggregate_l,2019,241.152
+rou,hht_aggregate_l,2020,245.848
 rou,hht_aggregate_o,2010,395.721
 rou,hht_aggregate_o,2011,425.486
 rou,hht_aggregate_o,2012,443.362
@@ -3084,6 +3106,7 @@ rou,hht_aggregate_o,2016,515.71
 rou,hht_aggregate_o,2017,536.34
 rou,hht_aggregate_o,2018,557.966
 rou,hht_aggregate_o,2019,559.794
+rou,hht_aggregate_o,2020,578.708
 rou,hht_aggregate_total,2010,7262.642
 rou,hht_aggregate_total,2011,7364.034
 rou,hht_aggregate_total,2012,7247.365
@@ -3094,6 +3117,7 @@ rou,hht_aggregate_total,2016,7407.252
 rou,hht_aggregate_total,2017,7344.484
 rou,hht_aggregate_total,2018,7318.342
 rou,hht_aggregate_total,2019,7340.351
+rou,hht_aggregate_total,2020,7288.664
 rwa,hht_aggregate_c,2014,88.769
 rwa,hht_aggregate_c,2017,92.836
 rwa,hht_aggregate_c,2018,93.107
@@ -3146,6 +3170,7 @@ slv,hht_aggregate_c,2016,114.402
 slv,hht_aggregate_c,2017,123.813
 slv,hht_aggregate_c,2018,121.717
 slv,hht_aggregate_c,2019,134.274
+slv,hht_aggregate_c,2020,127.854
 slv,hht_aggregate_e,2010,717.933
 slv,hht_aggregate_e,2011,715.85
 slv,hht_aggregate_e,2012,746.341
@@ -3156,6 +3181,7 @@ slv,hht_aggregate_e,2016,805.773
 slv,hht_aggregate_e,2017,812.668
 slv,hht_aggregate_e,2018,814.178
 slv,hht_aggregate_e,2019,837.042
+slv,hht_aggregate_e,2020,773.498
 slv,hht_aggregate_k,2010,940.084
 slv,hht_aggregate_k,2011,986.46
 slv,hht_aggregate_k,2012,962.276
@@ -3166,6 +3192,7 @@ slv,hht_aggregate_k,2016,1025.415
 slv,hht_aggregate_k,2017,1039.079
 slv,hht_aggregate_k,2018,1049.531
 slv,hht_aggregate_k,2019,1050.934
+slv,hht_aggregate_k,2020,1046.383
 slv,hht_aggregate_l,2010,157.279
 slv,hht_aggregate_l,2011,154.026
 slv,hht_aggregate_l,2012,151.669
@@ -3176,6 +3203,7 @@ slv,hht_aggregate_l,2016,160.813
 slv,hht_aggregate_l,2017,164.836
 slv,hht_aggregate_l,2018,171.345
 slv,hht_aggregate_l,2019,178.177
+slv,hht_aggregate_l,2020,168.975
 slv,hht_aggregate_o,2010,52.024
 slv,hht_aggregate_o,2011,54.248
 slv,hht_aggregate_o,2012,55.455
@@ -3186,6 +3214,7 @@ slv,hht_aggregate_o,2016,62.568
 slv,hht_aggregate_o,2017,70.867
 slv,hht_aggregate_o,2018,71.407
 slv,hht_aggregate_o,2019,84.514
+slv,hht_aggregate_o,2020,76.945
 slv,hht_aggregate_total,2010,1957.928
 slv,hht_aggregate_total,2011,2002.009
 slv,hht_aggregate_total,2012,2014.408
@@ -3196,6 +3225,7 @@ slv,hht_aggregate_total,2016,2168.971
 slv,hht_aggregate_total,2017,2211.263
 slv,hht_aggregate_total,2018,2228.178
 slv,hht_aggregate_total,2019,2284.941
+slv,hht_aggregate_total,2020,2193.655
 srb,hht_aggregate_c,2010,147.218
 srb,hht_aggregate_c,2011,146.646
 srb,hht_aggregate_c,2016,150.811
