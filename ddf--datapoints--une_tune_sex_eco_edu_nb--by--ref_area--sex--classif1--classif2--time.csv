@@ -2751,7 +2751,9 @@ bfa,sex_t,eco_sector_total,edu_aggregate_ltb,2018,37.678
 bfa,sex_t,eco_sector_total,edu_aggregate_total,2018,50.22
 bfa,sex_t,eco_sector_x,edu_aggregate_ltb,2018,4.225
 bfa,sex_t,eco_sector_x,edu_aggregate_total,2018,4.719
+bih,sex_f,eco_aggregate_agr,edu_aggregate_adv,2020,0.075
 bih,sex_f,eco_aggregate_agr,edu_aggregate_bas,2006,0.229
+bih,sex_f,eco_aggregate_agr,edu_aggregate_bas,2020,0.069
 bih,sex_f,eco_aggregate_agr,edu_aggregate_int,2006,0.467
 bih,sex_f,eco_aggregate_agr,edu_aggregate_int,2007,0.758
 bih,sex_f,eco_aggregate_agr,edu_aggregate_int,2009,1.263
@@ -2775,6 +2777,7 @@ bih,sex_f,eco_aggregate_agr,edu_aggregate_total,2016,0.954
 bih,sex_f,eco_aggregate_agr,edu_aggregate_total,2017,0.996
 bih,sex_f,eco_aggregate_agr,edu_aggregate_total,2020,0.479
 bih,sex_f,eco_aggregate_con,edu_aggregate_bas,2006,0.113
+bih,sex_f,eco_aggregate_con,edu_aggregate_bas,2020,0.069
 bih,sex_f,eco_aggregate_con,edu_aggregate_int,2006,0.589
 bih,sex_f,eco_aggregate_con,edu_aggregate_int,2007,1.301
 bih,sex_f,eco_aggregate_con,edu_aggregate_int,2009,0.723
@@ -2831,6 +2834,7 @@ bih,sex_f,eco_aggregate_man,edu_aggregate_ltb,2012,1.433
 bih,sex_f,eco_aggregate_man,edu_aggregate_ltb,2013,0.965
 bih,sex_f,eco_aggregate_man,edu_aggregate_ltb,2014,0.809
 bih,sex_f,eco_aggregate_man,edu_aggregate_ltb,2015,1.029
+bih,sex_f,eco_aggregate_man,edu_aggregate_ltb,2020,0.261
 bih,sex_f,eco_aggregate_man,edu_aggregate_total,2006,25.07
 bih,sex_f,eco_aggregate_man,edu_aggregate_total,2007,23.001
 bih,sex_f,eco_aggregate_man,edu_aggregate_total,2008,18.105
@@ -2849,12 +2853,14 @@ bih,sex_f,eco_aggregate_man,edu_aggregate_total,2020,7.892
 bih,sex_f,eco_aggregate_mel,edu_aggregate_bas,2006,0.114
 bih,sex_f,eco_aggregate_mel,edu_aggregate_int,2006,0.113
 bih,sex_f,eco_aggregate_mel,edu_aggregate_int,2007,0.6
+bih,sex_f,eco_aggregate_mel,edu_aggregate_int,2020,0.15
 bih,sex_f,eco_aggregate_mel,edu_aggregate_ltb,2006,0.113
 bih,sex_f,eco_aggregate_mel,edu_aggregate_total,2006,0.34
 bih,sex_f,eco_aggregate_mel,edu_aggregate_total,2007,0.747
 bih,sex_f,eco_aggregate_mel,edu_aggregate_total,2008,0.753
 bih,sex_f,eco_aggregate_mel,edu_aggregate_total,2012,0.608
 bih,sex_f,eco_aggregate_mel,edu_aggregate_total,2013,0.558
+bih,sex_f,eco_aggregate_mel,edu_aggregate_total,2020,0.15
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_adv,2011,0.649
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_adv,2012,1.982
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_adv,2013,1.07
@@ -2901,6 +2907,7 @@ bih,sex_f,eco_aggregate_mkt,edu_aggregate_ltb,2013,0.792
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_ltb,2014,0.673
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_ltb,2015,0.832
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_ltb,2016,0.97
+bih,sex_f,eco_aggregate_mkt,edu_aggregate_ltb,2020,0.03
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_total,2006,23.583
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_total,2007,22.223
 bih,sex_f,eco_aggregate_mkt,edu_aggregate_total,2008,17.054
@@ -3043,13 +3050,17 @@ bih,sex_f,eco_aggregate_total,edu_aggregate_total,2018,26.17
 bih,sex_f,eco_aggregate_total,edu_aggregate_total,2019,28.035
 bih,sex_f,eco_aggregate_total,edu_aggregate_total,2020,39.021
 bih,sex_f,eco_aggregate_x,edu_aggregate_adv,2010,1.553
+bih,sex_f,eco_aggregate_x,edu_aggregate_adv,2020,0.195
 bih,sex_f,eco_aggregate_x,edu_aggregate_bas,2010,5.166
+bih,sex_f,eco_aggregate_x,edu_aggregate_bas,2020,0.005
 bih,sex_f,eco_aggregate_x,edu_aggregate_int,2010,38.933
 bih,sex_f,eco_aggregate_x,edu_aggregate_int,2020,0.357
 bih,sex_f,eco_aggregate_x,edu_aggregate_ltb,2010,2.926
 bih,sex_f,eco_aggregate_x,edu_aggregate_total,2010,48.578
 bih,sex_f,eco_aggregate_x,edu_aggregate_total,2020,0.558
+bih,sex_f,eco_sector_agr,edu_aggregate_adv,2020,0.075
 bih,sex_f,eco_sector_agr,edu_aggregate_bas,2006,0.229
+bih,sex_f,eco_sector_agr,edu_aggregate_bas,2020,0.069
 bih,sex_f,eco_sector_agr,edu_aggregate_int,2006,0.467
 bih,sex_f,eco_sector_agr,edu_aggregate_int,2007,0.758
 bih,sex_f,eco_sector_agr,edu_aggregate_int,2009,1.263
@@ -3113,6 +3124,7 @@ bih,sex_f,eco_sector_ind,edu_aggregate_ltb,2012,1.433
 bih,sex_f,eco_sector_ind,edu_aggregate_ltb,2013,1.119
 bih,sex_f,eco_sector_ind,edu_aggregate_ltb,2014,0.937
 bih,sex_f,eco_sector_ind,edu_aggregate_ltb,2015,1.029
+bih,sex_f,eco_sector_ind,edu_aggregate_ltb,2020,0.261
 bih,sex_f,eco_sector_ind,edu_aggregate_total,2006,26.342
 bih,sex_f,eco_sector_ind,edu_aggregate_total,2007,25.17
 bih,sex_f,eco_sector_ind,edu_aggregate_total,2008,19.318
@@ -3128,7 +3140,9 @@ bih,sex_f,eco_sector_ind,edu_aggregate_total,2017,10.488
 bih,sex_f,eco_sector_ind,edu_aggregate_total,2018,6.082
 bih,sex_f,eco_sector_ind,edu_aggregate_total,2019,9.211
 bih,sex_f,eco_sector_ind,edu_aggregate_total,2020,8.598
+bih,sex_f,eco_sector_nag,edu_aggregate_adv,2020,6.252
 bih,sex_f,eco_sector_nag,edu_aggregate_bas,2006,19.935
+bih,sex_f,eco_sector_nag,edu_aggregate_bas,2020,3.487
 bih,sex_f,eco_sector_nag,edu_aggregate_int,2006,28.307
 bih,sex_f,eco_sector_nag,edu_aggregate_int,2007,42.14
 bih,sex_f,eco_sector_nag,edu_aggregate_int,2009,30.928
@@ -3204,6 +3218,7 @@ bih,sex_f,eco_sector_ser,edu_aggregate_ltb,2014,0.673
 bih,sex_f,eco_sector_ser,edu_aggregate_ltb,2015,0.98
 bih,sex_f,eco_sector_ser,edu_aggregate_ltb,2016,1.128
 bih,sex_f,eco_sector_ser,edu_aggregate_ltb,2017,0.735
+bih,sex_f,eco_sector_ser,edu_aggregate_ltb,2020,0.03
 bih,sex_f,eco_sector_ser,edu_aggregate_total,2006,33.12
 bih,sex_f,eco_sector_ser,edu_aggregate_total,2007,31.2
 bih,sex_f,eco_sector_ser,edu_aggregate_total,2008,23.063
@@ -3292,7 +3307,9 @@ bih,sex_f,eco_sector_total,edu_aggregate_total,2018,26.17
 bih,sex_f,eco_sector_total,edu_aggregate_total,2019,28.035
 bih,sex_f,eco_sector_total,edu_aggregate_total,2020,39.021
 bih,sex_f,eco_sector_x,edu_aggregate_adv,2010,1.553
+bih,sex_f,eco_sector_x,edu_aggregate_adv,2020,0.195
 bih,sex_f,eco_sector_x,edu_aggregate_bas,2010,5.166
+bih,sex_f,eco_sector_x,edu_aggregate_bas,2020,0.005
 bih,sex_f,eco_sector_x,edu_aggregate_int,2010,38.933
 bih,sex_f,eco_sector_x,edu_aggregate_int,2020,0.357
 bih,sex_f,eco_sector_x,edu_aggregate_ltb,2010,2.926
@@ -3347,6 +3364,7 @@ bih,sex_m,eco_aggregate_agr,edu_aggregate_total,2017,1.453
 bih,sex_m,eco_aggregate_agr,edu_aggregate_total,2018,1.184
 bih,sex_m,eco_aggregate_agr,edu_aggregate_total,2019,0.968
 bih,sex_m,eco_aggregate_agr,edu_aggregate_total,2020,2.5
+bih,sex_m,eco_aggregate_con,edu_aggregate_adv,2020,0.213
 bih,sex_m,eco_aggregate_con,edu_aggregate_bas,2006,10.259
 bih,sex_m,eco_aggregate_con,edu_aggregate_bas,2007,6.758
 bih,sex_m,eco_aggregate_con,edu_aggregate_bas,2008,4.84
@@ -3446,6 +3464,7 @@ bih,sex_m,eco_aggregate_man,edu_aggregate_ltb,2014,1.125
 bih,sex_m,eco_aggregate_man,edu_aggregate_ltb,2015,1.002
 bih,sex_m,eco_aggregate_man,edu_aggregate_ltb,2016,0.543
 bih,sex_m,eco_aggregate_man,edu_aggregate_ltb,2019,0.693
+bih,sex_m,eco_aggregate_man,edu_aggregate_ltb,2020,0.209
 bih,sex_m,eco_aggregate_man,edu_aggregate_total,2006,38.572
 bih,sex_m,eco_aggregate_man,edu_aggregate_total,2007,35.31
 bih,sex_m,eco_aggregate_man,edu_aggregate_total,2008,26.181
@@ -3461,6 +3480,7 @@ bih,sex_m,eco_aggregate_man,edu_aggregate_total,2017,17.082
 bih,sex_m,eco_aggregate_man,edu_aggregate_total,2018,13.606
 bih,sex_m,eco_aggregate_man,edu_aggregate_total,2019,13.431
 bih,sex_m,eco_aggregate_man,edu_aggregate_total,2020,17.458
+bih,sex_m,eco_aggregate_mel,edu_aggregate_adv,2020,0.038
 bih,sex_m,eco_aggregate_mel,edu_aggregate_bas,2006,2.013
 bih,sex_m,eco_aggregate_mel,edu_aggregate_bas,2007,1.031
 bih,sex_m,eco_aggregate_mel,edu_aggregate_bas,2008,1.775
@@ -3490,6 +3510,7 @@ bih,sex_m,eco_aggregate_mel,edu_aggregate_ltb,2006,1.273
 bih,sex_m,eco_aggregate_mel,edu_aggregate_ltb,2007,0.828
 bih,sex_m,eco_aggregate_mel,edu_aggregate_ltb,2013,0.531
 bih,sex_m,eco_aggregate_mel,edu_aggregate_ltb,2015,0.472
+bih,sex_m,eco_aggregate_mel,edu_aggregate_ltb,2020,0.157
 bih,sex_m,eco_aggregate_mel,edu_aggregate_total,2006,5.065
 bih,sex_m,eco_aggregate_mel,edu_aggregate_total,2007,4.871
 bih,sex_m,eco_aggregate_mel,edu_aggregate_total,2008,4.037
@@ -3699,10 +3720,13 @@ bih,sex_m,eco_aggregate_total,edu_aggregate_total,2018,47.33
 bih,sex_m,eco_aggregate_total,edu_aggregate_total,2019,36.385
 bih,sex_m,eco_aggregate_total,edu_aggregate_total,2020,66.32
 bih,sex_m,eco_aggregate_x,edu_aggregate_adv,2010,1.353
+bih,sex_m,eco_aggregate_x,edu_aggregate_adv,2020,0.211
 bih,sex_m,eco_aggregate_x,edu_aggregate_bas,2010,12.444
+bih,sex_m,eco_aggregate_x,edu_aggregate_bas,2020,0.278
 bih,sex_m,eco_aggregate_x,edu_aggregate_int,2010,55.128
 bih,sex_m,eco_aggregate_x,edu_aggregate_int,2020,0.618
 bih,sex_m,eco_aggregate_x,edu_aggregate_ltb,2010,4.866
+bih,sex_m,eco_aggregate_x,edu_aggregate_ltb,2020,0.05
 bih,sex_m,eco_aggregate_x,edu_aggregate_total,2010,73.791
 bih,sex_m,eco_aggregate_x,edu_aggregate_total,2020,1.158
 bih,sex_m,eco_sector_agr,edu_aggregate_bas,2006,1.659
@@ -4010,12 +4034,16 @@ bih,sex_m,eco_sector_total,edu_aggregate_total,2018,47.33
 bih,sex_m,eco_sector_total,edu_aggregate_total,2019,36.385
 bih,sex_m,eco_sector_total,edu_aggregate_total,2020,66.32
 bih,sex_m,eco_sector_x,edu_aggregate_adv,2010,1.353
+bih,sex_m,eco_sector_x,edu_aggregate_adv,2020,0.211
 bih,sex_m,eco_sector_x,edu_aggregate_bas,2010,12.444
+bih,sex_m,eco_sector_x,edu_aggregate_bas,2020,0.278
 bih,sex_m,eco_sector_x,edu_aggregate_int,2010,55.128
 bih,sex_m,eco_sector_x,edu_aggregate_int,2020,0.618
 bih,sex_m,eco_sector_x,edu_aggregate_ltb,2010,4.866
+bih,sex_m,eco_sector_x,edu_aggregate_ltb,2020,0.05
 bih,sex_m,eco_sector_x,edu_aggregate_total,2010,73.791
 bih,sex_m,eco_sector_x,edu_aggregate_total,2020,1.158
+bih,sex_t,eco_aggregate_agr,edu_aggregate_adv,2020,0.075
 bih,sex_t,eco_aggregate_agr,edu_aggregate_bas,2006,1.888
 bih,sex_t,eco_aggregate_agr,edu_aggregate_bas,2007,2.144
 bih,sex_t,eco_aggregate_agr,edu_aggregate_bas,2008,1.377
@@ -4068,6 +4096,7 @@ bih,sex_t,eco_aggregate_agr,edu_aggregate_total,2018,1.588
 bih,sex_t,eco_aggregate_agr,edu_aggregate_total,2019,1.544
 bih,sex_t,eco_aggregate_agr,edu_aggregate_total,2020,2.978
 bih,sex_t,eco_aggregate_con,edu_aggregate_adv,2015,0.69
+bih,sex_t,eco_aggregate_con,edu_aggregate_adv,2020,0.213
 bih,sex_t,eco_aggregate_con,edu_aggregate_bas,2006,10.372
 bih,sex_t,eco_aggregate_con,edu_aggregate_bas,2007,6.758
 bih,sex_t,eco_aggregate_con,edu_aggregate_bas,2008,4.84
@@ -4190,6 +4219,7 @@ bih,sex_t,eco_aggregate_man,edu_aggregate_total,2017,26.582
 bih,sex_t,eco_aggregate_man,edu_aggregate_total,2018,18.927
 bih,sex_t,eco_aggregate_man,edu_aggregate_total,2019,22.247
 bih,sex_t,eco_aggregate_man,edu_aggregate_total,2020,25.35
+bih,sex_t,eco_aggregate_mel,edu_aggregate_adv,2020,0.038
 bih,sex_t,eco_aggregate_mel,edu_aggregate_bas,2006,2.127
 bih,sex_t,eco_aggregate_mel,edu_aggregate_bas,2007,1.031
 bih,sex_t,eco_aggregate_mel,edu_aggregate_bas,2008,2.051
@@ -4219,6 +4249,7 @@ bih,sex_t,eco_aggregate_mel,edu_aggregate_ltb,2006,1.385
 bih,sex_t,eco_aggregate_mel,edu_aggregate_ltb,2007,0.975
 bih,sex_t,eco_aggregate_mel,edu_aggregate_ltb,2013,0.555
 bih,sex_t,eco_aggregate_mel,edu_aggregate_ltb,2015,0.472
+bih,sex_t,eco_aggregate_mel,edu_aggregate_ltb,2020,0.157
 bih,sex_t,eco_aggregate_mel,edu_aggregate_total,2006,5.405
 bih,sex_t,eco_aggregate_mel,edu_aggregate_total,2007,5.618
 bih,sex_t,eco_aggregate_mel,edu_aggregate_total,2008,4.79
@@ -4448,8 +4479,10 @@ bih,sex_t,eco_aggregate_x,edu_aggregate_bas,2020,0.283
 bih,sex_t,eco_aggregate_x,edu_aggregate_int,2010,94.06
 bih,sex_t,eco_aggregate_x,edu_aggregate_int,2020,0.976
 bih,sex_t,eco_aggregate_x,edu_aggregate_ltb,2010,7.792
+bih,sex_t,eco_aggregate_x,edu_aggregate_ltb,2020,0.05
 bih,sex_t,eco_aggregate_x,edu_aggregate_total,2010,122.368
 bih,sex_t,eco_aggregate_x,edu_aggregate_total,2020,1.716
+bih,sex_t,eco_sector_agr,edu_aggregate_adv,2020,0.075
 bih,sex_t,eco_sector_agr,edu_aggregate_bas,2006,1.888
 bih,sex_t,eco_sector_agr,edu_aggregate_bas,2007,2.144
 bih,sex_t,eco_sector_agr,edu_aggregate_bas,2008,1.377
@@ -4572,6 +4605,7 @@ bih,sex_t,eco_sector_ind,edu_aggregate_total,2017,40.209
 bih,sex_t,eco_sector_ind,edu_aggregate_total,2018,31.793
 bih,sex_t,eco_sector_ind,edu_aggregate_total,2019,31.272
 bih,sex_t,eco_sector_ind,edu_aggregate_total,2020,44.168
+bih,sex_t,eco_sector_nag,edu_aggregate_adv,2020,10.781
 bih,sex_t,eco_sector_nag,edu_aggregate_bas,2006,69.761
 bih,sex_t,eco_sector_nag,edu_aggregate_bas,2007,26.452
 bih,sex_t,eco_sector_nag,edu_aggregate_bas,2008,21.739
@@ -4775,6 +4809,7 @@ bih,sex_t,eco_sector_x,edu_aggregate_bas,2020,0.283
 bih,sex_t,eco_sector_x,edu_aggregate_int,2010,94.06
 bih,sex_t,eco_sector_x,edu_aggregate_int,2020,0.976
 bih,sex_t,eco_sector_x,edu_aggregate_ltb,2010,7.792
+bih,sex_t,eco_sector_x,edu_aggregate_ltb,2020,0.05
 bih,sex_t,eco_sector_x,edu_aggregate_total,2010,122.368
 bih,sex_t,eco_sector_x,edu_aggregate_total,2020,1.716
 blz,sex_f,eco_aggregate_agr,edu_aggregate_bas,2015,0.111

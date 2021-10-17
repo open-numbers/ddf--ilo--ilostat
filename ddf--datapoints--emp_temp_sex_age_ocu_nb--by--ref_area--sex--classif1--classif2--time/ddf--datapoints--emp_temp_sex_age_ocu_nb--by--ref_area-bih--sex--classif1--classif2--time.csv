@@ -220,6 +220,8 @@ bih,sex_f,age_aggregate_total,ocu_skill_x,2007,2.738
 bih,sex_f,age_aggregate_total,ocu_skill_x,2008,2.078
 bih,sex_f,age_aggregate_total,ocu_skill_x,2009,2.247
 bih,sex_f,age_aggregate_total,ocu_skill_x,2020,0.808
+bih,sex_f,age_aggregate_y15_24,ocu_isco08_0,2020,0.199
+bih,sex_f,age_aggregate_y15_24,ocu_isco08_1,2020,0.141
 bih,sex_f,age_aggregate_y15_24,ocu_isco08_2,2010,0.782
 bih,sex_f,age_aggregate_y15_24,ocu_isco08_2,2011,1.473
 bih,sex_f,age_aggregate_y15_24,ocu_isco08_2,2012,1.045
@@ -416,6 +418,7 @@ bih,sex_f,age_aggregate_y15_24,ocu_skill_total,2018,20.212
 bih,sex_f,age_aggregate_y15_24,ocu_skill_total,2019,23.917
 bih,sex_f,age_aggregate_y15_24,ocu_skill_total,2020,32.058
 bih,sex_f,age_aggregate_y15_24,ocu_skill_x,2006,0.153
+bih,sex_f,age_aggregate_y15_24,ocu_skill_x,2020,0.199
 bih,sex_f,age_aggregate_y25_54,ocu_isco08_0,2020,0.418
 bih,sex_f,age_aggregate_y25_54,ocu_isco08_1,2010,4.981
 bih,sex_f,age_aggregate_y25_54,ocu_isco08_1,2011,4.011
@@ -845,6 +848,7 @@ bih,sex_f,age_aggregate_yge65,ocu_isco08_2,2018,0.972
 bih,sex_f,age_aggregate_yge65,ocu_isco08_2,2019,1.101
 bih,sex_f,age_aggregate_yge65,ocu_isco08_2,2020,0.277
 bih,sex_f,age_aggregate_yge65,ocu_isco08_3,2020,0.569
+bih,sex_f,age_aggregate_yge65,ocu_isco08_4,2020,0.067
 bih,sex_f,age_aggregate_yge65,ocu_isco08_5,2018,0.89
 bih,sex_f,age_aggregate_yge65,ocu_isco08_5,2019,0.774
 bih,sex_f,age_aggregate_yge65,ocu_isco08_5,2020,0.628
@@ -944,6 +948,8 @@ bih,sex_f,age_aggregate_yge65,ocu_skill_total,2017,12.347
 bih,sex_f,age_aggregate_yge65,ocu_skill_total,2018,11.961
 bih,sex_f,age_aggregate_yge65,ocu_skill_total,2019,17.783
 bih,sex_f,age_aggregate_yge65,ocu_skill_total,2020,13.794
+bih,sex_f,age_ythadult_y15_24,ocu_isco08_0,2020,0.199
+bih,sex_f,age_ythadult_y15_24,ocu_isco08_1,2020,0.141
 bih,sex_f,age_ythadult_y15_24,ocu_isco08_2,2010,0.782
 bih,sex_f,age_ythadult_y15_24,ocu_isco08_2,2011,1.473
 bih,sex_f,age_ythadult_y15_24,ocu_isco08_2,2012,1.045
@@ -1140,6 +1146,7 @@ bih,sex_f,age_ythadult_y15_24,ocu_skill_total,2018,20.212
 bih,sex_f,age_ythadult_y15_24,ocu_skill_total,2019,23.917
 bih,sex_f,age_ythadult_y15_24,ocu_skill_total,2020,32.058
 bih,sex_f,age_ythadult_y15_24,ocu_skill_x,2006,0.153
+bih,sex_f,age_ythadult_y15_24,ocu_skill_x,2020,0.199
 bih,sex_f,age_ythadult_y15_64,ocu_isco08_0,2020,0.808
 bih,sex_f,age_ythadult_y15_64,ocu_isco08_1,2010,5.796
 bih,sex_f,age_ythadult_y15_64,ocu_isco08_1,2011,4.91
@@ -2721,6 +2728,7 @@ bih,sex_m,age_aggregate_y55_64,ocu_skill_x,2007,2.169
 bih,sex_m,age_aggregate_y55_64,ocu_skill_x,2008,1.235
 bih,sex_m,age_aggregate_y55_64,ocu_skill_x,2020,0.333
 bih,sex_m,age_aggregate_yge65,ocu_isco08_1,2014,0.552
+bih,sex_m,age_aggregate_yge65,ocu_isco08_1,2020,0.108
 bih,sex_m,age_aggregate_yge65,ocu_isco08_2,2010,0.76
 bih,sex_m,age_aggregate_yge65,ocu_isco08_2,2014,1.801
 bih,sex_m,age_aggregate_yge65,ocu_isco08_2,2015,0.72
@@ -2731,6 +2739,7 @@ bih,sex_m,age_aggregate_yge65,ocu_isco08_2,2019,0.8
 bih,sex_m,age_aggregate_yge65,ocu_isco08_2,2020,0.639
 bih,sex_m,age_aggregate_yge65,ocu_isco08_3,2019,0.855
 bih,sex_m,age_aggregate_yge65,ocu_isco08_3,2020,0.393
+bih,sex_m,age_aggregate_yge65,ocu_isco08_4,2020,0.093
 bih,sex_m,age_aggregate_yge65,ocu_isco08_5,2011,0.597
 bih,sex_m,age_aggregate_yge65,ocu_isco08_5,2019,1.016
 bih,sex_m,age_aggregate_yge65,ocu_isco08_5,2020,0.893
@@ -4718,6 +4727,7 @@ bih,sex_t,age_aggregate_y55_64,ocu_skill_x,2008,1.408
 bih,sex_t,age_aggregate_y55_64,ocu_skill_x,2020,0.523
 bih,sex_t,age_aggregate_yge65,ocu_isco08_1,2014,0.552
 bih,sex_t,age_aggregate_yge65,ocu_isco08_1,2015,0.705
+bih,sex_t,age_aggregate_yge65,ocu_isco08_1,2020,0.108
 bih,sex_t,age_aggregate_yge65,ocu_isco08_2,2010,0.76
 bih,sex_t,age_aggregate_yge65,ocu_isco08_2,2011,0.561
 bih,sex_t,age_aggregate_yge65,ocu_isco08_2,2012,0.964
