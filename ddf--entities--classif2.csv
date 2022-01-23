@@ -420,76 +420,77 @@ oc2_isco88_x,"Occupation (ISCO-88), 2 digit level: Not elsewhere classified",418
 ins_sector_total,Institutional Sector: Total,419
 ins_sector_pub,Institutional Sector: Public,420
 ins_sector_pri,Institutional Sector: Private,421
-cla_ecocla_total,Economic class: Total,422
-cla_ecocla_usdlt2,Economic class: Extremely poor < USD 1.90 PPP,423
-cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 1.90 and < USD 3.20 PPP,424
-cla_ecocla_usdge3,Economic class: >= USD 3.20 PPP,425
-cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 3.20 and < USD 5.5 PPP,426
-cla_ecocla_usdge5,Economic class: >= USD 5.5 PPP,427
-job_contract_total,Contract type: Total,428
-job_contract_perm,Contract type: Permanent,429
-job_contract_temp,Contract type: Temporary,430
-job_contract_x,Contract type: Unknown,431
-job_time_total,Working time arrangement: Total,432
-job_time_part,Working time arrangement: Part-time,433
-job_time_full,Working time arrangement: Full-time,434
-job_time_x,Working time arrangement: Unknown,435
-how_bands_total,Hour bands: Total,436
-how_bands_h00,Hour bands: No hours actually worked,437
-how_bands_h01_14,Hour bands: 01-14,438
-how_bands_h15_24,Hour bands: 15-24,439
-how_bands_h15_29,Hour bands: 15-29,440
-how_bands_h25_34,Hour bands: 25-34,441
-how_bands_h30_34,Hour bands: 30-34,442
-how_bands_h35_39,Hour bands: 35-39,443
-how_bands_h40_48,Hour bands: 40-48,444
-how_bands_h49_59,Hour bands: 49-59,445
-how_bands_hge49,Hour bands: 49+,446
-how_bands_hge60,Hour bands: 60+,447
-how_bands_x,Hour bands: Not elsewhere classified,448
-cat_une_total,Type of unemployment: Total,449
-cat_une_pre,Type of unemployment: Unemployed previously employed,450
-cat_une_fjs,Type of unemployment: Unemployed seeking their first job,451
-cat_une_unk,Type of unemployment: Not elsewhere classified,452
-dur_aggregate_total,Duration (Aggregate): Total,453
-dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,454
-dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,455
-dur_aggregate_mlt12,Duration (Aggregate): Less than 12 months,456
-dur_aggregate_mge12,Duration (Aggregate): 12 months or more,457
-dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,458
-dur_details_total,Duration (Detailed): Total,459
-dur_details_mlt1,Duration (Detailed): Less than 1 month,460
-dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,461
-dur_details_mlt3,Duration (Detailed): Less than 3 months,462
-dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,463
-dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,464
-dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,465
-dur_details_mge24,Duration (Detailed): 24 months or more,466
-dur_details_x,Duration (Detailed): Not elsewhere classified,467
-tra_stage_total,Transition stage: Total,468
-tra_stage_1,Transition stage: 1 - Transited,469
-tra_stage_2,Transition stage: 2 - In transition,470
-tra_stage_3,Transition stage: 3 - Transition not yet started,471
-tra_stage_4,Transition stage: X - Not elsewhere classified,472
-tra_forms_total,Transition form: Total,473
-tra_forms_1,Transition form: 1 - School leavers in stable employment,474
-tra_forms_2,"Transition form: 2 - School leavers in satisfactory temporary or self-employment, not wanting to change job",475
-tra_forms_3,Transition form: 3 - Students in the labour force,476
-tra_forms_4,Transition form: 4 - Unemployed school leavers,477
-tra_forms_5,"Transition form: 5 - School leavers in non-stable or non-satisfactory employment, wanting to change job",478
-tra_forms_6,Transition form: 6 - Outside the labour force - school leavers in potential labour force or aiming to look for work later,479
-tra_forms_7,Transition form: 7 - Outside the labour force - students,480
-tra_forms_8,Transition form: 8 - Outside the labour force - school leavers with no intention of looking for work,481
-tra_forms_9,Transition form: 9 - Not elsewhere classified,482
-vol_type_total,Type of work: Total,483
-vol_type_org,Type of work: Organization-based,484
-vol_type_direct,Type of work: Direct,485
-cur_type_lcu,Currency: Local currency,486
-cur_type_ppp,Currency: 2017 PPP $,487
-cur_type_usd,Currency: U.S. dollars,488
-mig_status_total,Migrant status: Total,489
-mig_status_migrant,Migrant status: Migrants,490
-mig_status_nonmig,Migrant status: Non migrants,491
-mig_status_migranteu,Migrant status: EU Migrants,492
-mig_status_migrantnoteu,Migrant status: Migrants excluding EU,493
-mig_status_x,Migrant status: Unknown,494
+ins_sector_x,Institutional Sector: Not elsewhere classified,422
+cla_ecocla_total,Economic class: Total,423
+cla_ecocla_usdlt2,Economic class: Extremely poor < USD 1.90 PPP,424
+cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 1.90 and < USD 3.20 PPP,425
+cla_ecocla_usdge3,Economic class: >= USD 3.20 PPP,426
+cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 3.20 and < USD 5.5 PPP,427
+cla_ecocla_usdge5,Economic class: >= USD 5.5 PPP,428
+job_contract_total,Contract type: Total,429
+job_contract_perm,Contract type: Permanent,430
+job_contract_temp,Contract type: Temporary,431
+job_contract_x,Contract type: Unknown,432
+job_time_total,Working time arrangement: Total,433
+job_time_part,Working time arrangement: Part-time,434
+job_time_full,Working time arrangement: Full-time,435
+job_time_x,Working time arrangement: Unknown,436
+how_bands_total,Hour bands: Total,437
+how_bands_h00,Hour bands: No hours actually worked,438
+how_bands_h01_14,Hour bands: 01-14,439
+how_bands_h15_24,Hour bands: 15-24,440
+how_bands_h15_29,Hour bands: 15-29,441
+how_bands_h25_34,Hour bands: 25-34,442
+how_bands_h30_34,Hour bands: 30-34,443
+how_bands_h35_39,Hour bands: 35-39,444
+how_bands_h40_48,Hour bands: 40-48,445
+how_bands_h49_59,Hour bands: 49-59,446
+how_bands_hge49,Hour bands: 49+,447
+how_bands_hge60,Hour bands: 60+,448
+how_bands_x,Hour bands: Not elsewhere classified,449
+cat_une_total,Type of unemployment: Total,450
+cat_une_pre,Type of unemployment: Unemployed previously employed,451
+cat_une_fjs,Type of unemployment: Unemployed seeking their first job,452
+cat_une_unk,Type of unemployment: Not elsewhere classified,453
+dur_aggregate_total,Duration (Aggregate): Total,454
+dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,455
+dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,456
+dur_aggregate_mlt12,Duration (Aggregate): Less than 12 months,457
+dur_aggregate_mge12,Duration (Aggregate): 12 months or more,458
+dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,459
+dur_details_total,Duration (Detailed): Total,460
+dur_details_mlt1,Duration (Detailed): Less than 1 month,461
+dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,462
+dur_details_mlt3,Duration (Detailed): Less than 3 months,463
+dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,464
+dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,465
+dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,466
+dur_details_mge24,Duration (Detailed): 24 months or more,467
+dur_details_x,Duration (Detailed): Not elsewhere classified,468
+tra_stage_total,Transition stage: Total,469
+tra_stage_1,Transition stage: 1 - Transited,470
+tra_stage_2,Transition stage: 2 - In transition,471
+tra_stage_3,Transition stage: 3 - Transition not yet started,472
+tra_stage_4,Transition stage: X - Not elsewhere classified,473
+tra_forms_total,Transition form: Total,474
+tra_forms_1,Transition form: 1 - School leavers in stable employment,475
+tra_forms_2,"Transition form: 2 - School leavers in satisfactory temporary or self-employment, not wanting to change job",476
+tra_forms_3,Transition form: 3 - Students in the labour force,477
+tra_forms_4,Transition form: 4 - Unemployed school leavers,478
+tra_forms_5,"Transition form: 5 - School leavers in non-stable or non-satisfactory employment, wanting to change job",479
+tra_forms_6,Transition form: 6 - Outside the labour force - school leavers in potential labour force or aiming to look for work later,480
+tra_forms_7,Transition form: 7 - Outside the labour force - students,481
+tra_forms_8,Transition form: 8 - Outside the labour force - school leavers with no intention of looking for work,482
+tra_forms_9,Transition form: 9 - Not elsewhere classified,483
+vol_type_total,Type of work: Total,484
+vol_type_org,Type of work: Organization-based,485
+vol_type_direct,Type of work: Direct,486
+cur_type_lcu,Currency: Local currency,487
+cur_type_ppp,Currency: 2017 PPP $,488
+cur_type_usd,Currency: U.S. dollars,489
+mig_status_total,Migrant status: Total,490
+mig_status_migrant,Migrant status: Migrants,491
+mig_status_nonmig,Migrant status: Non migrants,492
+mig_status_migranteu,Migrant status: EU Migrants,493
+mig_status_migrantnoteu,Migrant status: Migrants excluding EU,494
+mig_status_x,Migrant status: Unknown,495

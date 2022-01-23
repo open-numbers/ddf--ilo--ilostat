@@ -92,6 +92,7 @@ blz,sex_f,eco_aggregate_total,geo_cov_urb,2015,29.005
 blz,sex_f,eco_aggregate_total,geo_cov_urb,2016,28.834
 blz,sex_f,eco_aggregate_total,geo_cov_urb,2017,31.552
 blz,sex_f,eco_aggregate_total,geo_cov_urb,2019,34.856
+blz,sex_f,eco_aggregate_x,geo_cov_nat,2015,0.399
 blz,sex_f,eco_aggregate_x,geo_cov_nat,2016,0.211
 blz,sex_f,eco_aggregate_x,geo_cov_nat,2017,0.617
 blz,sex_f,eco_aggregate_x,geo_cov_nat,2019,0.286
@@ -176,6 +177,7 @@ blz,sex_f,eco_sector_total,geo_cov_urb,2015,29.005
 blz,sex_f,eco_sector_total,geo_cov_urb,2016,28.834
 blz,sex_f,eco_sector_total,geo_cov_urb,2017,31.552
 blz,sex_f,eco_sector_total,geo_cov_urb,2019,34.856
+blz,sex_f,eco_sector_x,geo_cov_nat,2015,0.399
 blz,sex_f,eco_sector_x,geo_cov_nat,2016,0.211
 blz,sex_f,eco_sector_x,geo_cov_nat,2017,0.617
 blz,sex_f,eco_sector_x,geo_cov_nat,2019,0.286
@@ -293,7 +295,9 @@ blz,sex_m,eco_aggregate_total,geo_cov_urb,2019,44.29
 blz,sex_m,eco_aggregate_x,geo_cov_nat,2014,0.16
 blz,sex_m,eco_aggregate_x,geo_cov_nat,2015,0.998
 blz,sex_m,eco_aggregate_x,geo_cov_nat,2016,0.838
+blz,sex_m,eco_aggregate_x,geo_cov_nat,2017,0.572
 blz,sex_m,eco_aggregate_x,geo_cov_nat,2019,0.669
+blz,sex_m,eco_aggregate_x,geo_cov_rur,2015,0.432
 blz,sex_m,eco_aggregate_x,geo_cov_rur,2016,0.425
 blz,sex_m,eco_aggregate_x,geo_cov_rur,2017,0.281
 blz,sex_m,eco_aggregate_x,geo_cov_rur,2019,0.309
@@ -379,7 +383,9 @@ blz,sex_m,eco_sector_total,geo_cov_urb,2019,44.29
 blz,sex_m,eco_sector_x,geo_cov_nat,2014,0.16
 blz,sex_m,eco_sector_x,geo_cov_nat,2015,0.998
 blz,sex_m,eco_sector_x,geo_cov_nat,2016,0.838
+blz,sex_m,eco_sector_x,geo_cov_nat,2017,0.572
 blz,sex_m,eco_sector_x,geo_cov_nat,2019,0.669
+blz,sex_m,eco_sector_x,geo_cov_rur,2015,0.432
 blz,sex_m,eco_sector_x,geo_cov_rur,2016,0.425
 blz,sex_m,eco_sector_x,geo_cov_rur,2017,0.281
 blz,sex_m,eco_sector_x,geo_cov_rur,2019,0.309
@@ -503,6 +509,7 @@ blz,sex_t,eco_aggregate_x,geo_cov_rur,2017,0.409
 blz,sex_t,eco_aggregate_x,geo_cov_rur,2019,0.446
 blz,sex_t,eco_aggregate_x,geo_cov_urb,2015,0.826
 blz,sex_t,eco_aggregate_x,geo_cov_urb,2016,0.614
+blz,sex_t,eco_aggregate_x,geo_cov_urb,2017,0.781
 blz,sex_t,eco_aggregate_x,geo_cov_urb,2019,0.509
 blz,sex_t,eco_sector_agr,geo_cov_nat,2014,23.616
 blz,sex_t,eco_sector_agr,geo_cov_nat,2015,24.824
@@ -590,4 +597,5 @@ blz,sex_t,eco_sector_x,geo_cov_rur,2017,0.409
 blz,sex_t,eco_sector_x,geo_cov_rur,2019,0.446
 blz,sex_t,eco_sector_x,geo_cov_urb,2015,0.826
 blz,sex_t,eco_sector_x,geo_cov_urb,2016,0.614
+blz,sex_t,eco_sector_x,geo_cov_urb,2017,0.781
 blz,sex_t,eco_sector_x,geo_cov_urb,2019,0.509
