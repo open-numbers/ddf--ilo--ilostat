@@ -905,271 +905,263 @@ dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,903
 dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,904
 dur_aggregate_mge12,Duration (Aggregate): 12 months or more,905
 dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,906
-dur_details_total,Duration (Detailed): Total,907
-dur_details_mlt1,Duration (Detailed): Less than 1 month,908
-dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,909
-dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,910
-dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,911
-dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,912
-dur_details_mge24,Duration (Detailed): 24 months or more,913
-dur_details_x,Duration (Detailed): Not elsewhere classified,914
-vol_type_total,Type of work: Total,915
-vol_type_org,Type of work: Organization-based,916
-vol_type_direct,Type of work: Direct,917
-qtl_decile_01,Decile: Decile 1,918
-qtl_decile_02,Decile: Decile 2,919
-qtl_decile_03,Decile: Decile 3,920
-qtl_decile_04,Decile: Decile 4,921
-qtl_decile_05,Decile: Decile 5,922
-qtl_decile_06,Decile: Decile 6,923
-qtl_decile_07,Decile: Decile 7,924
-qtl_decile_08,Decile: Decile 8,925
-qtl_decile_09,Decile: Decile 9,926
-qtl_decile_10,Decile: Decile 10,927
-inj_incapacity_total,Type of incapacity: Total,928
-inj_incapacity_prm,Type of incapacity: Permanent incapacity,929
-inj_incapacity_tmp,Type of incapacity: Temporary incapacity,930
-cur_type_lcu,Currency: Local currency,931
-cur_type_ppp,Currency: 2017 PPP $,932
-cur_type_usd,Currency: U.S. dollars,933
-coi_component_gen,COICOP (Selected categories): General,934
-coi_component_gex,COICOP (Selected categories): General excluding actual and imputed rentals for housing,935
-coi_component_foo,COICOP (Selected categories): Food and non-alcoholic beverages,936
-coi_component_clo,COICOP (Selected categories): Clothing and footwear,937
-coi_component_egf,"COICOP (Selected categories): Electricity, gas and other fuels",938
-coi_component_hou,COICOP (Selected categories): Actual and imputed rentals for housing,939
-coi_coicop_cp01t12,COICOP2012: General - Individual consumption expenditure of households,940
-coi_coicop_cp01,COICOP2012: 1. Food and non-alcoholic beverages,941
-coi_coicop_cp02,"COICOP2012: 2. Alcoholic beverages, tobacco and narcotics",942
-coi_coicop_cp03,COICOP2012: 3. Clothing and footwear,943
-coi_coicop_cp04,"COICOP2012: 4. Housing, water, electricity, gas and other fuels",944
-coi_coicop_cp05,"COICOP2012: 5. Furnishings, household equipment and routine household maintenance",945
-coi_coicop_cp06,COICOP2012: 6. Health,946
-coi_coicop_cp07,COICOP2012: 7. Transport,947
-coi_coicop_cp08,COICOP2012: 8. Communication,948
-coi_coicop_cp09,COICOP2012: 9. Recreation and culture,949
-coi_coicop_cp10,COICOP2012: 10. Education,950
-coi_coicop_cp11,COICOP2012: 11. Restaurants and hotels,951
-coi_coicop_cp12,COICOP2012: 12. Miscellaneous goods and services,952
-soc_contig_total,Contingency: Population covered by at least one social protection benefit,953
-soc_contig_pension,Contingency: Persons above retirement age receiving a pension,954
-soc_contig_disab,Contingency: Persons with severe disabilities collecting disability social protection benefits,955
-soc_contig_une,Contingency: Unemployed receiving unemployment benefits,956
-soc_contig_mat,Contingency: Mothers with newborns receiving maternity benefits,957
-soc_contig_inj,Contingency: Employed covered in the event of work injury,958
-soc_contig_child,Contingency: Children/households receiving child/family cash benefits,959
-soc_contig_poor,Contingency: Poor persons covered by social protection systems,960
-soc_contig_vuln,Contingency: Vulnerable persons covered by social assistance,961
-mig_status_total,Migrant status: Total,962
-mig_status_migrant,Migrant status: Migrants,963
-mig_status_nonmig,Migrant status: Non migrants,964
-mig_status_migranteu,Migrant status: EU Migrants,965
-mig_status_migrantnoteu,Migrant status: Migrants excluding EU,966
-mig_status_x,Migrant status: Unknown,967
-crs_res_total,Residence: Total,968
-crs_res_arg,Residence: Argentina,969
-crs_res_aus,Residence: Australia,970
-crs_res_ben,Residence: Benin,971
-crs_res_bfa,Residence: Burkina Faso,972
-crs_res_can,Residence: Canada,973
-crs_res_chn,Residence: China,974
-crs_res_cze,Residence: Czech Republic,975
-crs_res_civ,Residence: Côte d'Ivoire,976
-crs_res_fra,Residence: France,977
-crs_res_gmb,Residence: Gambia,978
-crs_res_deu,Residence: Germany,979
-crs_res_gha,Residence: Ghana,980
-crs_res_gnb,Residence: Guinea-Bissau,981
-crs_res_jpn,Residence: Japan,982
-crs_res_kaz,Residence: Kazakhstan,983
-crs_res_kor,"Residence: Korea, Republic of",984
-crs_res_kwt,Residence: Kuwait,985
-crs_res_lao,Residence: Lao People's Dem. Rep.,986
-crs_res_lbr,Residence: Liberia,987
-crs_res_mys,Residence: Malaysia,988
-crs_res_moz,Residence: Mozambique,989
-crs_res_nzl,Residence: New Zealand,990
-crs_res_nga,Residence: Nigeria,991
-crs_res_omn,Residence: Oman,992
-crs_res_qat,Residence: Qatar,993
-crs_res_rus,Residence: Russian Federation,994
-crs_res_sau,Residence: Saudi Arabia,995
-crs_res_sen,Residence: Senegal,996
-crs_res_sgp,Residence: Singapore,997
-crs_res_zaf,Residence: South Africa,998
-crs_res_twn,"Residence: Taiwan, China",999
-crs_res_tza,"Residence: Tanzania, United Republic of",1000
-crs_res_tha,Residence: Thailand,1001
-crs_res_ton,Residence: Tonga,1002
-crs_res_ukr,Residence: Ukraine,1003
-crs_res_are,Residence: United Arab Emirates,1004
-crs_res_usa,Residence: United States,1005
-crs_res_ven,"Residence: Venezuela, Bolivarian Rep. of",1006
-crs_res_zmb,Residence: Zambia,1007
-crs_res_zwe,Residence: Zimbabwe,1008
-crs_res_cis,Residence: Commonwealth of Independent States,1009
-crs_res_usacan,Residence: United States and Canada,1010
-crs_res_x,Residence: Other countries,1011
-cpr_prv_total,Previous residence: Total,1012
-cpr_prv_alb,Previous residence: Albania,1013
-cpr_prv_dza,Previous residence: Algeria,1014
-cpr_prv_asm,Previous residence: American Samoa,1015
-cpr_prv_arg,Previous residence: Argentina,1016
-cpr_prv_aus,Previous residence: Australia,1017
-cpr_prv_aut,Previous residence: Austria,1018
-cpr_prv_blr,Previous residence: Belarus,1019
-cpr_prv_bel,Previous residence: Belgium,1020
-cpr_prv_bol,Previous residence: Bolivia,1021
-cpr_prv_bih,Previous residence: Bosnia and Herzegovina,1022
-cpr_prv_bra,Previous residence: Brazil,1023
-cpr_prv_brn,Previous residence: Brunei Darussalam,1024
-cpr_prv_bgr,Previous residence: Bulgaria,1025
-cpr_prv_can,Previous residence: Canada,1026
-cpr_prv_chl,Previous residence: Chile,1027
-cpr_prv_chn,Previous residence: China,1028
-cpr_prv_col,Previous residence: Colombia,1029
-cpr_prv_cod,"Previous residence: Congo, Democratic Republic of the",1030
-cpr_prv_hrv,Previous residence: Croatia,1031
-cpr_prv_cub,Previous residence: Cuba,1032
-cpr_prv_cyp,Previous residence: Cyprus,1033
-cpr_prv_cze,Previous residence: Czech Republic,1034
-cpr_prv_civ,Previous residence: Côte d'Ivoire,1035
-cpr_prv_dnk,Previous residence: Denmark,1036
-cpr_prv_dji,Previous residence: Djibouti,1037
-cpr_prv_dom,Previous residence: Dominican Republic,1038
-cpr_prv_ecu,Previous residence: Ecuador,1039
-cpr_prv_est,Previous residence: Estonia,1040
-cpr_prv_fin,Previous residence: Finland,1041
-cpr_prv_fra,Previous residence: France,1042
-cpr_prv_deu,Previous residence: Germany,1043
-cpr_prv_de2,"Previous residence: Germany, Fed. Rep. of before 3.10.1990",1044
-cpr_prv_gib,Previous residence: Gibraltar,1045
-cpr_prv_grc,Previous residence: Greece,1046
-cpr_prv_hun,Previous residence: Hungary,1047
-cpr_prv_isl,Previous residence: Iceland,1048
-cpr_prv_ind,Previous residence: India,1049
-cpr_prv_irl,Previous residence: Ireland,1050
-cpr_prv_isr,Previous residence: Israel,1051
-cpr_prv_ita,Previous residence: Italy,1052
-cpr_prv_jpn,Previous residence: Japan,1053
-cpr_prv_kir,Previous residence: Kiribati,1054
-cpr_prv_kor,"Previous residence: Korea, Republic of",1055
-cpr_prv_kos,Previous residence: Kosovo,1056
-cpr_prv_kgz,Previous residence: Kyrgyzstan,1057
-cpr_prv_lbr,Previous residence: Liberia,1058
-cpr_prv_lux,Previous residence: Luxembourg,1059
-cpr_prv_mkd,"Previous residence: Macedonia, The former Yugoslav Rep. of",1060
-cpr_prv_mys,Previous residence: Malaysia,1061
-cpr_prv_mli,Previous residence: Mali,1062
-cpr_prv_mlt,Previous residence: Malta,1063
-cpr_prv_mex,Previous residence: Mexico,1064
-cpr_prv_mda,"Previous residence: Moldova, Republic of",1065
-cpr_prv_mar,Previous residence: Morocco,1066
-cpr_prv_moz,Previous residence: Mozambique,1067
-cpr_prv_nld,Previous residence: Netherlands,1068
-cpr_prv_ant,Previous residence: Netherlands Antilles,1069
-cpr_prv_nzl,Previous residence: New Zealand,1070
-cpr_prv_nor,Previous residence: Norway,1071
-cpr_prv_png,Previous residence: Papua New Guinea,1072
-cpr_prv_per,Previous residence: Peru,1073
-cpr_prv_phl,Previous residence: Philippines,1074
-cpr_prv_prt,Previous residence: Portugal,1075
-cpr_prv_rus,Previous residence: Russian Federation,1076
-cpr_prv_rwa,Previous residence: Rwanda,1077
-cpr_prv_sau,Previous residence: Saudi Arabia,1078
-cpr_prv_sen,Previous residence: Senegal,1079
-cpr_prv_srb,Previous residence: Serbia,1080
-cpr_prv_sle,Previous residence: Sierra Leone,1081
-cpr_prv_sgp,Previous residence: Singapore,1082
-cpr_prv_svk,Previous residence: Slovakia,1083
-cpr_prv_svn,Previous residence: Slovenia,1084
-cpr_prv_zaf,Previous residence: South Africa,1085
-cpr_prv_esp,Previous residence: Spain,1086
-cpr_prv_sdn,"Previous residence: Sudan, The Republic of",1087
-cpr_prv_swe,Previous residence: Sweden,1088
-cpr_prv_che,Previous residence: Switzerland,1089
-cpr_prv_tza,"Previous residence: Tanzania, United Republic of",1090
-cpr_prv_tha,Previous residence: Thailand,1091
-cpr_prv_ton,Previous residence: Tonga,1092
-cpr_prv_tun,Previous residence: Tunisia,1093
-cpr_prv_tur,Previous residence: Turkey,1094
-cpr_prv_ukr,Previous residence: Ukraine,1095
-cpr_prv_are,Previous residence: United Arab Emirates,1096
-cpr_prv_gbr,Previous residence: United Kingdom,1097
-cpr_prv_usa,Previous residence: United States,1098
-cpr_prv_uzb,Previous residence: Uzbekistan,1099
-cpr_prv_vut,Previous residence: Vanuatu,1100
-cpr_prv_ven,"Previous residence: Venezuela, Bolivarian Rep. of",1101
-cpr_prv_yem,Previous residence: Yemen,1102
-cpr_prv_zmb,Previous residence: Zambia,1103
-cpr_prv_zwe,Previous residence: Zimbabwe,1104
-cpr_prv_eur,Previous residence: Europe,1105
-cpr_prv_usacan,Previous residence: United States and Canada,1106
-cpr_prv_x,Previous residence: Other countries,1107
-cds_des_total,Destination: Total,1108
-cds_des_aus,Destination: Australia,1109
-cds_des_aut,Destination: Austria,1110
-cds_des_bhr,Destination: Bahrain,1111
-cds_des_blr,Destination: Belarus,1112
-cds_des_bel,Destination: Belgium,1113
-cds_des_ben,Destination: Benin,1114
-cds_des_bih,Destination: Bosnia and Herzegovina,1115
-cds_des_bra,Destination: Brazil,1116
-cds_des_bfa,Destination: Burkina Faso,1117
-cds_des_can,Destination: Canada,1118
-cds_des_chn,Destination: China,1119
-cds_des_hrv,Destination: Croatia,1120
-cds_des_cze,Destination: Czech Republic,1121
-cds_des_civ,Destination: Côte d'Ivoire,1122
-cds_des_ecu,Destination: Ecuador,1123
-cds_des_fra,Destination: France,1124
-cds_des_gmb,Destination: Gambia,1125
-cds_des_deu,Destination: Germany,1126
-cds_des_gha,Destination: Ghana,1127
-cds_des_grc,Destination: Greece,1128
-cds_des_gnb,Destination: Guinea-Bissau,1129
-cds_des_hkg,"Destination: Hong Kong, China",1130
-cds_des_ind,Destination: India,1131
-cds_des_irl,Destination: Ireland,1132
-cds_des_isr,Destination: Israel,1133
-cds_des_ita,Destination: Italy,1134
-cds_des_jpn,Destination: Japan,1135
-cds_des_kaz,Destination: Kazakhstan,1136
-cds_des_kir,Destination: Kiribati,1137
-cds_des_kor,"Destination: Korea, Republic of",1138
-cds_des_kwt,Destination: Kuwait,1139
-cds_des_lbr,Destination: Liberia,1140
-cds_des_lux,Destination: Luxembourg,1141
-cds_des_mys,Destination: Malaysia,1142
-cds_des_moz,Destination: Mozambique,1143
-cds_des_nld,Destination: Netherlands,1144
-cds_des_nzl,Destination: New Zealand,1145
-cds_des_nga,Destination: Nigeria,1146
-cds_des_nor,Destination: Norway,1147
-cds_des_omn,Destination: Oman,1148
-cds_des_pol,Destination: Poland,1149
-cds_des_qat,Destination: Qatar,1150
-cds_des_rou,Destination: Romania,1151
-cds_des_rus,Destination: Russian Federation,1152
-cds_des_sau,Destination: Saudi Arabia,1153
-cds_des_sen,Destination: Senegal,1154
-cds_des_srb,Destination: Serbia,1155
-cds_des_sgp,Destination: Singapore,1156
-cds_des_slb,Destination: Solomon Islands,1157
-cds_des_zaf,Destination: South Africa,1158
-cds_des_esp,Destination: Spain,1159
-cds_des_swe,Destination: Sweden,1160
-cds_des_che,Destination: Switzerland,1161
-cds_des_twn,"Destination: Taiwan, China",1162
-cds_des_tza,"Destination: Tanzania, United Republic of",1163
-cds_des_tha,Destination: Thailand,1164
-cds_des_tur,Destination: Turkey,1165
-cds_des_ukr,Destination: Ukraine,1166
-cds_des_are,Destination: United Arab Emirates,1167
-cds_des_gbr,Destination: United Kingdom,1168
-cds_des_usa,Destination: United States,1169
-cds_des_uzb,Destination: Uzbekistan,1170
-cds_des_zmb,Destination: Zambia,1171
-cds_des_zwe,Destination: Zimbabwe,1172
-cds_des_eur,Destination: Europe,1173
-cds_des_x,Destination: Other countries,1174
+vol_type_total,Type of work: Total,907
+vol_type_org,Type of work: Organization-based,908
+vol_type_direct,Type of work: Direct,909
+qtl_decile_01,Decile: Decile 1,910
+qtl_decile_02,Decile: Decile 2,911
+qtl_decile_03,Decile: Decile 3,912
+qtl_decile_04,Decile: Decile 4,913
+qtl_decile_05,Decile: Decile 5,914
+qtl_decile_06,Decile: Decile 6,915
+qtl_decile_07,Decile: Decile 7,916
+qtl_decile_08,Decile: Decile 8,917
+qtl_decile_09,Decile: Decile 9,918
+qtl_decile_10,Decile: Decile 10,919
+inj_incapacity_total,Type of incapacity: Total,920
+inj_incapacity_prm,Type of incapacity: Permanent incapacity,921
+inj_incapacity_tmp,Type of incapacity: Temporary incapacity,922
+cur_type_lcu,Currency: Local currency,923
+cur_type_ppp,Currency: 2017 PPP $,924
+cur_type_usd,Currency: U.S. dollars,925
+coi_component_gen,COICOP (Selected categories): General,926
+coi_component_gex,COICOP (Selected categories): General excluding actual and imputed rentals for housing,927
+coi_component_foo,COICOP (Selected categories): Food and non-alcoholic beverages,928
+coi_component_clo,COICOP (Selected categories): Clothing and footwear,929
+coi_component_egf,"COICOP (Selected categories): Electricity, gas and other fuels",930
+coi_component_hou,COICOP (Selected categories): Actual and imputed rentals for housing,931
+coi_coicop_cp01t12,COICOP2012: General - Individual consumption expenditure of households,932
+coi_coicop_cp01,COICOP2012: 1. Food and non-alcoholic beverages,933
+coi_coicop_cp02,"COICOP2012: 2. Alcoholic beverages, tobacco and narcotics",934
+coi_coicop_cp03,COICOP2012: 3. Clothing and footwear,935
+coi_coicop_cp04,"COICOP2012: 4. Housing, water, electricity, gas and other fuels",936
+coi_coicop_cp05,"COICOP2012: 5. Furnishings, household equipment and routine household maintenance",937
+coi_coicop_cp06,COICOP2012: 6. Health,938
+coi_coicop_cp07,COICOP2012: 7. Transport,939
+coi_coicop_cp08,COICOP2012: 8. Communication,940
+coi_coicop_cp09,COICOP2012: 9. Recreation and culture,941
+coi_coicop_cp10,COICOP2012: 10. Education,942
+coi_coicop_cp11,COICOP2012: 11. Restaurants and hotels,943
+coi_coicop_cp12,COICOP2012: 12. Miscellaneous goods and services,944
+soc_contig_total,Contingency: Population covered by at least one social protection benefit,945
+soc_contig_pension,Contingency: Persons above retirement age receiving a pension,946
+soc_contig_disab,Contingency: Persons with severe disabilities collecting disability social protection benefits,947
+soc_contig_une,Contingency: Unemployed receiving unemployment benefits,948
+soc_contig_mat,Contingency: Mothers with newborns receiving maternity benefits,949
+soc_contig_inj,Contingency: Employed covered in the event of work injury,950
+soc_contig_child,Contingency: Children/households receiving child/family cash benefits,951
+soc_contig_poor,Contingency: Poor persons covered by social protection systems,952
+soc_contig_vuln,Contingency: Vulnerable persons covered by social assistance,953
+mig_status_total,Migrant status: Total,954
+mig_status_migrant,Migrant status: Migrants,955
+mig_status_nonmig,Migrant status: Non migrants,956
+mig_status_migranteu,Migrant status: EU Migrants,957
+mig_status_migrantnoteu,Migrant status: Migrants excluding EU,958
+mig_status_x,Migrant status: Unknown,959
+crs_res_total,Residence: Total,960
+crs_res_arg,Residence: Argentina,961
+crs_res_aus,Residence: Australia,962
+crs_res_ben,Residence: Benin,963
+crs_res_bfa,Residence: Burkina Faso,964
+crs_res_can,Residence: Canada,965
+crs_res_chn,Residence: China,966
+crs_res_cze,Residence: Czech Republic,967
+crs_res_civ,Residence: Côte d'Ivoire,968
+crs_res_fra,Residence: France,969
+crs_res_gmb,Residence: Gambia,970
+crs_res_deu,Residence: Germany,971
+crs_res_gha,Residence: Ghana,972
+crs_res_gnb,Residence: Guinea-Bissau,973
+crs_res_jpn,Residence: Japan,974
+crs_res_kaz,Residence: Kazakhstan,975
+crs_res_kor,"Residence: Korea, Republic of",976
+crs_res_kwt,Residence: Kuwait,977
+crs_res_lao,Residence: Lao People's Dem. Rep.,978
+crs_res_lbr,Residence: Liberia,979
+crs_res_mys,Residence: Malaysia,980
+crs_res_moz,Residence: Mozambique,981
+crs_res_nzl,Residence: New Zealand,982
+crs_res_nga,Residence: Nigeria,983
+crs_res_omn,Residence: Oman,984
+crs_res_qat,Residence: Qatar,985
+crs_res_rus,Residence: Russian Federation,986
+crs_res_sau,Residence: Saudi Arabia,987
+crs_res_sen,Residence: Senegal,988
+crs_res_sgp,Residence: Singapore,989
+crs_res_zaf,Residence: South Africa,990
+crs_res_twn,"Residence: Taiwan, China",991
+crs_res_tza,"Residence: Tanzania, United Republic of",992
+crs_res_tha,Residence: Thailand,993
+crs_res_ton,Residence: Tonga,994
+crs_res_ukr,Residence: Ukraine,995
+crs_res_are,Residence: United Arab Emirates,996
+crs_res_usa,Residence: United States,997
+crs_res_ven,"Residence: Venezuela, Bolivarian Rep. of",998
+crs_res_zmb,Residence: Zambia,999
+crs_res_zwe,Residence: Zimbabwe,1000
+crs_res_cis,Residence: Commonwealth of Independent States,1001
+crs_res_usacan,Residence: United States and Canada,1002
+crs_res_x,Residence: Other countries,1003
+cpr_prv_total,Previous residence: Total,1004
+cpr_prv_alb,Previous residence: Albania,1005
+cpr_prv_dza,Previous residence: Algeria,1006
+cpr_prv_asm,Previous residence: American Samoa,1007
+cpr_prv_arg,Previous residence: Argentina,1008
+cpr_prv_aus,Previous residence: Australia,1009
+cpr_prv_aut,Previous residence: Austria,1010
+cpr_prv_blr,Previous residence: Belarus,1011
+cpr_prv_bel,Previous residence: Belgium,1012
+cpr_prv_bol,Previous residence: Bolivia,1013
+cpr_prv_bih,Previous residence: Bosnia and Herzegovina,1014
+cpr_prv_bra,Previous residence: Brazil,1015
+cpr_prv_brn,Previous residence: Brunei Darussalam,1016
+cpr_prv_bgr,Previous residence: Bulgaria,1017
+cpr_prv_can,Previous residence: Canada,1018
+cpr_prv_chl,Previous residence: Chile,1019
+cpr_prv_chn,Previous residence: China,1020
+cpr_prv_col,Previous residence: Colombia,1021
+cpr_prv_cod,"Previous residence: Congo, Democratic Republic of the",1022
+cpr_prv_hrv,Previous residence: Croatia,1023
+cpr_prv_cub,Previous residence: Cuba,1024
+cpr_prv_cyp,Previous residence: Cyprus,1025
+cpr_prv_cze,Previous residence: Czech Republic,1026
+cpr_prv_civ,Previous residence: Côte d'Ivoire,1027
+cpr_prv_dnk,Previous residence: Denmark,1028
+cpr_prv_dji,Previous residence: Djibouti,1029
+cpr_prv_dom,Previous residence: Dominican Republic,1030
+cpr_prv_ecu,Previous residence: Ecuador,1031
+cpr_prv_est,Previous residence: Estonia,1032
+cpr_prv_fin,Previous residence: Finland,1033
+cpr_prv_fra,Previous residence: France,1034
+cpr_prv_deu,Previous residence: Germany,1035
+cpr_prv_de2,"Previous residence: Germany, Fed. Rep. of before 3.10.1990",1036
+cpr_prv_gib,Previous residence: Gibraltar,1037
+cpr_prv_grc,Previous residence: Greece,1038
+cpr_prv_hun,Previous residence: Hungary,1039
+cpr_prv_isl,Previous residence: Iceland,1040
+cpr_prv_ind,Previous residence: India,1041
+cpr_prv_irl,Previous residence: Ireland,1042
+cpr_prv_isr,Previous residence: Israel,1043
+cpr_prv_ita,Previous residence: Italy,1044
+cpr_prv_jpn,Previous residence: Japan,1045
+cpr_prv_kir,Previous residence: Kiribati,1046
+cpr_prv_kor,"Previous residence: Korea, Republic of",1047
+cpr_prv_kos,Previous residence: Kosovo,1048
+cpr_prv_kgz,Previous residence: Kyrgyzstan,1049
+cpr_prv_lbr,Previous residence: Liberia,1050
+cpr_prv_lux,Previous residence: Luxembourg,1051
+cpr_prv_mkd,"Previous residence: Macedonia, The former Yugoslav Rep. of",1052
+cpr_prv_mys,Previous residence: Malaysia,1053
+cpr_prv_mli,Previous residence: Mali,1054
+cpr_prv_mlt,Previous residence: Malta,1055
+cpr_prv_mex,Previous residence: Mexico,1056
+cpr_prv_mda,"Previous residence: Moldova, Republic of",1057
+cpr_prv_mar,Previous residence: Morocco,1058
+cpr_prv_moz,Previous residence: Mozambique,1059
+cpr_prv_nld,Previous residence: Netherlands,1060
+cpr_prv_ant,Previous residence: Netherlands Antilles,1061
+cpr_prv_nzl,Previous residence: New Zealand,1062
+cpr_prv_nor,Previous residence: Norway,1063
+cpr_prv_png,Previous residence: Papua New Guinea,1064
+cpr_prv_per,Previous residence: Peru,1065
+cpr_prv_phl,Previous residence: Philippines,1066
+cpr_prv_prt,Previous residence: Portugal,1067
+cpr_prv_rus,Previous residence: Russian Federation,1068
+cpr_prv_rwa,Previous residence: Rwanda,1069
+cpr_prv_sau,Previous residence: Saudi Arabia,1070
+cpr_prv_sen,Previous residence: Senegal,1071
+cpr_prv_srb,Previous residence: Serbia,1072
+cpr_prv_sle,Previous residence: Sierra Leone,1073
+cpr_prv_sgp,Previous residence: Singapore,1074
+cpr_prv_svk,Previous residence: Slovakia,1075
+cpr_prv_svn,Previous residence: Slovenia,1076
+cpr_prv_zaf,Previous residence: South Africa,1077
+cpr_prv_esp,Previous residence: Spain,1078
+cpr_prv_sdn,"Previous residence: Sudan, The Republic of",1079
+cpr_prv_swe,Previous residence: Sweden,1080
+cpr_prv_che,Previous residence: Switzerland,1081
+cpr_prv_tza,"Previous residence: Tanzania, United Republic of",1082
+cpr_prv_tha,Previous residence: Thailand,1083
+cpr_prv_ton,Previous residence: Tonga,1084
+cpr_prv_tun,Previous residence: Tunisia,1085
+cpr_prv_tur,Previous residence: Turkey,1086
+cpr_prv_ukr,Previous residence: Ukraine,1087
+cpr_prv_are,Previous residence: United Arab Emirates,1088
+cpr_prv_gbr,Previous residence: United Kingdom,1089
+cpr_prv_usa,Previous residence: United States,1090
+cpr_prv_uzb,Previous residence: Uzbekistan,1091
+cpr_prv_vut,Previous residence: Vanuatu,1092
+cpr_prv_ven,"Previous residence: Venezuela, Bolivarian Rep. of",1093
+cpr_prv_yem,Previous residence: Yemen,1094
+cpr_prv_zmb,Previous residence: Zambia,1095
+cpr_prv_zwe,Previous residence: Zimbabwe,1096
+cpr_prv_eur,Previous residence: Europe,1097
+cpr_prv_usacan,Previous residence: United States and Canada,1098
+cpr_prv_x,Previous residence: Other countries,1099
+cds_des_total,Destination: Total,1100
+cds_des_aus,Destination: Australia,1101
+cds_des_aut,Destination: Austria,1102
+cds_des_bhr,Destination: Bahrain,1103
+cds_des_blr,Destination: Belarus,1104
+cds_des_bel,Destination: Belgium,1105
+cds_des_ben,Destination: Benin,1106
+cds_des_bih,Destination: Bosnia and Herzegovina,1107
+cds_des_bra,Destination: Brazil,1108
+cds_des_bfa,Destination: Burkina Faso,1109
+cds_des_can,Destination: Canada,1110
+cds_des_chn,Destination: China,1111
+cds_des_hrv,Destination: Croatia,1112
+cds_des_cze,Destination: Czech Republic,1113
+cds_des_civ,Destination: Côte d'Ivoire,1114
+cds_des_ecu,Destination: Ecuador,1115
+cds_des_fra,Destination: France,1116
+cds_des_gmb,Destination: Gambia,1117
+cds_des_deu,Destination: Germany,1118
+cds_des_gha,Destination: Ghana,1119
+cds_des_grc,Destination: Greece,1120
+cds_des_gnb,Destination: Guinea-Bissau,1121
+cds_des_hkg,"Destination: Hong Kong, China",1122
+cds_des_ind,Destination: India,1123
+cds_des_irl,Destination: Ireland,1124
+cds_des_isr,Destination: Israel,1125
+cds_des_ita,Destination: Italy,1126
+cds_des_jpn,Destination: Japan,1127
+cds_des_kaz,Destination: Kazakhstan,1128
+cds_des_kir,Destination: Kiribati,1129
+cds_des_kor,"Destination: Korea, Republic of",1130
+cds_des_kwt,Destination: Kuwait,1131
+cds_des_lbr,Destination: Liberia,1132
+cds_des_lux,Destination: Luxembourg,1133
+cds_des_mys,Destination: Malaysia,1134
+cds_des_moz,Destination: Mozambique,1135
+cds_des_nld,Destination: Netherlands,1136
+cds_des_nzl,Destination: New Zealand,1137
+cds_des_nga,Destination: Nigeria,1138
+cds_des_nor,Destination: Norway,1139
+cds_des_omn,Destination: Oman,1140
+cds_des_pol,Destination: Poland,1141
+cds_des_qat,Destination: Qatar,1142
+cds_des_rou,Destination: Romania,1143
+cds_des_rus,Destination: Russian Federation,1144
+cds_des_sau,Destination: Saudi Arabia,1145
+cds_des_sen,Destination: Senegal,1146
+cds_des_srb,Destination: Serbia,1147
+cds_des_sgp,Destination: Singapore,1148
+cds_des_slb,Destination: Solomon Islands,1149
+cds_des_zaf,Destination: South Africa,1150
+cds_des_esp,Destination: Spain,1151
+cds_des_swe,Destination: Sweden,1152
+cds_des_che,Destination: Switzerland,1153
+cds_des_twn,"Destination: Taiwan, China",1154
+cds_des_tza,"Destination: Tanzania, United Republic of",1155
+cds_des_tha,Destination: Thailand,1156
+cds_des_tur,Destination: Turkey,1157
+cds_des_ukr,Destination: Ukraine,1158
+cds_des_are,Destination: United Arab Emirates,1159
+cds_des_gbr,Destination: United Kingdom,1160
+cds_des_usa,Destination: United States,1161
+cds_des_uzb,Destination: Uzbekistan,1162
+cds_des_zmb,Destination: Zambia,1163
+cds_des_zwe,Destination: Zimbabwe,1164
+cds_des_eur,Destination: Europe,1165
+cds_des_x,Destination: Other countries,1166
