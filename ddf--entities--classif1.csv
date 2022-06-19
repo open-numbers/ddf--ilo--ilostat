@@ -1,8 +1,8 @@
 classif1,classif1_label,classif1_sort
-age_cldversion_y5_17,Age (Child labour bands): 44698,1
+age_cldversion_y5_17,Age (Child labour bands): 5-17,1
 age_cldversion_y15_17,Age (Child labour bands): 15-17,2
-age_cldversion_y5_11,Age (Child labour bands): 44692,3
-age_cldversion_y12_14,Age (Child labour bands): 44909,4
+age_cldversion_y5_11,Age (Child labour bands): 5-11,3
+age_cldversion_y12_14,Age (Child labour bands): 12-14,4
 age_ythadult_yge15,"Age (Youth, adults): 15+",5
 age_ythadult_y15_64,"Age (Youth, adults): 15-64",6
 age_ythadult_y15_24,"Age (Youth, adults): 15-24",7
@@ -238,7 +238,7 @@ cbr_brt_tha,Country of birth: Thailand,236
 cbr_brt_tls,Country of birth: Timor-Leste,237
 cbr_brt_tgo,Country of birth: Togo,238
 cbr_brt_tun,Country of birth: Tunisia,239
-cbr_brt_tur,Country of birth: Turkey,240
+cbr_brt_tur,Country of birth: Türkiye,240
 cbr_brt_tkm,Country of birth: Turkmenistan,241
 cbr_brt_uga,Country of birth: Uganda,242
 cbr_brt_ukr,Country of birth: Ukraine,243
@@ -455,7 +455,7 @@ cct_ctz_tkl,Country of citizenship: Tokelau,453
 cct_ctz_ton,Country of citizenship: Tonga,454
 cct_ctz_tto,Country of citizenship: Trinidad and Tobago,455
 cct_ctz_tun,Country of citizenship: Tunisia,456
-cct_ctz_tur,Country of citizenship: Turkey,457
+cct_ctz_tur,Country of citizenship: Türkiye,457
 cct_ctz_tkm,Country of citizenship: Turkmenistan,458
 cct_ctz_tuv,Country of citizenship: Tuvalu,459
 cct_ctz_uga,Country of citizenship: Uganda,460
@@ -1083,7 +1083,7 @@ cpr_prv_tza,"Previous residence: Tanzania, United Republic of",1081
 cpr_prv_tha,Previous residence: Thailand,1082
 cpr_prv_ton,Previous residence: Tonga,1083
 cpr_prv_tun,Previous residence: Tunisia,1084
-cpr_prv_tur,Previous residence: Turkey,1085
+cpr_prv_tur,Previous residence: Türkiye,1085
 cpr_prv_ukr,Previous residence: Ukraine,1086
 cpr_prv_are,Previous residence: United Arab Emirates,1087
 cpr_prv_gbr,Previous residence: United Kingdom,1088
@@ -1124,43 +1124,45 @@ cds_des_ind,Destination: India,1122
 cds_des_irl,Destination: Ireland,1123
 cds_des_isr,Destination: Israel,1124
 cds_des_ita,Destination: Italy,1125
-cds_des_jpn,Destination: Japan,1126
-cds_des_kaz,Destination: Kazakhstan,1127
-cds_des_kir,Destination: Kiribati,1128
-cds_des_kor,"Destination: Korea, Republic of",1129
-cds_des_kwt,Destination: Kuwait,1130
-cds_des_lbr,Destination: Liberia,1131
-cds_des_lux,Destination: Luxembourg,1132
-cds_des_mys,Destination: Malaysia,1133
-cds_des_moz,Destination: Mozambique,1134
-cds_des_nld,Destination: Netherlands,1135
-cds_des_nzl,Destination: New Zealand,1136
-cds_des_nga,Destination: Nigeria,1137
-cds_des_nor,Destination: Norway,1138
-cds_des_omn,Destination: Oman,1139
-cds_des_pol,Destination: Poland,1140
-cds_des_qat,Destination: Qatar,1141
-cds_des_rou,Destination: Romania,1142
-cds_des_rus,Destination: Russian Federation,1143
-cds_des_sau,Destination: Saudi Arabia,1144
-cds_des_sen,Destination: Senegal,1145
-cds_des_srb,Destination: Serbia,1146
-cds_des_sgp,Destination: Singapore,1147
-cds_des_slb,Destination: Solomon Islands,1148
-cds_des_zaf,Destination: South Africa,1149
-cds_des_esp,Destination: Spain,1150
-cds_des_swe,Destination: Sweden,1151
-cds_des_che,Destination: Switzerland,1152
-cds_des_twn,"Destination: Taiwan, China",1153
-cds_des_tza,"Destination: Tanzania, United Republic of",1154
-cds_des_tha,Destination: Thailand,1155
-cds_des_tur,Destination: Turkey,1156
-cds_des_ukr,Destination: Ukraine,1157
-cds_des_are,Destination: United Arab Emirates,1158
-cds_des_gbr,Destination: United Kingdom,1159
-cds_des_usa,Destination: United States,1160
-cds_des_uzb,Destination: Uzbekistan,1161
-cds_des_zmb,Destination: Zambia,1162
-cds_des_zwe,Destination: Zimbabwe,1163
-cds_des_eur,Destination: Europe,1164
-cds_des_x,Destination: Other countries,1165
+cds_des_jam,Destination: Jamaica,1126
+cds_des_jpn,Destination: Japan,1127
+cds_des_jor,Destination: Jordan,1128
+cds_des_kaz,Destination: Kazakhstan,1129
+cds_des_kir,Destination: Kiribati,1130
+cds_des_kor,"Destination: Korea, Republic of",1131
+cds_des_kwt,Destination: Kuwait,1132
+cds_des_lbr,Destination: Liberia,1133
+cds_des_lux,Destination: Luxembourg,1134
+cds_des_mys,Destination: Malaysia,1135
+cds_des_moz,Destination: Mozambique,1136
+cds_des_nld,Destination: Netherlands,1137
+cds_des_nzl,Destination: New Zealand,1138
+cds_des_nga,Destination: Nigeria,1139
+cds_des_nor,Destination: Norway,1140
+cds_des_omn,Destination: Oman,1141
+cds_des_pol,Destination: Poland,1142
+cds_des_qat,Destination: Qatar,1143
+cds_des_rou,Destination: Romania,1144
+cds_des_rus,Destination: Russian Federation,1145
+cds_des_sau,Destination: Saudi Arabia,1146
+cds_des_sen,Destination: Senegal,1147
+cds_des_srb,Destination: Serbia,1148
+cds_des_sgp,Destination: Singapore,1149
+cds_des_slb,Destination: Solomon Islands,1150
+cds_des_zaf,Destination: South Africa,1151
+cds_des_esp,Destination: Spain,1152
+cds_des_swe,Destination: Sweden,1153
+cds_des_che,Destination: Switzerland,1154
+cds_des_twn,"Destination: Taiwan, China",1155
+cds_des_tza,"Destination: Tanzania, United Republic of",1156
+cds_des_tha,Destination: Thailand,1157
+cds_des_tur,Destination: Türkiye,1158
+cds_des_ukr,Destination: Ukraine,1159
+cds_des_are,Destination: United Arab Emirates,1160
+cds_des_gbr,Destination: United Kingdom,1161
+cds_des_usa,Destination: United States,1162
+cds_des_uzb,Destination: Uzbekistan,1163
+cds_des_zmb,Destination: Zambia,1164
+cds_des_zwe,Destination: Zimbabwe,1165
+cds_des_eur,Destination: Europe,1166
+cds_des_x,Destination: Other countries,1167
