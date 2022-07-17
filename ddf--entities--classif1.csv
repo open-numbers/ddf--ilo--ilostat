@@ -2,7 +2,7 @@ classif1,classif1_label,classif1_sort
 age_cldversion_y5_17,Age (Child labour bands): 5-17,1
 age_cldversion_y15_17,Age (Child labour bands): 15-17,2
 age_cldversion_y5_11,Age (Child labour bands): 5-11,3
-age_cldversion_y12_14,Age (Child labour bands): 12-14,4
+age_cldversion_y12_14,Age (Child labour bands): 1-14,4
 age_ythadult_yge15,"Age (Youth, adults): 15+",5
 age_ythadult_y15_64,"Age (Youth, adults): 15-64",6
 age_ythadult_y15_24,"Age (Youth, adults): 15-24",7
@@ -257,8 +257,8 @@ cbr_brt_cis,Country of birth: Commonwealth of Independent States,255
 cbr_brt_eur,Country of birth: Europe,256
 cbr_brt_x,Country of birth: Other countries,257
 cct_cit_total,Citizenship: Total,258
-cct_cit_citizen,Citizenship: Citizens,259
-cct_cit_noncit,Citizenship: Non-citizens,260
+cct_cit_citizen,Citizenship: National citizens,259
+cct_cit_noncit,Citizenship: Foreign citizens,260
 cct_cit_x,Citizenship: Status unknown,261
 cct_ctz_total,Country of citizenship: Total,262
 cct_ctz_afg,Country of citizenship: Afghanistan,263
