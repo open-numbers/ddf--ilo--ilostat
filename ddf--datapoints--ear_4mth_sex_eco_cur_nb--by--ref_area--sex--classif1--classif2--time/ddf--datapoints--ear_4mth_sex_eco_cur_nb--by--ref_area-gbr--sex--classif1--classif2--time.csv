@@ -1,13 +1,28 @@
 ref_area,sex,classif1,classif2,time,ear_4mth_sex_eco_cur_nb
+gbr,sex_f,eco_aggregate_agr,cur_type_lcu,2014,1602.76
+gbr,sex_f,eco_aggregate_agr,cur_type_ppp,2014,2007.17
+gbr,sex_f,eco_aggregate_agr,cur_type_usd,2014,2637.29
+gbr,sex_f,eco_aggregate_con,cur_type_lcu,2014,3287.61
+gbr,sex_f,eco_aggregate_con,cur_type_ppp,2014,4117.14
+gbr,sex_f,eco_aggregate_con,cur_type_usd,2014,5409.65
 gbr,sex_f,eco_aggregate_man,cur_type_lcu,1995,887.2
 gbr,sex_f,eco_aggregate_man,cur_type_lcu,1996,923.85
 gbr,sex_f,eco_aggregate_man,cur_type_lcu,1997,962.29
+gbr,sex_f,eco_aggregate_man,cur_type_lcu,2014,3095.88
 gbr,sex_f,eco_aggregate_man,cur_type_ppp,1995,1112.1
 gbr,sex_f,eco_aggregate_man,cur_type_ppp,1996,1169.97
 gbr,sex_f,eco_aggregate_man,cur_type_ppp,1997,1217.49
+gbr,sex_f,eco_aggregate_man,cur_type_ppp,2014,3877.04
 gbr,sex_f,eco_aggregate_man,cur_type_usd,1995,1400.11
 gbr,sex_f,eco_aggregate_man,cur_type_usd,1996,1441.36
 gbr,sex_f,eco_aggregate_man,cur_type_usd,1997,1575.37
+gbr,sex_f,eco_aggregate_man,cur_type_usd,2014,5094.17
+gbr,sex_f,eco_aggregate_mkt,cur_type_lcu,2014,2385.57
+gbr,sex_f,eco_aggregate_mkt,cur_type_ppp,2014,2987.5
+gbr,sex_f,eco_aggregate_mkt,cur_type_usd,2014,3925.38
+gbr,sex_f,eco_aggregate_pub,cur_type_lcu,2014,2731.34
+gbr,sex_f,eco_aggregate_pub,cur_type_ppp,2014,3420.52
+gbr,sex_f,eco_aggregate_pub,cur_type_usd,2014,4494.34
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,1969,52.44
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,1970,60.58
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,1971,68.41
@@ -39,6 +54,7 @@ gbr,sex_f,eco_aggregate_total,cur_type_lcu,2010,1638
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,2011,1631
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,2012,1658
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,2013,1695
+gbr,sex_f,eco_aggregate_total,cur_type_lcu,2014,2621.4
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,2015,1745
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,2016,1805
 gbr,sex_f,eco_aggregate_total,cur_type_lcu,2017,1853
@@ -59,6 +75,7 @@ gbr,sex_f,eco_aggregate_total,cur_type_ppp,2010,2106.99
 gbr,sex_f,eco_aggregate_total,cur_type_ppp,2011,2097.27
 gbr,sex_f,eco_aggregate_total,cur_type_ppp,2012,2106.18
 gbr,sex_f,eco_aggregate_total,cur_type_ppp,2013,2137.76
+gbr,sex_f,eco_aggregate_total,cur_type_ppp,2014,3282.84
 gbr,sex_f,eco_aggregate_total,cur_type_ppp,2015,2165.55
 gbr,sex_f,eco_aggregate_total,cur_type_ppp,2016,2288.86
 gbr,sex_f,eco_aggregate_total,cur_type_ppp,2017,2355.16
@@ -95,11 +112,15 @@ gbr,sex_f,eco_aggregate_total,cur_type_usd,2010,2530.98
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2011,2613.19
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2012,2619.08
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2013,2649.84
+gbr,sex_f,eco_aggregate_total,cur_type_usd,2014,4313.43
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2015,2665.97
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2016,2437.1
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2017,2384.88
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2018,2552.26
 gbr,sex_f,eco_aggregate_total,cur_type_usd,2019,2549
+gbr,sex_f,eco_aggregate_x,cur_type_lcu,2014,3097.32
+gbr,sex_f,eco_aggregate_x,cur_type_ppp,2014,3878.83
+gbr,sex_f,eco_aggregate_x,cur_type_usd,2014,5096.54
 gbr,sex_f,eco_isic2_1,cur_type_lcu,1983,374.11
 gbr,sex_f,eco_isic2_1,cur_type_lcu,1984,405.29
 gbr,sex_f,eco_isic2_1,cur_type_lcu,1985,454.65
@@ -764,6 +785,7 @@ gbr,sex_f,eco_isic4_a,cur_type_lcu,2010,1128
 gbr,sex_f,eco_isic4_a,cur_type_lcu,2011,1033
 gbr,sex_f,eco_isic4_a,cur_type_lcu,2012,1096
 gbr,sex_f,eco_isic4_a,cur_type_lcu,2013,1179
+gbr,sex_f,eco_isic4_a,cur_type_lcu,2014,1602.76
 gbr,sex_f,eco_isic4_a,cur_type_lcu,2015,1298
 gbr,sex_f,eco_isic4_a,cur_type_lcu,2016,1298
 gbr,sex_f,eco_isic4_a,cur_type_lcu,2017,1351
@@ -774,6 +796,7 @@ gbr,sex_f,eco_isic4_a,cur_type_ppp,2010,1450.97
 gbr,sex_f,eco_isic4_a,cur_type_ppp,2011,1328.31
 gbr,sex_f,eco_isic4_a,cur_type_ppp,2012,1392.26
 gbr,sex_f,eco_isic4_a,cur_type_ppp,2013,1486.97
+gbr,sex_f,eco_isic4_a,cur_type_ppp,2014,2007.17
 gbr,sex_f,eco_isic4_a,cur_type_ppp,2015,1610.82
 gbr,sex_f,eco_isic4_a,cur_type_ppp,2016,1645.95
 gbr,sex_f,eco_isic4_a,cur_type_ppp,2017,1717.12
@@ -784,6 +807,7 @@ gbr,sex_f,eco_isic4_a,cur_type_usd,2010,1742.95
 gbr,sex_f,eco_isic4_a,cur_type_usd,2011,1655.08
 gbr,sex_f,eco_isic4_a,cur_type_usd,2012,1731.31
 gbr,sex_f,eco_isic4_a,cur_type_usd,2013,1843.17
+gbr,sex_f,eco_isic4_a,cur_type_usd,2014,2637.29
 gbr,sex_f,eco_isic4_a,cur_type_usd,2015,1983.06
 gbr,sex_f,eco_isic4_a,cur_type_usd,2016,1752.55
 gbr,sex_f,eco_isic4_a,cur_type_usd,2017,1738.79
@@ -824,6 +848,7 @@ gbr,sex_f,eco_isic4_c,cur_type_lcu,2010,1696
 gbr,sex_f,eco_isic4_c,cur_type_lcu,2011,1748
 gbr,sex_f,eco_isic4_c,cur_type_lcu,2012,1802
 gbr,sex_f,eco_isic4_c,cur_type_lcu,2013,1860
+gbr,sex_f,eco_isic4_c,cur_type_lcu,2014,3095.88
 gbr,sex_f,eco_isic4_c,cur_type_lcu,2015,1949
 gbr,sex_f,eco_isic4_c,cur_type_lcu,2016,2019
 gbr,sex_f,eco_isic4_c,cur_type_lcu,2017,2083
@@ -834,6 +859,7 @@ gbr,sex_f,eco_isic4_c,cur_type_ppp,2010,2181.59
 gbr,sex_f,eco_isic4_c,cur_type_ppp,2011,2247.72
 gbr,sex_f,eco_isic4_c,cur_type_ppp,2012,2289.11
 gbr,sex_f,eco_isic4_c,cur_type_ppp,2013,2345.86
+gbr,sex_f,eco_isic4_c,cur_type_ppp,2014,3877.04
 gbr,sex_f,eco_isic4_c,cur_type_ppp,2015,2418.72
 gbr,sex_f,eco_isic4_c,cur_type_ppp,2016,2560.23
 gbr,sex_f,eco_isic4_c,cur_type_ppp,2017,2647.49
@@ -844,6 +870,7 @@ gbr,sex_f,eco_isic4_c,cur_type_usd,2010,2620.6
 gbr,sex_f,eco_isic4_c,cur_type_usd,2011,2800.65
 gbr,sex_f,eco_isic4_c,cur_type_usd,2012,2846.55
 gbr,sex_f,eco_isic4_c,cur_type_usd,2013,2907.79
+gbr,sex_f,eco_isic4_c,cur_type_usd,2014,5094.17
 gbr,sex_f,eco_isic4_c,cur_type_usd,2015,2977.64
 gbr,sex_f,eco_isic4_c,cur_type_usd,2016,2726.04
 gbr,sex_f,eco_isic4_c,cur_type_usd,2017,2680.9
@@ -914,6 +941,7 @@ gbr,sex_f,eco_isic4_f,cur_type_lcu,2010,1569
 gbr,sex_f,eco_isic4_f,cur_type_lcu,2011,1508
 gbr,sex_f,eco_isic4_f,cur_type_lcu,2012,1585
 gbr,sex_f,eco_isic4_f,cur_type_lcu,2013,1611
+gbr,sex_f,eco_isic4_f,cur_type_lcu,2014,3287.61
 gbr,sex_f,eco_isic4_f,cur_type_lcu,2015,1656
 gbr,sex_f,eco_isic4_f,cur_type_lcu,2016,1756
 gbr,sex_f,eco_isic4_f,cur_type_lcu,2017,1842
@@ -924,6 +952,7 @@ gbr,sex_f,eco_isic4_f,cur_type_ppp,2010,2018.23
 gbr,sex_f,eco_isic4_f,cur_type_ppp,2011,1939.11
 gbr,sex_f,eco_isic4_f,cur_type_ppp,2012,2013.45
 gbr,sex_f,eco_isic4_f,cur_type_ppp,2013,2031.82
+gbr,sex_f,eco_isic4_f,cur_type_ppp,2014,4117.14
 gbr,sex_f,eco_isic4_f,cur_type_ppp,2015,2055.1
 gbr,sex_f,eco_isic4_f,cur_type_ppp,2016,2226.73
 gbr,sex_f,eco_isic4_f,cur_type_ppp,2017,2341.18
@@ -934,6 +963,7 @@ gbr,sex_f,eco_isic4_f,cur_type_usd,2010,2424.37
 gbr,sex_f,eco_isic4_f,cur_type_usd,2011,2416.12
 gbr,sex_f,eco_isic4_f,cur_type_usd,2012,2503.76
 gbr,sex_f,eco_isic4_f,cur_type_usd,2013,2518.52
+gbr,sex_f,eco_isic4_f,cur_type_usd,2014,5409.65
 gbr,sex_f,eco_isic4_f,cur_type_usd,2015,2530
 gbr,sex_f,eco_isic4_f,cur_type_usd,2016,2370.94
 gbr,sex_f,eco_isic4_f,cur_type_usd,2017,2370.73
@@ -944,6 +974,7 @@ gbr,sex_f,eco_isic4_g,cur_type_lcu,2010,1132
 gbr,sex_f,eco_isic4_g,cur_type_lcu,2011,1149
 gbr,sex_f,eco_isic4_g,cur_type_lcu,2012,1181
 gbr,sex_f,eco_isic4_g,cur_type_lcu,2013,1225
+gbr,sex_f,eco_isic4_g,cur_type_lcu,2014,1480.32
 gbr,sex_f,eco_isic4_g,cur_type_lcu,2015,1269
 gbr,sex_f,eco_isic4_g,cur_type_lcu,2016,1353
 gbr,sex_f,eco_isic4_g,cur_type_lcu,2017,1396
@@ -954,6 +985,7 @@ gbr,sex_f,eco_isic4_g,cur_type_ppp,2010,1456.11
 gbr,sex_f,eco_isic4_g,cur_type_ppp,2011,1477.48
 gbr,sex_f,eco_isic4_g,cur_type_ppp,2012,1500.24
 gbr,sex_f,eco_isic4_g,cur_type_ppp,2013,1544.99
+gbr,sex_f,eco_isic4_g,cur_type_ppp,2014,1853.84
 gbr,sex_f,eco_isic4_g,cur_type_ppp,2015,1574.83
 gbr,sex_f,eco_isic4_g,cur_type_ppp,2016,1715.7
 gbr,sex_f,eco_isic4_g,cur_type_ppp,2017,1774.31
@@ -964,6 +996,7 @@ gbr,sex_f,eco_isic4_g,cur_type_usd,2010,1749.13
 gbr,sex_f,eco_isic4_g,cur_type_usd,2011,1840.93
 gbr,sex_f,eco_isic4_g,cur_type_usd,2012,1865.58
 gbr,sex_f,eco_isic4_g,cur_type_usd,2013,1915.08
+gbr,sex_f,eco_isic4_g,cur_type_usd,2014,2435.82
 gbr,sex_f,eco_isic4_g,cur_type_usd,2015,1938.75
 gbr,sex_f,eco_isic4_g,cur_type_usd,2016,1826.81
 gbr,sex_f,eco_isic4_g,cur_type_usd,2017,1796.71
@@ -974,6 +1007,7 @@ gbr,sex_f,eco_isic4_h,cur_type_lcu,2010,1863
 gbr,sex_f,eco_isic4_h,cur_type_lcu,2011,1861
 gbr,sex_f,eco_isic4_h,cur_type_lcu,2012,1941
 gbr,sex_f,eco_isic4_h,cur_type_lcu,2013,1984
+gbr,sex_f,eco_isic4_h,cur_type_lcu,2014,2856.53
 gbr,sex_f,eco_isic4_h,cur_type_lcu,2015,2056
 gbr,sex_f,eco_isic4_h,cur_type_lcu,2016,2100
 gbr,sex_f,eco_isic4_h,cur_type_lcu,2017,2153
@@ -984,6 +1018,7 @@ gbr,sex_f,eco_isic4_h,cur_type_ppp,2010,2396.41
 gbr,sex_f,eco_isic4_h,cur_type_ppp,2011,2393.02
 gbr,sex_f,eco_isic4_h,cur_type_ppp,2012,2465.68
 gbr,sex_f,eco_isic4_h,cur_type_ppp,2013,2502.25
+gbr,sex_f,eco_isic4_h,cur_type_ppp,2014,3577.29
 gbr,sex_f,eco_isic4_h,cur_type_ppp,2015,2551.5
 gbr,sex_f,eco_isic4_h,cur_type_ppp,2016,2662.94
 gbr,sex_f,eco_isic4_h,cur_type_ppp,2017,2736.46
@@ -994,6 +1029,7 @@ gbr,sex_f,eco_isic4_h,cur_type_usd,2010,2878.65
 gbr,sex_f,eco_isic4_h,cur_type_usd,2011,2981.7
 gbr,sex_f,eco_isic4_h,cur_type_usd,2012,3066.12
 gbr,sex_f,eco_isic4_h,cur_type_usd,2013,3101.64
+gbr,sex_f,eco_isic4_h,cur_type_usd,2014,4700.33
 gbr,sex_f,eco_isic4_h,cur_type_usd,2015,3141.11
 gbr,sex_f,eco_isic4_h,cur_type_usd,2016,2835.41
 gbr,sex_f,eco_isic4_h,cur_type_usd,2017,2771
@@ -1004,6 +1040,7 @@ gbr,sex_f,eco_isic4_i,cur_type_lcu,2010,849
 gbr,sex_f,eco_isic4_i,cur_type_lcu,2011,833
 gbr,sex_f,eco_isic4_i,cur_type_lcu,2012,855
 gbr,sex_f,eco_isic4_i,cur_type_lcu,2013,884
+gbr,sex_f,eco_isic4_i,cur_type_lcu,2014,1548.62
 gbr,sex_f,eco_isic4_i,cur_type_lcu,2015,933
 gbr,sex_f,eco_isic4_i,cur_type_lcu,2016,985
 gbr,sex_f,eco_isic4_i,cur_type_lcu,2017,1038
@@ -1014,6 +1051,7 @@ gbr,sex_f,eco_isic4_i,cur_type_ppp,2010,1092.08
 gbr,sex_f,eco_isic4_i,cur_type_ppp,2011,1071.14
 gbr,sex_f,eco_isic4_i,cur_type_ppp,2012,1086.12
 gbr,sex_f,eco_isic4_i,cur_type_ppp,2013,1114.92
+gbr,sex_f,eco_isic4_i,cur_type_ppp,2014,1939.37
 gbr,sex_f,eco_isic4_i,cur_type_ppp,2015,1157.86
 gbr,sex_f,eco_isic4_i,cur_type_ppp,2016,1249.05
 gbr,sex_f,eco_isic4_i,cur_type_ppp,2017,1319.29
@@ -1024,6 +1062,7 @@ gbr,sex_f,eco_isic4_i,cur_type_usd,2010,1311.85
 gbr,sex_f,eco_isic4_i,cur_type_usd,2011,1334.63
 gbr,sex_f,eco_isic4_i,cur_type_usd,2012,1350.61
 gbr,sex_f,eco_isic4_i,cur_type_usd,2013,1381.98
+gbr,sex_f,eco_isic4_i,cur_type_usd,2014,2548.21
 gbr,sex_f,eco_isic4_i,cur_type_usd,2015,1425.42
 gbr,sex_f,eco_isic4_i,cur_type_usd,2016,1329.94
 gbr,sex_f,eco_isic4_i,cur_type_usd,2017,1335.95
@@ -1034,6 +1073,7 @@ gbr,sex_f,eco_isic4_j,cur_type_lcu,2010,2396
 gbr,sex_f,eco_isic4_j,cur_type_lcu,2011,2408
 gbr,sex_f,eco_isic4_j,cur_type_lcu,2012,2505
 gbr,sex_f,eco_isic4_j,cur_type_lcu,2013,2426
+gbr,sex_f,eco_isic4_j,cur_type_lcu,2014,4057.89
 gbr,sex_f,eco_isic4_j,cur_type_lcu,2015,2630
 gbr,sex_f,eco_isic4_j,cur_type_lcu,2016,2733
 gbr,sex_f,eco_isic4_j,cur_type_lcu,2017,2826
@@ -1044,6 +1084,7 @@ gbr,sex_f,eco_isic4_j,cur_type_ppp,2010,3082.02
 gbr,sex_f,eco_isic4_j,cur_type_ppp,2011,3096.4
 gbr,sex_f,eco_isic4_j,cur_type_ppp,2012,3182.14
 gbr,sex_f,eco_isic4_j,cur_type_ppp,2013,3059.71
+gbr,sex_f,eco_isic4_j,cur_type_ppp,2014,5081.79
 gbr,sex_f,eco_isic4_j,cur_type_ppp,2015,3263.84
 gbr,sex_f,eco_isic4_j,cur_type_ppp,2016,3465.63
 gbr,sex_f,eco_isic4_j,cur_type_ppp,2017,3591.84
@@ -1054,6 +1095,7 @@ gbr,sex_f,eco_isic4_j,cur_type_usd,2010,3702.22
 gbr,sex_f,eco_isic4_j,cur_type_usd,2011,3858.1
 gbr,sex_f,eco_isic4_j,cur_type_usd,2012,3957.05
 gbr,sex_f,eco_isic4_j,cur_type_usd,2013,3792.64
+gbr,sex_f,eco_isic4_j,cur_type_usd,2014,6677.14
 gbr,sex_f,eco_isic4_j,cur_type_usd,2015,4018.06
 gbr,sex_f,eco_isic4_j,cur_type_usd,2016,3690.08
 gbr,sex_f,eco_isic4_j,cur_type_usd,2017,3637.17
@@ -1064,6 +1106,7 @@ gbr,sex_f,eco_isic4_k,cur_type_lcu,2010,2364
 gbr,sex_f,eco_isic4_k,cur_type_lcu,2011,2421
 gbr,sex_f,eco_isic4_k,cur_type_lcu,2012,2468
 gbr,sex_f,eco_isic4_k,cur_type_lcu,2013,2536
+gbr,sex_f,eco_isic4_k,cur_type_lcu,2014,4020.39
 gbr,sex_f,eco_isic4_k,cur_type_lcu,2015,2691
 gbr,sex_f,eco_isic4_k,cur_type_lcu,2016,2729
 gbr,sex_f,eco_isic4_k,cur_type_lcu,2017,2923
@@ -1074,6 +1117,7 @@ gbr,sex_f,eco_isic4_k,cur_type_ppp,2010,3040.85
 gbr,sex_f,eco_isic4_k,cur_type_ppp,2011,3113.12
 gbr,sex_f,eco_isic4_k,cur_type_ppp,2012,3135.13
 gbr,sex_f,eco_isic4_k,cur_type_ppp,2013,3198.45
+gbr,sex_f,eco_isic4_k,cur_type_ppp,2014,5034.82
 gbr,sex_f,eco_isic4_k,cur_type_ppp,2015,3339.54
 gbr,sex_f,eco_isic4_k,cur_type_ppp,2016,3460.56
 gbr,sex_f,eco_isic4_k,cur_type_ppp,2017,3715.12
@@ -1084,6 +1128,7 @@ gbr,sex_f,eco_isic4_k,cur_type_usd,2010,3652.77
 gbr,sex_f,eco_isic4_k,cur_type_usd,2011,3878.93
 gbr,sex_f,eco_isic4_k,cur_type_usd,2012,3898.6
 gbr,sex_f,eco_isic4_k,cur_type_usd,2013,3964.6
+gbr,sex_f,eco_isic4_k,cur_type_usd,2014,6615.42
 gbr,sex_f,eco_isic4_k,cur_type_usd,2015,4111.25
 gbr,sex_f,eco_isic4_k,cur_type_usd,2016,3684.68
 gbr,sex_f,eco_isic4_k,cur_type_usd,2017,3762.02
@@ -1094,6 +1139,7 @@ gbr,sex_f,eco_isic4_l,cur_type_lcu,2010,1718
 gbr,sex_f,eco_isic4_l,cur_type_lcu,2011,1676
 gbr,sex_f,eco_isic4_l,cur_type_lcu,2012,1727
 gbr,sex_f,eco_isic4_l,cur_type_lcu,2013,1784
+gbr,sex_f,eco_isic4_l,cur_type_lcu,2014,2844.73
 gbr,sex_f,eco_isic4_l,cur_type_lcu,2015,1906
 gbr,sex_f,eco_isic4_l,cur_type_lcu,2016,1916
 gbr,sex_f,eco_isic4_l,cur_type_lcu,2017,1940
@@ -1104,6 +1150,7 @@ gbr,sex_f,eco_isic4_l,cur_type_ppp,2010,2209.89
 gbr,sex_f,eco_isic4_l,cur_type_ppp,2011,2155.14
 gbr,sex_f,eco_isic4_l,cur_type_ppp,2012,2193.83
 gbr,sex_f,eco_isic4_l,cur_type_ppp,2013,2250.01
+gbr,sex_f,eco_isic4_l,cur_type_ppp,2014,3562.52
 gbr,sex_f,eco_isic4_l,cur_type_ppp,2015,2365.35
 gbr,sex_f,eco_isic4_l,cur_type_ppp,2016,2429.62
 gbr,sex_f,eco_isic4_l,cur_type_ppp,2017,2465.73
@@ -1114,6 +1161,7 @@ gbr,sex_f,eco_isic4_l,cur_type_usd,2010,2654.6
 gbr,sex_f,eco_isic4_l,cur_type_usd,2011,2685.29
 gbr,sex_f,eco_isic4_l,cur_type_usd,2012,2728.08
 gbr,sex_f,eco_isic4_l,cur_type_usd,2013,2788.98
+gbr,sex_f,eco_isic4_l,cur_type_usd,2014,4680.92
 gbr,sex_f,eco_isic4_l,cur_type_usd,2015,2911.94
 gbr,sex_f,eco_isic4_l,cur_type_usd,2016,2586.97
 gbr,sex_f,eco_isic4_l,cur_type_usd,2017,2496.86
@@ -1184,6 +1232,7 @@ gbr,sex_f,eco_isic4_o,cur_type_lcu,2010,2073
 gbr,sex_f,eco_isic4_o,cur_type_lcu,2011,2026
 gbr,sex_f,eco_isic4_o,cur_type_lcu,2012,2071
 gbr,sex_f,eco_isic4_o,cur_type_lcu,2013,2096
+gbr,sex_f,eco_isic4_o,cur_type_lcu,2014,3169.92
 gbr,sex_f,eco_isic4_o,cur_type_lcu,2015,2181
 gbr,sex_f,eco_isic4_o,cur_type_lcu,2016,2182
 gbr,sex_f,eco_isic4_o,cur_type_lcu,2017,2229
@@ -1194,6 +1243,7 @@ gbr,sex_f,eco_isic4_o,cur_type_ppp,2010,2666.54
 gbr,sex_f,eco_isic4_o,cur_type_ppp,2011,2605.19
 gbr,sex_f,eco_isic4_o,cur_type_ppp,2012,2630.82
 gbr,sex_f,eco_isic4_o,cur_type_ppp,2013,2643.51
+gbr,sex_f,eco_isic4_o,cur_type_ppp,2014,3969.76
 gbr,sex_f,eco_isic4_o,cur_type_ppp,2015,2706.63
 gbr,sex_f,eco_isic4_o,cur_type_ppp,2016,2766.93
 gbr,sex_f,eco_isic4_o,cur_type_ppp,2017,2833.05
@@ -1204,6 +1254,7 @@ gbr,sex_f,eco_isic4_o,cur_type_usd,2010,3203.13
 gbr,sex_f,eco_isic4_o,cur_type_usd,2011,3246.06
 gbr,sex_f,eco_isic4_o,cur_type_usd,2012,3271.48
 gbr,sex_f,eco_isic4_o,cur_type_usd,2013,3276.74
+gbr,sex_f,eco_isic4_o,cur_type_usd,2014,5216.01
 gbr,sex_f,eco_isic4_o,cur_type_usd,2015,3332.08
 gbr,sex_f,eco_isic4_o,cur_type_usd,2016,2946.12
 gbr,sex_f,eco_isic4_o,cur_type_usd,2017,2868.81
@@ -1214,6 +1265,7 @@ gbr,sex_f,eco_isic4_p,cur_type_lcu,2010,1695
 gbr,sex_f,eco_isic4_p,cur_type_lcu,2011,1687
 gbr,sex_f,eco_isic4_p,cur_type_lcu,2012,1704
 gbr,sex_f,eco_isic4_p,cur_type_lcu,2013,1738
+gbr,sex_f,eco_isic4_p,cur_type_lcu,2014,2876.87
 gbr,sex_f,eco_isic4_p,cur_type_lcu,2015,1811
 gbr,sex_f,eco_isic4_p,cur_type_lcu,2016,1852
 gbr,sex_f,eco_isic4_p,cur_type_lcu,2017,1877
@@ -1224,6 +1276,7 @@ gbr,sex_f,eco_isic4_p,cur_type_ppp,2010,2180.31
 gbr,sex_f,eco_isic4_p,cur_type_ppp,2011,2169.28
 gbr,sex_f,eco_isic4_p,cur_type_ppp,2012,2164.61
 gbr,sex_f,eco_isic4_p,cur_type_ppp,2013,2192
+gbr,sex_f,eco_isic4_p,cur_type_ppp,2014,3602.76
 gbr,sex_f,eco_isic4_p,cur_type_ppp,2015,2247.46
 gbr,sex_f,eco_isic4_p,cur_type_ppp,2016,2348.46
 gbr,sex_f,eco_isic4_p,cur_type_ppp,2017,2385.66
@@ -1234,6 +1287,7 @@ gbr,sex_f,eco_isic4_p,cur_type_usd,2010,2619.06
 gbr,sex_f,eco_isic4_p,cur_type_usd,2011,2702.92
 gbr,sex_f,eco_isic4_p,cur_type_usd,2012,2691.74
 gbr,sex_f,eco_isic4_p,cur_type_usd,2013,2717.07
+gbr,sex_f,eco_isic4_p,cur_type_usd,2014,4733.8
 gbr,sex_f,eco_isic4_p,cur_type_usd,2015,2766.81
 gbr,sex_f,eco_isic4_p,cur_type_usd,2016,2500.56
 gbr,sex_f,eco_isic4_p,cur_type_usd,2017,2415.77
@@ -1244,6 +1298,7 @@ gbr,sex_f,eco_isic4_q,cur_type_lcu,2010,1740
 gbr,sex_f,eco_isic4_q,cur_type_lcu,2011,1719
 gbr,sex_f,eco_isic4_q,cur_type_lcu,2012,1741
 gbr,sex_f,eco_isic4_q,cur_type_lcu,2013,1768
+gbr,sex_f,eco_isic4_q,cur_type_lcu,2014,2633.91
 gbr,sex_f,eco_isic4_q,cur_type_lcu,2015,1795
 gbr,sex_f,eco_isic4_q,cur_type_lcu,2016,1857
 gbr,sex_f,eco_isic4_q,cur_type_lcu,2017,1877
@@ -1254,6 +1309,7 @@ gbr,sex_f,eco_isic4_q,cur_type_ppp,2010,2238.19
 gbr,sex_f,eco_isic4_q,cur_type_ppp,2011,2210.43
 gbr,sex_f,eco_isic4_q,cur_type_ppp,2012,2211.62
 gbr,sex_f,eco_isic4_q,cur_type_ppp,2013,2229.83
+gbr,sex_f,eco_isic4_q,cur_type_ppp,2014,3298.5
 gbr,sex_f,eco_isic4_q,cur_type_ppp,2015,2227.6
 gbr,sex_f,eco_isic4_q,cur_type_ppp,2016,2354.8
 gbr,sex_f,eco_isic4_q,cur_type_ppp,2017,2385.66
@@ -1264,6 +1320,7 @@ gbr,sex_f,eco_isic4_q,cur_type_usd,2010,2688.59
 gbr,sex_f,eco_isic4_q,cur_type_usd,2011,2754.19
 gbr,sex_f,eco_isic4_q,cur_type_usd,2012,2750.19
 gbr,sex_f,eco_isic4_q,cur_type_usd,2013,2763.97
+gbr,sex_f,eco_isic4_q,cur_type_usd,2014,4334.01
 gbr,sex_f,eco_isic4_q,cur_type_usd,2015,2742.36
 gbr,sex_f,eco_isic4_q,cur_type_usd,2016,2507.31
 gbr,sex_f,eco_isic4_q,cur_type_usd,2017,2415.77
@@ -1304,6 +1361,7 @@ gbr,sex_f,eco_isic4_s,cur_type_lcu,2010,1343
 gbr,sex_f,eco_isic4_s,cur_type_lcu,2011,1340
 gbr,sex_f,eco_isic4_s,cur_type_lcu,2012,1359
 gbr,sex_f,eco_isic4_s,cur_type_lcu,2013,1391
+gbr,sex_f,eco_isic4_s,cur_type_lcu,2014,2132.61
 gbr,sex_f,eco_isic4_s,cur_type_lcu,2015,1438
 gbr,sex_f,eco_isic4_s,cur_type_lcu,2016,1455
 gbr,sex_f,eco_isic4_s,cur_type_lcu,2017,1493
@@ -1314,6 +1372,7 @@ gbr,sex_f,eco_isic4_s,cur_type_ppp,2010,1727.52
 gbr,sex_f,eco_isic4_s,cur_type_ppp,2011,1723.08
 gbr,sex_f,eco_isic4_s,cur_type_ppp,2012,1726.36
 gbr,sex_f,eco_isic4_s,cur_type_ppp,2013,1754.35
+gbr,sex_f,eco_isic4_s,cur_type_ppp,2014,2670.72
 gbr,sex_f,eco_isic4_s,cur_type_ppp,2015,1784.56
 gbr,sex_f,eco_isic4_s,cur_type_ppp,2016,1845.04
 gbr,sex_f,eco_isic4_s,cur_type_ppp,2017,1897.6
@@ -1324,6 +1383,7 @@ gbr,sex_f,eco_isic4_s,cur_type_usd,2010,2075.16
 gbr,sex_f,eco_isic4_s,cur_type_usd,2011,2146.95
 gbr,sex_f,eco_isic4_s,cur_type_usd,2012,2146.76
 gbr,sex_f,eco_isic4_s,cur_type_usd,2013,2174.59
+gbr,sex_f,eco_isic4_s,cur_type_usd,2014,3509.15
 gbr,sex_f,eco_isic4_s,cur_type_usd,2015,2196.94
 gbr,sex_f,eco_isic4_s,cur_type_usd,2016,1964.53
 gbr,sex_f,eco_isic4_s,cur_type_usd,2017,1921.55
@@ -1364,6 +1424,7 @@ gbr,sex_f,eco_isic4_total,cur_type_lcu,2010,1638
 gbr,sex_f,eco_isic4_total,cur_type_lcu,2011,1631
 gbr,sex_f,eco_isic4_total,cur_type_lcu,2012,1658
 gbr,sex_f,eco_isic4_total,cur_type_lcu,2013,1695
+gbr,sex_f,eco_isic4_total,cur_type_lcu,2014,2621.4
 gbr,sex_f,eco_isic4_total,cur_type_lcu,2015,1745
 gbr,sex_f,eco_isic4_total,cur_type_lcu,2016,1805
 gbr,sex_f,eco_isic4_total,cur_type_lcu,2017,1853
@@ -1374,6 +1435,7 @@ gbr,sex_f,eco_isic4_total,cur_type_ppp,2010,2106.99
 gbr,sex_f,eco_isic4_total,cur_type_ppp,2011,2097.27
 gbr,sex_f,eco_isic4_total,cur_type_ppp,2012,2106.18
 gbr,sex_f,eco_isic4_total,cur_type_ppp,2013,2137.76
+gbr,sex_f,eco_isic4_total,cur_type_ppp,2014,3282.84
 gbr,sex_f,eco_isic4_total,cur_type_ppp,2015,2165.55
 gbr,sex_f,eco_isic4_total,cur_type_ppp,2016,2288.86
 gbr,sex_f,eco_isic4_total,cur_type_ppp,2017,2355.16
@@ -1384,6 +1446,7 @@ gbr,sex_f,eco_isic4_total,cur_type_usd,2010,2530.98
 gbr,sex_f,eco_isic4_total,cur_type_usd,2011,2613.19
 gbr,sex_f,eco_isic4_total,cur_type_usd,2012,2619.08
 gbr,sex_f,eco_isic4_total,cur_type_usd,2013,2649.84
+gbr,sex_f,eco_isic4_total,cur_type_usd,2014,4313.43
 gbr,sex_f,eco_isic4_total,cur_type_usd,2015,2665.97
 gbr,sex_f,eco_isic4_total,cur_type_usd,2016,2437.1
 gbr,sex_f,eco_isic4_total,cur_type_usd,2017,2384.88
@@ -1407,24 +1470,42 @@ gbr,sex_f,eco_isic4_u,cur_type_usd,2016,3166.2
 gbr,sex_f,eco_isic4_u,cur_type_usd,2017,3082.46
 gbr,sex_f,eco_isic4_u,cur_type_usd,2018,3224.68
 gbr,sex_f,eco_isic4_u,cur_type_usd,2019,3113.17
+gbr,sex_f,eco_isic4_x,cur_type_lcu,2014,3097.32
 gbr,sex_f,eco_isic4_x,cur_type_lcu,2017,1141
 gbr,sex_f,eco_isic4_x,cur_type_lcu,2018,1281
 gbr,sex_f,eco_isic4_x,cur_type_lcu,2019,1408
+gbr,sex_f,eco_isic4_x,cur_type_ppp,2014,3878.83
 gbr,sex_f,eco_isic4_x,cur_type_ppp,2017,1450.21
 gbr,sex_f,eco_isic4_x,cur_type_ppp,2018,1646.4
 gbr,sex_f,eco_isic4_x,cur_type_ppp,2019,1807.94
+gbr,sex_f,eco_isic4_x,cur_type_usd,2014,5096.54
 gbr,sex_f,eco_isic4_x,cur_type_usd,2017,1468.51
 gbr,sex_f,eco_isic4_x,cur_type_usd,2018,1709.07
 gbr,sex_f,eco_isic4_x,cur_type_usd,2019,1797.19
+gbr,sex_m,eco_aggregate_agr,cur_type_lcu,2014,3159.37
+gbr,sex_m,eco_aggregate_agr,cur_type_ppp,2014,3956.55
+gbr,sex_m,eco_aggregate_agr,cur_type_usd,2014,5198.65
+gbr,sex_m,eco_aggregate_con,cur_type_lcu,2014,3845.24
+gbr,sex_m,eco_aggregate_con,cur_type_ppp,2014,4815.48
+gbr,sex_m,eco_aggregate_con,cur_type_usd,2014,6327.23
 gbr,sex_m,eco_aggregate_man,cur_type_lcu,1995,1554.83
 gbr,sex_m,eco_aggregate_man,cur_type_lcu,1996,1616.82
 gbr,sex_m,eco_aggregate_man,cur_type_lcu,1997,1670.1
+gbr,sex_m,eco_aggregate_man,cur_type_lcu,2014,4257.72
 gbr,sex_m,eco_aggregate_man,cur_type_ppp,1995,1948.96
 gbr,sex_m,eco_aggregate_man,cur_type_ppp,1996,2047.54
 gbr,sex_m,eco_aggregate_man,cur_type_ppp,1997,2113.01
+gbr,sex_m,eco_aggregate_man,cur_type_ppp,2014,5332.04
 gbr,sex_m,eco_aggregate_man,cur_type_usd,1995,2453.71
 gbr,sex_m,eco_aggregate_man,cur_type_usd,1996,2522.51
 gbr,sex_m,eco_aggregate_man,cur_type_usd,1997,2734.12
+gbr,sex_m,eco_aggregate_man,cur_type_usd,2014,7005.95
+gbr,sex_m,eco_aggregate_mkt,cur_type_lcu,2014,4169.48
+gbr,sex_m,eco_aggregate_mkt,cur_type_ppp,2014,5221.52
+gbr,sex_m,eco_aggregate_mkt,cur_type_usd,2014,6860.74
+gbr,sex_m,eco_aggregate_pub,cur_type_lcu,2014,4108.38
+gbr,sex_m,eco_aggregate_pub,cur_type_ppp,2014,5145.01
+gbr,sex_m,eco_aggregate_pub,cur_type_usd,2014,6760.21
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,1969,107.51
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,1970,121.46
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,1971,133.93
@@ -1455,6 +1536,7 @@ gbr,sex_m,eco_aggregate_total,cur_type_lcu,2010,2588
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,2011,2589
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,2012,2590
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,2013,2659
+gbr,sex_m,eco_aggregate_total,cur_type_lcu,2014,4145.4
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,2015,2663
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,2016,2749
 gbr,sex_m,eco_aggregate_total,cur_type_lcu,2017,2818
@@ -1474,6 +1556,7 @@ gbr,sex_m,eco_aggregate_total,cur_type_ppp,2010,3328.99
 gbr,sex_m,eco_aggregate_total,cur_type_ppp,2011,3329.15
 gbr,sex_m,eco_aggregate_total,cur_type_ppp,2012,3290.11
 gbr,sex_m,eco_aggregate_total,cur_type_ppp,2013,3353.58
+gbr,sex_m,eco_aggregate_total,cur_type_ppp,2014,5191.38
 gbr,sex_m,eco_aggregate_total,cur_type_ppp,2015,3304.79
 gbr,sex_m,eco_aggregate_total,cur_type_ppp,2016,3485.92
 gbr,sex_m,eco_aggregate_total,cur_type_ppp,2017,3581.67
@@ -1509,11 +1592,15 @@ gbr,sex_m,eco_aggregate_total,cur_type_usd,2010,3998.89
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2011,4148.1
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2012,4091.32
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2013,4156.89
+gbr,sex_m,eco_aggregate_total,cur_type_usd,2014,6821.13
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2015,4068.47
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2016,3711.68
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2017,3626.88
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2018,3867.75
 gbr,sex_m,eco_aggregate_total,cur_type_usd,2019,3788.4
+gbr,sex_m,eco_aggregate_x,cur_type_lcu,2014,5424.92
+gbr,sex_m,eco_aggregate_x,cur_type_ppp,2014,6793.75
+gbr,sex_m,eco_aggregate_x,cur_type_usd,2014,8926.54
 gbr,sex_m,eco_isic2_1,cur_type_lcu,1983,477.17
 gbr,sex_m,eco_isic2_1,cur_type_lcu,1984,503.15
 gbr,sex_m,eco_isic2_1,cur_type_lcu,1985,538.65
@@ -2204,6 +2291,7 @@ gbr,sex_m,eco_isic4_a,cur_type_lcu,2010,1821
 gbr,sex_m,eco_isic4_a,cur_type_lcu,2011,1816
 gbr,sex_m,eco_isic4_a,cur_type_lcu,2012,1808
 gbr,sex_m,eco_isic4_a,cur_type_lcu,2013,1943
+gbr,sex_m,eco_isic4_a,cur_type_lcu,2014,3159.37
 gbr,sex_m,eco_isic4_a,cur_type_lcu,2015,1934
 gbr,sex_m,eco_isic4_a,cur_type_lcu,2016,1995
 gbr,sex_m,eco_isic4_a,cur_type_lcu,2017,2081
@@ -2214,6 +2302,7 @@ gbr,sex_m,eco_isic4_a,cur_type_ppp,2010,2342.38
 gbr,sex_m,eco_isic4_a,cur_type_ppp,2011,2335.16
 gbr,sex_m,eco_isic4_a,cur_type_ppp,2012,2296.73
 gbr,sex_m,eco_isic4_a,cur_type_ppp,2013,2450.54
+gbr,sex_m,eco_isic4_a,cur_type_ppp,2014,3956.55
 gbr,sex_m,eco_isic4_a,cur_type_ppp,2015,2400.1
 gbr,sex_m,eco_isic4_a,cur_type_ppp,2016,2529.8
 gbr,sex_m,eco_isic4_a,cur_type_ppp,2017,2644.94
@@ -2224,6 +2313,7 @@ gbr,sex_m,eco_isic4_a,cur_type_usd,2010,2813.75
 gbr,sex_m,eco_isic4_a,cur_type_usd,2011,2909.6
 gbr,sex_m,eco_isic4_a,cur_type_usd,2012,2856.03
 gbr,sex_m,eco_isic4_a,cur_type_usd,2013,3037.55
+gbr,sex_m,eco_isic4_a,cur_type_usd,2014,5198.65
 gbr,sex_m,eco_isic4_a,cur_type_usd,2015,2954.72
 gbr,sex_m,eco_isic4_a,cur_type_usd,2016,2693.64
 gbr,sex_m,eco_isic4_a,cur_type_usd,2017,2678.33
@@ -2264,6 +2354,7 @@ gbr,sex_m,eco_isic4_c,cur_type_lcu,2010,2555
 gbr,sex_m,eco_isic4_c,cur_type_lcu,2011,2598
 gbr,sex_m,eco_isic4_c,cur_type_lcu,2012,2655
 gbr,sex_m,eco_isic4_c,cur_type_lcu,2013,2722
+gbr,sex_m,eco_isic4_c,cur_type_lcu,2014,4257.72
 gbr,sex_m,eco_isic4_c,cur_type_lcu,2015,2758
 gbr,sex_m,eco_isic4_c,cur_type_lcu,2016,2868
 gbr,sex_m,eco_isic4_c,cur_type_lcu,2017,2895
@@ -2274,6 +2365,7 @@ gbr,sex_m,eco_isic4_c,cur_type_ppp,2010,3286.54
 gbr,sex_m,eco_isic4_c,cur_type_ppp,2011,3340.72
 gbr,sex_m,eco_isic4_c,cur_type_ppp,2012,3372.68
 gbr,sex_m,eco_isic4_c,cur_type_ppp,2013,3433.03
+gbr,sex_m,eco_isic4_c,cur_type_ppp,2014,5332.04
 gbr,sex_m,eco_isic4_c,cur_type_ppp,2015,3422.69
 gbr,sex_m,eco_isic4_c,cur_type_ppp,2016,3636.82
 gbr,sex_m,eco_isic4_c,cur_type_ppp,2017,3679.54
@@ -2284,6 +2376,7 @@ gbr,sex_m,eco_isic4_c,cur_type_usd,2010,3947.9
 gbr,sex_m,eco_isic4_c,cur_type_usd,2011,4162.52
 gbr,sex_m,eco_isic4_c,cur_type_usd,2012,4194
 gbr,sex_m,eco_isic4_c,cur_type_usd,2013,4255.38
+gbr,sex_m,eco_isic4_c,cur_type_usd,2014,7005.95
 gbr,sex_m,eco_isic4_c,cur_type_usd,2015,4213.61
 gbr,sex_m,eco_isic4_c,cur_type_usd,2016,3872.36
 gbr,sex_m,eco_isic4_c,cur_type_usd,2017,3725.98
@@ -2354,6 +2447,7 @@ gbr,sex_m,eco_isic4_f,cur_type_lcu,2010,2703
 gbr,sex_m,eco_isic4_f,cur_type_lcu,2011,2697
 gbr,sex_m,eco_isic4_f,cur_type_lcu,2012,2730
 gbr,sex_m,eco_isic4_f,cur_type_lcu,2013,2800
+gbr,sex_m,eco_isic4_f,cur_type_lcu,2014,3845.24
 gbr,sex_m,eco_isic4_f,cur_type_lcu,2015,2773
 gbr,sex_m,eco_isic4_f,cur_type_lcu,2016,2865
 gbr,sex_m,eco_isic4_f,cur_type_lcu,2017,2945
@@ -2364,6 +2458,7 @@ gbr,sex_m,eco_isic4_f,cur_type_ppp,2010,3476.92
 gbr,sex_m,eco_isic4_f,cur_type_ppp,2011,3468.02
 gbr,sex_m,eco_isic4_f,cur_type_ppp,2012,3467.96
 gbr,sex_m,eco_isic4_f,cur_type_ppp,2013,3531.41
+gbr,sex_m,eco_isic4_f,cur_type_ppp,2014,4815.48
 gbr,sex_m,eco_isic4_f,cur_type_ppp,2015,3441.3
 gbr,sex_m,eco_isic4_f,cur_type_ppp,2016,3633.02
 gbr,sex_m,eco_isic4_f,cur_type_ppp,2017,3743.09
@@ -2374,6 +2469,7 @@ gbr,sex_m,eco_isic4_f,cur_type_usd,2010,4176.59
 gbr,sex_m,eco_isic4_f,cur_type_usd,2011,4321.14
 gbr,sex_m,eco_isic4_f,cur_type_usd,2012,4312.48
 gbr,sex_m,eco_isic4_f,cur_type_usd,2013,4377.32
+gbr,sex_m,eco_isic4_f,cur_type_usd,2014,6327.23
 gbr,sex_m,eco_isic4_f,cur_type_usd,2015,4236.53
 gbr,sex_m,eco_isic4_f,cur_type_usd,2016,3868.31
 gbr,sex_m,eco_isic4_f,cur_type_usd,2017,3790.33
@@ -2384,6 +2480,7 @@ gbr,sex_m,eco_isic4_g,cur_type_lcu,2010,2020
 gbr,sex_m,eco_isic4_g,cur_type_lcu,2011,1996
 gbr,sex_m,eco_isic4_g,cur_type_lcu,2012,1994
 gbr,sex_m,eco_isic4_g,cur_type_lcu,2013,2089
+gbr,sex_m,eco_isic4_g,cur_type_lcu,2014,2990.91
 gbr,sex_m,eco_isic4_g,cur_type_lcu,2015,2115
 gbr,sex_m,eco_isic4_g,cur_type_lcu,2016,2198
 gbr,sex_m,eco_isic4_g,cur_type_lcu,2017,2259
@@ -2394,6 +2491,7 @@ gbr,sex_m,eco_isic4_g,cur_type_ppp,2010,2598.36
 gbr,sex_m,eco_isic4_g,cur_type_ppp,2011,2566.62
 gbr,sex_m,eco_isic4_g,cur_type_ppp,2012,2533.01
 gbr,sex_m,eco_isic4_g,cur_type_ppp,2013,2634.68
+gbr,sex_m,eco_isic4_g,cur_type_ppp,2014,3745.59
 gbr,sex_m,eco_isic4_g,cur_type_ppp,2015,2624.72
 gbr,sex_m,eco_isic4_g,cur_type_ppp,2016,2787.21
 gbr,sex_m,eco_isic4_g,cur_type_ppp,2017,2871.18
@@ -2404,6 +2502,7 @@ gbr,sex_m,eco_isic4_g,cur_type_usd,2010,3121.24
 gbr,sex_m,eco_isic4_g,cur_type_usd,2011,3198
 gbr,sex_m,eco_isic4_g,cur_type_usd,2012,3149.85
 gbr,sex_m,eco_isic4_g,cur_type_usd,2013,3265.79
+gbr,sex_m,eco_isic4_g,cur_type_usd,2014,4921.45
 gbr,sex_m,eco_isic4_g,cur_type_usd,2015,3231.25
 gbr,sex_m,eco_isic4_g,cur_type_usd,2016,2967.73
 gbr,sex_m,eco_isic4_g,cur_type_usd,2017,2907.42
@@ -2414,6 +2513,7 @@ gbr,sex_m,eco_isic4_h,cur_type_lcu,2010,2424
 gbr,sex_m,eco_isic4_h,cur_type_lcu,2011,2416
 gbr,sex_m,eco_isic4_h,cur_type_lcu,2012,2504
 gbr,sex_m,eco_isic4_h,cur_type_lcu,2013,2590
+gbr,sex_m,eco_isic4_h,cur_type_lcu,2014,3724.9
 gbr,sex_m,eco_isic4_h,cur_type_lcu,2015,2733
 gbr,sex_m,eco_isic4_h,cur_type_lcu,2016,2733
 gbr,sex_m,eco_isic4_h,cur_type_lcu,2017,2762
@@ -2424,6 +2524,7 @@ gbr,sex_m,eco_isic4_h,cur_type_ppp,2010,3118.03
 gbr,sex_m,eco_isic4_h,cur_type_ppp,2011,3106.69
 gbr,sex_m,eco_isic4_h,cur_type_ppp,2012,3180.87
 gbr,sex_m,eco_isic4_h,cur_type_ppp,2013,3266.55
+gbr,sex_m,eco_isic4_h,cur_type_ppp,2014,4664.77
 gbr,sex_m,eco_isic4_h,cur_type_ppp,2015,3391.66
 gbr,sex_m,eco_isic4_h,cur_type_ppp,2016,3465.63
 gbr,sex_m,eco_isic4_h,cur_type_ppp,2017,3510.49
@@ -2434,6 +2535,7 @@ gbr,sex_m,eco_isic4_h,cur_type_usd,2010,3745.48
 gbr,sex_m,eco_isic4_h,cur_type_usd,2011,3870.92
 gbr,sex_m,eco_isic4_h,cur_type_usd,2012,3955.47
 gbr,sex_m,eco_isic4_h,cur_type_usd,2013,4049.02
+gbr,sex_m,eco_isic4_h,cur_type_usd,2014,6129.2
 gbr,sex_m,eco_isic4_h,cur_type_usd,2015,4175.42
 gbr,sex_m,eco_isic4_h,cur_type_usd,2016,3690.08
 gbr,sex_m,eco_isic4_h,cur_type_usd,2017,3554.8
@@ -2444,6 +2546,7 @@ gbr,sex_m,eco_isic4_i,cur_type_lcu,2010,1261
 gbr,sex_m,eco_isic4_i,cur_type_lcu,2011,1259
 gbr,sex_m,eco_isic4_i,cur_type_lcu,2012,1259
 gbr,sex_m,eco_isic4_i,cur_type_lcu,2013,1264
+gbr,sex_m,eco_isic4_i,cur_type_lcu,2014,2248.83
 gbr,sex_m,eco_isic4_i,cur_type_lcu,2015,1284
 gbr,sex_m,eco_isic4_i,cur_type_lcu,2016,1357
 gbr,sex_m,eco_isic4_i,cur_type_lcu,2017,1462
@@ -2454,6 +2557,7 @@ gbr,sex_m,eco_isic4_i,cur_type_ppp,2010,1622.05
 gbr,sex_m,eco_isic4_i,cur_type_ppp,2011,1618.92
 gbr,sex_m,eco_isic4_i,cur_type_ppp,2012,1599.33
 gbr,sex_m,eco_isic4_i,cur_type_ppp,2013,1594.18
+gbr,sex_m,eco_isic4_i,cur_type_ppp,2014,2816.26
 gbr,sex_m,eco_isic4_i,cur_type_ppp,2015,1593.45
 gbr,sex_m,eco_isic4_i,cur_type_ppp,2016,1720.77
 gbr,sex_m,eco_isic4_i,cur_type_ppp,2017,1858.2
@@ -2464,6 +2568,7 @@ gbr,sex_m,eco_isic4_i,cur_type_usd,2010,1948.46
 gbr,sex_m,eco_isic4_i,cur_type_usd,2011,2017.17
 gbr,sex_m,eco_isic4_i,cur_type_usd,2012,1988.79
 gbr,sex_m,eco_isic4_i,cur_type_usd,2013,1976.05
+gbr,sex_m,eco_isic4_i,cur_type_usd,2014,3700.38
 gbr,sex_m,eco_isic4_i,cur_type_usd,2015,1961.67
 gbr,sex_m,eco_isic4_i,cur_type_usd,2016,1832.21
 gbr,sex_m,eco_isic4_i,cur_type_usd,2017,1881.65
@@ -2474,6 +2579,7 @@ gbr,sex_m,eco_isic4_j,cur_type_lcu,2010,3443
 gbr,sex_m,eco_isic4_j,cur_type_lcu,2011,3440
 gbr,sex_m,eco_isic4_j,cur_type_lcu,2012,3496
 gbr,sex_m,eco_isic4_j,cur_type_lcu,2013,3459
+gbr,sex_m,eco_isic4_j,cur_type_lcu,2014,6236.05
 gbr,sex_m,eco_isic4_j,cur_type_lcu,2015,3498
 gbr,sex_m,eco_isic4_j,cur_type_lcu,2016,3612
 gbr,sex_m,eco_isic4_j,cur_type_lcu,2017,3733
@@ -2484,6 +2590,7 @@ gbr,sex_m,eco_isic4_j,cur_type_ppp,2010,4428.79
 gbr,sex_m,eco_isic4_j,cur_type_ppp,2011,4423.43
 gbr,sex_m,eco_isic4_j,cur_type_ppp,2012,4441.02
 gbr,sex_m,eco_isic4_j,cur_type_ppp,2013,4362.55
+gbr,sex_m,eco_isic4_j,cur_type_ppp,2014,7809.54
 gbr,sex_m,eco_isic4_j,cur_type_ppp,2015,4341.03
 gbr,sex_m,eco_isic4_j,cur_type_ppp,2016,4580.26
 gbr,sex_m,eco_isic4_j,cur_type_ppp,2017,4744.63
@@ -2494,6 +2601,7 @@ gbr,sex_m,eco_isic4_j,cur_type_usd,2010,5320.01
 gbr,sex_m,eco_isic4_j,cur_type_usd,2011,5511.58
 gbr,sex_m,eco_isic4_j,cur_type_usd,2012,5522.5
 gbr,sex_m,eco_isic4_j,cur_type_usd,2013,5407.56
+gbr,sex_m,eco_isic4_j,cur_type_usd,2014,10261.23
 gbr,sex_m,eco_isic4_j,cur_type_usd,2015,5344.17
 gbr,sex_m,eco_isic4_j,cur_type_usd,2016,4876.9
 gbr,sex_m,eco_isic4_j,cur_type_usd,2017,4804.52
@@ -2504,6 +2612,7 @@ gbr,sex_m,eco_isic4_k,cur_type_lcu,2010,4424
 gbr,sex_m,eco_isic4_k,cur_type_lcu,2011,4677
 gbr,sex_m,eco_isic4_k,cur_type_lcu,2012,4401
 gbr,sex_m,eco_isic4_k,cur_type_lcu,2013,4716
+gbr,sex_m,eco_isic4_k,cur_type_lcu,2014,7441.17
 gbr,sex_m,eco_isic4_k,cur_type_lcu,2015,4749
 gbr,sex_m,eco_isic4_k,cur_type_lcu,2016,4736
 gbr,sex_m,eco_isic4_k,cur_type_lcu,2017,4954
@@ -2514,6 +2623,7 @@ gbr,sex_m,eco_isic4_k,cur_type_ppp,2010,5690.67
 gbr,sex_m,eco_isic4_k,cur_type_ppp,2011,6014.06
 gbr,sex_m,eco_isic4_k,cur_type_ppp,2012,5590.65
 gbr,sex_m,eco_isic4_k,cur_type_ppp,2013,5947.9
+gbr,sex_m,eco_isic4_k,cur_type_ppp,2014,9318.73
 gbr,sex_m,eco_isic4_k,cur_type_ppp,2015,5893.53
 gbr,sex_m,eco_isic4_k,cur_type_ppp,2016,6005.57
 gbr,sex_m,eco_isic4_k,cur_type_ppp,2017,6296.52
@@ -2524,6 +2634,7 @@ gbr,sex_m,eco_isic4_k,cur_type_usd,2010,6835.82
 gbr,sex_m,eco_isic4_k,cur_type_usd,2011,7493.5
 gbr,sex_m,eco_isic4_k,cur_type_usd,2012,6952.09
 gbr,sex_m,eco_isic4_k,cur_type_usd,2013,7372.66
+gbr,sex_m,eco_isic4_k,cur_type_usd,2014,12244.21
 gbr,sex_m,eco_isic4_k,cur_type_usd,2015,7255.42
 gbr,sex_m,eco_isic4_k,cur_type_usd,2016,6394.52
 gbr,sex_m,eco_isic4_k,cur_type_usd,2017,6376
@@ -2534,6 +2645,7 @@ gbr,sex_m,eco_isic4_l,cur_type_lcu,2010,2706
 gbr,sex_m,eco_isic4_l,cur_type_lcu,2011,2593
 gbr,sex_m,eco_isic4_l,cur_type_lcu,2012,2606
 gbr,sex_m,eco_isic4_l,cur_type_lcu,2013,2598
+gbr,sex_m,eco_isic4_l,cur_type_lcu,2014,4468.36
 gbr,sex_m,eco_isic4_l,cur_type_lcu,2015,2683
 gbr,sex_m,eco_isic4_l,cur_type_lcu,2016,2724
 gbr,sex_m,eco_isic4_l,cur_type_lcu,2017,2722
@@ -2544,6 +2656,7 @@ gbr,sex_m,eco_isic4_l,cur_type_ppp,2010,3480.78
 gbr,sex_m,eco_isic4_l,cur_type_ppp,2011,3334.29
 gbr,sex_m,eco_isic4_l,cur_type_ppp,2012,3310.44
 gbr,sex_m,eco_isic4_l,cur_type_ppp,2013,3276.64
+gbr,sex_m,eco_isic4_l,cur_type_ppp,2014,5595.82
 gbr,sex_m,eco_isic4_l,cur_type_ppp,2015,3329.61
 gbr,sex_m,eco_isic4_l,cur_type_ppp,2016,3454.22
 gbr,sex_m,eco_isic4_l,cur_type_ppp,2017,3459.65
@@ -2554,6 +2667,7 @@ gbr,sex_m,eco_isic4_l,cur_type_usd,2010,4181.22
 gbr,sex_m,eco_isic4_l,cur_type_usd,2011,4154.51
 gbr,sex_m,eco_isic4_l,cur_type_usd,2012,4116.6
 gbr,sex_m,eco_isic4_l,cur_type_usd,2013,4061.53
+gbr,sex_m,eco_isic4_l,cur_type_usd,2014,7352.54
 gbr,sex_m,eco_isic4_l,cur_type_usd,2015,4099.03
 gbr,sex_m,eco_isic4_l,cur_type_usd,2016,3677.93
 gbr,sex_m,eco_isic4_l,cur_type_usd,2017,3503.32
@@ -2624,6 +2738,7 @@ gbr,sex_m,eco_isic4_o,cur_type_lcu,2010,2847
 gbr,sex_m,eco_isic4_o,cur_type_lcu,2011,2779
 gbr,sex_m,eco_isic4_o,cur_type_lcu,2012,2810
 gbr,sex_m,eco_isic4_o,cur_type_lcu,2013,2836
+gbr,sex_m,eco_isic4_o,cur_type_lcu,2014,4656.85
 gbr,sex_m,eco_isic4_o,cur_type_lcu,2015,2882
 gbr,sex_m,eco_isic4_o,cur_type_lcu,2016,2909
 gbr,sex_m,eco_isic4_o,cur_type_lcu,2017,2910
@@ -2634,6 +2749,7 @@ gbr,sex_m,eco_isic4_o,cur_type_ppp,2010,3662.15
 gbr,sex_m,eco_isic4_o,cur_type_ppp,2011,3573.46
 gbr,sex_m,eco_isic4_o,cur_type_ppp,2012,3569.58
 gbr,sex_m,eco_isic4_o,cur_type_ppp,2013,3576.81
+gbr,sex_m,eco_isic4_o,cur_type_ppp,2014,5831.87
 gbr,sex_m,eco_isic4_o,cur_type_ppp,2015,3576.57
 gbr,sex_m,eco_isic4_o,cur_type_ppp,2016,3688.81
 gbr,sex_m,eco_isic4_o,cur_type_ppp,2017,3698.6
@@ -2644,6 +2760,7 @@ gbr,sex_m,eco_isic4_o,cur_type_usd,2010,4399.09
 gbr,sex_m,eco_isic4_o,cur_type_usd,2011,4452.52
 gbr,sex_m,eco_isic4_o,cur_type_usd,2012,4438.85
 gbr,sex_m,eco_isic4_o,cur_type_usd,2013,4433.6
+gbr,sex_m,eco_isic4_o,cur_type_usd,2014,7662.7
 gbr,sex_m,eco_isic4_o,cur_type_usd,2015,4403.06
 gbr,sex_m,eco_isic4_o,cur_type_usd,2016,3927.71
 gbr,sex_m,eco_isic4_o,cur_type_usd,2017,3745.29
@@ -2654,6 +2771,7 @@ gbr,sex_m,eco_isic4_p,cur_type_lcu,2010,2448
 gbr,sex_m,eco_isic4_p,cur_type_lcu,2011,2484
 gbr,sex_m,eco_isic4_p,cur_type_lcu,2012,2479
 gbr,sex_m,eco_isic4_p,cur_type_lcu,2013,2526
+gbr,sex_m,eco_isic4_p,cur_type_lcu,2014,4437.59
 gbr,sex_m,eco_isic4_p,cur_type_lcu,2015,2600
 gbr,sex_m,eco_isic4_p,cur_type_lcu,2016,2678
 gbr,sex_m,eco_isic4_p,cur_type_lcu,2017,2726
@@ -2664,6 +2782,7 @@ gbr,sex_m,eco_isic4_p,cur_type_ppp,2010,3148.91
 gbr,sex_m,eco_isic4_p,cur_type_ppp,2011,3194.13
 gbr,sex_m,eco_isic4_p,cur_type_ppp,2012,3149.11
 gbr,sex_m,eco_isic4_p,cur_type_ppp,2013,3185.83
+gbr,sex_m,eco_isic4_p,cur_type_ppp,2014,5557.29
 gbr,sex_m,eco_isic4_p,cur_type_ppp,2015,3226.61
 gbr,sex_m,eco_isic4_p,cur_type_ppp,2016,3395.89
 gbr,sex_m,eco_isic4_p,cur_type_ppp,2017,3464.74
@@ -2674,6 +2793,7 @@ gbr,sex_m,eco_isic4_p,cur_type_usd,2010,3782.57
 gbr,sex_m,eco_isic4_p,cur_type_usd,2011,3979.87
 gbr,sex_m,eco_isic4_p,cur_type_usd,2012,3915.98
 gbr,sex_m,eco_isic4_p,cur_type_usd,2013,3948.97
+gbr,sex_m,eco_isic4_p,cur_type_usd,2014,7301.91
 gbr,sex_m,eco_isic4_p,cur_type_usd,2015,3972.22
 gbr,sex_m,eco_isic4_p,cur_type_usd,2016,3615.82
 gbr,sex_m,eco_isic4_p,cur_type_usd,2017,3508.47
@@ -2684,6 +2804,7 @@ gbr,sex_m,eco_isic4_q,cur_type_lcu,2010,2952
 gbr,sex_m,eco_isic4_q,cur_type_lcu,2011,2839
 gbr,sex_m,eco_isic4_q,cur_type_lcu,2012,2877
 gbr,sex_m,eco_isic4_q,cur_type_lcu,2013,2836
+gbr,sex_m,eco_isic4_q,cur_type_lcu,2014,3811.17
 gbr,sex_m,eco_isic4_q,cur_type_lcu,2015,2806
 gbr,sex_m,eco_isic4_q,cur_type_lcu,2016,2872
 gbr,sex_m,eco_isic4_q,cur_type_lcu,2017,2890
@@ -2694,6 +2815,7 @@ gbr,sex_m,eco_isic4_q,cur_type_ppp,2010,3797.21
 gbr,sex_m,eco_isic4_q,cur_type_ppp,2011,3650.62
 gbr,sex_m,eco_isic4_q,cur_type_ppp,2012,3654.69
 gbr,sex_m,eco_isic4_q,cur_type_ppp,2013,3576.81
+gbr,sex_m,eco_isic4_q,cur_type_ppp,2014,4772.8
 gbr,sex_m,eco_isic4_q,cur_type_ppp,2015,3482.26
 gbr,sex_m,eco_isic4_q,cur_type_ppp,2016,3641.89
 gbr,sex_m,eco_isic4_q,cur_type_ppp,2017,3673.18
@@ -2704,6 +2826,7 @@ gbr,sex_m,eco_isic4_q,cur_type_usd,2010,4561.33
 gbr,sex_m,eco_isic4_q,cur_type_usd,2011,4548.65
 gbr,sex_m,eco_isic4_q,cur_type_usd,2012,4544.69
 gbr,sex_m,eco_isic4_q,cur_type_usd,2013,4433.6
+gbr,sex_m,eco_isic4_q,cur_type_usd,2014,6271.15
 gbr,sex_m,eco_isic4_q,cur_type_usd,2015,4286.94
 gbr,sex_m,eco_isic4_q,cur_type_usd,2016,3877.76
 gbr,sex_m,eco_isic4_q,cur_type_usd,2017,3719.55
@@ -2744,6 +2867,7 @@ gbr,sex_m,eco_isic4_s,cur_type_lcu,2010,2141
 gbr,sex_m,eco_isic4_s,cur_type_lcu,2011,2131
 gbr,sex_m,eco_isic4_s,cur_type_lcu,2012,2167
 gbr,sex_m,eco_isic4_s,cur_type_lcu,2013,2150
+gbr,sex_m,eco_isic4_s,cur_type_lcu,2014,3102.15
 gbr,sex_m,eco_isic4_s,cur_type_lcu,2015,2235
 gbr,sex_m,eco_isic4_s,cur_type_lcu,2016,2302
 gbr,sex_m,eco_isic4_s,cur_type_lcu,2017,2367
@@ -2754,6 +2878,7 @@ gbr,sex_m,eco_isic4_s,cur_type_ppp,2010,2754.01
 gbr,sex_m,eco_isic4_s,cur_type_ppp,2011,2740.21
 gbr,sex_m,eco_isic4_s,cur_type_ppp,2012,2752.77
 gbr,sex_m,eco_isic4_s,cur_type_ppp,2013,2711.62
+gbr,sex_m,eco_isic4_s,cur_type_ppp,2014,3884.89
 gbr,sex_m,eco_isic4_s,cur_type_ppp,2015,2773.64
 gbr,sex_m,eco_isic4_s,cur_type_ppp,2016,2919.09
 gbr,sex_m,eco_isic4_s,cur_type_ppp,2017,3008.45
@@ -2764,6 +2889,7 @@ gbr,sex_m,eco_isic4_s,cur_type_usd,2010,3308.2
 gbr,sex_m,eco_isic4_s,cur_type_usd,2011,3414.29
 gbr,sex_m,eco_isic4_s,cur_type_usd,2012,3423.13
 gbr,sex_m,eco_isic4_s,cur_type_usd,2013,3361.16
+gbr,sex_m,eco_isic4_s,cur_type_usd,2014,5104.49
 gbr,sex_m,eco_isic4_s,cur_type_usd,2015,3414.58
 gbr,sex_m,eco_isic4_s,cur_type_usd,2016,3108.15
 gbr,sex_m,eco_isic4_s,cur_type_usd,2017,3046.42
@@ -2801,6 +2927,7 @@ gbr,sex_m,eco_isic4_total,cur_type_lcu,2010,2588
 gbr,sex_m,eco_isic4_total,cur_type_lcu,2011,2589
 gbr,sex_m,eco_isic4_total,cur_type_lcu,2012,2590
 gbr,sex_m,eco_isic4_total,cur_type_lcu,2013,2659
+gbr,sex_m,eco_isic4_total,cur_type_lcu,2014,4145.4
 gbr,sex_m,eco_isic4_total,cur_type_lcu,2015,2663
 gbr,sex_m,eco_isic4_total,cur_type_lcu,2016,2749
 gbr,sex_m,eco_isic4_total,cur_type_lcu,2017,2818
@@ -2811,6 +2938,7 @@ gbr,sex_m,eco_isic4_total,cur_type_ppp,2010,3328.99
 gbr,sex_m,eco_isic4_total,cur_type_ppp,2011,3329.15
 gbr,sex_m,eco_isic4_total,cur_type_ppp,2012,3290.11
 gbr,sex_m,eco_isic4_total,cur_type_ppp,2013,3353.58
+gbr,sex_m,eco_isic4_total,cur_type_ppp,2014,5191.38
 gbr,sex_m,eco_isic4_total,cur_type_ppp,2015,3304.79
 gbr,sex_m,eco_isic4_total,cur_type_ppp,2016,3485.92
 gbr,sex_m,eco_isic4_total,cur_type_ppp,2017,3581.67
@@ -2821,6 +2949,7 @@ gbr,sex_m,eco_isic4_total,cur_type_usd,2010,3998.89
 gbr,sex_m,eco_isic4_total,cur_type_usd,2011,4148.1
 gbr,sex_m,eco_isic4_total,cur_type_usd,2012,4091.32
 gbr,sex_m,eco_isic4_total,cur_type_usd,2013,4156.89
+gbr,sex_m,eco_isic4_total,cur_type_usd,2014,6821.13
 gbr,sex_m,eco_isic4_total,cur_type_usd,2015,4068.47
 gbr,sex_m,eco_isic4_total,cur_type_usd,2016,3711.68
 gbr,sex_m,eco_isic4_total,cur_type_usd,2017,3626.88
@@ -2841,27 +2970,45 @@ gbr,sex_m,eco_isic4_u,cur_type_usd,2016,3683.33
 gbr,sex_m,eco_isic4_u,cur_type_usd,2017,3233.04
 gbr,sex_m,eco_isic4_u,cur_type_usd,2018,4139.92
 gbr,sex_m,eco_isic4_u,cur_type_usd,2019,3783.29
+gbr,sex_m,eco_isic4_x,cur_type_lcu,2014,5424.92
 gbr,sex_m,eco_isic4_x,cur_type_lcu,2017,2536
 gbr,sex_m,eco_isic4_x,cur_type_lcu,2018,2077
 gbr,sex_m,eco_isic4_x,cur_type_lcu,2019,2789
+gbr,sex_m,eco_isic4_x,cur_type_ppp,2014,6793.75
 gbr,sex_m,eco_isic4_x,cur_type_ppp,2017,3223.25
 gbr,sex_m,eco_isic4_x,cur_type_ppp,2018,2669.45
 gbr,sex_m,eco_isic4_x,cur_type_ppp,2019,3581.22
+gbr,sex_m,eco_isic4_x,cur_type_usd,2014,8926.54
 gbr,sex_m,eco_isic4_x,cur_type_usd,2017,3263.93
 gbr,sex_m,eco_isic4_x,cur_type_usd,2018,2771.06
 gbr,sex_m,eco_isic4_x,cur_type_usd,2019,3559.92
+gbr,sex_t,eco_aggregate_agr,cur_type_lcu,2014,2696.67
+gbr,sex_t,eco_aggregate_agr,cur_type_ppp,2014,3377.1
+gbr,sex_t,eco_aggregate_agr,cur_type_usd,2014,4437.29
+gbr,sex_t,eco_aggregate_con,cur_type_lcu,2014,3771.91
+gbr,sex_t,eco_aggregate_con,cur_type_ppp,2014,4723.65
+gbr,sex_t,eco_aggregate_con,cur_type_usd,2014,6206.56
 gbr,sex_t,eco_aggregate_man,cur_type_lcu,1995,1373.08
 gbr,sex_t,eco_aggregate_man,cur_type_lcu,1996,1430.53
 gbr,sex_t,eco_aggregate_man,cur_type_lcu,1997,1479.63
 gbr,sex_t,eco_aggregate_man,cur_type_lcu,2008,2349.94
+gbr,sex_t,eco_aggregate_man,cur_type_lcu,2014,3960.49
 gbr,sex_t,eco_aggregate_man,cur_type_ppp,1995,1721.13
 gbr,sex_t,eco_aggregate_man,cur_type_ppp,1996,1811.62
 gbr,sex_t,eco_aggregate_man,cur_type_ppp,1997,1872.04
 gbr,sex_t,eco_aggregate_man,cur_type_ppp,2008,3078.06
+gbr,sex_t,eco_aggregate_man,cur_type_ppp,2014,4959.81
 gbr,sex_t,eco_aggregate_man,cur_type_usd,1995,2166.88
 gbr,sex_t,eco_aggregate_man,cur_type_usd,1996,2231.86
 gbr,sex_t,eco_aggregate_man,cur_type_usd,1997,2422.31
 gbr,sex_t,eco_aggregate_man,cur_type_usd,2008,4320.02
+gbr,sex_t,eco_aggregate_man,cur_type_usd,2014,6516.87
+gbr,sex_t,eco_aggregate_mkt,cur_type_lcu,2014,3358.88
+gbr,sex_t,eco_aggregate_mkt,cur_type_ppp,2014,4206.4
+gbr,sex_t,eco_aggregate_mkt,cur_type_usd,2014,5526.93
+gbr,sex_t,eco_aggregate_pub,cur_type_lcu,2014,3170.64
+gbr,sex_t,eco_aggregate_pub,cur_type_ppp,2014,3970.67
+gbr,sex_t,eco_aggregate_pub,cur_type_usd,2014,5217.19
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,1982,554.2
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,1983,600.74
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,1984,643.83
@@ -2886,6 +3033,7 @@ gbr,sex_t,eco_aggregate_total,cur_type_lcu,2010,2119
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,2011,2117
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,2012,2130
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,2013,2182
+gbr,sex_t,eco_aggregate_total,cur_type_lcu,2014,3395.09
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,2015,2208
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,2016,2281
 gbr,sex_t,eco_aggregate_total,cur_type_lcu,2017,2341
@@ -2908,6 +3056,7 @@ gbr,sex_t,eco_aggregate_total,cur_type_ppp,2010,2725.71
 gbr,sex_t,eco_aggregate_total,cur_type_ppp,2011,2722.21
 gbr,sex_t,eco_aggregate_total,cur_type_ppp,2012,2705.77
 gbr,sex_t,eco_aggregate_total,cur_type_ppp,2013,2751.98
+gbr,sex_t,eco_aggregate_total,cur_type_ppp,2014,4251.74
 gbr,sex_t,eco_aggregate_total,cur_type_ppp,2015,2740.14
 gbr,sex_t,eco_aggregate_total,cur_type_ppp,2016,2892.46
 gbr,sex_t,eco_aggregate_total,cur_type_ppp,2017,2975.4
@@ -2938,12 +3087,16 @@ gbr,sex_t,eco_aggregate_total,cur_type_usd,2010,3274.21
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2011,3391.86
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2012,3364.68
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2013,3411.18
+gbr,sex_t,eco_aggregate_total,cur_type_usd,2014,5586.51
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2015,3373.33
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2016,3079.79
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2017,3012.96
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2018,3216.68
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2019,3168.06
 gbr,sex_t,eco_aggregate_total,cur_type_usd,2020,3142.31
+gbr,sex_t,eco_aggregate_x,cur_type_lcu,2014,4355.58
+gbr,sex_t,eco_aggregate_x,cur_type_ppp,2014,5454.58
+gbr,sex_t,eco_aggregate_x,cur_type_usd,2014,7166.97
 gbr,sex_t,eco_isic2_1,cur_type_lcu,1983,471.97
 gbr,sex_t,eco_isic2_1,cur_type_lcu,1984,497.95
 gbr,sex_t,eco_isic2_1,cur_type_lcu,1985,532.59
@@ -3585,6 +3738,7 @@ gbr,sex_t,eco_isic4_a,cur_type_lcu,2010,1609
 gbr,sex_t,eco_isic4_a,cur_type_lcu,2011,1590
 gbr,sex_t,eco_isic4_a,cur_type_lcu,2012,1581
 gbr,sex_t,eco_isic4_a,cur_type_lcu,2013,1696
+gbr,sex_t,eco_isic4_a,cur_type_lcu,2014,2696.67
 gbr,sex_t,eco_isic4_a,cur_type_lcu,2015,1726
 gbr,sex_t,eco_isic4_a,cur_type_lcu,2016,1756
 gbr,sex_t,eco_isic4_a,cur_type_lcu,2017,1836
@@ -3596,6 +3750,7 @@ gbr,sex_t,eco_isic4_a,cur_type_ppp,2010,2069.68
 gbr,sex_t,eco_isic4_a,cur_type_ppp,2011,2044.55
 gbr,sex_t,eco_isic4_a,cur_type_ppp,2012,2008.37
 gbr,sex_t,eco_isic4_a,cur_type_ppp,2013,2139.02
+gbr,sex_t,eco_isic4_a,cur_type_ppp,2014,3377.1
 gbr,sex_t,eco_isic4_a,cur_type_ppp,2015,2141.97
 gbr,sex_t,eco_isic4_a,cur_type_ppp,2016,2226.73
 gbr,sex_t,eco_isic4_a,cur_type_ppp,2017,2333.55
@@ -3607,6 +3762,7 @@ gbr,sex_t,eco_isic4_a,cur_type_usd,2010,2486.17
 gbr,sex_t,eco_isic4_a,cur_type_usd,2011,2547.5
 gbr,sex_t,eco_isic4_a,cur_type_usd,2012,2497.44
 gbr,sex_t,eco_isic4_a,cur_type_usd,2013,2651.41
+gbr,sex_t,eco_isic4_a,cur_type_usd,2014,4437.29
 gbr,sex_t,eco_isic4_a,cur_type_usd,2015,2636.94
 gbr,sex_t,eco_isic4_a,cur_type_usd,2016,2370.94
 gbr,sex_t,eco_isic4_a,cur_type_usd,2017,2363.01
@@ -3651,6 +3807,7 @@ gbr,sex_t,eco_isic4_c,cur_type_lcu,2010,2371
 gbr,sex_t,eco_isic4_c,cur_type_lcu,2011,2415
 gbr,sex_t,eco_isic4_c,cur_type_lcu,2012,2468
 gbr,sex_t,eco_isic4_c,cur_type_lcu,2013,2537
+gbr,sex_t,eco_isic4_c,cur_type_lcu,2014,3960.49
 gbr,sex_t,eco_isic4_c,cur_type_lcu,2015,2580
 gbr,sex_t,eco_isic4_c,cur_type_lcu,2016,2681
 gbr,sex_t,eco_isic4_c,cur_type_lcu,2017,2712
@@ -3662,6 +3819,7 @@ gbr,sex_t,eco_isic4_c,cur_type_ppp,2010,3049.86
 gbr,sex_t,eco_isic4_c,cur_type_ppp,2011,3105.4
 gbr,sex_t,eco_isic4_c,cur_type_ppp,2012,3135.13
 gbr,sex_t,eco_isic4_c,cur_type_ppp,2013,3199.71
+gbr,sex_t,eco_isic4_c,cur_type_ppp,2014,4959.81
 gbr,sex_t,eco_isic4_c,cur_type_ppp,2015,3201.79
 gbr,sex_t,eco_isic4_c,cur_type_ppp,2016,3399.69
 gbr,sex_t,eco_isic4_c,cur_type_ppp,2017,3446.94
@@ -3673,6 +3831,7 @@ gbr,sex_t,eco_isic4_c,cur_type_usd,2010,3663.59
 gbr,sex_t,eco_isic4_c,cur_type_usd,2011,3869.32
 gbr,sex_t,eco_isic4_c,cur_type_usd,2012,3898.6
 gbr,sex_t,eco_isic4_c,cur_type_usd,2013,3966.17
+gbr,sex_t,eco_isic4_c,cur_type_usd,2014,6516.87
 gbr,sex_t,eco_isic4_c,cur_type_usd,2015,3941.67
 gbr,sex_t,eco_isic4_c,cur_type_usd,2016,3619.87
 gbr,sex_t,eco_isic4_c,cur_type_usd,2017,3490.45
@@ -3750,6 +3909,7 @@ gbr,sex_t,eco_isic4_f,cur_type_lcu,2010,2516
 gbr,sex_t,eco_isic4_f,cur_type_lcu,2011,2498
 gbr,sex_t,eco_isic4_f,cur_type_lcu,2012,2527
 gbr,sex_t,eco_isic4_f,cur_type_lcu,2013,2597
+gbr,sex_t,eco_isic4_f,cur_type_lcu,2014,3771.91
 gbr,sex_t,eco_isic4_f,cur_type_lcu,2015,2573
 gbr,sex_t,eco_isic4_f,cur_type_lcu,2016,2661
 gbr,sex_t,eco_isic4_f,cur_type_lcu,2017,2739
@@ -3761,6 +3921,7 @@ gbr,sex_t,eco_isic4_f,cur_type_ppp,2010,3236.38
 gbr,sex_t,eco_isic4_f,cur_type_ppp,2011,3212.13
 gbr,sex_t,eco_isic4_f,cur_type_ppp,2012,3210.08
 gbr,sex_t,eco_isic4_f,cur_type_ppp,2013,3275.38
+gbr,sex_t,eco_isic4_f,cur_type_ppp,2014,4723.65
 gbr,sex_t,eco_isic4_f,cur_type_ppp,2015,3193.1
 gbr,sex_t,eco_isic4_f,cur_type_ppp,2016,3374.33
 gbr,sex_t,eco_isic4_f,cur_type_ppp,2017,3481.26
@@ -3772,6 +3933,7 @@ gbr,sex_t,eco_isic4_f,cur_type_usd,2010,3887.64
 gbr,sex_t,eco_isic4_f,cur_type_usd,2011,4002.3
 gbr,sex_t,eco_isic4_f,cur_type_usd,2012,3991.8
 gbr,sex_t,eco_isic4_f,cur_type_usd,2013,4059.97
+gbr,sex_t,eco_isic4_f,cur_type_usd,2014,6206.56
 gbr,sex_t,eco_isic4_f,cur_type_usd,2015,3930.97
 gbr,sex_t,eco_isic4_f,cur_type_usd,2016,3592.87
 gbr,sex_t,eco_isic4_f,cur_type_usd,2017,3525.2
@@ -3783,6 +3945,7 @@ gbr,sex_t,eco_isic4_g,cur_type_lcu,2010,1602
 gbr,sex_t,eco_isic4_g,cur_type_lcu,2011,1597
 gbr,sex_t,eco_isic4_g,cur_type_lcu,2012,1618
 gbr,sex_t,eco_isic4_g,cur_type_lcu,2013,1687
+gbr,sex_t,eco_isic4_g,cur_type_lcu,2014,2239.88
 gbr,sex_t,eco_isic4_g,cur_type_lcu,2015,1718
 gbr,sex_t,eco_isic4_g,cur_type_lcu,2016,1809
 gbr,sex_t,eco_isic4_g,cur_type_lcu,2017,1867
@@ -3794,6 +3957,7 @@ gbr,sex_t,eco_isic4_g,cur_type_ppp,2010,2060.68
 gbr,sex_t,eco_isic4_g,cur_type_ppp,2011,2053.55
 gbr,sex_t,eco_isic4_g,cur_type_ppp,2012,2055.37
 gbr,sex_t,eco_isic4_g,cur_type_ppp,2013,2127.67
+gbr,sex_t,eco_isic4_g,cur_type_ppp,2014,2805.05
 gbr,sex_t,eco_isic4_g,cur_type_ppp,2015,2132.05
 gbr,sex_t,eco_isic4_g,cur_type_ppp,2016,2293.94
 gbr,sex_t,eco_isic4_g,cur_type_ppp,2017,2372.95
@@ -3805,6 +3969,7 @@ gbr,sex_t,eco_isic4_g,cur_type_usd,2010,2475.36
 gbr,sex_t,eco_isic4_g,cur_type_usd,2011,2558.72
 gbr,sex_t,eco_isic4_g,cur_type_usd,2012,2555.89
 gbr,sex_t,eco_isic4_g,cur_type_usd,2013,2637.34
+gbr,sex_t,eco_isic4_g,cur_type_usd,2014,3685.66
 gbr,sex_t,eco_isic4_g,cur_type_usd,2015,2624.72
 gbr,sex_t,eco_isic4_g,cur_type_usd,2016,2442.5
 gbr,sex_t,eco_isic4_g,cur_type_usd,2017,2402.9
@@ -3816,6 +3981,7 @@ gbr,sex_t,eco_isic4_h,cur_type_lcu,2010,2306
 gbr,sex_t,eco_isic4_h,cur_type_lcu,2011,2299
 gbr,sex_t,eco_isic4_h,cur_type_lcu,2012,2385
 gbr,sex_t,eco_isic4_h,cur_type_lcu,2013,2460
+gbr,sex_t,eco_isic4_h,cur_type_lcu,2014,3546.78
 gbr,sex_t,eco_isic4_h,cur_type_lcu,2015,2587
 gbr,sex_t,eco_isic4_h,cur_type_lcu,2016,2594
 gbr,sex_t,eco_isic4_h,cur_type_lcu,2017,2625
@@ -3827,6 +3993,7 @@ gbr,sex_t,eco_isic4_h,cur_type_ppp,2010,2966.25
 gbr,sex_t,eco_isic4_h,cur_type_ppp,2011,2956.24
 gbr,sex_t,eco_isic4_h,cur_type_ppp,2012,3029.7
 gbr,sex_t,eco_isic4_h,cur_type_ppp,2013,3102.59
+gbr,sex_t,eco_isic4_h,cur_type_ppp,2014,4441.7
 gbr,sex_t,eco_isic4_h,cur_type_ppp,2015,3210.48
 gbr,sex_t,eco_isic4_h,cur_type_ppp,2016,3289.37
 gbr,sex_t,eco_isic4_h,cur_type_ppp,2017,3336.37
@@ -3838,6 +4005,7 @@ gbr,sex_t,eco_isic4_h,cur_type_usd,2010,3563.15
 gbr,sex_t,eco_isic4_h,cur_type_usd,2011,3683.46
 gbr,sex_t,eco_isic4_h,cur_type_usd,2012,3767.49
 gbr,sex_t,eco_isic4_h,cur_type_usd,2013,3845.79
+gbr,sex_t,eco_isic4_h,cur_type_usd,2014,5836.11
 gbr,sex_t,eco_isic4_h,cur_type_usd,2015,3952.36
 gbr,sex_t,eco_isic4_h,cur_type_usd,2016,3502.4
 gbr,sex_t,eco_isic4_h,cur_type_usd,2017,3378.48
@@ -3849,6 +4017,7 @@ gbr,sex_t,eco_isic4_i,cur_type_lcu,2010,1045
 gbr,sex_t,eco_isic4_i,cur_type_lcu,2011,1034
 gbr,sex_t,eco_isic4_i,cur_type_lcu,2012,1044
 gbr,sex_t,eco_isic4_i,cur_type_lcu,2013,1065
+gbr,sex_t,eco_isic4_i,cur_type_lcu,2014,1888.7
 gbr,sex_t,eco_isic4_i,cur_type_lcu,2015,1103
 gbr,sex_t,eco_isic4_i,cur_type_lcu,2016,1163
 gbr,sex_t,eco_isic4_i,cur_type_lcu,2017,1239
@@ -3860,6 +4029,7 @@ gbr,sex_t,eco_isic4_i,cur_type_ppp,2010,1344.2
 gbr,sex_t,eco_isic4_i,cur_type_ppp,2011,1329.6
 gbr,sex_t,eco_isic4_i,cur_type_ppp,2012,1326.21
 gbr,sex_t,eco_isic4_i,cur_type_ppp,2013,1343.2
+gbr,sex_t,eco_isic4_i,cur_type_ppp,2014,2365.26
 gbr,sex_t,eco_isic4_i,cur_type_ppp,2015,1368.83
 gbr,sex_t,eco_isic4_i,cur_type_ppp,2016,1474.76
 gbr,sex_t,eco_isic4_i,cur_type_ppp,2017,1574.77
@@ -3871,6 +4041,7 @@ gbr,sex_t,eco_isic4_i,cur_type_usd,2010,1614.7
 gbr,sex_t,eco_isic4_i,cur_type_usd,2011,1656.68
 gbr,sex_t,eco_isic4_i,cur_type_usd,2012,1649.17
 gbr,sex_t,eco_isic4_i,cur_type_usd,2013,1664.95
+gbr,sex_t,eco_isic4_i,cur_type_usd,2014,3107.79
 gbr,sex_t,eco_isic4_i,cur_type_usd,2015,1685.14
 gbr,sex_t,eco_isic4_i,cur_type_usd,2016,1570.28
 gbr,sex_t,eco_isic4_i,cur_type_usd,2017,1594.64
@@ -3882,6 +4053,7 @@ gbr,sex_t,eco_isic4_j,cur_type_lcu,2010,3116
 gbr,sex_t,eco_isic4_j,cur_type_lcu,2011,3122
 gbr,sex_t,eco_isic4_j,cur_type_lcu,2012,3190
 gbr,sex_t,eco_isic4_j,cur_type_lcu,2013,3142
+gbr,sex_t,eco_isic4_j,cur_type_lcu,2014,5576.5
 gbr,sex_t,eco_isic4_j,cur_type_lcu,2015,3232
 gbr,sex_t,eco_isic4_j,cur_type_lcu,2016,3355
 gbr,sex_t,eco_isic4_j,cur_type_lcu,2017,3457
@@ -3893,6 +4065,7 @@ gbr,sex_t,eco_isic4_j,cur_type_ppp,2010,4008.17
 gbr,sex_t,eco_isic4_j,cur_type_ppp,2011,4014.52
 gbr,sex_t,eco_isic4_j,cur_type_ppp,2012,4052.3
 gbr,sex_t,eco_isic4_j,cur_type_ppp,2013,3962.74
+gbr,sex_t,eco_isic4_j,cur_type_ppp,2014,6983.57
 gbr,sex_t,eco_isic4_j,cur_type_ppp,2015,4010.93
 gbr,sex_t,eco_isic4_j,cur_type_ppp,2016,4254.37
 gbr,sex_t,eco_isic4_j,cur_type_ppp,2017,4393.84
@@ -3904,6 +4077,7 @@ gbr,sex_t,eco_isic4_j,cur_type_usd,2010,4814.74
 gbr,sex_t,eco_isic4_j,cur_type_usd,2011,5002.08
 gbr,sex_t,eco_isic4_j,cur_type_usd,2012,5039.12
 gbr,sex_t,eco_isic4_j,cur_type_usd,2013,4911.98
+gbr,sex_t,eco_isic4_j,cur_type_usd,2014,9175.96
 gbr,sex_t,eco_isic4_j,cur_type_usd,2015,4937.78
 gbr,sex_t,eco_isic4_j,cur_type_usd,2016,4529.9
 gbr,sex_t,eco_isic4_j,cur_type_usd,2017,4449.3
@@ -3915,6 +4089,7 @@ gbr,sex_t,eco_isic4_k,cur_type_lcu,2010,3423
 gbr,sex_t,eco_isic4_k,cur_type_lcu,2011,3621
 gbr,sex_t,eco_isic4_k,cur_type_lcu,2012,3484
 gbr,sex_t,eco_isic4_k,cur_type_lcu,2013,3685
+gbr,sex_t,eco_isic4_k,cur_type_lcu,2014,5790.45
 gbr,sex_t,eco_isic4_k,cur_type_lcu,2015,3792
 gbr,sex_t,eco_isic4_k,cur_type_lcu,2016,3787
 gbr,sex_t,eco_isic4_k,cur_type_lcu,2017,4015
@@ -3926,6 +4101,7 @@ gbr,sex_t,eco_isic4_k,cur_type_ppp,2010,4403.07
 gbr,sex_t,eco_isic4_k,cur_type_ppp,2011,4656.17
 gbr,sex_t,eco_isic4_k,cur_type_ppp,2012,4425.77
 gbr,sex_t,eco_isic4_k,cur_type_ppp,2013,4647.58
+gbr,sex_t,eco_isic4_k,cur_type_ppp,2014,7251.5
 gbr,sex_t,eco_isic4_k,cur_type_ppp,2015,4705.89
 gbr,sex_t,eco_isic4_k,cur_type_ppp,2016,4802.17
 gbr,sex_t,eco_isic4_k,cur_type_ppp,2017,5103.05
@@ -3937,6 +4113,7 @@ gbr,sex_t,eco_isic4_k,cur_type_usd,2010,5289.11
 gbr,sex_t,eco_isic4_k,cur_type_usd,2011,5801.58
 gbr,sex_t,eco_isic4_k,cur_type_usd,2012,5503.54
 gbr,sex_t,eco_isic4_k,cur_type_usd,2013,5760.87
+gbr,sex_t,eco_isic4_k,cur_type_usd,2014,9528
 gbr,sex_t,eco_isic4_k,cur_type_usd,2015,5793.33
 gbr,sex_t,eco_isic4_k,cur_type_usd,2016,5113.18
 gbr,sex_t,eco_isic4_k,cur_type_usd,2017,5167.47
@@ -3948,6 +4125,7 @@ gbr,sex_t,eco_isic4_l,cur_type_lcu,2010,2195
 gbr,sex_t,eco_isic4_l,cur_type_lcu,2011,2107
 gbr,sex_t,eco_isic4_l,cur_type_lcu,2012,2145
 gbr,sex_t,eco_isic4_l,cur_type_lcu,2013,2162
+gbr,sex_t,eco_isic4_l,cur_type_lcu,2014,3633.26
 gbr,sex_t,eco_isic4_l,cur_type_lcu,2015,2264
 gbr,sex_t,eco_isic4_l,cur_type_lcu,2016,2302
 gbr,sex_t,eco_isic4_l,cur_type_lcu,2017,2312
@@ -3959,6 +4137,7 @@ gbr,sex_t,eco_isic4_l,cur_type_ppp,2010,2823.47
 gbr,sex_t,eco_isic4_l,cur_type_ppp,2011,2709.35
 gbr,sex_t,eco_isic4_l,cur_type_ppp,2012,2724.82
 gbr,sex_t,eco_isic4_l,cur_type_ppp,2013,2726.75
+gbr,sex_t,eco_isic4_l,cur_type_ppp,2014,4550.02
 gbr,sex_t,eco_isic4_l,cur_type_ppp,2015,2809.63
 gbr,sex_t,eco_isic4_l,cur_type_ppp,2016,2919.09
 gbr,sex_t,eco_isic4_l,cur_type_ppp,2017,2938.54
@@ -3970,6 +4149,7 @@ gbr,sex_t,eco_isic4_l,cur_type_usd,2010,3391.64
 gbr,sex_t,eco_isic4_l,cur_type_usd,2011,3375.84
 gbr,sex_t,eco_isic4_l,cur_type_usd,2012,3388.37
 gbr,sex_t,eco_isic4_l,cur_type_usd,2013,3379.92
+gbr,sex_t,eco_isic4_l,cur_type_usd,2014,5978.42
 gbr,sex_t,eco_isic4_l,cur_type_usd,2015,3458.89
 gbr,sex_t,eco_isic4_l,cur_type_usd,2016,3108.15
 gbr,sex_t,eco_isic4_l,cur_type_usd,2017,2975.64
@@ -4047,6 +4227,7 @@ gbr,sex_t,eco_isic4_o,cur_type_lcu,2010,2504
 gbr,sex_t,eco_isic4_o,cur_type_lcu,2011,2411
 gbr,sex_t,eco_isic4_o,cur_type_lcu,2012,2461
 gbr,sex_t,eco_isic4_o,cur_type_lcu,2013,2486
+gbr,sex_t,eco_isic4_o,cur_type_lcu,2014,3956.7
 gbr,sex_t,eco_isic4_o,cur_type_lcu,2015,2552
 gbr,sex_t,eco_isic4_o,cur_type_lcu,2016,2556
 gbr,sex_t,eco_isic4_o,cur_type_lcu,2017,2578
@@ -4058,6 +4239,7 @@ gbr,sex_t,eco_isic4_o,cur_type_ppp,2010,3220.94
 gbr,sex_t,eco_isic4_o,cur_type_ppp,2011,3100.26
 gbr,sex_t,eco_isic4_o,cur_type_ppp,2012,3126.24
 gbr,sex_t,eco_isic4_o,cur_type_ppp,2013,3135.39
+gbr,sex_t,eco_isic4_o,cur_type_ppp,2014,4955.06
 gbr,sex_t,eco_isic4_o,cur_type_ppp,2015,3167.04
 gbr,sex_t,eco_isic4_o,cur_type_ppp,2016,3241.18
 gbr,sex_t,eco_isic4_o,cur_type_ppp,2017,3276.63
@@ -4069,6 +4251,7 @@ gbr,sex_t,eco_isic4_o,cur_type_usd,2010,3869.1
 gbr,sex_t,eco_isic4_o,cur_type_usd,2011,3862.91
 gbr,sex_t,eco_isic4_o,cur_type_usd,2012,3887.55
 gbr,sex_t,eco_isic4_o,cur_type_usd,2013,3886.44
+gbr,sex_t,eco_isic4_o,cur_type_usd,2014,6510.62
 gbr,sex_t,eco_isic4_o,cur_type_usd,2015,3898.89
 gbr,sex_t,eco_isic4_o,cur_type_usd,2016,3451.1
 gbr,sex_t,eco_isic4_o,cur_type_usd,2017,3317.99
@@ -4080,6 +4263,7 @@ gbr,sex_t,eco_isic4_p,cur_type_lcu,2010,1930
 gbr,sex_t,eco_isic4_p,cur_type_lcu,2011,1944
 gbr,sex_t,eco_isic4_p,cur_type_lcu,2012,1952
 gbr,sex_t,eco_isic4_p,cur_type_lcu,2013,1990
+gbr,sex_t,eco_isic4_p,cur_type_lcu,2014,3309.12
 gbr,sex_t,eco_isic4_p,cur_type_lcu,2015,2060
 gbr,sex_t,eco_isic4_p,cur_type_lcu,2016,2113
 gbr,sex_t,eco_isic4_p,cur_type_lcu,2017,2147
@@ -4091,6 +4275,7 @@ gbr,sex_t,eco_isic4_p,cur_type_ppp,2010,2482.59
 gbr,sex_t,eco_isic4_p,cur_type_ppp,2011,2499.75
 gbr,sex_t,eco_isic4_p,cur_type_ppp,2012,2479.65
 gbr,sex_t,eco_isic4_p,cur_type_ppp,2013,2509.82
+gbr,sex_t,eco_isic4_p,cur_type_ppp,2014,4144.08
 gbr,sex_t,eco_isic4_p,cur_type_ppp,2015,2556.47
 gbr,sex_t,eco_isic4_p,cur_type_ppp,2016,2679.43
 gbr,sex_t,eco_isic4_p,cur_type_ppp,2017,2728.83
@@ -4102,6 +4287,7 @@ gbr,sex_t,eco_isic4_p,cur_type_usd,2010,2982.17
 gbr,sex_t,eco_isic4_p,cur_type_usd,2011,3114.68
 gbr,sex_t,eco_isic4_p,cur_type_usd,2012,3083.5
 gbr,sex_t,eco_isic4_p,cur_type_usd,2013,3111.02
+gbr,sex_t,eco_isic4_p,cur_type_usd,2014,5445.05
 gbr,sex_t,eco_isic4_p,cur_type_usd,2015,3147.22
 gbr,sex_t,eco_isic4_p,cur_type_usd,2016,2852.96
 gbr,sex_t,eco_isic4_p,cur_type_usd,2017,2763.27
@@ -4113,6 +4299,7 @@ gbr,sex_t,eco_isic4_q,cur_type_lcu,2010,2001
 gbr,sex_t,eco_isic4_q,cur_type_lcu,2011,1977
 gbr,sex_t,eco_isic4_q,cur_type_lcu,2012,1999
 gbr,sex_t,eco_isic4_q,cur_type_lcu,2013,2010
+gbr,sex_t,eco_isic4_q,cur_type_lcu,2014,2890.87
 gbr,sex_t,eco_isic4_q,cur_type_lcu,2015,2018
 gbr,sex_t,eco_isic4_q,cur_type_lcu,2016,2078
 gbr,sex_t,eco_isic4_q,cur_type_lcu,2017,2100
@@ -4124,6 +4311,7 @@ gbr,sex_t,eco_isic4_q,cur_type_ppp,2010,2573.92
 gbr,sex_t,eco_isic4_q,cur_type_ppp,2011,2542.19
 gbr,sex_t,eco_isic4_q,cur_type_ppp,2012,2539.36
 gbr,sex_t,eco_isic4_q,cur_type_ppp,2013,2535.05
+gbr,sex_t,eco_isic4_q,cur_type_ppp,2014,3620.3
 gbr,sex_t,eco_isic4_q,cur_type_ppp,2015,2504.35
 gbr,sex_t,eco_isic4_q,cur_type_ppp,2016,2635.05
 gbr,sex_t,eco_isic4_q,cur_type_ppp,2017,2669.09
@@ -4135,6 +4323,7 @@ gbr,sex_t,eco_isic4_q,cur_type_usd,2010,3091.88
 gbr,sex_t,eco_isic4_q,cur_type_usd,2011,3167.55
 gbr,sex_t,eco_isic4_q,cur_type_usd,2012,3157.74
 gbr,sex_t,eco_isic4_q,cur_type_usd,2013,3142.29
+gbr,sex_t,eco_isic4_q,cur_type_usd,2014,4756.84
 gbr,sex_t,eco_isic4_q,cur_type_usd,2015,3083.06
 gbr,sex_t,eco_isic4_q,cur_type_usd,2016,2805.7
 gbr,sex_t,eco_isic4_q,cur_type_usd,2017,2702.78
@@ -4179,6 +4368,7 @@ gbr,sex_t,eco_isic4_s,cur_type_lcu,2010,1711
 gbr,sex_t,eco_isic4_s,cur_type_lcu,2011,1698
 gbr,sex_t,eco_isic4_s,cur_type_lcu,2012,1715
 gbr,sex_t,eco_isic4_s,cur_type_lcu,2013,1726
+gbr,sex_t,eco_isic4_s,cur_type_lcu,2014,2578.44
 gbr,sex_t,eco_isic4_s,cur_type_lcu,2015,1784
 gbr,sex_t,eco_isic4_s,cur_type_lcu,2016,1817
 gbr,sex_t,eco_isic4_s,cur_type_lcu,2017,1864
@@ -4190,6 +4380,7 @@ gbr,sex_t,eco_isic4_s,cur_type_ppp,2010,2200.89
 gbr,sex_t,eco_isic4_s,cur_type_ppp,2011,2183.43
 gbr,sex_t,eco_isic4_s,cur_type_ppp,2012,2178.59
 gbr,sex_t,eco_isic4_s,cur_type_ppp,2013,2176.86
+gbr,sex_t,eco_isic4_s,cur_type_ppp,2014,3229.03
 gbr,sex_t,eco_isic4_s,cur_type_ppp,2015,2213.95
 gbr,sex_t,eco_isic4_s,cur_type_ppp,2016,2304.08
 gbr,sex_t,eco_isic4_s,cur_type_ppp,2017,2369.14
@@ -4201,6 +4392,7 @@ gbr,sex_t,eco_isic4_s,cur_type_usd,2010,2643.78
 gbr,sex_t,eco_isic4_s,cur_type_usd,2011,2720.54
 gbr,sex_t,eco_isic4_s,cur_type_usd,2012,2709.12
 gbr,sex_t,eco_isic4_s,cur_type_usd,2013,2698.31
+gbr,sex_t,eco_isic4_s,cur_type_usd,2014,4242.74
 gbr,sex_t,eco_isic4_s,cur_type_usd,2015,2725.56
 gbr,sex_t,eco_isic4_s,cur_type_usd,2016,2453.3
 gbr,sex_t,eco_isic4_s,cur_type_usd,2017,2399.04
@@ -4245,6 +4437,7 @@ gbr,sex_t,eco_isic4_total,cur_type_lcu,2010,2119
 gbr,sex_t,eco_isic4_total,cur_type_lcu,2011,2117
 gbr,sex_t,eco_isic4_total,cur_type_lcu,2012,2130
 gbr,sex_t,eco_isic4_total,cur_type_lcu,2013,2182
+gbr,sex_t,eco_isic4_total,cur_type_lcu,2014,3395.09
 gbr,sex_t,eco_isic4_total,cur_type_lcu,2015,2208
 gbr,sex_t,eco_isic4_total,cur_type_lcu,2016,2281
 gbr,sex_t,eco_isic4_total,cur_type_lcu,2017,2341
@@ -4256,6 +4449,7 @@ gbr,sex_t,eco_isic4_total,cur_type_ppp,2010,2725.71
 gbr,sex_t,eco_isic4_total,cur_type_ppp,2011,2722.21
 gbr,sex_t,eco_isic4_total,cur_type_ppp,2012,2705.77
 gbr,sex_t,eco_isic4_total,cur_type_ppp,2013,2751.98
+gbr,sex_t,eco_isic4_total,cur_type_ppp,2014,4251.74
 gbr,sex_t,eco_isic4_total,cur_type_ppp,2015,2740.14
 gbr,sex_t,eco_isic4_total,cur_type_ppp,2016,2892.46
 gbr,sex_t,eco_isic4_total,cur_type_ppp,2017,2975.4
@@ -4267,6 +4461,7 @@ gbr,sex_t,eco_isic4_total,cur_type_usd,2010,3274.21
 gbr,sex_t,eco_isic4_total,cur_type_usd,2011,3391.86
 gbr,sex_t,eco_isic4_total,cur_type_usd,2012,3364.68
 gbr,sex_t,eco_isic4_total,cur_type_usd,2013,3411.18
+gbr,sex_t,eco_isic4_total,cur_type_usd,2014,5586.51
 gbr,sex_t,eco_isic4_total,cur_type_usd,2015,3373.33
 gbr,sex_t,eco_isic4_total,cur_type_usd,2016,3079.79
 gbr,sex_t,eco_isic4_total,cur_type_usd,2017,3012.96
@@ -4300,12 +4495,15 @@ gbr,sex_t,eco_isic4_u,cur_type_usd,2017,3112.06
 gbr,sex_t,eco_isic4_u,cur_type_usd,2018,3598.25
 gbr,sex_t,eco_isic4_u,cur_type_usd,2019,3530.56
 gbr,sex_t,eco_isic4_u,cur_type_usd,2020,4167.95
+gbr,sex_t,eco_isic4_x,cur_type_lcu,2014,4355.58
 gbr,sex_t,eco_isic4_x,cur_type_lcu,2017,1950
 gbr,sex_t,eco_isic4_x,cur_type_lcu,2018,1786
 gbr,sex_t,eco_isic4_x,cur_type_lcu,2019,2334
+gbr,sex_t,eco_isic4_x,cur_type_ppp,2014,5454.58
 gbr,sex_t,eco_isic4_x,cur_type_ppp,2017,2478.44
 gbr,sex_t,eco_isic4_x,cur_type_ppp,2018,2295.45
 gbr,sex_t,eco_isic4_x,cur_type_ppp,2019,2996.98
+gbr,sex_t,eco_isic4_x,cur_type_usd,2014,7166.97
 gbr,sex_t,eco_isic4_x,cur_type_usd,2017,2509.73
 gbr,sex_t,eco_isic4_x,cur_type_usd,2018,2382.82
 gbr,sex_t,eco_isic4_x,cur_type_usd,2019,2979.15
