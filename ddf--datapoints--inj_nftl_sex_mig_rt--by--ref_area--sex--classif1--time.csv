@@ -19,8 +19,10 @@ ant,sex_t,mig_status_total,1998,2380
 ant,sex_t,mig_status_total,1999,2569
 arg,sex_f,mig_status_migrant,2017,3053.06
 arg,sex_f,mig_status_migrant,2018,2783.72
+arg,sex_f,mig_status_migrant,2019,1758.51
 arg,sex_f,mig_status_nonmig,2017,2082.27
 arg,sex_f,mig_status_nonmig,2018,1964.27
+arg,sex_f,mig_status_nonmig,2019,1953.1
 arg,sex_f,mig_status_total,2011,2610
 arg,sex_f,mig_status_total,2012,2466
 arg,sex_f,mig_status_total,2014,2321.43
@@ -28,10 +30,13 @@ arg,sex_f,mig_status_total,2015,2319.66
 arg,sex_f,mig_status_total,2016,2232.8
 arg,sex_f,mig_status_total,2017,2110.33
 arg,sex_f,mig_status_total,2018,1990.04
+arg,sex_f,mig_status_total,2019,1942.57
 arg,sex_m,mig_status_migrant,2017,6051.88
 arg,sex_m,mig_status_migrant,2018,5697.29
+arg,sex_m,mig_status_migrant,2019,5519.43
 arg,sex_m,mig_status_nonmig,2017,4999.91
 arg,sex_m,mig_status_nonmig,2018,4755.02
+arg,sex_m,mig_status_nonmig,2019,4757.63
 arg,sex_m,mig_status_total,2011,7295
 arg,sex_m,mig_status_total,2012,6614
 arg,sex_m,mig_status_total,2014,6255.68
@@ -39,10 +44,13 @@ arg,sex_m,mig_status_total,2015,5780.01
 arg,sex_m,mig_status_total,2016,5282.66
 arg,sex_m,mig_status_total,2017,5043.64
 arg,sex_m,mig_status_total,2018,4796.7
+arg,sex_m,mig_status_total,2019,4792.09
 arg,sex_t,mig_status_migrant,2017,5145.93
 arg,sex_t,mig_status_migrant,2018,4799.67
+arg,sex_t,mig_status_migrant,2019,3767.39
 arg,sex_t,mig_status_nonmig,2017,3871.75
 arg,sex_t,mig_status_nonmig,2018,3668.87
+arg,sex_t,mig_status_nonmig,2019,3576.89
 arg,sex_t,mig_status_total,1997,7088
 arg,sex_t,mig_status_total,1998,7054
 arg,sex_t,mig_status_total,1999,8075
@@ -62,6 +70,7 @@ arg,sex_t,mig_status_total,2015,4544.08
 arg,sex_t,mig_status_total,2016,4193.11
 arg,sex_t,mig_status_total,2017,3918.53
 arg,sex_t,mig_status_total,2018,3771.17
+arg,sex_t,mig_status_total,2019,3652.64
 arm,sex_f,mig_status_total,2013,6.95
 arm,sex_f,mig_status_total,2018,13.05
 arm,sex_f,mig_status_total,2020,0
@@ -1564,6 +1573,7 @@ esp,sex_f,mig_status_migrant,2016,1645.92
 esp,sex_f,mig_status_migrant,2017,1687.48
 esp,sex_f,mig_status_migrant,2018,1732.49
 esp,sex_f,mig_status_migrant,2019,1560.05
+esp,sex_f,mig_status_migrant,2020,1135.42
 esp,sex_f,mig_status_migranteu,2011,1355.68
 esp,sex_f,mig_status_migranteu,2012,1116.99
 esp,sex_f,mig_status_migranteu,2013,1061.55
@@ -1583,6 +1593,7 @@ esp,sex_f,mig_status_nonmig,2016,1851.89
 esp,sex_f,mig_status_nonmig,2017,1819.23
 esp,sex_f,mig_status_nonmig,2018,1765.82
 esp,sex_f,mig_status_nonmig,2019,1551.67
+esp,sex_f,mig_status_nonmig,2020,1271.14
 esp,sex_f,mig_status_total,1998,2904.7
 esp,sex_f,mig_status_total,1999,3242.37
 esp,sex_f,mig_status_total,2000,3428.53
@@ -1605,10 +1616,12 @@ esp,sex_f,mig_status_total,2016,1833.23
 esp,sex_f,mig_status_total,2017,1807.16
 esp,sex_f,mig_status_total,2018,1762.65
 esp,sex_f,mig_status_total,2019,1552.51
+esp,sex_f,mig_status_total,2020,1257.69
 esp,sex_m,mig_status_migrant,2016,4100.44
 esp,sex_m,mig_status_migrant,2017,4266.35
 esp,sex_m,mig_status_migrant,2018,4333.88
 esp,sex_m,mig_status_migrant,2019,3861.94
+esp,sex_m,mig_status_migrant,2020,3137.87
 esp,sex_m,mig_status_migranteu,2011,4305.52
 esp,sex_m,mig_status_migranteu,2012,3309.92
 esp,sex_m,mig_status_migranteu,2013,2919.36
@@ -1628,6 +1641,7 @@ esp,sex_m,mig_status_nonmig,2016,3647.81
 esp,sex_m,mig_status_nonmig,2017,3724.05
 esp,sex_m,mig_status_nonmig,2018,3718.84
 esp,sex_m,mig_status_nonmig,2019,3269.13
+esp,sex_m,mig_status_nonmig,2020,2661.94
 esp,sex_m,mig_status_total,1998,9146.06
 esp,sex_m,mig_status_total,1999,9990.26
 esp,sex_m,mig_status_total,2000,10171.06
@@ -1650,10 +1664,12 @@ esp,sex_m,mig_status_total,2016,3690.73
 esp,sex_m,mig_status_total,2017,3777.71
 esp,sex_m,mig_status_total,2018,3782.89
 esp,sex_m,mig_status_total,2019,3334.15
+esp,sex_m,mig_status_total,2020,2714.68
 esp,sex_t,mig_status_migrant,2016,2960.79
 esp,sex_t,mig_status_migrant,2017,3092.03
 esp,sex_t,mig_status_migrant,2018,3158.33
 esp,sex_t,mig_status_migrant,2019,2851.35
+esp,sex_t,mig_status_migrant,2020,2269.83
 esp,sex_t,mig_status_migranteu,2011,2832.82
 esp,sex_t,mig_status_migranteu,2012,2189.06
 esp,sex_t,mig_status_migranteu,2013,1985.46
@@ -1673,6 +1689,7 @@ esp,sex_t,mig_status_nonmig,2016,2791.47
 esp,sex_t,mig_status_nonmig,2017,2816.07
 esp,sex_t,mig_status_nonmig,2018,2786.84
 esp,sex_t,mig_status_nonmig,2019,2473.35
+esp,sex_t,mig_status_nonmig,2020,2015.73
 esp,sex_t,mig_status_total,1980,5272.22
 esp,sex_t,mig_status_total,1981,4919.79
 esp,sex_t,mig_status_total,1982,4735.82
@@ -1713,6 +1730,7 @@ esp,sex_t,mig_status_total,2016,2807.18
 esp,sex_t,mig_status_total,2017,2842.41
 esp,sex_t,mig_status_total,2018,2823.92
 esp,sex_t,mig_status_total,2019,2513.2
+esp,sex_t,mig_status_total,2020,2042.51
 est,sex_f,mig_status_migrant,2020,150.46
 est,sex_f,mig_status_migranteu,2013,3250
 est,sex_f,mig_status_migranteu,2014,2001.33

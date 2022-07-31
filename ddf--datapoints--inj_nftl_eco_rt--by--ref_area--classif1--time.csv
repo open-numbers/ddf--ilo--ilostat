@@ -72,6 +72,7 @@ arg,eco_aggregate_total,2015,4544.08
 arg,eco_aggregate_total,2016,4193.11
 arg,eco_aggregate_total,2017,3989.91
 arg,eco_aggregate_total,2018,3771.17
+arg,eco_aggregate_total,2019,3652.64
 arg,eco_aggregate_x,2011,13424.33
 arg,eco_aggregate_x,2012,13863.77
 arg,eco_aggregate_x,2014,2736.84
@@ -185,8 +186,31 @@ arg,eco_isic2_total,2004,8020
 arg,eco_isic2_total,2005,8150
 arg,eco_isic2_total,2006,8070
 arg,eco_isic2_total,2007,8250
+arg,eco_isic4_a,2019,6766
+arg,eco_isic4_b,2019,4161.21
+arg,eco_isic4_c,2019,5882.6
+arg,eco_isic4_d,2019,3755.84
+arg,eco_isic4_e,2019,9367.82
+arg,eco_isic4_f,2019,8854.47
+arg,eco_isic4_g,2019,3422.48
+arg,eco_isic4_h,2019,5435.5
+arg,eco_isic4_i,2019,4615.85
+arg,eco_isic4_j,2019,1800.65
+arg,eco_isic4_k,2019,916.92
+arg,eco_isic4_l,2019,3235.99
+arg,eco_isic4_m,2019,2221.3
+arg,eco_isic4_n,2019,3779.97
+arg,eco_isic4_o,2019,2787.99
+arg,eco_isic4_p,2019,1021.88
+arg,eco_isic4_q,2019,3350.08
+arg,eco_isic4_r,2019,3088.68
+arg,eco_isic4_s,2019,2502.01
+arg,eco_isic4_t,2019,987.29
 arg,eco_isic4_total,2009,7288.23
 arg,eco_isic4_total,2010,7131.51
+arg,eco_isic4_total,2019,3652.64
+arg,eco_isic4_u,2019,3270.47
+arg,eco_isic4_x,2019,3090.91
 arm,eco_aggregate_total,2013,45.79
 arm,eco_aggregate_total,2018,50
 arm,eco_aggregate_total,2019,35.06
@@ -6794,10 +6818,16 @@ esp,eco_aggregate_total,2007,5748
 esp,eco_aggregate_total,2008,5055
 esp,eco_aggregate_total,2009,4121.03
 esp,eco_aggregate_total,2010,3861.11
+esp,eco_aggregate_total,2011,3054.89
+esp,eco_aggregate_total,2012,2570.27
+esp,eco_aggregate_total,2013,2580.63
+esp,eco_aggregate_total,2014,2788.5
+esp,eco_aggregate_total,2015,2767.57
 esp,eco_aggregate_total,2016,2807.18
 esp,eco_aggregate_total,2017,2842.41
 esp,eco_aggregate_total,2018,2823.92
 esp,eco_aggregate_total,2019,2513.2
+esp,eco_aggregate_total,2020,2042.51
 esp,eco_isic2_1,1980,3403.47
 esp,eco_isic2_1,1981,3393.38
 esp,eco_isic2_1,1982,3279.5
@@ -7230,6 +7260,7 @@ esp,eco_isic4_a,2016,4283.37
 esp,eco_isic4_a,2017,4446.8
 esp,eco_isic4_a,2018,4396.62
 esp,eco_isic4_a,2019,4154.45
+esp,eco_isic4_a,2020,3672.96
 esp,eco_isic4_b,2008,16750
 esp,eco_isic4_b,2009,16165.86
 esp,eco_isic4_b,2010,14529.47
@@ -7242,6 +7273,7 @@ esp,eco_isic4_b,2016,8923.03
 esp,eco_isic4_b,2017,7241.14
 esp,eco_isic4_b,2018,7482.37
 esp,eco_isic4_b,2019,6022.57
+esp,eco_isic4_b,2020,4896.88
 esp,eco_isic4_c,2008,8303
 esp,eco_isic4_c,2009,6412.44
 esp,eco_isic4_c,2010,6164.21
@@ -7254,6 +7286,7 @@ esp,eco_isic4_c,2016,4024.37
 esp,eco_isic4_c,2017,4095.21
 esp,eco_isic4_c,2018,4142.46
 esp,eco_isic4_c,2019,3975.43
+esp,eco_isic4_c,2020,3320.29
 esp,eco_isic4_d,2008,3932
 esp,eco_isic4_d,2009,3559.84
 esp,eco_isic4_d,2010,3102.74
@@ -7266,6 +7299,7 @@ esp,eco_isic4_d,2016,745.19
 esp,eco_isic4_d,2017,786.13
 esp,eco_isic4_d,2018,861.96
 esp,eco_isic4_d,2019,871.15
+esp,eco_isic4_d,2020,725.87
 esp,eco_isic4_e,2008,8294
 esp,eco_isic4_e,2009,7183.2
 esp,eco_isic4_e,2010,7037.58
@@ -7278,6 +7312,7 @@ esp,eco_isic4_e,2016,5644.33
 esp,eco_isic4_e,2017,5422.65
 esp,eco_isic4_e,2018,5516.12
 esp,eco_isic4_e,2019,5311.39
+esp,eco_isic4_e,2020,4444.16
 esp,eco_isic4_f,2008,10656
 esp,eco_isic4_f,2009,8961.94
 esp,eco_isic4_f,2010,8526.16
@@ -7290,6 +7325,7 @@ esp,eco_isic4_f,2016,6218.5
 esp,eco_isic4_f,2017,6579.63
 esp,eco_isic4_f,2018,6821.47
 esp,eco_isic4_f,2019,5677.55
+esp,eco_isic4_f,2020,4916.33
 esp,eco_isic4_g,2008,4545
 esp,eco_isic4_g,2009,3851.59
 esp,eco_isic4_g,2010,3614.81
@@ -7302,6 +7338,7 @@ esp,eco_isic4_g,2016,2392.09
 esp,eco_isic4_g,2017,2426.39
 esp,eco_isic4_g,2018,2406.65
 esp,eco_isic4_g,2019,2007.14
+esp,eco_isic4_g,2020,1630.75
 esp,eco_isic4_h,2008,7009
 esp,eco_isic4_h,2009,6104.43
 esp,eco_isic4_h,2010,5893.25
@@ -7314,6 +7351,7 @@ esp,eco_isic4_h,2016,4241.28
 esp,eco_isic4_h,2017,4277.78
 esp,eco_isic4_h,2018,4268.95
 esp,eco_isic4_h,2019,3711.12
+esp,eco_isic4_h,2020,2903.19
 esp,eco_isic4_i,2008,4980
 esp,eco_isic4_i,2009,4282.3
 esp,eco_isic4_i,2010,4142.78
@@ -7326,6 +7364,7 @@ esp,eco_isic4_i,2016,3420.83
 esp,eco_isic4_i,2017,3422.8
 esp,eco_isic4_i,2018,3342.77
 esp,eco_isic4_i,2019,2866.88
+esp,eco_isic4_i,2020,1660.25
 esp,eco_isic4_j,2008,1167
 esp,eco_isic4_j,2009,1006.75
 esp,eco_isic4_j,2010,949.99
@@ -7338,6 +7377,7 @@ esp,eco_isic4_j,2016,522.34
 esp,eco_isic4_j,2017,487.57
 esp,eco_isic4_j,2018,459.34
 esp,eco_isic4_j,2019,427.57
+esp,eco_isic4_j,2020,295.13
 esp,eco_isic4_k,2008,565
 esp,eco_isic4_k,2009,462.17
 esp,eco_isic4_k,2010,459.53
@@ -7350,6 +7390,7 @@ esp,eco_isic4_k,2016,275.71
 esp,eco_isic4_k,2017,253.32
 esp,eco_isic4_k,2018,244.66
 esp,eco_isic4_k,2019,238.02
+esp,eco_isic4_k,2020,162.03
 esp,eco_isic4_l,2008,1900
 esp,eco_isic4_l,2009,1743.32
 esp,eco_isic4_l,2010,1563.5
@@ -7362,6 +7403,7 @@ esp,eco_isic4_l,2016,855.36
 esp,eco_isic4_l,2017,817.45
 esp,eco_isic4_l,2018,785.53
 esp,eco_isic4_l,2019,653.86
+esp,eco_isic4_l,2020,458.74
 esp,eco_isic4_m,2008,1262
 esp,eco_isic4_m,2009,1136.16
 esp,eco_isic4_m,2010,1038.03
@@ -7374,6 +7416,7 @@ esp,eco_isic4_m,2016,682.23
 esp,eco_isic4_m,2017,693.53
 esp,eco_isic4_m,2018,673.62
 esp,eco_isic4_m,2019,541.67
+esp,eco_isic4_m,2020,386.67
 esp,eco_isic4_n,2008,3391
 esp,eco_isic4_n,2009,3037.37
 esp,eco_isic4_n,2010,2826.26
@@ -7386,6 +7429,7 @@ esp,eco_isic4_n,2016,3637.8
 esp,eco_isic4_n,2017,3651.21
 esp,eco_isic4_n,2018,3634.16
 esp,eco_isic4_n,2019,3315.62
+esp,eco_isic4_n,2020,2638.12
 esp,eco_isic4_o,2008,3599
 esp,eco_isic4_o,2009,3420.13
 esp,eco_isic4_o,2010,3403.62
@@ -7398,6 +7442,7 @@ esp,eco_isic4_o,2016,2687.34
 esp,eco_isic4_o,2017,2640.85
 esp,eco_isic4_o,2018,2422.38
 esp,eco_isic4_o,2019,2103.39
+esp,eco_isic4_o,2020,1550.47
 esp,eco_isic4_p,2008,1227
 esp,eco_isic4_p,2009,1194
 esp,eco_isic4_p,2010,1154.08
@@ -7410,6 +7455,7 @@ esp,eco_isic4_p,2016,734.32
 esp,eco_isic4_p,2017,733.5
 esp,eco_isic4_p,2018,697.49
 esp,eco_isic4_p,2019,634.7
+esp,eco_isic4_p,2020,401.27
 esp,eco_isic4_q,2008,3169
 esp,eco_isic4_q,2009,2881.47
 esp,eco_isic4_q,2010,2703.91
@@ -7422,6 +7468,7 @@ esp,eco_isic4_q,2016,2704.74
 esp,eco_isic4_q,2017,2578.89
 esp,eco_isic4_q,2018,2473.12
 esp,eco_isic4_q,2019,2110.28
+esp,eco_isic4_q,2020,2412.26
 esp,eco_isic4_r,2008,4132
 esp,eco_isic4_r,2009,4127.27
 esp,eco_isic4_r,2010,4092.45
@@ -7434,6 +7481,7 @@ esp,eco_isic4_r,2016,2929.64
 esp,eco_isic4_r,2017,2861.57
 esp,eco_isic4_r,2018,2845.58
 esp,eco_isic4_r,2019,2429.52
+esp,eco_isic4_r,2020,1607.69
 esp,eco_isic4_s,2008,2825
 esp,eco_isic4_s,2009,2285.06
 esp,eco_isic4_s,2010,2326.48
@@ -7446,6 +7494,7 @@ esp,eco_isic4_s,2016,1545.96
 esp,eco_isic4_s,2017,1537.58
 esp,eco_isic4_s,2018,1479.92
 esp,eco_isic4_s,2019,1087.03
+esp,eco_isic4_s,2020,788.22
 esp,eco_isic4_t,2008,2598
 esp,eco_isic4_t,2009,2410.29
 esp,eco_isic4_t,2010,2398.9
@@ -7458,6 +7507,7 @@ esp,eco_isic4_t,2016,426.2
 esp,eco_isic4_t,2017,425.08
 esp,eco_isic4_t,2018,419.05
 esp,eco_isic4_t,2019,410.85
+esp,eco_isic4_t,2020,330.89
 esp,eco_isic4_total,2008,5055
 esp,eco_isic4_total,2009,4121.03
 esp,eco_isic4_total,2010,3861.11
@@ -7470,6 +7520,7 @@ esp,eco_isic4_total,2016,2807.18
 esp,eco_isic4_total,2017,2842.41
 esp,eco_isic4_total,2018,2823.92
 esp,eco_isic4_total,2019,2513.2
+esp,eco_isic4_total,2020,2042.51
 esp,eco_isic4_u,2008,2522
 esp,eco_isic4_u,2009,2943.93
 esp,eco_isic4_u,2010,2725.75
@@ -7482,6 +7533,7 @@ esp,eco_isic4_u,2016,637.54
 esp,eco_isic4_u,2017,612
 esp,eco_isic4_u,2018,745.97
 esp,eco_isic4_u,2019,546.51
+esp,eco_isic4_u,2020,452.7
 esp,eco_isic4_x,2009,0
 esp,eco_isic4_x,2010,0
 est,eco_aggregate_total,1986,411.23
@@ -16786,6 +16838,13 @@ nor,eco_aggregate_total,2005,899
 nor,eco_aggregate_total,2006,780
 nor,eco_aggregate_total,2007,781
 nor,eco_aggregate_total,2008,661.5
+nor,eco_aggregate_total,2009,2067.6
+nor,eco_aggregate_total,2010,1430.14
+nor,eco_aggregate_total,2011,1035.32
+nor,eco_aggregate_total,2012,1764.45
+nor,eco_aggregate_total,2013,876.84
+nor,eco_aggregate_total,2014,283.43
+nor,eco_aggregate_total,2015,397.74
 nor,eco_isic2_0,1990,0
 nor,eco_isic2_0,1991,0
 nor,eco_isic2_0,1992,0
