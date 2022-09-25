@@ -1,38 +1,38 @@
 classif2,classif2_label,classif2_sort
-edu_skill_total,Education (Educational mismatch): Total,1
-edu_skill_under,Education (Educational mismatch): Undereducated,2
-edu_skill_match,Education (Educational mismatch): Matched,3
-edu_skill_over,Education (Educational mismatch): Overeducated,4
-edu_aggregate_total,Education (Aggregate levels): Total,5
-edu_aggregate_ltb,Education (Aggregate levels): Less than basic,6
-edu_aggregate_bas,Education (Aggregate levels): Basic,7
-edu_aggregate_int,Education (Aggregate levels): Intermediate,8
-edu_aggregate_adv,Education (Aggregate levels): Advanced,9
-edu_aggregate_x,Education (Aggregate levels): Level not stated,10
-edu_isced11_total,Education (ISCED-11): Total,11
-edu_isced11_x,Education (ISCED-11): X. No schooling,12
-edu_isced11_0,Education (ISCED-11): 0. Early childhood education,13
-edu_isced11_1,Education (ISCED-11): 1. Primary education,14
-edu_isced11_2,Education (ISCED-11): 2. Lower secondary education,15
-edu_isced11_3,Education (ISCED-11): 3. Upper secondary education,16
-edu_isced11_4,Education (ISCED-11): 4. Post-secondary non-tertiary education,17
-edu_isced11_5,Education (ISCED-11): 5. Short-cycle tertiary education,18
-edu_isced11_6,Education (ISCED-11): 6. Bachelor's or equivalent level,19
-edu_isced11_7,Education (ISCED-11): 7. Master's or equivalent level,20
-edu_isced11_8,Education (ISCED-11): 8. Doctoral or equivalent level,21
-edu_isced11_9,Education (ISCED-11): 9. Not elsewhere classified,22
-edu_isced97_total,Education (ISCED-97): Total,23
-edu_isced97_x,Education (ISCED-97): X. No schooling,24
-edu_isced97_0,Education (ISCED-97): 0. Pre-primary education,25
-edu_isced97_1,Education (ISCED-97): 1. Primary education or first stage of basic education,26
-edu_isced97_2,Education (ISCED-97): 2. Lower secondary or second stage of basic education,27
-edu_isced97_3,Education (ISCED-97): 3. Upper secondary education,28
-edu_isced97_4,Education (ISCED-97): 4. Post-secondary non-tertiary education,29
-edu_isced97_5,Education (ISCED-97): 5. First stage of tertiary education (not leading directly to an advanced research qualification),30
-edu_isced97_5a,Education (ISCED-97): 5A. First stage of tertiary education - theoretically based,31
-edu_isced97_5b,Education (ISCED-97): 5B. First stage of tertiary education - practically oriented,32
-edu_isced97_6,Education (ISCED-97): 6. Second stage of tertiary education (leading to an advanced research qualification),33
-edu_isced97_unk,Education (ISCED-97): Level not stated,34
+edu_aggregate_total,Education (Aggregate levels): Total,1
+edu_aggregate_ltb,Education (Aggregate levels): Less than basic,2
+edu_aggregate_bas,Education (Aggregate levels): Basic,3
+edu_aggregate_int,Education (Aggregate levels): Intermediate,4
+edu_aggregate_adv,Education (Aggregate levels): Advanced,5
+edu_aggregate_x,Education (Aggregate levels): Level not stated,6
+edu_isced11_total,Education (ISCED-11): Total,7
+edu_isced11_x,Education (ISCED-11): X. No schooling,8
+edu_isced11_0,Education (ISCED-11): 0. Early childhood education,9
+edu_isced11_1,Education (ISCED-11): 1. Primary education,10
+edu_isced11_2,Education (ISCED-11): 2. Lower secondary education,11
+edu_isced11_3,Education (ISCED-11): 3. Upper secondary education,12
+edu_isced11_4,Education (ISCED-11): 4. Post-secondary non-tertiary education,13
+edu_isced11_5,Education (ISCED-11): 5. Short-cycle tertiary education,14
+edu_isced11_6,Education (ISCED-11): 6. Bachelor's or equivalent level,15
+edu_isced11_7,Education (ISCED-11): 7. Master's or equivalent level,16
+edu_isced11_8,Education (ISCED-11): 8. Doctoral or equivalent level,17
+edu_isced11_9,Education (ISCED-11): 9. Not elsewhere classified,18
+edu_isced97_total,Education (ISCED-97): Total,19
+edu_isced97_x,Education (ISCED-97): X. No schooling,20
+edu_isced97_0,Education (ISCED-97): 0. Pre-primary education,21
+edu_isced97_1,Education (ISCED-97): 1. Primary education or first stage of basic education,22
+edu_isced97_2,Education (ISCED-97): 2. Lower secondary or second stage of basic education,23
+edu_isced97_3,Education (ISCED-97): 3. Upper secondary education,24
+edu_isced97_4,Education (ISCED-97): 4. Post-secondary non-tertiary education,25
+edu_isced97_5,Education (ISCED-97): 5. First stage of tertiary education (not leading directly to an advanced research qualification),26
+edu_isced97_5a,Education (ISCED-97): 5A. First stage of tertiary education - theoretically based,27
+edu_isced97_5b,Education (ISCED-97): 5B. First stage of tertiary education - practically oriented,28
+edu_isced97_6,Education (ISCED-97): 6. Second stage of tertiary education (leading to an advanced research qualification),29
+edu_isced97_unk,Education (ISCED-97): Level not stated,30
+edu_skill_total,Education (Mismatch): Total,31
+edu_skill_under,Education (Mismatch): Undereducated,32
+edu_skill_match,Education (Mismatch): Matched,33
+edu_skill_over,Education (Mismatch): Overeducated,34
 dsb_status_total,Disability status: Total,35
 dsb_status_dis,Disability status: Persons with disability,36
 dsb_status_nodis,Disability status: Persons without disability,37
@@ -67,10 +67,10 @@ geo_cov_nat,Area type: National,65
 geo_cov_rur,Area type: Rural,66
 geo_cov_urb,Area type: Urban,67
 geo_cov_x,Area type: Not elsewhere classified,68
-stu_status_total,Educational attendance: Total,69
-stu_status_stu,Educational attendance: Attending,70
-stu_status_nstd,Educational attendance: Not attending,71
-stu_status_x,Educational attendance: Not elsewhere classified,72
+stu_edu_total,Educational attendance: Total,69
+stu_edu_yes,Educational attendance: Attending,70
+stu_edu_no,Educational attendance: Not attending,71
+stu_edu_x,Educational attendance: Not elsewhere classified,72
 lms_status_total,Labour market status: Total,73
 lms_status_emp,Labour market status: Employed,74
 lms_status_une,Labour market status: Unemployed,75
@@ -420,80 +420,93 @@ oc2_isco88_91,"Occupation (ISCO-88), 2 digit level: 91 - Sales and services elem
 oc2_isco88_92,"Occupation (ISCO-88), 2 digit level: 92 - Agricultural, fishery and related labourers",419
 oc2_isco88_93,"Occupation (ISCO-88), 2 digit level: 93 - Labourers in mining, construction, manufacturing and transport",420
 oc2_isco88_x,"Occupation (ISCO-88), 2 digit level: Not elsewhere classified",421
-ins_sector_total,Institutional Sector: Total,422
-ins_sector_pub,Institutional Sector: Public,423
-ins_sector_pri,Institutional Sector: Private,424
-ins_sector_x,Institutional Sector: Not elsewhere classified,425
-cla_ecocla_total,Economic class: Total,426
-cla_ecocla_usdlt2,Economic class: Extremely poor < USD 1.90 PPP,427
-cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 1.90 and < USD 3.20 PPP,428
-cla_ecocla_usdge3,Economic class: >= USD 3.20 PPP,429
-cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 3.20 and < USD 5.5 PPP,430
-cla_ecocla_usdge5,Economic class: >= USD 5.5 PPP,431
-job_contract_total,Contract type: Total,432
-job_contract_perm,Contract type: Permanent,433
-job_contract_temp,Contract type: Temporary,434
-job_contract_x,Contract type: Unknown,435
-job_time_total,Working time arrangement: Total,436
-job_time_part,Working time arrangement: Part-time,437
-job_time_full,Working time arrangement: Full-time,438
-job_time_x,Working time arrangement: Unknown,439
-how_bands_total,Hour bands: Total,440
-how_bands_h00,Hour bands: No hours actually worked,441
-how_bands_h01_14,Hour bands: 1-14,442
-how_bands_h15_24,Hour bands: 15-24,443
-how_bands_h15_29,Hour bands: 15-29,444
-how_bands_h25_34,Hour bands: 25-34,445
-how_bands_h30_34,Hour bands: 30-34,446
-how_bands_h35_39,Hour bands: 35-39,447
-how_bands_h40_48,Hour bands: 40-48,448
-how_bands_h49_59,Hour bands: 49-59,449
-how_bands_hge49,Hour bands: 49+,450
-how_bands_hge60,Hour bands: 60+,451
-how_bands_x,Hour bands: Not elsewhere classified,452
-cat_une_total,Type of unemployment: Total,453
-cat_une_pre,Type of unemployment: Unemployed previously employed,454
-cat_une_fjs,Type of unemployment: Unemployed seeking their first job,455
-cat_une_unk,Type of unemployment: Not elsewhere classified,456
-dur_aggregate_total,Duration (Aggregate): Total,457
-dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,458
-dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,459
-dur_aggregate_mlt12,Duration (Aggregate): Less than 12 months,460
-dur_aggregate_mge12,Duration (Aggregate): 12 months or more,461
-dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,462
-dur_details_total,Duration (Detailed): Total,463
-dur_details_mlt1,Duration (Detailed): Less than 1 month,464
-dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,465
-dur_details_mlt3,Duration (Detailed): Less than 3 months,466
-dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,467
-dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,468
-dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,469
-dur_details_mge24,Duration (Detailed): 24 months or more,470
-dur_details_x,Duration (Detailed): Not elsewhere classified,471
-tra_stage_total,Transition stage: Total,472
-tra_stage_1,Transition stage: 1 - Transited,473
-tra_stage_2,Transition stage: 2 - In transition,474
-tra_stage_3,Transition stage: 3 - Transition not yet started,475
-tra_stage_4,Transition stage: X - Not elsewhere classified,476
-tra_forms_total,Transition form: Total,477
-tra_forms_1,Transition form: 1 - School leavers in stable employment,478
-tra_forms_2,"Transition form: 2 - School leavers in satisfactory temporary or self-employment, not wanting to change job",479
-tra_forms_3,Transition form: 3 - Students in the labour force,480
-tra_forms_4,Transition form: 4 - Unemployed school leavers,481
-tra_forms_5,"Transition form: 5 - School leavers in non-stable or non-satisfactory employment, wanting to change job",482
-tra_forms_6,Transition form: 6 - Outside the labour force - school leavers in potential labour force or aiming to look for work later,483
-tra_forms_7,Transition form: 7 - Outside the labour force - students,484
-tra_forms_8,Transition form: 8 - Outside the labour force - school leavers with no intention of looking for work,485
-tra_forms_9,Transition form: 9 - Not elsewhere classified,486
-vol_type_total,Type of work: Total,487
-vol_type_org,Type of work: Organization-based,488
-vol_type_direct,Type of work: Direct,489
-cur_type_lcu,Currency: Local currency,490
-cur_type_ppp,Currency: 2017 PPP $,491
-cur_type_usd,Currency: U.S. dollars,492
-mig_status_total,Migrant status: Total,493
-mig_status_migrant,Migrant status: Migrants,494
-mig_status_nonmig,Migrant status: Non migrants,495
-mig_status_migranteu,Migrant status: EU Migrants,496
-mig_status_migrantnoteu,Migrant status: Migrants excluding EU,497
-mig_status_x,Migrant status: Unknown,498
+est_sizeaggregate_total,Size (aggregate): Total,422
+est_sizeaggregate_s1_4,Size (aggregate): 1-4 persons,423
+est_sizeaggregate_s5_49,Size (aggregate): 5-49 persons,424
+est_sizeaggregate_sge50,Size (aggregate): 50+ persons,425
+est_sizeaggregate_x,Size (aggregate): Not stated,426
+est_sizedetails_total,Size (detailed): Total,427
+est_sizedetails_s1,Size (detailed): 1 person,428
+est_sizedetails_s2_4,Size (detailed): 2-4 persons,429
+est_sizedetails_s5_9,Size (detailed): 5-9 persons,430
+est_sizedetails_s10_19,Size (detailed): 10-19 persons,431
+est_sizedetails_s20_49,Size (detailed): 20-49 persons,432
+est_sizedetails_sge50,Size (detailed): 50+ persons,433
+est_sizedetails_x,Size (detailed): Not stated,434
+ins_sector_total,Institutional Sector: Total,435
+ins_sector_pub,Institutional Sector: Public,436
+ins_sector_pri,Institutional Sector: Private,437
+ins_sector_x,Institutional Sector: Not elsewhere classified,438
+cla_ecocla_total,Economic class: Total,439
+cla_ecocla_usdlt2,Economic class: Extremely poor < USD 1.90 PPP,440
+cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 1.90 and < USD 3.20 PPP,441
+cla_ecocla_usdge3,Economic class: >= USD 3.20 PPP,442
+cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 3.20 and < USD 5.5 PPP,443
+cla_ecocla_usdge5,Economic class: >= USD 5.5 PPP,444
+job_contract_total,Contract type: Total,445
+job_contract_perm,Contract type: Permanent,446
+job_contract_temp,Contract type: Temporary,447
+job_contract_x,Contract type: Unknown,448
+job_time_total,Working time arrangement: Total,449
+job_time_part,Working time arrangement: Part-time,450
+job_time_full,Working time arrangement: Full-time,451
+job_time_x,Working time arrangement: Unknown,452
+how_bands_total,Hour bands: Total,453
+how_bands_h00,Hour bands: No hours actually worked,454
+how_bands_h01_14,Hour bands: 1-14,455
+how_bands_h15_24,Hour bands: 15-24,456
+how_bands_h15_29,Hour bands: 15-29,457
+how_bands_h25_34,Hour bands: 25-34,458
+how_bands_h30_34,Hour bands: 30-34,459
+how_bands_h35_39,Hour bands: 35-39,460
+how_bands_h40_48,Hour bands: 40-48,461
+how_bands_h49_59,Hour bands: 49-59,462
+how_bands_hge49,Hour bands: 49+,463
+how_bands_hge60,Hour bands: 60+,464
+how_bands_x,Hour bands: Not elsewhere classified,465
+cat_une_total,Type of unemployment: Total,466
+cat_une_pre,Type of unemployment: Unemployed previously employed,467
+cat_une_fjs,Type of unemployment: Unemployed seeking their first job,468
+cat_une_unk,Type of unemployment: Not elsewhere classified,469
+dur_aggregate_total,Duration (Aggregate): Total,470
+dur_aggregate_mlt6,Duration (Aggregate): Less than 6 months,471
+dur_aggregate_mge6lt12,Duration (Aggregate): 6 months to less than 12 months,472
+dur_aggregate_mlt12,Duration (Aggregate): Less than 12 months,473
+dur_aggregate_mge12,Duration (Aggregate): 12 months or more,474
+dur_aggregate_x,Duration (Aggregate): Not elsewhere classified,475
+dur_details_total,Duration (Detailed): Total,476
+dur_details_mlt1,Duration (Detailed): Less than 1 month,477
+dur_details_mge1lt3,Duration (Detailed): 1 month to less than 3 months,478
+dur_details_mlt3,Duration (Detailed): Less than 3 months,479
+dur_details_mge3lt6,Duration (Detailed): 3 months to less than 6 months,480
+dur_details_mge6lt12,Duration (Detailed): 6 months to less than 12 months,481
+dur_details_mge12lt24,Duration (Detailed): 12 months to less than 24 months,482
+dur_details_mge24,Duration (Detailed): 24 months or more,483
+dur_details_x,Duration (Detailed): Not elsewhere classified,484
+tra_stage_total,Transition stage: Total,485
+tra_stage_1,Transition stage: 1 - Transited,486
+tra_stage_2,Transition stage: 2 - In transition,487
+tra_stage_3,Transition stage: 3 - Transition not yet started,488
+tra_stage_4,Transition stage: X - Not elsewhere classified,489
+tra_forms_total,Transition form: Total,490
+tra_forms_1,Transition form: 1 - School leavers in stable employment,491
+tra_forms_2,"Transition form: 2 - School leavers in satisfactory temporary or self-employment, not wanting to change job",492
+tra_forms_3,Transition form: 3 - Students in the labour force,493
+tra_forms_4,Transition form: 4 - Unemployed school leavers,494
+tra_forms_5,"Transition form: 5 - School leavers in non-stable or non-satisfactory employment, wanting to change job",495
+tra_forms_6,Transition form: 6 - Outside the labour force - school leavers in potential labour force or aiming to look for work later,496
+tra_forms_7,Transition form: 7 - Outside the labour force - students,497
+tra_forms_8,Transition form: 8 - Outside the labour force - school leavers with no intention of looking for work,498
+tra_forms_9,Transition form: 9 - Not elsewhere classified,499
+vol_type_total,Type of work: Total,500
+vol_type_org,Type of work: Organization-based,501
+vol_type_direct,Type of work: Direct,502
+cur_type_lcu,Currency: Local currency,503
+cur_type_ppp,Currency: 2017 PPP $,504
+cur_type_usd,Currency: U.S. dollars,505
+mig_status_total,Migrant status: Total,506
+mig_status_migrant,Migrant status: Migrants,507
+mig_status_nonmig,Migrant status: Non migrants,508
+mig_status_migranteu,Migrant status: EU Migrants,509
+mig_status_migrantnoteu,Migrant status: Migrants excluding EU,510
+mig_status_x,Migrant status: Unknown,511
