@@ -11,7 +11,6 @@ sgp,sex_f,eco_aggregate_total,cur_type_lcu,2007,3148
 sgp,sex_f,eco_aggregate_total,cur_type_lcu,2008,3332
 sgp,sex_f,eco_aggregate_total,cur_type_lcu,2009,3247
 sgp,sex_f,eco_aggregate_total,cur_type_lcu,2010,3434
-sgp,sex_f,eco_aggregate_total,cur_type_lcu,2012,3735
 sgp,sex_f,eco_aggregate_total,cur_type_lcu,2013,3909
 sgp,sex_f,eco_aggregate_total,cur_type_lcu,2014,3518
 sgp,sex_f,eco_aggregate_total,cur_type_lcu,2016,3803
@@ -28,7 +27,6 @@ sgp,sex_f,eco_aggregate_total,cur_type_ppp,2007,3083.77
 sgp,sex_f,eco_aggregate_total,cur_type_ppp,2008,3178.65
 sgp,sex_f,eco_aggregate_total,cur_type_ppp,2009,3068.24
 sgp,sex_f,eco_aggregate_total,cur_type_ppp,2010,3207.59
-sgp,sex_f,eco_aggregate_total,cur_type_ppp,2012,3479.31
 sgp,sex_f,eco_aggregate_total,cur_type_ppp,2013,3540.73
 sgp,sex_f,eco_aggregate_total,cur_type_ppp,2014,3187.15
 sgp,sex_f,eco_aggregate_total,cur_type_ppp,2016,3498.49
@@ -49,7 +47,6 @@ sgp,sex_f,eco_aggregate_total,cur_type_usd,2007,2088.78
 sgp,sex_f,eco_aggregate_total,cur_type_usd,2008,2355
 sgp,sex_f,eco_aggregate_total,cur_type_usd,2009,2232.36
 sgp,sex_f,eco_aggregate_total,cur_type_usd,2010,2518.5
-sgp,sex_f,eco_aggregate_total,cur_type_usd,2012,2988.77
 sgp,sex_f,eco_aggregate_total,cur_type_usd,2013,3123.95
 sgp,sex_f,eco_aggregate_total,cur_type_usd,2014,2776.53
 sgp,sex_f,eco_aggregate_total,cur_type_usd,2016,2752.71
@@ -999,7 +996,6 @@ sgp,sex_m,eco_aggregate_total,cur_type_lcu,2007,4335
 sgp,sex_m,eco_aggregate_total,cur_type_lcu,2008,4560
 sgp,sex_m,eco_aggregate_total,cur_type_lcu,2009,4436
 sgp,sex_m,eco_aggregate_total,cur_type_lcu,2010,4686
-sgp,sex_m,eco_aggregate_total,cur_type_lcu,2012,5080
 sgp,sex_m,eco_aggregate_total,cur_type_lcu,2013,5291
 sgp,sex_m,eco_aggregate_total,cur_type_lcu,2014,4000
 sgp,sex_m,eco_aggregate_total,cur_type_lcu,2016,4241
@@ -1016,7 +1012,6 @@ sgp,sex_m,eco_aggregate_total,cur_type_ppp,2007,4246.55
 sgp,sex_m,eco_aggregate_total,cur_type_ppp,2008,4350.13
 sgp,sex_m,eco_aggregate_total,cur_type_ppp,2009,4191.78
 sgp,sex_m,eco_aggregate_total,cur_type_ppp,2010,4377.05
-sgp,sex_m,eco_aggregate_total,cur_type_ppp,2012,4732.24
 sgp,sex_m,eco_aggregate_total,cur_type_ppp,2013,4792.53
 sgp,sex_m,eco_aggregate_total,cur_type_ppp,2014,3623.82
 sgp,sex_m,eco_aggregate_total,cur_type_ppp,2016,3901.41
@@ -1037,7 +1032,6 @@ sgp,sex_m,eco_aggregate_total,cur_type_usd,2007,2876.38
 sgp,sex_m,eco_aggregate_total,cur_type_usd,2008,3222.93
 sgp,sex_m,eco_aggregate_total,cur_type_usd,2009,3049.81
 sgp,sex_m,eco_aggregate_total,cur_type_usd,2010,3436.72
-sgp,sex_m,eco_aggregate_total,cur_type_usd,2012,4065.05
 sgp,sex_m,eco_aggregate_total,cur_type_usd,2013,4228.4
 sgp,sex_m,eco_aggregate_total,cur_type_usd,2014,3156.94
 sgp,sex_m,eco_aggregate_total,cur_type_usd,2016,3069.75
@@ -1979,8 +1973,11 @@ sgp,sex_m,eco_isic4_x,cur_type_usd,2019,3877.85
 sgp,sex_m,eco_isic4_x,cur_type_usd,2020,3215.82
 sgp,sex_m,eco_isic4_x,cur_type_usd,2021,3555.68
 sgp,sex_t,eco_aggregate_con,cur_type_lcu,2011,3180
+sgp,sex_t,eco_aggregate_con,cur_type_lcu,2012,3261
 sgp,sex_t,eco_aggregate_con,cur_type_ppp,2011,2911.33
+sgp,sex_t,eco_aggregate_con,cur_type_ppp,2012,3037.76
 sgp,sex_t,eco_aggregate_con,cur_type_usd,2011,2528.27
+sgp,sex_t,eco_aggregate_con,cur_type_usd,2012,2609.48
 sgp,sex_t,eco_aggregate_man,cur_type_lcu,1994,2664
 sgp,sex_t,eco_aggregate_man,cur_type_lcu,1995,2157
 sgp,sex_t,eco_aggregate_man,cur_type_lcu,1996,2320
@@ -1994,6 +1991,7 @@ sgp,sex_t,eco_aggregate_man,cur_type_lcu,2003,3265
 sgp,sex_t,eco_aggregate_man,cur_type_lcu,2004,3350
 sgp,sex_t,eco_aggregate_man,cur_type_lcu,2005,3495
 sgp,sex_t,eco_aggregate_man,cur_type_lcu,2006,3618
+sgp,sex_t,eco_aggregate_man,cur_type_lcu,2012,4487
 sgp,sex_t,eco_aggregate_man,cur_type_ppp,1994,2111.57
 sgp,sex_t,eco_aggregate_man,cur_type_ppp,1995,1727.94
 sgp,sex_t,eco_aggregate_man,cur_type_ppp,1996,1886.89
@@ -2007,6 +2005,7 @@ sgp,sex_t,eco_aggregate_man,cur_type_ppp,2003,2986.58
 sgp,sex_t,eco_aggregate_man,cur_type_ppp,2004,3094.91
 sgp,sex_t,eco_aggregate_man,cur_type_ppp,2005,3324.29
 sgp,sex_t,eco_aggregate_man,cur_type_ppp,2006,3518.41
+sgp,sex_t,eco_aggregate_man,cur_type_ppp,2012,4179.83
 sgp,sex_t,eco_aggregate_man,cur_type_usd,1994,1744.09
 sgp,sex_t,eco_aggregate_man,cur_type_usd,1995,1521.83
 sgp,sex_t,eco_aggregate_man,cur_type_usd,1996,1645.34
@@ -2020,6 +2019,7 @@ sgp,sex_t,eco_aggregate_man,cur_type_usd,2003,1874.09
 sgp,sex_t,eco_aggregate_man,cur_type_usd,2004,1981.98
 sgp,sex_t,eco_aggregate_man,cur_type_usd,2005,2099.86
 sgp,sex_t,eco_aggregate_man,cur_type_usd,2006,2277
+sgp,sex_t,eco_aggregate_man,cur_type_usd,2012,3590.53
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,1986,782.88
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,1987,816.66
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,1988,865.58
@@ -2032,7 +2032,6 @@ sgp,sex_t,eco_aggregate_total,cur_type_lcu,2007,3773
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,2008,3977
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,2009,3872
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,2010,4089
-sgp,sex_t,eco_aggregate_total,cur_type_lcu,2012,4433
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,2013,4622
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,2014,3770
 sgp,sex_t,eco_aggregate_total,cur_type_lcu,2015,4892
@@ -2050,7 +2049,6 @@ sgp,sex_t,eco_aggregate_total,cur_type_ppp,2007,3696.02
 sgp,sex_t,eco_aggregate_total,cur_type_ppp,2008,3793.97
 sgp,sex_t,eco_aggregate_total,cur_type_ppp,2009,3658.83
 sgp,sex_t,eco_aggregate_total,cur_type_ppp,2010,3819.41
-sgp,sex_t,eco_aggregate_total,cur_type_ppp,2012,4129.53
 sgp,sex_t,eco_aggregate_total,cur_type_ppp,2013,4186.56
 sgp,sex_t,eco_aggregate_total,cur_type_ppp,2014,3415.45
 sgp,sex_t,eco_aggregate_total,cur_type_ppp,2015,4467.36
@@ -2072,7 +2070,6 @@ sgp,sex_t,eco_aggregate_total,cur_type_usd,2007,2503.48
 sgp,sex_t,eco_aggregate_total,cur_type_usd,2008,2810.88
 sgp,sex_t,eco_aggregate_total,cur_type_usd,2009,2662.06
 sgp,sex_t,eco_aggregate_total,cur_type_usd,2010,2998.88
-sgp,sex_t,eco_aggregate_total,cur_type_usd,2012,3547.32
 sgp,sex_t,eco_aggregate_total,cur_type_usd,2013,3693.76
 sgp,sex_t,eco_aggregate_total,cur_type_usd,2014,2975.42
 sgp,sex_t,eco_aggregate_total,cur_type_usd,2015,3558.27
