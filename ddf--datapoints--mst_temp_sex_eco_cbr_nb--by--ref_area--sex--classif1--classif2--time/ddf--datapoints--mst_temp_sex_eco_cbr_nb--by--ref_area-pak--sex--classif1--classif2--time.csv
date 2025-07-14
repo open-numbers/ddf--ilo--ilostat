@@ -2,6 +2,7 @@ ref_area,sex,classif1,classif2,time,mst_temp_sex_eco_cbr_nb
 pak,sex_f,eco_aggregate_agr,cbr_bir_foreign,2021,1.885
 pak,sex_f,eco_aggregate_agr,cbr_bir_native,2021,9362.41
 pak,sex_f,eco_aggregate_agr,cbr_bir_total,2021,9364.295
+pak,sex_f,eco_aggregate_con,cbr_bir_foreign,2021,0
 pak,sex_f,eco_aggregate_con,cbr_bir_native,2021,54.796
 pak,sex_f,eco_aggregate_con,cbr_bir_total,2021,54.796
 pak,sex_f,eco_aggregate_man,cbr_bir_native,2021,1947.446
@@ -22,10 +23,12 @@ pak,sex_f,eco_isic4_c,cbr_bir_native,2021,1947.446
 pak,sex_f,eco_isic4_c,cbr_bir_total,2021,1948.477
 pak,sex_f,eco_isic4_e,cbr_bir_native,2021,8.371
 pak,sex_f,eco_isic4_e,cbr_bir_total,2021,8.371
+pak,sex_f,eco_isic4_f,cbr_bir_foreign,2021,0
 pak,sex_f,eco_isic4_f,cbr_bir_native,2021,54.796
 pak,sex_f,eco_isic4_f,cbr_bir_total,2021,54.796
 pak,sex_f,eco_isic4_g,cbr_bir_native,2021,161.197
 pak,sex_f,eco_isic4_g,cbr_bir_total,2021,162.447
+pak,sex_f,eco_isic4_h,cbr_bir_foreign,2021,0
 pak,sex_f,eco_isic4_h,cbr_bir_native,2021,3.894
 pak,sex_f,eco_isic4_h,cbr_bir_total,2021,3.894
 pak,sex_f,eco_isic4_i,cbr_bir_native,2021,16.332
@@ -48,6 +51,7 @@ pak,sex_f,eco_isic4_q,cbr_bir_native,2021,239.94
 pak,sex_f,eco_isic4_q,cbr_bir_total,2021,240.207
 pak,sex_f,eco_isic4_r,cbr_bir_native,2021,8.821
 pak,sex_f,eco_isic4_r,cbr_bir_total,2021,8.821
+pak,sex_f,eco_isic4_s,cbr_bir_foreign,2021,0
 pak,sex_f,eco_isic4_s,cbr_bir_native,2021,98.9
 pak,sex_f,eco_isic4_s,cbr_bir_total,2021,98.9
 pak,sex_f,eco_isic4_t,cbr_bir_native,2021,592.554
@@ -83,7 +87,7 @@ pak,sex_m,eco_aggregate_mel,cbr_bir_native,2021,591.077
 pak,sex_m,eco_aggregate_mel,cbr_bir_total,2021,593.04
 pak,sex_m,eco_aggregate_mkt,cbr_bir_foreign,2021,74.32
 pak,sex_m,eco_aggregate_mkt,cbr_bir_native,2021,15096.159
-pak,sex_m,eco_aggregate_mkt,cbr_bir_total,2021,15170.479
+pak,sex_m,eco_aggregate_mkt,cbr_bir_total,2021,15170.478
 pak,sex_m,eco_aggregate_pub,cbr_bir_foreign,2021,17.659
 pak,sex_m,eco_aggregate_pub,cbr_bir_native,2021,5452.444
 pak,sex_m,eco_aggregate_pub,cbr_bir_total,2021,5470.103
@@ -94,12 +98,12 @@ pak,sex_m,eco_isic4_a,cbr_bir_foreign,2021,66.432
 pak,sex_m,eco_isic4_a,cbr_bir_native,2021,13441.126
 pak,sex_m,eco_isic4_a,cbr_bir_total,2021,13507.558
 pak,sex_m,eco_isic4_b,cbr_bir_native,2021,205.857
-pak,sex_m,eco_isic4_b,cbr_bir_total,2021,207.372
+pak,sex_m,eco_isic4_b,cbr_bir_total,2021,207.371
 pak,sex_m,eco_isic4_c,cbr_bir_foreign,2021,33.366
 pak,sex_m,eco_isic4_c,cbr_bir_native,2021,7183.897
 pak,sex_m,eco_isic4_c,cbr_bir_total,2021,7217.263
-pak,sex_m,eco_isic4_d,cbr_bir_native,2021,145.395
-pak,sex_m,eco_isic4_d,cbr_bir_total,2021,145.395
+pak,sex_m,eco_isic4_d,cbr_bir_native,2021,145.394
+pak,sex_m,eco_isic4_d,cbr_bir_total,2021,145.394
 pak,sex_m,eco_isic4_e,cbr_bir_native,2021,239.825
 pak,sex_m,eco_isic4_e,cbr_bir_total,2021,240.274
 pak,sex_m,eco_isic4_f,cbr_bir_foreign,2021,34.278
@@ -133,7 +137,7 @@ pak,sex_m,eco_isic4_p,cbr_bir_native,2021,1246.215
 pak,sex_m,eco_isic4_p,cbr_bir_total,2021,1247.711
 pak,sex_m,eco_isic4_q,cbr_bir_foreign,2021,2.735
 pak,sex_m,eco_isic4_q,cbr_bir_native,2021,605
-pak,sex_m,eco_isic4_q,cbr_bir_total,2021,607.735
+pak,sex_m,eco_isic4_q,cbr_bir_total,2021,607.734
 pak,sex_m,eco_isic4_r,cbr_bir_native,2021,94.465
 pak,sex_m,eco_isic4_r,cbr_bir_total,2021,94.465
 pak,sex_m,eco_isic4_s,cbr_bir_foreign,2021,8.745
@@ -153,7 +157,7 @@ pak,sex_m,eco_sector_ind,cbr_bir_total,2021,13661.501
 pak,sex_m,eco_sector_nag,cbr_bir_foreign,2021,161.585
 pak,sex_m,eco_sector_nag,cbr_bir_native,2021,34140.497
 pak,sex_m,eco_sector_nag,cbr_bir_total,2021,34302.082
-pak,sex_m,eco_sector_ser,cbr_bir_foreign,2021,91.979
+pak,sex_m,eco_sector_ser,cbr_bir_foreign,2021,91.978
 pak,sex_m,eco_sector_ser,cbr_bir_native,2021,20548.603
 pak,sex_m,eco_sector_ser,cbr_bir_total,2021,20640.581
 pak,sex_m,eco_sector_total,cbr_bir_foreign,2021,228.017
@@ -230,7 +234,7 @@ pak,sex_t,eco_isic4_s,cbr_bir_foreign,2021,8.745
 pak,sex_t,eco_isic4_s,cbr_bir_native,2021,1512.004
 pak,sex_t,eco_isic4_s,cbr_bir_total,2021,1520.749
 pak,sex_t,eco_isic4_t,cbr_bir_native,2021,949.11
-pak,sex_t,eco_isic4_t,cbr_bir_total,2021,949.724
+pak,sex_t,eco_isic4_t,cbr_bir_total,2021,949.723
 pak,sex_t,eco_isic4_total,cbr_bir_foreign,2021,233.83
 pak,sex_t,eco_isic4_total,cbr_bir_native,2021,61418.634
 pak,sex_t,eco_isic4_total,cbr_bir_total,2021,61652.464

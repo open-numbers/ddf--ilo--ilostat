@@ -34,33 +34,36 @@ def check_columns(df):
         raise ValueError("there are unexpected columns in the dataframe")
 
 
-def read_sources(indicators):
+def read_sources(indicators, nameonly=False):
     # read all indicators data from file
     colsToServe = ['indicator', 'ref_area', 'sex', 'classif1', 'classif2', 'time', 'obs_value']
 
     for i in indicators:
         print("loading indicator: ", i)
-        try:
-            df = pd.read_csv(f'../source/{i}.csv.gz')
-        except FileNotFoundError:
-            print(f"file not found: {i}")
-            return
-        check_columns(df)
-        cts = colsToServe.copy()
-        # add `source` and `note_source` column, to help removing duplicated datapoints
-        cts.append('source')
-        for ta in ['note_source', 'note_classif', 'note_indicator']:
-            if ta in df.columns:
-                cts.append(ta)
-        for c in colsToServe:
-            if c not in df.columns:
-                cts.remove(c)
-        try:
-            yield (i, df[cts])
-        except KeyError:
-            print(cts)
-            print(df.columns.tolist())
-            raise
+        if nameonly:
+            yield (i, pd.DataFrame())
+        else:
+            try:
+                df = pd.read_csv(f'../source/{i}.csv.gz')
+            except FileNotFoundError:
+                print(f"file not found: {i}")
+                return
+            check_columns(df)
+            cts = colsToServe.copy()
+            # add `source` and `note_source` column, to help removing duplicated datapoints
+            cts.append('source')
+            for ta in ['note_source', 'note_classif', 'note_indicator']:
+                if ta in df.columns:
+                    cts.append(ta)
+            for c in colsToServe:
+                if c not in df.columns:
+                    cts.remove(c)
+            try:
+                yield (i, df[cts])
+            except KeyError:
+                print(cts)
+                print(df.columns.tolist())
+                raise
 
 
 def serve_datapoints(df, indicator_name, by, split_entity=None):
@@ -81,7 +84,7 @@ def serve_datapoints(df, indicator_name, by, split_entity=None):
         df_group.to_csv(os.path.join('../../', dir_name, fn), index=False)
 
 
-def create_datapoints(dfs):
+def create_datapoints(indicators_data_iterator):
     # prepare the source/note_source category
     source = ilo.load_metadata(table='source').source.values
     note_source = ilo.load_metadata(table='note_source').note_source.values
@@ -89,8 +92,14 @@ def create_datapoints(dfs):
     note_source_cat = CategoricalDtype(categories=note_source, ordered=True)
     # categories = {'source': source_cat, 'note_source': note_source_cat}
 
+    processed_indicators = []
+
     # create ddf datapoints
-    for df in dfs.values():
+    for i, df in indicators_data_iterator:
+        if df.empty:  # that's because we used nameonly in read_sources()
+            processed_indicators.append(i)
+            continue
+
         iName = to_concept_id(df.indicator.unique()[0])
 
         df = df.drop('indicator', axis=1).rename(columns={'obs_value': iName})
@@ -163,6 +172,10 @@ def create_datapoints(dfs):
             serve_datapoints(df, iName, by, split_entity='ref_area')
         else:
             serve_datapoints(df, iName, by)
+
+        processed_indicators.append(i)
+
+    return processed_indicators
 
 
 def non_arg_emp_indicators():
@@ -247,22 +260,22 @@ def non_arg_emp_indicators_concepts():
     return res
 
 
-def create_concepts(discreteConcepts):
+def create_concepts(discreteConcepts, processed_indicators):
     md = ilo.load_metadata()
+    md = md[md.id.isin(processed_indicators)]
     # concepts
     md = md.set_index('id')
     md['indicator'] = md['indicator'].map(to_concept_id)
     md.columns = md.columns.map(lambda x: x.strip().replace('.', '_'))
-    md = md[md.freq == 'A']  # only Annual indicators
-    md = md.drop(['size', 'freq', 'freq_label'], axis=1)
+    md = md.drop(['freq', 'freq_label'], axis=1)
     md = md.rename(columns={'indicator': 'concept', 'indicator_label': 'concept_label'})
     md['concept_type'] = 'measure'
     md['n_records'] = md['n_records'].map(str)
-    md = md.append(non_arg_emp_indicators_concepts(), ignore_index=True, sort=False)
+    md = pd.concat([md, non_arg_emp_indicators_concepts()], ignore_index=True, sort=False)
     md = md.sort_values(by='concept')
     md.to_csv('../../ddf--concepts--continuous.csv', index=False)
 
-    [discreteConcepts.add(x) for x in md.columns if x != 'concept_type']
+    [discreteConcepts.add(x) for x in md.columns if x != 'concept_type' and x != 'concept']
     discreteDF = pd.DataFrame(pd.Series(list(discreteConcepts)))
     discreteDF.columns = ['concept']
 
@@ -281,10 +294,9 @@ def create_concepts(discreteConcepts):
 def main():
     md = ilo.load_metadata()
     indicators = md[md['freq'] == 'A']['id'].values
-    dfs = dict(read_sources(indicators))
-    create_datapoints(dfs)
+    processed_indicators = create_datapoints(read_sources(indicators, nameonly=True))
     discreteConcepts = create_entities()
-    create_concepts(discreteConcepts)
+    create_concepts(discreteConcepts, processed_indicators)
     non_arg_emp_indicators()
 
 

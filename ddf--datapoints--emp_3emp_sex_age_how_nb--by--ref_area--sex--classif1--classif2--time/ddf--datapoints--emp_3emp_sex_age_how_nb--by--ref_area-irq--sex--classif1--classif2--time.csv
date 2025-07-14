@@ -1,5 +1,4 @@
 ref_area,sex,classif1,classif2,time,emp_3emp_sex_age_how_nb
-irq,sex_f,age_ythbands_y15_19,how_bands_h00,2007,0.501
 irq,sex_f,age_ythbands_y15_19,how_bands_h00,2012,1.691
 irq,sex_f,age_ythbands_y15_19,how_bands_h01_14,2007,11.506
 irq,sex_f,age_ythbands_y15_19,how_bands_h01_14,2012,12.262
@@ -12,6 +11,7 @@ irq,sex_f,age_ythbands_y15_19,how_bands_h35_39,2007,13.98
 irq,sex_f,age_ythbands_y15_19,how_bands_h35_39,2012,4.858
 irq,sex_f,age_ythbands_y15_19,how_bands_h40_48,2007,7.183
 irq,sex_f,age_ythbands_y15_19,how_bands_h40_48,2012,6.23
+irq,sex_f,age_ythbands_y15_19,how_bands_h40_48,2021,0
 irq,sex_f,age_ythbands_y15_19,how_bands_hge49,2007,7.805
 irq,sex_f,age_ythbands_y15_19,how_bands_hge49,2012,7.182
 irq,sex_f,age_ythbands_y15_19,how_bands_total,2007,74.56
@@ -32,7 +32,7 @@ irq,sex_f,age_ythbands_y15_29,how_bands_h15_29,2021,17.04
 irq,sex_f,age_ythbands_y15_29,how_bands_h30_34,2007,32.836
 irq,sex_f,age_ythbands_y15_29,how_bands_h30_34,2012,33.025
 irq,sex_f,age_ythbands_y15_29,how_bands_h30_34,2021,3.248
-irq,sex_f,age_ythbands_y15_29,how_bands_h35_39,2007,44.051
+irq,sex_f,age_ythbands_y15_29,how_bands_h35_39,2007,44.05
 irq,sex_f,age_ythbands_y15_29,how_bands_h35_39,2012,36.867
 irq,sex_f,age_ythbands_y15_29,how_bands_h35_39,2021,9.09
 irq,sex_f,age_ythbands_y15_29,how_bands_h40_48,2007,25.33
@@ -77,7 +77,7 @@ irq,sex_f,age_ythbands_y25_29,how_bands_h00,2012,13.526
 irq,sex_f,age_ythbands_y25_29,how_bands_h00,2021,12.075
 irq,sex_f,age_ythbands_y25_29,how_bands_h01_14,2007,20.1
 irq,sex_f,age_ythbands_y25_29,how_bands_h01_14,2012,15.219
-irq,sex_f,age_ythbands_y25_29,how_bands_h01_14,2021,10.24
+irq,sex_f,age_ythbands_y25_29,how_bands_h01_14,2021,10.239
 irq,sex_f,age_ythbands_y25_29,how_bands_h15_29,2007,67.016
 irq,sex_f,age_ythbands_y25_29,how_bands_h15_29,2012,49.444
 irq,sex_f,age_ythbands_y25_29,how_bands_h15_29,2021,6.437
@@ -91,7 +91,7 @@ irq,sex_f,age_ythbands_y25_29,how_bands_h40_48,2007,9.018
 irq,sex_f,age_ythbands_y25_29,how_bands_h40_48,2012,15.585
 irq,sex_f,age_ythbands_y25_29,how_bands_h40_48,2021,4.857
 irq,sex_f,age_ythbands_y25_29,how_bands_hge49,2007,3.471
-irq,sex_f,age_ythbands_y25_29,how_bands_hge49,2012,8.797
+irq,sex_f,age_ythbands_y25_29,how_bands_hge49,2012,8.796
 irq,sex_f,age_ythbands_y25_29,how_bands_total,2007,172.964
 irq,sex_f,age_ythbands_y25_29,how_bands_total,2012,153.331
 irq,sex_f,age_ythbands_y25_29,how_bands_total,2021,113.373
@@ -119,7 +119,7 @@ irq,sex_m,age_ythbands_y15_19,how_bands_h40_48,2021,43.049
 irq,sex_m,age_ythbands_y15_19,how_bands_hge49,2007,165.445
 irq,sex_m,age_ythbands_y15_19,how_bands_hge49,2012,202.469
 irq,sex_m,age_ythbands_y15_19,how_bands_hge49,2021,13.649
-irq,sex_m,age_ythbands_y15_19,how_bands_total,2007,557.269
+irq,sex_m,age_ythbands_y15_19,how_bands_total,2007,557.268
 irq,sex_m,age_ythbands_y15_19,how_bands_total,2012,592.176
 irq,sex_m,age_ythbands_y15_19,how_bands_total,2021,458.544
 irq,sex_m,age_ythbands_y15_19,how_bands_x,2007,30.526
@@ -161,7 +161,7 @@ irq,sex_m,age_ythbands_y20_24,how_bands_h01_14,2021,37.035
 irq,sex_m,age_ythbands_y20_24,how_bands_h15_29,2007,98.537
 irq,sex_m,age_ythbands_y20_24,how_bands_h15_29,2012,122.114
 irq,sex_m,age_ythbands_y20_24,how_bands_h15_29,2021,95.484
-irq,sex_m,age_ythbands_y20_24,how_bands_h30_34,2007,63.207
+irq,sex_m,age_ythbands_y20_24,how_bands_h30_34,2007,63.206
 irq,sex_m,age_ythbands_y20_24,how_bands_h30_34,2012,61.064
 irq,sex_m,age_ythbands_y20_24,how_bands_h30_34,2021,33.938
 irq,sex_m,age_ythbands_y20_24,how_bands_h35_39,2007,106.469
@@ -216,13 +216,13 @@ irq,sex_t,age_ythbands_y15_19,how_bands_h15_29,2007,108.477
 irq,sex_t,age_ythbands_y15_19,how_bands_h15_29,2012,105.993
 irq,sex_t,age_ythbands_y15_19,how_bands_h15_29,2021,54.239
 irq,sex_t,age_ythbands_y15_19,how_bands_h30_34,2007,45.745
-irq,sex_t,age_ythbands_y15_19,how_bands_h30_34,2012,36.179
+irq,sex_t,age_ythbands_y15_19,how_bands_h30_34,2012,36.178
 irq,sex_t,age_ythbands_y15_19,how_bands_h30_34,2021,16.454
 irq,sex_t,age_ythbands_y15_19,how_bands_h35_39,2007,83.599
 irq,sex_t,age_ythbands_y15_19,how_bands_h35_39,2012,58.758
 irq,sex_t,age_ythbands_y15_19,how_bands_h35_39,2021,25.744
 irq,sex_t,age_ythbands_y15_19,how_bands_h40_48,2007,130.36
-irq,sex_t,age_ythbands_y15_19,how_bands_h40_48,2012,123.657
+irq,sex_t,age_ythbands_y15_19,how_bands_h40_48,2012,123.656
 irq,sex_t,age_ythbands_y15_19,how_bands_h40_48,2021,43.049
 irq,sex_t,age_ythbands_y15_19,how_bands_hge49,2007,173.25
 irq,sex_t,age_ythbands_y15_19,how_bands_hge49,2012,209.65
@@ -231,7 +231,7 @@ irq,sex_t,age_ythbands_y15_19,how_bands_total,2007,631.829
 irq,sex_t,age_ythbands_y15_19,how_bands_total,2012,646.521
 irq,sex_t,age_ythbands_y15_19,how_bands_total,2021,485.466
 irq,sex_t,age_ythbands_y15_19,how_bands_x,2007,39.275
-irq,sex_t,age_ythbands_y15_19,how_bands_x,2012,35.643
+irq,sex_t,age_ythbands_y15_19,how_bands_x,2012,35.642
 irq,sex_t,age_ythbands_y15_19,how_bands_x,2021,313.632
 irq,sex_t,age_ythbands_y15_29,how_bands_h00,2007,130.325
 irq,sex_t,age_ythbands_y15_29,how_bands_h00,2012,164.021
@@ -241,7 +241,7 @@ irq,sex_t,age_ythbands_y15_29,how_bands_h01_14,2012,153.143
 irq,sex_t,age_ythbands_y15_29,how_bands_h01_14,2021,112.907
 irq,sex_t,age_ythbands_y15_29,how_bands_h15_29,2007,421.838
 irq,sex_t,age_ythbands_y15_29,how_bands_h15_29,2012,421.162
-irq,sex_t,age_ythbands_y15_29,how_bands_h15_29,2021,298.088
+irq,sex_t,age_ythbands_y15_29,how_bands_h15_29,2021,298.087
 irq,sex_t,age_ythbands_y15_29,how_bands_h30_34,2007,242.911
 irq,sex_t,age_ythbands_y15_29,how_bands_h30_34,2012,199.233
 irq,sex_t,age_ythbands_y15_29,how_bands_h30_34,2021,104.718
@@ -254,7 +254,7 @@ irq,sex_t,age_ythbands_y15_29,how_bands_h40_48,2021,221.79
 irq,sex_t,age_ythbands_y15_29,how_bands_hge49,2007,791.918
 irq,sex_t,age_ythbands_y15_29,how_bands_hge49,2012,1024.114
 irq,sex_t,age_ythbands_y15_29,how_bands_hge49,2021,121.849
-irq,sex_t,age_ythbands_y15_29,how_bands_total,2007,2794.159
+irq,sex_t,age_ythbands_y15_29,how_bands_total,2007,2794.158
 irq,sex_t,age_ythbands_y15_29,how_bands_total,2012,2953.149
 irq,sex_t,age_ythbands_y15_29,how_bands_total,2021,2737.176
 irq,sex_t,age_ythbands_y15_29,how_bands_x,2007,112.923
@@ -267,7 +267,7 @@ irq,sex_t,age_ythbands_y20_24,how_bands_h01_14,2007,38.655
 irq,sex_t,age_ythbands_y20_24,how_bands_h01_14,2012,56.038
 irq,sex_t,age_ythbands_y20_24,how_bands_h01_14,2021,40.596
 irq,sex_t,age_ythbands_y20_24,how_bands_h15_29,2007,131.035
-irq,sex_t,age_ythbands_y20_24,how_bands_h15_29,2012,141.669
+irq,sex_t,age_ythbands_y20_24,how_bands_h15_29,2012,141.668
 irq,sex_t,age_ythbands_y20_24,how_bands_h15_29,2021,105.026
 irq,sex_t,age_ythbands_y20_24,how_bands_h30_34,2007,73.196
 irq,sex_t,age_ythbands_y20_24,how_bands_h30_34,2012,69.758
@@ -285,7 +285,7 @@ irq,sex_t,age_ythbands_y20_24,how_bands_total,2007,977.475
 irq,sex_t,age_ythbands_y20_24,how_bands_total,2012,1090.809
 irq,sex_t,age_ythbands_y20_24,how_bands_total,2021,973.653
 irq,sex_t,age_ythbands_y20_24,how_bands_x,2007,42.454
-irq,sex_t,age_ythbands_y20_24,how_bands_x,2012,37.079
+irq,sex_t,age_ythbands_y20_24,how_bands_x,2012,37.078
 irq,sex_t,age_ythbands_y20_24,how_bands_x,2021,620.917
 irq,sex_t,age_ythbands_y25_29,how_bands_h00,2007,72.59
 irq,sex_t,age_ythbands_y25_29,how_bands_h00,2012,76.061
@@ -307,7 +307,7 @@ irq,sex_t,age_ythbands_y25_29,how_bands_h40_48,2012,235.081
 irq,sex_t,age_ythbands_y25_29,how_bands_h40_48,2021,82.927
 irq,sex_t,age_ythbands_y25_29,how_bands_hge49,2007,315.558
 irq,sex_t,age_ythbands_y25_29,how_bands_hge49,2012,426.341
-irq,sex_t,age_ythbands_y25_29,how_bands_hge49,2021,64.264
+irq,sex_t,age_ythbands_y25_29,how_bands_hge49,2021,64.263
 irq,sex_t,age_ythbands_y25_29,how_bands_total,2007,1184.854
 irq,sex_t,age_ythbands_y25_29,how_bands_total,2012,1215.819
 irq,sex_t,age_ythbands_y25_29,how_bands_total,2021,1278.058

@@ -1,7 +1,4 @@
 ref_area,sex,classif1,time,ees_tees_sex_eco_nb
-dji,sex_f,eco_aggregate_agr,2017,0.034
-dji,sex_f,eco_aggregate_con,2017,0.016
-dji,sex_f,eco_aggregate_mel,2017,0.044
 dji,sex_f,eco_aggregate_mkt,2017,0.573
 dji,sex_f,eco_aggregate_pub,2017,6.344
 dji,sex_f,eco_aggregate_total,1979,0.108
@@ -10,17 +7,16 @@ dji,sex_f,eco_aggregate_total,1981,0.459
 dji,sex_f,eco_aggregate_total,1982,0.321
 dji,sex_f,eco_aggregate_total,2017,7.21
 dji,sex_f,eco_aggregate_x,2017,0.2
+dji,sex_f,eco_agnag_nag,2017,7.176
+dji,sex_f,eco_agnag_total,2017,7.21
 dji,sex_f,eco_isic2_total,1979,0.108
 dji,sex_f,eco_isic2_total,1980,0.309
 dji,sex_f,eco_isic2_total,1981,0.459
 dji,sex_f,eco_isic2_total,1982,0.321
-dji,sex_f,eco_sector_agr,2017,0.034
-dji,sex_f,eco_sector_ind,2017,0.06
 dji,sex_f,eco_sector_nag,1979,0.108
 dji,sex_f,eco_sector_nag,1980,0.309
 dji,sex_f,eco_sector_nag,1981,0.459
 dji,sex_f,eco_sector_nag,1982,0.321
-dji,sex_f,eco_sector_nag,2017,7.176
 dji,sex_f,eco_sector_ser,2017,6.916
 dji,sex_f,eco_sector_total,1979,0.108
 dji,sex_f,eco_sector_total,1980,0.309
@@ -30,7 +26,6 @@ dji,sex_f,eco_sector_total,2017,7.21
 dji,sex_f,eco_sector_x,2017,0.2
 dji,sex_m,eco_aggregate_agr,2017,0.206
 dji,sex_m,eco_aggregate_con,2017,1.592
-dji,sex_m,eco_aggregate_man,2017,0.065
 dji,sex_m,eco_aggregate_mel,2017,0.366
 dji,sex_m,eco_aggregate_mkt,2017,3.167
 dji,sex_m,eco_aggregate_pub,2017,24.805
@@ -40,6 +35,9 @@ dji,sex_m,eco_aggregate_total,1981,1.651
 dji,sex_m,eco_aggregate_total,1982,1.482
 dji,sex_m,eco_aggregate_total,2017,31.249
 dji,sex_m,eco_aggregate_x,2017,1.049
+dji,sex_m,eco_agnag_agr,2017,0.206
+dji,sex_m,eco_agnag_nag,2017,31.044
+dji,sex_m,eco_agnag_total,2017,31.249
 dji,sex_m,eco_isic2_total,1979,0.872
 dji,sex_m,eco_isic2_total,1980,2.617
 dji,sex_m,eco_isic2_total,1981,1.651
@@ -66,7 +64,6 @@ dji,sex_t,eco_aggregate_con,1980,0.901
 dji,sex_t,eco_aggregate_con,1981,0.397
 dji,sex_t,eco_aggregate_con,1982,0.51
 dji,sex_t,eco_aggregate_con,2017,1.608
-dji,sex_t,eco_aggregate_man,2017,0.065
 dji,sex_t,eco_aggregate_mel,1977,0.561
 dji,sex_t,eco_aggregate_mel,1978,0.164
 dji,sex_t,eco_aggregate_mel,1979,0.046
@@ -96,6 +93,9 @@ dji,sex_t,eco_aggregate_x,1980,0.367
 dji,sex_t,eco_aggregate_x,1981,0.718
 dji,sex_t,eco_aggregate_x,1982,0.342
 dji,sex_t,eco_aggregate_x,2017,1.248
+dji,sex_t,eco_agnag_agr,2017,0.24
+dji,sex_t,eco_agnag_nag,2017,38.22
+dji,sex_t,eco_agnag_total,2017,38.459
 dji,sex_t,eco_isic2_0,1977,0.649
 dji,sex_t,eco_isic2_0,1978,0.137
 dji,sex_t,eco_isic2_0,1979,0.288

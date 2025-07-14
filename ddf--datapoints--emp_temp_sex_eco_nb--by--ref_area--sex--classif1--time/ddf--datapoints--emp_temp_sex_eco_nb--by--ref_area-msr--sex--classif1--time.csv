@@ -1,8 +1,9 @@
 ref_area,sex,classif1,time,emp_temp_sex_eco_nb
 msr,sex_f,eco_aggregate_agr,1991,0.07
 msr,sex_f,eco_aggregate_con,1991,0.02
+msr,sex_f,eco_aggregate_con,2020,0
 msr,sex_f,eco_aggregate_man,1991,0.13
-msr,sex_f,eco_aggregate_man,2020,0.027
+msr,sex_f,eco_aggregate_man,2020,0.026
 msr,sex_f,eco_aggregate_mel,1991,0.04
 msr,sex_f,eco_aggregate_mkt,1991,0.78
 msr,sex_f,eco_aggregate_mkt,2020,0.403
@@ -11,6 +12,8 @@ msr,sex_f,eco_aggregate_pub,2020,0.785
 msr,sex_f,eco_aggregate_total,1991,1.9
 msr,sex_f,eco_aggregate_total,2020,1.234
 msr,sex_f,eco_aggregate_x,1991,0.01
+msr,sex_f,eco_agnag_nag,2020,1.228
+msr,sex_f,eco_agnag_total,2020,1.234
 msr,sex_f,eco_isic2_0,1991,0.01
 msr,sex_f,eco_isic2_1,1991,0.07
 msr,sex_f,eco_isic2_2,1991,0.01
@@ -22,10 +25,11 @@ msr,sex_f,eco_isic2_7,1991,0.12
 msr,sex_f,eco_isic2_8,1991,0.15
 msr,sex_f,eco_isic2_9,1991,0.86
 msr,sex_f,eco_isic2_total,1991,1.9
-msr,sex_f,eco_isic3_d,2020,0.027
+msr,sex_f,eco_isic3_d,2020,0.026
+msr,sex_f,eco_isic3_f,2020,0
 msr,sex_f,eco_isic3_g,2020,0.163
 msr,sex_f,eco_isic3_h,2020,0.089
-msr,sex_f,eco_isic3_i,2020,0.055
+msr,sex_f,eco_isic3_i,2020,0.054
 msr,sex_f,eco_isic3_j,2020,0.054
 msr,sex_f,eco_isic3_k,2020,0.042
 msr,sex_f,eco_isic3_l,2020,0.341
@@ -39,7 +43,7 @@ msr,sex_f,eco_sector_ind,1991,0.19
 msr,sex_f,eco_sector_ind,2020,0.04
 msr,sex_f,eco_sector_nag,1991,1.83
 msr,sex_f,eco_sector_ser,1991,1.64
-msr,sex_f,eco_sector_ser,2020,1.189
+msr,sex_f,eco_sector_ser,2020,1.188
 msr,sex_f,eco_sector_total,1991,1.9
 msr,sex_f,eco_sector_total,2020,1.234
 msr,sex_f,eco_sector_x,1991,0.01
@@ -58,6 +62,9 @@ msr,sex_m,eco_aggregate_pub,2020,0.562
 msr,sex_m,eco_aggregate_total,1991,2.62
 msr,sex_m,eco_aggregate_total,2020,1.255
 msr,sex_m,eco_aggregate_x,1991,0.02
+msr,sex_m,eco_agnag_agr,2020,0.061
+msr,sex_m,eco_agnag_nag,2020,1.194
+msr,sex_m,eco_agnag_total,2020,1.255
 msr,sex_m,eco_isic2_0,1991,0.02
 msr,sex_m,eco_isic2_1,1991,0.23
 msr,sex_m,eco_isic2_2,1991,0.01
@@ -83,7 +90,7 @@ msr,sex_m,eco_isic3_k,2020,0.033
 msr,sex_m,eco_isic3_l,2020,0.361
 msr,sex_m,eco_isic3_m,2020,0.029
 msr,sex_m,eco_isic3_n,2020,0.064
-msr,sex_m,eco_isic3_o,2020,0.085
+msr,sex_m,eco_isic3_o,2020,0.084
 msr,sex_m,eco_isic3_p,2020,0.023
 msr,sex_m,eco_isic3_total,2020,1.255
 msr,sex_m,eco_sector_agr,1991,0.23
@@ -204,6 +211,9 @@ msr,sex_t,eco_aggregate_total,1991,4.52
 msr,sex_t,eco_aggregate_total,2020,2.489
 msr,sex_t,eco_aggregate_x,1980,0.003
 msr,sex_t,eco_aggregate_x,1991,0.04
+msr,sex_t,eco_agnag_agr,2020,0.067
+msr,sex_t,eco_agnag_nag,2020,2.423
+msr,sex_t,eco_agnag_total,2020,2.489
 msr,sex_t,eco_isic2_0,1980,0.003
 msr,sex_t,eco_isic2_0,1991,0.04
 msr,sex_t,eco_isic2_1,1975,0.615

@@ -1,13 +1,10 @@
 concept,concept_label,concept_type
 classif1,Classif1,entity_domain
 classif1_label,Classif1 Label,string
-classif1_sort,Classif1 Sort,string
 classif2,Classif2,entity_domain
 classif2_label,Classif2 Label,string
-classif2_sort,Classif2 Sort,string
 collection,Collection,string
 collection_label,Collection Label,string
-concept,Concept,string
 concept_label,Concept Label,string
 data_end,Data End,string
 data_start,Data Start,string
@@ -17,10 +14,8 @@ last_update,Last Update,string
 n_records,N Records,string
 ref_area,Ref Area,entity_domain
 ref_area_label,Ref Area Label,string
-ref_area_sort,Ref Area Sort,string
 sex,Sex,entity_domain
 sex_label,Sex Label,string
-sex_sort,Sex Sort,string
 subject,Subject,string
 subject_label,Subject Label,string
 time,Time,time
