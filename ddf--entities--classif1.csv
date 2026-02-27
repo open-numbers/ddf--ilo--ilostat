@@ -7,7 +7,6 @@ age_aggregate_total,Age (Aggregate bands): Total
 age_aggregate_ylt15,Age (Aggregate bands): <15
 age_aggregate_y15_24,Age (Aggregate bands): 15-24
 age_aggregate_y25_54,Age (Aggregate bands): 25-54
-age_aggregate_y25_64,Age (Aggregate bands): 25-64
 age_aggregate_y55_64,Age (Aggregate bands): 55-64
 age_aggregate_yge65,Age (Aggregate bands): 65+
 age_10yrbands_total,Age (10-year bands): Total
@@ -73,6 +72,11 @@ edu_isced97_4,Education (ISCED-97): 4. Post-secondary non-tertiary education
 edu_isced97_5,Education (ISCED-97): 5. First stage of tertiary education (not leading directly to an advanced research qualification)
 edu_isced97_6,Education (ISCED-97): 6. Second stage of tertiary education (leading to an advanced research qualification)
 edu_isced97_unk,Education (ISCED-97): Level not stated
+skl_skill_total,Education (Mismatch): Total
+skl_skill_under,Education (Mismatch): Undereducated
+skl_skill_match,Education (Mismatch): Matched
+skl_skill_over,Education (Mismatch): Overeducated
+skl_skill_x,Education (Mismatch): Not elsewhere classified
 mts_aggregate_total,Marital status (Aggregate): Total
 mts_aggregate_1,Marital status (Aggregate): Single / Widowed / Divorced
 mts_aggregate_2,Marital status (Aggregate): Married / Union / Cohabiting
@@ -108,6 +112,7 @@ cbr_brt_afg,Country of birth: Afghanistan
 cbr_brt_alb,Country of birth: Albania
 cbr_brt_dza,Country of birth: Algeria
 cbr_brt_asm,Country of birth: American Samoa
+cbr_brt_and,Country of birth: Andorra
 cbr_brt_ago,Country of birth: Angola
 cbr_brt_arg,Country of birth: Argentina
 cbr_brt_arm,Country of birth: Armenia
@@ -189,6 +194,7 @@ cbr_brt_jpn,Country of birth: Japan
 cbr_brt_jor,Country of birth: Jordan
 cbr_brt_kaz,Country of birth: Kazakhstan
 cbr_brt_ken,Country of birth: Kenya
+cbr_brt_kir,Country of birth: Kiribati
 cbr_brt_prk,"Country of birth: Korea, Dem. People's Rep. of"
 cbr_brt_kor,"Country of birth: Korea, Republic of"
 cbr_brt_kos,Country of birth: Kosovo
@@ -446,6 +452,7 @@ cct_ctz_reu,Country of citizenship: Réunion
 cct_ctz_kna,Country of citizenship: Saint Kitts and Nevis
 cct_ctz_wsm,Country of citizenship: Samoa
 cct_ctz_smr,Country of citizenship: San Marino
+cct_ctz_stp,Country of citizenship: Sao Tome and Principe
 cct_ctz_sau,Country of citizenship: Saudi Arabia
 cct_ctz_sen,Country of citizenship: Senegal
 cct_ctz_srb,Country of citizenship: Serbia
@@ -555,9 +562,6 @@ ste_icse18r_e,Status in employment (Type of risk ICSE18R): E - Contributing fami
 ste_icse18r_g,"Status in employment (Type of risk ICSE18R): G - Owner-operators of corporations (11, 21)"
 ste_icse18r_d,"Status in employment (Type of risk ICSE18R): D - Employees (41, 42, 43, 44, 49)"
 ste_icse18r_x,"Status in employment (Type of risk ICSE18R): X - Not elsewhere classified (19,29,99)"
-eco_agnag_total,"Economic activity (Agriculture, Non-Agriculture): Total"
-eco_agnag_agr,"Economic activity (Agriculture, Non-Agriculture): Agriculture"
-eco_agnag_nag,"Economic activity (Agriculture, Non-Agriculture): Non-agriculture"
 eco_sector_total,Economic activity (Broad sector): Total
 eco_sector_agr,Economic activity (Broad sector): Agriculture
 eco_sector_nag,Economic activity (Broad sector): Non-agriculture
@@ -940,16 +944,11 @@ how_bands_h00,Hour bands: No hours actually worked
 how_bands_h01_14,Hour bands: 1-14
 how_bands_h15_24,Hour bands: 15-24
 how_bands_h15_29,Hour bands: 15-29
-how_bands_hlt25,Hour bands: <25
-how_bands_h25_34,Hour bands: 25-34
 how_bands_h30_34,Hour bands: 30-34
 how_bands_h35_39,Hour bands: 35-39
 how_bands_h40_48,Hour bands: 40-48
 how_bands_hge40,Hour bands: 40+
 how_bands_hge49,Hour bands: 49+
-how_bands_hge50,Hour bands: 50+
-how_bands_hge60,Hour bands: 60+
-how_bands_vary,Hour bands: Hours vary
 how_bands_x,Hour bands: Not elsewhere classified
 mjh_aggregate_total,Multiple job holders: Total
 mjh_aggregate_one,Multiple job holders: One job only
@@ -1079,10 +1078,12 @@ mig_status_migrant,Migrant status: Migrants
 mig_status_nonmig,Migrant status: Non migrants
 mig_status_x,Migrant status: Unknown
 crs_res_total,Residence: Total
+crs_res_asm,Residence: American Samoa
 crs_res_arg,Residence: Argentina
 crs_res_aus,Residence: Australia
 crs_res_bel,Residence: Belgium
 crs_res_ben,Residence: Benin
+crs_res_bwa,Residence: Botswana
 crs_res_bra,Residence: Brazil
 crs_res_bfa,Residence: Burkina Faso
 crs_res_can,Residence: Canada
@@ -1097,6 +1098,7 @@ crs_res_gmb,Residence: Gambia
 crs_res_deu,Residence: Germany
 crs_res_gha,Residence: Ghana
 crs_res_gnb,Residence: Guinea-Bissau
+crs_res_ind,Residence: India
 crs_res_isr,Residence: Israel
 crs_res_ita,Residence: Italy
 crs_res_jpn,Residence: Japan
@@ -1109,6 +1111,7 @@ crs_res_lao,Residence: Lao People's Dem. Rep.
 crs_res_lbr,Residence: Liberia
 crs_res_mys,Residence: Malaysia
 crs_res_moz,Residence: Mozambique
+crs_res_ncl,Residence: New Caledonia
 crs_res_nzl,Residence: New Zealand
 crs_res_nga,Residence: Nigeria
 crs_res_omn,Residence: Oman
@@ -1120,6 +1123,7 @@ crs_res_sgp,Residence: Singapore
 crs_res_slb,Residence: Solomon Islands
 crs_res_zaf,Residence: South Africa
 crs_res_esp,Residence: Spain
+crs_res_swz,Residence: Swaziland
 crs_res_che,Residence: Switzerland
 crs_res_twn,"Residence: Taiwan, China"
 crs_res_tza,"Residence: Tanzania, United Republic of"
@@ -1134,6 +1138,7 @@ crs_res_vnm,Residence: Viet Nam
 crs_res_zmb,Residence: Zambia
 crs_res_zwe,Residence: Zimbabwe
 crs_res_cis,Residence: Commonwealth of Independent States
+crs_res_eur,Residence: Europe
 crs_res_usacan,Residence: United States and Canada
 crs_res_x,Residence: Other countries
 cpr_prv_total,Previous residence: Total
@@ -1144,6 +1149,7 @@ cpr_prv_asm,Previous residence: American Samoa
 cpr_prv_arg,Previous residence: Argentina
 cpr_prv_aus,Previous residence: Australia
 cpr_prv_aut,Previous residence: Austria
+cpr_prv_aze,Previous residence: Azerbaijan
 cpr_prv_bgd,Previous residence: Bangladesh
 cpr_prv_blr,Previous residence: Belarus
 cpr_prv_bel,Previous residence: Belgium
@@ -1182,6 +1188,7 @@ cpr_prv_hkg,"Previous residence: Hong Kong, China"
 cpr_prv_hun,Previous residence: Hungary
 cpr_prv_isl,Previous residence: Iceland
 cpr_prv_ind,Previous residence: India
+cpr_prv_idn,Previous residence: Indonesia
 cpr_prv_irl,Previous residence: Ireland
 cpr_prv_isr,Previous residence: Israel
 cpr_prv_ita,Previous residence: Italy
@@ -1199,6 +1206,7 @@ cpr_prv_mli,Previous residence: Mali
 cpr_prv_mlt,Previous residence: Malta
 cpr_prv_mex,Previous residence: Mexico
 cpr_prv_mda,"Previous residence: Moldova, Republic of"
+cpr_prv_mng,Previous residence: Mongolia
 cpr_prv_mar,Previous residence: Morocco
 cpr_prv_moz,Previous residence: Mozambique
 cpr_prv_nld,Previous residence: Netherlands
@@ -1247,6 +1255,7 @@ cpr_prv_ven,"Previous residence: Venezuela, Bolivarian Rep. of"
 cpr_prv_yem,Previous residence: Yemen
 cpr_prv_zmb,Previous residence: Zambia
 cpr_prv_zwe,Previous residence: Zimbabwe
+cpr_prv_cis,Previous residence: Commonwealth of Independent States
 cpr_prv_eur,Previous residence: Europe
 cpr_prv_usacan,Previous residence: United States and Canada
 cpr_prv_x,Previous residence: Other countries
@@ -1272,6 +1281,7 @@ cds_des_cze,Destination: Czech Republic
 cds_des_civ,Destination: Côte d'Ivoire
 cds_des_dnk,Destination: Denmark
 cds_des_ecu,Destination: Ecuador
+cds_des_fji,Destination: Fiji
 cds_des_fin,Destination: Finland
 cds_des_fra,Destination: France
 cds_des_gmb,Destination: Gambia
@@ -1284,6 +1294,7 @@ cds_des_gtm,Destination: Guatemala
 cds_des_gnb,Destination: Guinea-Bissau
 cds_des_hkg,"Destination: Hong Kong, China"
 cds_des_ind,Destination: India
+cds_des_idn,Destination: Indonesia
 cds_des_irl,Destination: Ireland
 cds_des_isr,Destination: Israel
 cds_des_ita,Destination: Italy
@@ -1292,7 +1303,6 @@ cds_des_jpn,Destination: Japan
 cds_des_jor,Destination: Jordan
 cds_des_kaz,Destination: Kazakhstan
 cds_des_kir,Destination: Kiribati
-cds_des_prk,"Destination: Korea, Dem. People's Rep. of"
 cds_des_kor,"Destination: Korea, Republic of"
 cds_des_kwt,Destination: Kuwait
 cds_des_kgz,Destination: Kyrgyzstan
@@ -1311,15 +1321,19 @@ cds_des_nga,Destination: Nigeria
 cds_des_nor,Destination: Norway
 cds_des_omn,Destination: Oman
 cds_des_pan,Destination: Panama
+cds_des_phl,Destination: Philippines
 cds_des_pol,Destination: Poland
 cds_des_prt,Destination: Portugal
 cds_des_qat,Destination: Qatar
 cds_des_rou,Destination: Romania
 cds_des_rus,Destination: Russian Federation
+cds_des_wsm,Destination: Samoa
 cds_des_sau,Destination: Saudi Arabia
 cds_des_sen,Destination: Senegal
 cds_des_srb,Destination: Serbia
+cds_des_scg,Destination: Serbia and Montenegro
 cds_des_sgp,Destination: Singapore
+cds_des_svk,Destination: Slovakia
 cds_des_slb,Destination: Solomon Islands
 cds_des_zaf,Destination: South Africa
 cds_des_esp,Destination: Spain

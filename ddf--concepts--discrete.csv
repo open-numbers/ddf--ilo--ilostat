@@ -3,6 +3,7 @@ classif1,Classif1,entity_domain
 classif1_label,Classif1 Label,string
 classif2,Classif2,entity_domain
 classif2_label,Classif2 Label,string
+classification,Classification,string
 collection,Collection,string
 collection_label,Collection Label,string
 concept_label,Concept Label,string
@@ -12,10 +13,14 @@ database,Database,string
 database_label,Database Label,string
 last_update,Last Update,string
 n_records,N Records,string
+n_ref_area,N Ref Area,string
 ref_area,Ref Area,entity_domain
 ref_area_label,Ref Area Label,string
+rep_var,Rep Var,string
+rep_var_label,Rep Var Label,string
 sex,Sex,entity_domain
 sex_label,Sex Label,string
 subject,Subject,string
 subject_label,Subject Label,string
 time,Time,time
+with_region,With Region,string

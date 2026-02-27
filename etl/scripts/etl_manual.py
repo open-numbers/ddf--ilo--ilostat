@@ -9,6 +9,9 @@ from pandas.api.types import CategoricalDtype
 
 
 ilo = ILOLoader()
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.abspath(os.path.join(SCRIPT_DIR, '..', '..'))
+DATAPOINTS_DIR = os.path.join(ROOT_DIR, 'datapoints')
 
 
 def get_all_column_names(indicators):
@@ -67,21 +70,24 @@ def read_sources(indicators, nameonly=False):
 
 
 def serve_datapoints(df, indicator_name, by, split_entity=None):
+    os.makedirs(DATAPOINTS_DIR, exist_ok=True)
+
     if not split_entity:
         fn = 'ddf--datapoints--' + indicator_name + '--by--' + '--'.join(by) + '.csv'
-        df.to_csv(f'../../{fn}', index=False)
+        df.to_csv(os.path.join(DATAPOINTS_DIR, fn), index=False)
         return
 
     assert type(split_entity) is str, "only support split by one column."
     dir_name = 'ddf--datapoints--' + indicator_name + '--by--' + '--'.join(by)
-    os.makedirs(os.path.join('../../', dir_name), exist_ok=True)
+    datapoints_subdir = os.path.join(DATAPOINTS_DIR, dir_name)
+    os.makedirs(datapoints_subdir, exist_ok=True)
     grouped = df.groupby(by=split_entity)
     split_entity_idx = by.index(split_entity)
     for g, df_group in grouped:
         by_new = by.copy()
         by_new[split_entity_idx] = by_new[split_entity_idx] + '-' + g
         fn = 'ddf--datapoints--' + indicator_name + '--by--' + '--'.join(by_new) + '.csv'
-        df_group.to_csv(os.path.join('../../', dir_name, fn), index=False)
+        df_group.to_csv(os.path.join(datapoints_subdir, fn), index=False)
 
 
 def create_datapoints(indicators_data_iterator):
@@ -190,8 +196,21 @@ def non_arg_emp_indicators():
     Employment by sex and economic activity.  And then it's the ratio
     of both.
     """
-    employment = dd.read_csv('../../ddf--datapoints--emp_temp_sex_eco_nb--by--ref_area--sex--classif1--time/*.csv').compute()
-    employees = dd.read_csv('../../ddf--datapoints--ees_tees_sex_eco_nb--by--ref_area--sex--classif1--time/*.csv').compute()
+    def read_indicator(indicator, by):
+        base = f'ddf--datapoints--{indicator}--by--{by}'
+        split_pattern = os.path.join(DATAPOINTS_DIR, base, '*.csv')
+        single_file = os.path.join(DATAPOINTS_DIR, f'{base}.csv')
+        if os.path.isdir(os.path.join(DATAPOINTS_DIR, base)):
+            return dd.read_csv(split_pattern).compute()
+        if os.path.isfile(single_file):
+            return pd.read_csv(single_file)
+        raise FileNotFoundError(
+            f"Could not find datapoints for {indicator}. Expected either {split_pattern} or {single_file}"
+        )
+
+    by = 'ref_area--sex--classif1--time'
+    employment = read_indicator('emp_temp_sex_eco_nb', by)
+    employees = read_indicator('ees_tees_sex_eco_nb', by)
 
     # we use eco_sector_nag as filter for non agricultural data
     emp = employment[employment.classif1.isin(['eco_sector_nag'])].drop('classif1', axis=1)
@@ -210,7 +229,7 @@ def non_arg_emp_indicators():
         df = res[res.sex == sex].drop('sex', axis=1)
         df.columns = ['ref_area', 'time', indicator]
         df[indicator] = df[indicator].map(format_float_digits)
-        df.to_csv(f'../../ddf--datapoints--{indicator}--by--ref_area--time.csv', index=False)
+        df.to_csv(os.path.join(DATAPOINTS_DIR, f'ddf--datapoints--{indicator}--by--ref_area--time.csv'), index=False)
 
 
 def create_entities():
@@ -294,7 +313,7 @@ def create_concepts(discreteConcepts, processed_indicators):
 def main():
     md = ilo.load_metadata()
     indicators = md[md['freq'] == 'A']['id'].values
-    processed_indicators = create_datapoints(read_sources(indicators, nameonly=True))
+    processed_indicators = create_datapoints(read_sources(indicators))
     discreteConcepts = create_entities()
     create_concepts(discreteConcepts, processed_indicators)
     non_arg_emp_indicators()

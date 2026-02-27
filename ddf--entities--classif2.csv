@@ -33,10 +33,10 @@ edu_isced97_5a,Education (ISCED-97): 5A. First stage of tertiary education - the
 edu_isced97_5b,Education (ISCED-97): 5B. First stage of tertiary education - practically oriented
 edu_isced97_6,Education (ISCED-97): 6. Second stage of tertiary education (leading to an advanced research qualification)
 edu_isced97_unk,Education (ISCED-97): Level not stated
-edu_skill_total,Education (Mismatch): Total
-edu_skill_under,Education (Mismatch): Undereducated
-edu_skill_match,Education (Mismatch): Matched
-edu_skill_over,Education (Mismatch): Overeducated
+stu_edu_total,Educational attendance: Total
+stu_edu_yes,Educational attendance: Attending
+stu_edu_no,Educational attendance: Not attending
+stu_edu_x,Educational attendance: Not elsewhere classified
 mts_aggregate_total,Marital status (Aggregate): Total
 mts_aggregate_1,Marital status (Aggregate): Single / Widowed / Divorced
 mts_aggregate_2,Marital status (Aggregate): Married / Union / Cohabiting
@@ -72,10 +72,6 @@ lms_status_total,Labour market status: Total
 lms_status_emp,Labour market status: Employed
 lms_status_une,Labour market status: Unemployed
 lms_status_eip,Labour market status: Outside the labour force
-stu_edu_total,Educational attendance: Total
-stu_edu_yes,Educational attendance: Attending
-stu_edu_no,Educational attendance: Not attending
-stu_edu_x,Educational attendance: Not elsewhere classified
 ste_aggregate_total,Status in employment (Aggregate): Total
 ste_aggregate_ees,Status in employment (Aggregate): Employees
 ste_aggregate_slf,Status in employment (Aggregate): Self-employed
@@ -143,17 +139,6 @@ eco_isic3_o,"Economic activity (ISIC-Rev.3.1): O. Other community, social and pe
 eco_isic3_p,Economic activity (ISIC-Rev.3.1): P. Activities of private households as employers and undifferentiated production activities of private households
 eco_isic3_q,Economic activity (ISIC-Rev.3.1): Q. Extraterritorial organizations and bodies
 eco_isic3_x,Economic activity (ISIC-Rev.3.1): X. Not elsewhere classified
-eco_isic2_total,Economic activity (ISIC-Rev.2): Total
-eco_isic2_1,"Economic activity (ISIC-Rev.2): 1. Agriculture, Hunting, Forestry and Fishing"
-eco_isic2_2,Economic activity (ISIC-Rev.2): 2. Mining and Quarrying
-eco_isic2_3,Economic activity (ISIC-Rev.2): 3. Manufacturing
-eco_isic2_4,"Economic activity (ISIC-Rev.2): 4. Electricity, Gas and Water"
-eco_isic2_5,Economic activity (ISIC-Rev.2): 5. Construction
-eco_isic2_6,Economic activity (ISIC-Rev.2): 6. Wholesale and Retail Trade and Restaurants and Hotels
-eco_isic2_7,"Economic activity (ISIC-Rev.2): 7. Transport, Storage and Communication"
-eco_isic2_8,"Economic activity (ISIC-Rev.2): 8. Financing, Insurance, Real Estate and Business Services"
-eco_isic2_9,"Economic activity (ISIC-Rev.2): 9. Community, Social and Personal Services"
-eco_isic2_0,Economic activity (ISIC-Rev.2): 0. Activities not Adequately Defined
 ec2_isic4_total,"Economic activity (ISIC-Rev.4), 2 digit level: Total"
 ec2_isic4_a01,"Economic activity (ISIC-Rev.4), 2 digit level: 01 - Crop and animal production, hunting and related service activities"
 ec2_isic4_a02,"Economic activity (ISIC-Rev.4), 2 digit level: 02 - Forestry and logging"
@@ -313,15 +298,6 @@ ocu_skill_l3_4,Occupation (Skill level): Skill levels 3 and 4 ~ high
 ocu_skill_l2,Occupation (Skill level): Skill level 2 ~ medium
 ocu_skill_l1,Occupation (Skill level): Skill level 1 ~ low
 ocu_skill_x,Occupation (Skill level): Not elsewhere classified
-ocu_details_total,Occupation (Detailed): Total
-ocu_details_1,Occupation (Detailed): 1. Managers
-ocu_details_2,Occupation (Detailed): 2. Professionals
-ocu_details_3,Occupation (Detailed): 3. Technicians and associate professionals
-ocu_details_4,Occupation (Detailed): 4. Clerical support workers
-ocu_details_5,Occupation (Detailed): 5. Service and sales workers
-ocu_details_7,Occupation (Detailed): 7. Craft and related trades workers
-ocu_details_8,"Occupation (Detailed): 8. Plant and machine operators, and assemblers"
-ocu_details_96,"Occupation (Detailed): 96. Elementary occupations and skilled agricultural, forestry and fishery workers"
 ocu_isco08_total,Occupation (ISCO-08): Total
 ocu_isco08_1,Occupation (ISCO-08): 1. Managers
 ocu_isco08_2,Occupation (ISCO-08): 2. Professionals
@@ -463,12 +439,15 @@ job_time_total,Working time arrangement: Total
 job_time_part,Working time arrangement: Part-time
 job_time_full,Working time arrangement: Full-time
 job_time_x,Working time arrangement: Unknown
+ifl_nature_total,Nature of job: Total
+ifl_nature_informal,Nature of job: Persons with informal main job
+ifl_nature_formal,Nature of job: Persons with formal main job
 cla_ecocla_total,Economic class: Total
-cla_ecocla_usdlt2,Economic class: Extremely poor < USD 2.15 PPP
-cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 2.15 and < USD 3.65 PPP
-cla_ecocla_usdge3,Economic class: >= USD 3.65 PPP
-cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 3.65 and < USD 6.85 PPP
-cla_ecocla_usdge5,Economic class: >= USD 6.85 PPP
+cla_ecocla_usdlt2,Economic class: Extremely poor < USD 3 PPP
+cla_ecocla_usdge2lt3,Economic class: Moderately poor >= USD 3 and < USD 4.2 PPP
+cla_ecocla_usdge3,Economic class: >= USD 4.2 PPP
+cla_ecocla_usdge3lt5,Economic class: Near poor >= USD 4.2 and < USD 8.3 PPP
+cla_ecocla_usdge5,Economic class: >= USD 8.3 PPP
 cat_une_total,Type of unemployment: Total
 cat_une_pre,Type of unemployment: Unemployed previously employed
 cat_une_fjs,Type of unemployment: Unemployed seeking their first job
